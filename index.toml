@@ -29,6 +29,11 @@ hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "bbcb3b5dda76575662f5e8ab2dceb159dcb20b5fd8c76ac0028ac3abf3496d68"
 metafile = true
