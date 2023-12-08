@@ -9,6 +9,11 @@ file = "README.md"
 hash = "c9210d43b72d03b86441c6ceb5fe67b3a53942f14f593f07bce992bb02d7f620"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
 metafile = true
