@@ -9,6 +9,11 @@ file = "README.md"
 hash = "c9210d43b72d03b86441c6ceb5fe67b3a53942f14f593f07bce992bb02d7f620"
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "bbcb3b5dda76575662f5e8ab2dceb159dcb20b5fd8c76ac0028ac3abf3496d68"
 metafile = true
