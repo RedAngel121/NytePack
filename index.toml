@@ -39,6 +39,11 @@ hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
