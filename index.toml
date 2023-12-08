@@ -14,6 +14,11 @@ hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3d349f02c4ffd6a8252db88e6168f9037601660a73fd282c4203a199e9997e"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
 metafile = true
@@ -26,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "33d7887c49e0450fd0466ea686140a461aa0510329f4505cfa17164454737363"
 metafile = true
 
 [[files]]
@@ -69,6 +79,11 @@ hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "33312611b965e6b4e35a72b5a87df67a183dd2c47c1198a495f7d875162ee66b"
 metafile = true
@@ -86,6 +101,16 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "4f44cef1422cecdb4fdab89b7a4af008186fa3a27ae937a7b8cb9a9851093d61"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
 metafile = true
 
 [[files]]
