@@ -7,3 +7,18 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 [[files]]
 file = "README.md"
 hash = "c9210d43b72d03b86441c6ceb5fe67b3a53942f14f593f07bce992bb02d7f620"
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "bbcb3b5dda76575662f5e8ab2dceb159dcb20b5fd8c76ac0028ac3abf3496d68"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "8d086c010cc7dc439b66e2687f331ad98ab4e83685ace98336ba05debe4e2ba2"
+metafile = true
+
+[[files]]
+file = "mods/terraforged.pw.toml"
+hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
+metafile = true
