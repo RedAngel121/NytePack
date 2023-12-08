@@ -54,6 +54,11 @@ hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "5973a7ffae78b9b001127b415c496cba9e34b6316daf0d264a2f14e65aaeeb9d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
