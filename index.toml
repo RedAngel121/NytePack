@@ -144,6 +144,11 @@ hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
 metafile = true
 
 [[files]]
+file = "mods/toast-control.pw.toml"
+hash = "163c1534919222bb25f2a048d02c7707992e769acb1755c346832d24516830e3"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 hash = "c9f2d125f0922f64e08aaa94a28750469623e855302fe3ea7900f45c412520c8"
 metafile = true
