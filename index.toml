@@ -24,6 +24,11 @@ hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
 metafile = true
 
 [[files]]
@@ -56,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "e07b2621671fa32b7281c6b3d307ab6a19a1f3e09b7d65694f7edfd0448d1009"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "f61088c21613f3b3f884e24833f5fd116e13faa1e8e1e5f0f4485f18e3cd2bb5"
 metafile = true
 
 [[files]]

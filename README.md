@@ -8,3 +8,6 @@ Comforts
 Pam's HarvestCraft 2 + Stuff?
 FancyMenu
 Functional Storage or Sophisticated Storage
+
+DO:
+Spice of Life Potato
