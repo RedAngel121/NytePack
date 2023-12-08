@@ -6,3 +6,4 @@ YUNGNICKYOUNG's Better Series
 Supplementaries
 Comforts
 Pam's HarvestCraft 2 + Stuff?
+FancyMenu

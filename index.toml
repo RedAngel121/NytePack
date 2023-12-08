@@ -74,13 +74,28 @@ hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "8caf01b6b46f2448e69776c192adf4370140f6b845910e3574641000e6ae57ac"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "bebd049fe1089e8d0cbc5a2b02f459651b2ce8b035a4915f22028be451573a1d"
 metafile = true
 
 [[files]]
