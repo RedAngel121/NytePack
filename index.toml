@@ -69,6 +69,11 @@ hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "33312611b965e6b4e35a72b5a87df67a183dd2c47c1198a495f7d875162ee66b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
 metafile = true
