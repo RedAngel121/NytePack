@@ -62,3 +62,8 @@ metafile = true
 file = "mods/terraforged.pw.toml"
 hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "59ea3b2a779f77f1cb1251a4cb8627489890952f1bbb18180131ac12484456c1"
+metafile = true
