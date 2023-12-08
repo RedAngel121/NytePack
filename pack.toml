@@ -1,0 +1,13 @@
+name = "NytePack"
+author = "Red and Dev"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dc2fd682c591882f297b7f1db70245620acccb84ea6255000f5bd82ebe107ddf"
+
+[versions]
+forge = "40.2.14"
+minecraft = "1.18.2"
