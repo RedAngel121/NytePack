@@ -14,6 +14,11 @@ hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
