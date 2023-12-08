@@ -44,6 +44,11 @@ hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "4903909c3c55feb66bb0f558f0698ed9826ae62b56bdb669041cfb1646a873fc"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "33d7887c49e0450fd0466ea686140a461aa0510329f4505cfa17164454737363"
 metafile = true
