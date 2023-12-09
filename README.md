@@ -8,13 +8,15 @@ Pam's HarvestCraft 2 + Stuff?
 Functional Storage OR Sophisticated Storage
 Apotheosis
 Immersive Engineering + Extras
+Tinkers OR Silents
 
 Soft No:
 Supplementaries
 Comforts
 FancyMenu
-Mekanism + Extras
 Lootr
+Mekanism + Extras
+Deeper and Darker
 
 DO:
 Spice of Life Potato
