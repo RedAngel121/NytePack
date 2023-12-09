@@ -209,6 +209,11 @@ hash = "4f44cef1422cecdb4fdab89b7a4af008186fa3a27ae937a7b8cb9a9851093d61"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "ddd9b4bd28d0c422945e0e74bb1137920b6c44bf911c74f97f4731ac3b981227"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
 metafile = true
