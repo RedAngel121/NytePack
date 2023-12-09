@@ -224,6 +224,11 @@ hash = "cfcc68b57e7466352b66f93617f7824b371b8048c35e38045d31a2902a9d306f"
 metafile = true
 
 [[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "7bfa34ea9ad11fe95d1973cba7fe19925b7946c3f51496f235526c6659bb7c47"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "33312611b965e6b4e35a72b5a87df67a183dd2c47c1198a495f7d875162ee66b"
 metafile = true
