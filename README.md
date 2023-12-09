@@ -2,19 +2,22 @@
 The new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
 
 Check out:
-The Create Stuff!
+Create + Extras
+Immersive Engineering + Extras
+PneumaticCraft
+Apotheosis
+Utilitix
 YUNGNICKYOUNG's Better Series
 Functional Storage OR Sophisticated Storage
-Apotheosis
-Immersive Engineering + Extras
 Tinkers OR Silents
 CC: Tweaked
 Little Logi
 Almost Unified and ATM Ores mod
 Ultimine! (kills your food bar tho)
-Pam's HarvestCraft 2 - Food Extended (rest of them are fine)
+Blood Magic
 
 Soft No:
+Pam's HarvestCraft 2 - Food Extended
 Supplementaries
 Comforts
 FancyMenu
