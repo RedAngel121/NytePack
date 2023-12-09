@@ -29,6 +29,11 @@ hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "fb694b2ac3ce618e01b4284e52025b26fe4bf9721132854836c0a985fdd7fabb"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
