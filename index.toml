@@ -104,6 +104,11 @@ hash = "e07b2621671fa32b7281c6b3d307ab6a19a1f3e09b7d65694f7edfd0448d1009"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
+metafile = true
+
+[[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "f61088c21613f3b3f884e24833f5fd116e13faa1e8e1e5f0f4485f18e3cd2bb5"
 metafile = true
