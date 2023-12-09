@@ -11,9 +11,9 @@ Immersive Engineering + Extras
 Tinkers OR Silents
 CC: Tweaked
 Little Logi
-https://www.curseforge.com/minecraft/mc-mods/almost-unified
-
-Ultimine?
+Almost Unified and ATM Ores mod
+Ultimine! (kills your food bar tho)
+Pam's HarvestCraft 2 - Food Extended (rest of them are fine)
 
 Soft No:
 Supplementaries

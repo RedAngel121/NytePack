@@ -1,0 +1,13 @@
+name = "Dynamic Trees Pam's Harvestcraft 2: Trees"
+filename = "DynamicTreesPHC2-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "337be862704fc57d59b8ba89013cd677a40a41f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4624048
+project-id = 839090

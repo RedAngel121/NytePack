@@ -99,8 +99,13 @@ hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-pams-harvestcraft-2.pw.toml"
+hash = "a413e540951943de95b9c2bf3518d34a71f6a10f770b96737c946826a1726b54"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "bbcb3b5dda76575662f5e8ab2dceb159dcb20b5fd8c76ac0028ac3abf3496d68"
+hash = "687763852b583a03f03ab2a235be39428e5a08490f63c7d1186a6aadd1b355c7"
 metafile = true
 
 [[files]]
@@ -211,6 +216,21 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "5973a7ffae78b9b001127b415c496cba9e34b6316daf0d264a2f14e65aaeeb9d"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "649c9bd41570f0e64dbc4a86e0858502520329b641ecd907ec2d5a61560c2932"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "e786b40a72206eb8757d7147311eb1d83570df88e8a9048a603bc20941ac0469"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "4cb1c244f2acccb0a9842cb8f3634732ca270467ef6d8fbc9cb58faec2037f54"
 metafile = true
 
 [[files]]
