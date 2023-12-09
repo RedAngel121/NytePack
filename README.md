@@ -30,3 +30,4 @@ Alex's Mobs
 DO:
 Spice of Life Potato
 Agricraft (check for 1.18)
+check to see if this works with Dyn Trees https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
