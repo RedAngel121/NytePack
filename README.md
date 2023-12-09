@@ -5,11 +5,9 @@ Check out:
 The Create Stuff
 YUNGNICKYOUNG's Better Series
 Pam's HarvestCraft 2 + Stuff?
-Functional Storage or Sophisticated Storage
+Functional Storage OR Sophisticated Storage
 Apotheosis
-Bad Wither No Cookie - Reloaded
-
-
+Immersive Engineering + Extras
 
 Soft No:
 Supplementaries
@@ -20,3 +18,4 @@ Lootr
 
 DO:
 Spice of Life Potato
+Agricraft (check for 1.18)

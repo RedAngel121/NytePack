@@ -49,6 +49,11 @@ hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "504e0b21fb643f5a6e1d2db18b3975993673b7c89b062be49de37dbedc3684da"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
 metafile = true
