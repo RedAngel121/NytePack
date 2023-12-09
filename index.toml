@@ -249,6 +249,11 @@ hash = "4cb1c244f2acccb0a9842cb8f3634732ca270467ef6d8fbc9cb58faec2037f54"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "36e90d89b61e3aec30f1a04eafa73674ace3360df0cdb58ebb5495dd80dda0b6"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true

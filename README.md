@@ -18,6 +18,7 @@ Blood Magic
 
 Soft No:
 Pam's HarvestCraft 2 - Food Extended
+Right Click to Harvest
 Supplementaries
 Comforts
 FancyMenu
