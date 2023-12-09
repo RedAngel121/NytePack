@@ -219,6 +219,11 @@ hash = "4f44cef1422cecdb4fdab89b7a4af008186fa3a27ae937a7b8cb9a9851093d61"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "60dae26990035300fa780d675f08756ef4d5fded76423b839328d648869e6b23"
+metafile = true
+
+[[files]]
 file = "mods/reauth.pw.toml"
 hash = "ddd9b4bd28d0c422945e0e74bb1137920b6c44bf911c74f97f4731ac3b981227"
 metafile = true
@@ -271,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a7b16e6cbbfb443c8c60e89b42f1fcb52205477ba066ec0e33554ea85e5ec974"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "40e1001a1bbb46360e12ba9dc1dd6683bb53dba75faa63434bcfbbb8df6303b1"
 metafile = true
 
 [[files]]

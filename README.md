@@ -10,6 +10,10 @@ Apotheosis
 Immersive Engineering + Extras
 Tinkers OR Silents
 CC: Tweaked
+Little Logi
+https://www.curseforge.com/minecraft/mc-mods/almost-unified
+
+Ultimine?
 
 Soft No:
 Supplementaries
