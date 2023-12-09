@@ -9,6 +9,7 @@ Functional Storage OR Sophisticated Storage
 Apotheosis
 Immersive Engineering + Extras
 Tinkers OR Silents
+CC: Tweaked
 
 Soft No:
 Supplementaries
@@ -17,6 +18,7 @@ FancyMenu
 Lootr
 Mekanism + Extras
 Deeper and Darker
+Alex's Mobs
 
 DO:
 Spice of Life Potato
