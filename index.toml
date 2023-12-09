@@ -49,6 +49,11 @@ hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "ac1b752858973dbec55ecd6b98771367fa1b8df5b7dba4b4183952437777b8b8"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "504e0b21fb643f5a6e1d2db18b3975993673b7c89b062be49de37dbedc3684da"
 metafile = true
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "2494907e4f552f7dc746d884a1bf9513b00857b3eb05dadcec9e004bfda80cf1"
 metafile = true
 
 [[files]]
