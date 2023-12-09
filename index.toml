@@ -284,6 +284,11 @@ hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true
 
 [[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "2494907e4f552f7dc746d884a1bf9513b00857b3eb05dadcec9e004bfda80cf1"
 metafile = true
