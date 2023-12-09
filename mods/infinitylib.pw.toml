@@ -1,0 +1,13 @@
+name = "InfinityLib"
+filename = "infinitylib-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c23117b224dd3ef474c9ad0accd213ef5649b884"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3883932
+project-id = 251396
