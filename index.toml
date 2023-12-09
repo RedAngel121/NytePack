@@ -274,6 +274,11 @@ hash = "8efc83f181371fb79f6e3b3510750543ebf9f85bf5282fbb36838b8ee044b8b4"
 metafile = true
 
 [[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "ee1bc72c980997a48a8bc00aad6de353fa0b913c13266076bab03a0fdc025180"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a7b16e6cbbfb443c8c60e89b42f1fcb52205477ba066ec0e33554ea85e5ec974"
 metafile = true
