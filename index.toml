@@ -204,6 +204,16 @@ hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "30932a27109b6a4e5571398ccd3a925eb7c29d1486f24481bc3ea740c83ab9a7"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "5126484d4e52ec400ff97ee3610be897dee635aa42ceae44186c3401a450ac61"
+metafile = true
+
+[[files]]
 file = "mods/terraforged.pw.toml"
 hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
 metafile = true
@@ -216,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "8efc83f181371fb79f6e3b3510750543ebf9f85bf5282fbb36838b8ee044b8b4"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "a7b16e6cbbfb443c8c60e89b42f1fcb52205477ba066ec0e33554ea85e5ec974"
 metafile = true
 
 [[files]]
