@@ -234,6 +234,11 @@ hash = "5126484d4e52ec400ff97ee3610be897dee635aa42ceae44186c3401a450ac61"
 metafile = true
 
 [[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "9e94ddf43d8fd4067ab40e47cc690feb35a4a62b51f262581b55a231946fe8f6"
+metafile = true
+
+[[files]]
 file = "mods/terraforged.pw.toml"
 hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
 metafile = true
