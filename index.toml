@@ -259,6 +259,11 @@ hash = "4cb1c244f2acccb0a9842cb8f3634732ca270467ef6d8fbc9cb58faec2037f54"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "36e90d89b61e3aec30f1a04eafa73674ace3360df0cdb58ebb5495dd80dda0b6"
 metafile = true
@@ -266,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "565ee4d42c9a42a5e77559c91427771f51114ae33b0e9ca4684329710f7646c7"
 metafile = true
 
 [[files]]
