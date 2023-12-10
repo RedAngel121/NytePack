@@ -11,8 +11,6 @@ Check out:
         Almost Unified and ATM Ores mod
         Ultimine! (kills your food bar tho)
         Simple Backups OR FTB Backups
-        Too Fast
-        Simple Voice Chat
         Jade
         Saturn + Canary + Pluto + SmoothBoot
         My Server Is Compatible
@@ -43,6 +41,7 @@ Soft No:
         Right Click to Harvest
         FancyMenu
         PackMenu
+        Simple Voice Chat
 
     Mods:
         Alex's Mobs
