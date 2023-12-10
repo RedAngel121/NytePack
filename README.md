@@ -1,31 +1,54 @@
 # NytePack
 The new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
+We need to talk about Ore Gen... and how that works THEN how it factors in Vein Mining + Farming. Balance is Key!
 
 Check out:
-Create + Extras
-Immersive Engineering + Extras
-Apotheosis
-Utilitix
-YUNGNICKYOUNG's Better Series
-Functional Storage OR Sophisticated Storage
-Tinkers OR Silents
-CC: Tweaked
-Little Logi
-Almost Unified and ATM Ores mod
-Ultimine! (kills your food bar tho)
-Blood Magic
+    QOL:
+        Starlight (Forge)
+        Ding (Forge)
+        Better Statistics Screen
+        Almost Unified and ATM Ores mod
+        Ultimine! (kills your food bar tho)
+        Simple Backups OR FTB Backups
+        Chat Heads
+        Entity Collision FPS Fix
+        Too Fast
+        Simple Voice Chat
+        Jade
+    
+    Mods:
+        Create + Extras
+        Immersive Engineering + Extras
+        Apotheosis
+        Utilitix
+        Functional Storage OR Sophisticated Storage
+        Tinkers OR Silents
+        CC: Tweaked
+        Little Logi
+        Blood Magic
+    
+    World:
+        YUNGNICKYOUNG's Better Series
 
 Soft No:
-Pam's HarvestCraft 2 - Food Extended
-Right Click to Harvest
-Supplementaries
-Comforts
-FancyMenu
-Lootr
-Mekanism + Extras
-Deeper and Darker
-Alex's Mobs
+    QOL:
+        Pam's HarvestCraft 2 - Food Extended
+        Right Click to Harvest
+        FancyMenu
+        PackMenu
+
+    Mods:
+        Alex's Mobs
+        Mekanism + Extras
+        Supplementaries
+        Comforts
+        Lootr
+
+    World:
+        Deeper and Darker
+        The Undergarden
 
 DO:
-Spice of Life Potato
-check to see if this works with Dyn Trees https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
+    Akashic Tome
+    Discord Integration
+    check to see if this works with Dyn Trees https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
