@@ -64,6 +64,11 @@ hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "95f667886b65aa3df3c25f59ca916d52a33c8955a7bc53a970ec90f1d64b870b"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
@@ -71,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "e9633b94b7c3d75172d61d3df66781eb666838df29598c3fbcdc17364dc38ba3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "4f495fc01341d03538efb6bca187cfee04c9ed08d30184dfc3384bf73c1dbb31"
 metafile = true
 
 [[files]]
