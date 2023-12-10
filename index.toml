@@ -64,6 +64,11 @@ hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "75e650b0bd889e5f748fe4f637109201282c0a836dc182e82a18f88bb3d2e863"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "95f667886b65aa3df3c25f59ca916d52a33c8955a7bc53a970ec90f1d64b870b"
 metafile = true
@@ -269,6 +274,11 @@ hash = "7b8890c8c62291e84f51d23f9fa7ef8bea5062f56863d71fe970957b593a2a35"
 metafile = true
 
 [[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "179de6180653ff93abb091b60569b0860c3b74d7197f7af8cc4f4547aa3dc128"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "09169f60564677485f8679750af2b1431cd590b6954f471df57ad931f2df75e7"
 metafile = true
@@ -306,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "8b9af4d0f8b912ac1ec8fe7ab8291dc7384f9db13e18bf7a8eb4f054d685449f"
 metafile = true
 
 [[files]]
@@ -349,6 +364,11 @@ hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "565ee4d42c9a42a5e77559c91427771f51114ae33b0e9ca4684329710f7646c7"
 metafile = true
@@ -371,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "e847df5e27eb480e602c02d8197fb6bdf9b33e9ebf6e617f7dd903ac021006c2"
 metafile = true
 
 [[files]]

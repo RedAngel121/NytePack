@@ -11,9 +11,6 @@ Check out:
         Almost Unified and ATM Ores mod
         Ultimine! (kills your food bar tho)
         Simple Backups OR FTB Backups
-        Jade
-        Saturn + Canary + Pluto + SmoothBoot
-        My Server Is Compatible
         Colorful Hearts
 
     Mods:
