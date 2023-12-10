@@ -8,7 +8,7 @@ Balance is Key!
 Check out:
     QOL:
         Almost Unified and ATM Ores mod
-        Ultimine! (kills your food bar tho) (https://www.curseforge.com/minecraft/mc-mods/vein-mining)
+        Ultimine! (kills your food bar tho) (https://www.curseforge.com/minecraft/mc-mods/vein-mining)?
         Simple Backups OR FTB Backups
 
     Mods:
@@ -17,7 +17,6 @@ Check out:
         Tinkers OR Silents
     
     World:
-        YUNGNICKYOUNG's Better Series
 
 Soft No:
     QOL:
