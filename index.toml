@@ -194,8 +194,23 @@ hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
 metafile = true
 
 [[files]]
+file = "mods/lc-tech.pw.toml"
+hash = "48ec850eed00950d6d59a33d8e6062b331ecc326c9d6c34c80373a8af42b7aba"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "bebd049fe1089e8d0cbc5a2b02f459651b2ce8b035a4915f22028be451573a1d"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "56d01198ba5e7e4813b9b039806c6c1f53f86b28641f7c8e753fb2d046755c57"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-discord-integration.pw.toml"
+hash = "7b8890c8c62291e84f51d23f9fa7ef8bea5062f56863d71fe970957b593a2a35"
 metafile = true
 
 [[files]]

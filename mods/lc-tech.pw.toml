@@ -1,0 +1,13 @@
+name = "LC Tech"
+filename = "lctech-1.18.2-0.2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf7bbb373f447c166aa09138e369524183fd0b16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4819395
+project-id = 548152
