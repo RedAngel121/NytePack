@@ -46,4 +46,3 @@ Soft No:
         Philip's Ruins
 
 DO:
-    check to see if this works with Dyn Trees https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge

@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "cebcf59f59ad896fe8a6fb533bec2dd513d6c6582b7c42638b06458b8e8766d8"
+hash = "71525707ee7fde0dbe98bfd78c9d21a00859380601f9222bb83d2d48b88deafd"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -601,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/utilitix.pw.toml"
 hash = "86bdacc7c32b96183c82298afa2dabe43dd36bde797fa0ed4e8066e0b5eda6a9"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "aa14ab288aa1c5afc790fdc2ecb2adcda3ce7f62aaa105779a10790442b69ee6"
 metafile = true
 
 [[files]]
