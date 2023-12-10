@@ -404,6 +404,11 @@ hash = "5973a7ffae78b9b001127b415c496cba9e34b6316daf0d264a2f14e65aaeeb9d"
 metafile = true
 
 [[files]]
+file = "mods/overloaded-armor-bar.pw.toml"
+hash = "f0d4e2472d82481edb92af6dd125c9caa6672a9233532b5b2047a4b31f3d7437"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "649c9bd41570f0e64dbc4a86e0858502520329b641ecd907ec2d5a61560c2932"
 metafile = true

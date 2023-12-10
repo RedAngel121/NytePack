@@ -7,7 +7,6 @@ Balance is Key!
 
 Check out:
     QOL:
-        Better Statistics Screen
         Almost Unified and ATM Ores mod
         Ultimine! (kills your food bar tho)
         Simple Backups OR FTB Backups
