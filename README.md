@@ -17,7 +17,6 @@ Check out:
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
         CC: Tweaked
-        Blood Magic
     
     World:
         YUNGNICKYOUNG's Better Series
