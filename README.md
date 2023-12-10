@@ -13,7 +13,6 @@ Check out:
         Simple Backups OR FTB Backups
 
     Mods:
-        Create + Extras
         Create: The Factory Must Grow ???
         Apotheosis
         Utilitix
