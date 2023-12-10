@@ -144,6 +144,11 @@ hash = "33d7887c49e0450fd0466ea686140a461aa0510329f4505cfa17164454737363"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "2501a135e13170ec58f946ba34eea02562651a4e4ce3277802b912d32bf8a507"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "938447d1a7b78c6a03b577d2f60a0fcf9ca3a5403304a9bdc201b9dbeacb89be"
 metafile = true
