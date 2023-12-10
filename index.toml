@@ -24,6 +24,11 @@ hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "9f995d56c618dbeeefcd66855cdd64ff8ef8d5920b33b026668ae996677b6704"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
@@ -46,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3d349f02c4ffd6a8252db88e6168f9037601660a73fd282c4203a199e9997e"
+metafile = true
+
+[[files]]
+file = "mods/ato.pw.toml"
+hash = "c5795cf9270b6abed5edddff888209a3fe73f0280b1320bee7a2c04e62a710bd"
 metafile = true
 
 [[files]]
