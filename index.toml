@@ -419,6 +419,11 @@ hash = "e786b40a72206eb8757d7147311eb1d83570df88e8a9048a603bc20941ac0469"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "beec8f7f650ee7afb5db43eeecf08b2a41271aeb7bb88852181726c7ab2106c8"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
 hash = "4cb1c244f2acccb0a9842cb8f3634732ca270467ef6d8fbc9cb58faec2037f54"
 metafile = true

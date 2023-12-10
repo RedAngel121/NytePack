@@ -8,7 +8,7 @@ Balance is Key!
 Check out:
     QOL:
         Almost Unified and ATM Ores mod
-        Ultimine! (kills your food bar tho)
+        Ultimine! (kills your food bar tho) (https://www.curseforge.com/minecraft/mc-mods/vein-mining)
         Simple Backups OR FTB Backups
 
     Mods:
@@ -22,7 +22,8 @@ Check out:
 Soft No:
     QOL:
         Pam's HarvestCraft 2 - Food Extended
-        Right Click to Harvest
+        Right Click to Harvest (check first)
+        Harvest with ease (check first)
         FancyMenu
         PackMenu
         Simple Voice Chat
