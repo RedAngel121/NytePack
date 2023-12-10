@@ -19,7 +19,9 @@ Check out:
         Simple Voice Chat
         Jade
         Saturn + Canary + Pluto + SmoothBoot
-    
+        My Server Is Compatible
+        Colorful Hearts
+
     Mods:
         Create + Extras
         Immersive Engineering + Extras
