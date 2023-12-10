@@ -239,6 +239,11 @@ hash = "7f588f0de386b79f01baa9a4bc4248b2ccca0d20af2772d1e392bc050412f0bc"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "edab479c255f5179ee88c1f4667dd7d86b337d936ff12267aec93e75c4c4eafb"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "8caf01b6b46f2448e69776c192adf4370140f6b845910e3574641000e6ae57ac"
 metafile = true
