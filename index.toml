@@ -359,6 +359,11 @@ hash = "488fd8f9e145cf0abeb23ab11ab4de5d7ca5598a6256735b02461da512151d7b"
 metafile = true
 
 [[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "2494907e4f552f7dc746d884a1bf9513b00857b3eb05dadcec9e004bfda80cf1"
 metafile = true
