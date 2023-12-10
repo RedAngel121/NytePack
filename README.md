@@ -60,7 +60,5 @@ Soft No:
         The Undergarden
 
 DO:
-    Akashic Tome
-    Discord Integration
     check to see if this works with Dyn Trees https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
     Observable
