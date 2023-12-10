@@ -3,11 +3,11 @@ filename = "DynamicTreesPlus-1.18.2-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qaO9Dqpu/versions/Hbgz12i4/DynamicTreesPlus-1.18.2-1.0.5.jar"
 hash-format = "sha1"
-hash = "5a2ed265932754450fca590cfb3ac9f148223bde"
+hash = "9cd03ea4ce54085d4cbd97f027ec8823caf2cf8b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "qaO9Dqpu"
-version = "Hbgz12i4"
+[update.curseforge]
+file-id = 4720556
+project-id = 478155

@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "c9210d43b72d03b86441c6ceb5fe67b3a53942f14f593f07bce992bb02d7f620"
+hash = "cebcf59f59ad896fe8a6fb533bec2dd513d6c6582b7c42638b06458b8e8766d8"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -26,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
 metafile = true
 
 [[files]]
@@ -195,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
-hash = "8d086c010cc7dc439b66e2687f331ad98ab4e83685ace98336ba05debe4e2ba2"
+hash = "75073044d248bc56e415af3e5e820ad204e2bcc048f8208ea7e8130b8449e782"
 metafile = true
 
 [[files]]
@@ -236,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
 metafile = true
 
 [[files]]
@@ -309,6 +319,11 @@ hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
 file = "mods/lc-tech.pw.toml"
 hash = "48ec850eed00950d6d59a33d8e6062b331ecc326c9d6c34c80373a8af42b7aba"
 metafile = true
@@ -316,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "bebd049fe1089e8d0cbc5a2b02f459651b2ce8b035a4915f22028be451573a1d"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "1abd6b14897b96bd995cca1da58bffc0637207f4854fe7afd1fe9aad228988a7"
 metafile = true
 
 [[files]]

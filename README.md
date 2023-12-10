@@ -21,7 +21,6 @@ Check out:
 
 Soft No:
     QOL:
-        Pam's HarvestCraft 2 - Food Extended
         Right Click to Harvest (check first)
         Harvest with ease (check first)
         FancyMenu
