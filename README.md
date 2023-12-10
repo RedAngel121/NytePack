@@ -17,9 +17,7 @@ Check out:
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
         CC: Tweaked
-        Little Logi
         Blood Magic
-        Nature's Aura
     
     World:
         YUNGNICKYOUNG's Better Series

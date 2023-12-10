@@ -379,6 +379,11 @@ hash = "8b9af4d0f8b912ac1ec8fe7ab8291dc7384f9db13e18bf7a8eb4f054d685449f"
 metafile = true
 
 [[files]]
+file = "mods/natures-aura.pw.toml"
+hash = "8d81c58a9520b3f26738a5eb37d85b474269712b53eaa97edcde7da8ed790d32"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
 metafile = true
