@@ -11,11 +11,9 @@ Check out:
         Almost Unified and ATM Ores mod
         Ultimine! (kills your food bar tho)
         Simple Backups OR FTB Backups
-        Colorful Hearts
 
     Mods:
         Create + Extras
-        Immersive Engineering + Extras
         Apotheosis
         Utilitix
         Functional Storage OR Sophisticated Storage
@@ -27,10 +25,6 @@ Check out:
     
     World:
         YUNGNICKYOUNG's Better Series
-        Philip's Ruins
-        BetterNether
-        Enhanced Celestials
-        HT's TreeChop
 
 Soft No:
     QOL:
@@ -46,10 +40,13 @@ Soft No:
         Supplementaries
         Comforts
         Lootr
+        Nightmare Epic Siege
+        Enhanced Celestials
 
     World:
         Deeper and Darker
         The Undergarden
+        Philip's Ruins
 
 DO:
     check to see if this works with Dyn Trees https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
