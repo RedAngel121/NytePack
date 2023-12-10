@@ -1,6 +1,9 @@
 # NytePack
 The new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
-We need to talk about Ore Gen... and how that works THEN how it factors in Vein Mining + Farming. Balance is Key!
+We need to talk about Ore Gen... and how that works THEN how it factors in Vein Mining + Farming. 
+We need to talk about Currency and Proper Chunk Claiming and how to pay for it. How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options.
+
+Balance is Key!
 
 Check out:
     QOL:
@@ -15,6 +18,7 @@ Check out:
         Too Fast
         Simple Voice Chat
         Jade
+        Saturn + Canary + Pluto + SmoothBoot
     
     Mods:
         Create + Extras
@@ -29,6 +33,10 @@ Check out:
     
     World:
         YUNGNICKYOUNG's Better Series
+        Philip's Ruins
+        BetterNether
+        Enhanced Celestials
+        HT's TreeChop
 
 Soft No:
     QOL:
@@ -52,3 +60,4 @@ DO:
     Akashic Tome
     Discord Integration
     check to see if this works with Dyn Trees https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
+    Observable
