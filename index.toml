@@ -204,6 +204,11 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
+file = "mods/health-overlay.pw.toml"
+hash = "c685d5c9a35c111c0661fc2fa0ccaf0f9c910c3fdfe02d1f1095cabd12d1308a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
 metafile = true
