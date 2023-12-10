@@ -514,6 +514,11 @@ hash = "a7b16e6cbbfb443c8c60e89b42f1fcb52205477ba066ec0e33554ea85e5ec974"
 metafile = true
 
 [[files]]
+file = "mods/utilitix.pw.toml"
+hash = "86bdacc7c32b96183c82298afa2dabe43dd36bde797fa0ed4e8066e0b5eda6a9"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "40e1001a1bbb46360e12ba9dc1dd6683bb53dba75faa63434bcfbbb8df6303b1"
 metafile = true
