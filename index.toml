@@ -534,6 +534,11 @@ hash = "604f6f03a27dcff4d84ba328e33e8125592e1922ef7ab334eafc2f7d05bd94d2"
 metafile = true
 
 [[files]]
+file = "mods/secretroomsmod.pw.toml"
+hash = "ffc7684367213f3902dec9267a04489c88c046b446872fa7476eb3fe0368ebd0"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true

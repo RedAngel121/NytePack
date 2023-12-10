@@ -7,9 +7,6 @@ Balance is Key!
 
 Check out:
     QOL:
-        Almost Unified and ATM Ores mod
-        Ultimine! (kills your food bar tho) (https://www.curseforge.com/minecraft/mc-mods/vein-mining)?
-        Simple Backups OR FTB Backups
 
     Mods:
         Create: The Factory Must Grow ???
@@ -17,7 +14,6 @@ Check out:
         Tinkers OR Silents
         Corpse OR Corails
         SecretRoomsMod
-        Natures Compass
     
     World:
         Towns and Towers
