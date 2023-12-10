@@ -14,7 +14,6 @@ Check out:
 
     Mods:
         Create: The Factory Must Grow ???
-        Utilitix
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
         CC: Tweaked

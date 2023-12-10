@@ -324,6 +324,16 @@ hash = "179de6180653ff93abb091b60569b0860c3b74d7197f7af8cc4f4547aa3dc128"
 metafile = true
 
 [[files]]
+file = "mods/little-contraptions.pw.toml"
+hash = "d6c0fb5dfd35b91f9293ab9d7acc27fa88d0af77e6a1d07259863b30f5e5d352"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "2bea532f8e78b5faae62251e31e0500da37766106e2f7587e6b97d0d00f850bb"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "09169f60564677485f8679750af2b1431cd590b6954f471df57ad931f2df75e7"
 metafile = true
