@@ -519,6 +519,11 @@ hash = "e847df5e27eb480e602c02d8197fb6bdf9b33e9ebf6e617f7dd903ac021006c2"
 metafile = true
 
 [[files]]
+file = "mods/scaling-health.pw.toml"
+hash = "604f6f03a27dcff4d84ba328e33e8125592e1922ef7ab334eafc2f7d05bd94d2"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true
@@ -526,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "96bd96fe6021b16727e73b19753752f7ae298d8bc80adca76db6544ad420bafb"
 metafile = true
 
 [[files]]
