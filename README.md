@@ -7,7 +7,6 @@ Balance is Key!
 
 Check out:
     QOL:
-        Starlight (Forge)
         Ding (Forge)
         Better Statistics Screen
         Almost Unified and ATM Ores mod

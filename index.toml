@@ -119,6 +119,11 @@ hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "efcc621dcc9e78c82b188f63ea82c8d6278bb7ee86bbcfdc658f0eb51e7b859e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-pams-harvestcraft-2.pw.toml"
 hash = "a413e540951943de95b9c2bf3518d34a71f6a10f770b96737c946826a1726b54"
 metafile = true
