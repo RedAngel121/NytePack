@@ -16,7 +16,6 @@ Check out:
         Create: The Factory Must Grow ???
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
-        CC: Tweaked
     
     World:
         YUNGNICKYOUNG's Better Series
