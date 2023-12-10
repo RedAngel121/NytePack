@@ -15,8 +15,12 @@ Check out:
         Create: The Factory Must Grow ???
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
+        Corpse OR Corails
+        SecretRoomsMod
+        Natures Compass
     
     World:
+        Towns and Towers
 
 Soft No:
     QOL:
@@ -34,6 +38,7 @@ Soft No:
         Lootr
         Nightmare Epic Siege
         Enhanced Celestials
+        Torch Master
 
     World:
         Deeper and Darker
