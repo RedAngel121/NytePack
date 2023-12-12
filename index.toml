@@ -204,6 +204,11 @@ hash = "a413e540951943de95b9c2bf3518d34a71f6a10f770b96737c946826a1726b54"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-tectonic.pw.toml"
+hash = "3651cf9c713110f665cf508395c18ea2d729ace40afa9ac817b550e82212dc8f"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "687763852b583a03f03ab2a235be39428e5a08490f63c7d1186a6aadd1b355c7"
 metafile = true
@@ -581,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "9e94ddf43d8fd4067ab40e47cc690feb35a4a62b51f262581b55a231946fe8f6"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
 metafile = true
 
 [[files]]

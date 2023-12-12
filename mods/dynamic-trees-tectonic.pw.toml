@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Tectonic"
+filename = "dttectonic-1.18.2-Beta5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91af75d1a808369de0a78ce0fcc4109b530af9cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4525283
+project-id = 782269
