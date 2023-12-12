@@ -13,10 +13,10 @@ Check out:
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
         Corpse OR Corails
-        SecretRoomsMod
     
     World:
         Towns and Towers
+        Alternative World Generation Mods (Terralith OR Terraforged OR Something Else?)
 
 Soft No:
     QOL:
