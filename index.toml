@@ -139,6 +139,16 @@ hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "031ab593f0489e30c415f69894ece802d5ab6a06034d4bc2072840d80b34aff3"
+metafile = true
+
+[[files]]
+file = "mods/corail-woodcutter.pw.toml"
+hash = "00b93034cf1d56e0f74d4cabd6b51054f508cea9c2ee0e19b209a98f2fd71997"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "4903909c3c55feb66bb0f558f0698ed9826ae62b56bdb669041cfb1646a873fc"
 metafile = true

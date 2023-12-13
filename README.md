@@ -16,7 +16,6 @@ Check out:
     
     World:
         Towns and Towers
-        Alternative World Generation Mods (Terralith OR Terraforged OR Something Else?)
 
 Soft No:
     QOL:
