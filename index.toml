@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "71525707ee7fde0dbe98bfd78c9d21a00859380601f9222bb83d2d48b88deafd"
+hash = "3e4a29939807ef3e2cf74ee096580b59a6e017d51a9f32c0ba67919c525b4615"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -621,11 +621,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
-metafile = true
-
-[[files]]
-file = "mods/terraforged.pw.toml"
-hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
 metafile = true
 
 [[files]]
