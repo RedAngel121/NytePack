@@ -14,6 +14,8 @@ Check out:
         Create: The Factory Must Grow ???
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
+        Gateways to Eternity WITH Baubley Heart Canisters?
+        Baubley Heart Canisters (Needs to be removed from mob drops and added to purchaseable items from server loot crate/Gateways to Eternity)
     
     World:
         Towns and Towers
@@ -37,7 +39,6 @@ Soft No:
         Enhanced Celestials
         Torch Master
         Aquaculture (remove non-players from getting neptunium)
-        Baubley Heart Canisters (Needs to be removed from mob drops and added to purchaseable items from server loot crate)
 
     World:
         Deeper and Darker
@@ -46,3 +47,4 @@ Soft No:
 
 DO:
     CC Tweaked - TURN OFF THE TURTLES
+    Farming for Blockheads - Adjust the market or just disable it?
