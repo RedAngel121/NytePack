@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "cfcc68b57e7466352b66f93617f7824b371b8048c35e38045d31a2902a9d306f"
+hash = "7b8fd31eb22aaee307154b261ed917430f8fffc5d342f05c1e65913cb6987366"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "e847df5e27eb480e602c02d8197fb6bdf9b33e9ebf6e617f7dd903ac021006c2"
+hash = "01d532ada4492179d4175c1a54c519190608b8e1c6123e7de0be3b2e45bf74cb"
 metafile = true
 
 [[files]]
