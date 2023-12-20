@@ -14,7 +14,6 @@ Check out:
         Create: The Factory Must Grow ???
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
-        Corpse OR Corails
     
     World:
         Towns and Towers
@@ -37,7 +36,7 @@ Soft No:
         Nightmare Epic Siege
         Enhanced Celestials
         Torch Master
-        Aquaculture
+        Aquaculture (remove non-players from getting neptunium)
         Baubley Heart Canisters (Needs to be removed from mob drops and added to purchaseable items from server loot crate)
 
     World:
@@ -46,4 +45,4 @@ Soft No:
         Philip's Ruins
 
 DO:
-    N/A
+    CC Tweaked - TURN OFF THE TURTLES

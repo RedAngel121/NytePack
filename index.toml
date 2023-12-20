@@ -94,6 +94,11 @@ hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "9e01208496046b92fda93877cfbc27b5c4fbf4fc9f937be3e54fede8fb3373d4"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "75e650b0bd889e5f748fe4f637109201282c0a836dc182e82a18f88bb3d2e863"
 metafile = true
@@ -231,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
 hash = "75073044d248bc56e415af3e5e820ad204e2bcc048f8208ea7e8130b8449e782"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "768168107df7cbee4da06c093a7695e0cc7ff0ad49a6b63e0857515f236f19f1"
 metafile = true
 
 [[files]]
