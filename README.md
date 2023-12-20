@@ -6,7 +6,9 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it. 
 Balance is Key!
 
 Check out:
+    
     QOL:
+        N/A
 
     Mods:
         Create: The Factory Must Grow ???
@@ -18,6 +20,7 @@ Check out:
         Towns and Towers
 
 Soft No:
+    
     QOL:
         Right Click to Harvest (check first)
         Harvest with ease (check first)
@@ -34,6 +37,8 @@ Soft No:
         Nightmare Epic Siege
         Enhanced Celestials
         Torch Master
+        Aquaculture
+        Baubley Heart Canisters (Needs to be removed from mob drops and added to purchaseable items from server loot crate)
 
     World:
         Deeper and Darker
@@ -41,3 +46,4 @@ Soft No:
         Philip's Ruins
 
 DO:
+    N/A
