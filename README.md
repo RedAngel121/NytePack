@@ -47,5 +47,6 @@ Soft No:
 
 DO:
     
+    Apotheosis - Turn down the spawn rates of mini bosses and disable armor drops from every mob
     CC Tweaked - TURN OFF THE TURTLES
-    Farming for Blockheads - Adjust the market or just disable it?
+    Farming for Blockheads - Adjust the market trades or just disable it?

@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "3e4a29939807ef3e2cf74ee096580b59a6e017d51a9f32c0ba67919c525b4615"
+hash = "3e06e8f090875351bc6c98c9927dac56542a76e66673f522bdb4c6aff3b1ba78"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "4f495fc01341d03538efb6bca187cfee04c9ed08d30184dfc3384bf73c1dbb31"
+hash = "53222211d9551cee2d22352b64b0ad714ecb8d1316e0f225b679ba909179b4a2"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "e07b2621671fa32b7281c6b3d307ab6a19a1f3e09b7d65694f7edfd0448d1009"
+hash = "491083ff33707ce8e3f10946fffbee67a16094cc99f414921cce30b0c455ea65"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "33312611b965e6b4e35a72b5a87df67a183dd2c47c1198a495f7d875162ee66b"
+hash = "fe8ae533b58bc9ef6610ffeb17d8fc254fdb9fe18af4ca12291d21c11206cc91"
 metafile = true
 
 [[files]]
