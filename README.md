@@ -44,14 +44,14 @@ Check out:
 Soft No:
     
     QOL:
-        Right Click to Harvest (check first)
+        Right Click to Harvest (check existing default first)
         Harvest with ease (check first)
         FancyMenu
         PackMenu
         Simple Voice Chat
 
     Mods:
-        Alex's Mobs
+        Alex's Mobs (some of the mobs are just horrible)
         Mekanism + Extras
         Supplementaries
         Comforts
@@ -73,4 +73,4 @@ DO:
     Farming for Blockheads - Adjust the market trades or just disable it?
 
 Server Update Command Line:
-    java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server
+`java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server`

@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "0eb744b347df721fc000a1a6aa0d3dbd0d4a40a2bb17da8ee2b131dfb891d5ea"
+hash = "8629ea5f146d658339202d7df4782c669bcbc5f0897d4a093a3d023e5e55c6f5"
 
 [[files]]
 file = "instance.png"
@@ -170,11 +170,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "4903909c3c55feb66bb0f558f0698ed9826ae62b56bdb669041cfb1646a873fc"
-metafile = true
-
-[[files]]
-file = "mods/create-compressed.pw.toml"
-hash = "698607c18f7d4500718cbd0db8b102ca51c8851a88fa33cccb4d6657ba0a0108"
 metafile = true
 
 [[files]]
