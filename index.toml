@@ -313,11 +313,6 @@ hash = "df0a3492490ee76d36fb4b6d36dc44d0b7edf923b31e512dbb7e55a0c0962f31"
 metafile = true
 
 [[files]]
-file = "mods/health-overlay.pw.toml"
-hash = "c685d5c9a35c111c0661fc2fa0ccaf0f9c910c3fdfe02d1f1095cabd12d1308a"
-metafile = true
-
-[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "0290a32259171f66475edba23f9c510e08547ec517ce256ced8043a5a2fff2b5"
 metafile = true
