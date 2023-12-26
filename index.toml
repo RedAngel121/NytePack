@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "75e650b0bd889e5f748fe4f637109201282c0a836dc182e82a18f88bb3d2e863"
+hash = "02bcf6368fb1bfbb0328c54b60886a15fa20ebb0168a13e2e1d44598f4ed03c1"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "56d01198ba5e7e4813b9b039806c6c1f53f86b28641f7c8e753fb2d046755c57"
+hash = "a0ad97da4346242c768955c7f03ff497995ddbf1d5b7c4ad7be2f8fc29f2effe"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fe8ae533b58bc9ef6610ffeb17d8fc254fdb9fe18af4ca12291d21c11206cc91"
+hash = "2af47308a54902c7807d79653a7ac2cf58b33837b04532cda02eaef6cfec58e2"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "5973a7ffae78b9b001127b415c496cba9e34b6316daf0d264a2f14e65aaeeb9d"
+hash = "c613960225450aa3d2e9c0e06dee874454fce78ed69742320424e3d8e5734d7f"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "01d532ada4492179d4175c1a54c519190608b8e1c6123e7de0be3b2e45bf74cb"
+hash = "6e78372ec0fcc5ad41eb2a54e9df1160fc74756e4cd40d87c318207d8b62c104"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "c9f2d125f0922f64e08aaa94a28750469623e855302fe3ea7900f45c412520c8"
+hash = "aa54b54dee75a22b92ff6bcf3e938046c7223b9b036e770e93cc61fbf09d3da5"
 metafile = true
 
 [[files]]
