@@ -6,7 +6,11 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "ae086172cce5706ddc963833bebb246214032a685966c3f0714fac98dd335005"
+hash = "0eb744b347df721fc000a1a6aa0d3dbd0d4a40a2bb17da8ee2b131dfb891d5ea"
+
+[[files]]
+file = "instance.png"
+hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
