@@ -44,8 +44,6 @@ Check out:
 Soft No:
     
     QOL:
-        Right Click to Harvest (check existing default first)
-        Harvest with ease (check first)
         FancyMenu
         PackMenu
         Simple Voice Chat
