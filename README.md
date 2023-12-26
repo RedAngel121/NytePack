@@ -71,3 +71,6 @@ DO:
     Apotheosis - Turn down the spawn rates of mini bosses and disable armor drops from every mob
     CC Tweaked - TURN OFF THE TURTLES
     Farming for Blockheads - Adjust the market trades or just disable it?
+
+Server Update Command Line:
+    java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server
