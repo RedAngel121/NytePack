@@ -668,6 +668,11 @@ hash = "40e1001a1bbb46360e12ba9dc1dd6683bb53dba75faa63434bcfbbb8df6303b1"
 metafile = true
 
 [[files]]
+file = "mods/world-stripper.pw.toml"
+hash = "d2fb40e5e0e8b9f333d45355fca9a54335ce39c5f5322f28b48d88310c6197e9"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 hash = "aa54b54dee75a22b92ff6bcf3e938046c7223b9b036e770e93cc61fbf09d3da5"
 metafile = true

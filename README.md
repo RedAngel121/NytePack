@@ -21,13 +21,14 @@ Important Mods List: (~150 mods in total)
     Toms Storage
     Tool Belt
 
-We need to talk about Ore Gen... and how that works THEN how it factors in Vein Mining + Farming. 
+We need to talk about Ore Gen... and how that works THEN how it factors in Vein Mining + Farming.
+Ore factories will have different ways of processing ore per type
 We need to talk about Currency and Proper Chunk Claiming and how to pay for it. How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options.
 
 Balance is Key!
 
 Check out:
-    
+
     QOL:
         N/A
 
@@ -37,12 +38,12 @@ Check out:
         Tinkers OR Silents
         Gateways to Eternity WITH Baubley Heart Canisters?
         Baubley Heart Canisters (Needs to be removed from mob drops and added to purchaseable items from server loot crate/Gateways to Eternity)
-    
+
     World:
         Towns and Towers
 
 Soft No:
-    
+
     QOL:
         FancyMenu
         PackMenu
@@ -56,8 +57,7 @@ Soft No:
         Lootr
         Nightmare Epic Siege
         Enhanced Celestials
-        Torch Master
-        Aquaculture (remove non-players from getting neptunium)
+        Aquaculture (remove fake/non-players from getting neptunium stuff)
 
     World:
         Deeper and Darker
@@ -65,10 +65,11 @@ Soft No:
         Philip's Ruins
 
 DO:
-    
+
     Apotheosis - Turn down the spawn rates of mini bosses and disable armor drops from every mob
     CC Tweaked - TURN OFF THE TURTLES
     Farming for Blockheads - Adjust the market trades or just disable it?
+    Adjust scaling health for distance https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
 
 Server Update Command Line:
 `java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server`
