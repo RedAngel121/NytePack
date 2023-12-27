@@ -308,6 +308,11 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
+file = "mods/geolosys.pw.toml"
+hash = "446b60cb46b3da94fc8b0c4d18567179783d04bf3884880131bcd32b4f95a986"
+metafile = true
+
+[[files]]
 file = "mods/glassential.pw.toml"
 hash = "df0a3492490ee76d36fb4b6d36dc44d0b7edf923b31e512dbb7e55a0c0962f31"
 metafile = true

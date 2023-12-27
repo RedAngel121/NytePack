@@ -69,6 +69,7 @@ DO:
     Apotheosis - Turn down the spawn rates of mini bosses and disable armor drops from every mob
     CC Tweaked - TURN OFF THE TURTLES
     Farming for Blockheads - Adjust the market trades or just disable it?
+    Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
     Adjust scaling health for distance https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
 
 Server Update Command Line:
