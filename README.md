@@ -37,8 +37,11 @@ Check out:
         Create: The Factory Must Grow ???
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
-        Gateways to Eternity WITH Baubley Heart Canisters?
-        Baubley Heart Canisters (Needs to be removed from mob drops and added to purchaseable items from server loot crate/Gateways to Eternity)
+        Gateways to Eternity
+            Add an absolute metric ton of gateways cause thats going to be fun
+            Could have integration with lightmans tickets for special purchases
+        Baubley Heart Canisters
+            Needs to be removed from drops and added to purchaseable items from server vending machines
 
     World:
         Towns and Towers
@@ -75,6 +78,14 @@ DO:
     Farming for Blockheads - Adjust the market trades or just disable it?
     Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
     Adjust scaling health for distance https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
+    Create Deco - investigate and possibly Disable "coin stacks"?
+    Investigate steam and rails for stuff we dont want (phantom rails?)
+    Glassential functional glass blocks
+    Aircraft needs adjustments (nerf pedal) and better integration with crafting recp (possible aircraft industry?)
+    Determine if Pams food extended is too much
+    investigate secret rooms
+    fix starter kit
+    check toolbelt config for item list and quantity
 
 Server Update Command Line:
 `java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server` the start the minecraft dedi

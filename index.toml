@@ -6,11 +6,15 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "817c2e6cdf3acf6a8fd0a9e76678e855f59f1951dc54d978289f4f9abd6c2fae"
+hash = "c1cfcd8e1c794a5beda5d2536db1688321d567c5b026ca08cf379d6735c8b968"
 
 [[files]]
 file = "config/alltheores-common.toml"
 hash = "9caa6c542c1d1c41745c08e0c6e74191e0c4ef311b531706d2a4d0bcc9ff8280"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "2ff0d89ec4f83271728dc5c3e32621667ebe5c235f8e236ee416ba266eee12b1"
 
 [[files]]
 file = "config/create-common.toml"
@@ -19,6 +23,10 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "724e2f7149e2b464b7f173e1a6bceb01929debd40054d5471c3013c12a336ec7"
+
+[[files]]
+file = "defaultconfigs/lightmanscurrency-server.toml"
+hash = "3153825ecc000a800646858d952c524f44767713a979ded80601a141f7770207"
 
 [[files]]
 file = "defaultconfigs/scalinghealth-server.toml"
@@ -189,11 +197,6 @@ hash = "4903909c3c55feb66bb0f558f0698ed9826ae62b56bdb669041cfb1646a873fc"
 metafile = true
 
 [[files]]
-file = "mods/create-confectionery.pw.toml"
-hash = "39ca49af9198b35f2274259420f715f9053b4864cb4a44e548a0ed607bc28a87"
-metafile = true
-
-[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "2dc6b12493ef87e7b192f9eb3085e4c93a396a53c5d147aa320c3d7ab67d8316"
 metafile = true
@@ -359,8 +362,8 @@ hash = "edab479c255f5179ee88c1f4667dd7d86b337d936ff12267aec93e75c4c4eafb"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "8caf01b6b46f2448e69776c192adf4370140f6b845910e3574641000e6ae57ac"
+file = "mods/inventory-sorter.pw.toml"
+hash = "8870e6276bbb8dcfdc24b4f97ba2a972df0b48b5b514d10c96c913c773f7b9b1"
 metafile = true
 
 [[files]]
@@ -404,11 +407,6 @@ hash = "48ec850eed00950d6d59a33d8e6062b331ecc326c9d6c34c80373a8af42b7aba"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "bebd049fe1089e8d0cbc5a2b02f459651b2ce8b035a4915f22028be451573a1d"
-metafile = true
-
-[[files]]
 file = "mods/libx.pw.toml"
 hash = "1abd6b14897b96bd995cca1da58bffc0637207f4854fe7afd1fe9aad228988a7"
 metafile = true
@@ -436,11 +434,6 @@ metafile = true
 [[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "2bea532f8e78b5faae62251e31e0500da37766106e2f7587e6b97d0d00f850bb"
-metafile = true
-
-[[files]]
-file = "mods/lmft.pw.toml"
-hash = "70e5924959f552aa3414d2f7c181286f01d8c52d88ccf03050ae06a44aa18e84"
 metafile = true
 
 [[files]]
