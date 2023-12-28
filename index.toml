@@ -489,11 +489,6 @@ hash = "8b9af4d0f8b912ac1ec8fe7ab8291dc7384f9db13e18bf7a8eb4f054d685449f"
 metafile = true
 
 [[files]]
-file = "mods/natures-aura.pw.toml"
-hash = "8d81c58a9520b3f26738a5eb37d85b474269712b53eaa97edcde7da8ed790d32"
-metafile = true
-
-[[files]]
 file = "mods/oauth.pw.toml"
 hash = "df6534c93c5c2b0a01c5b5fc03c6c9e63be78f0c12c7a9f6f7369cf7841cd22c"
 metafile = true

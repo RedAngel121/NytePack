@@ -13,6 +13,7 @@ Important Mods List: (~150 mods in total)
     Create + extras
     Immersive Engineering + extras
     Jade
+    JEI
     Lightmans Currency
     Little Logistics
     Open Parties and Claims
@@ -58,6 +59,7 @@ Soft No:
         Nightmare Epic Siege
         Enhanced Celestials
         Aquaculture (remove fake/non-players from getting neptunium stuff)
+        Natures Aura (possible server overhead issues)
 
     World:
         Deeper and Darker
