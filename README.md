@@ -66,6 +66,8 @@ Soft No:
 
 DO:
 
+    CONFIGS
+    Determine how Vein Mining is actually going to affect the player and tool durability
     Apotheosis - Turn down the spawn rates of mini bosses and disable armor drops from every mob
     CC Tweaked - TURN OFF THE TURTLES
     Farming for Blockheads - Adjust the market trades or just disable it?
@@ -73,4 +75,4 @@ DO:
     Adjust scaling health for distance https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
 
 Server Update Command Line:
-`java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server`
+`java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server` the start the minecraft dedi
