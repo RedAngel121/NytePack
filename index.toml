@@ -212,6 +212,11 @@ hash = "895f9e1e4f3d3492540b158bf41eb91ed9dd2955cd6de24982865bdfc505804e"
 metafile = true
 
 [[files]]
+file = "mods/create-extended-flywheels.pw.toml"
+hash = "863f10a9025bd638b9bcb80d84ff309d47c0938d14dc1d45796105da4c778359"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2e4d543ae2a887b727ffe2ce8ebd854fb1b23066af0b544c99d40dbf28bd254e"
 metafile = true

@@ -8,12 +8,10 @@ Important Mods List: (~150 mods in total)
     Blood Magic
     Chipped
     Construction Wand
-    Cooking for Blockheads
-    Corail
+    Cooking and Farming for Blockheads
+    Corail Tombstone
     Create + extras
     Immersive Engineering + extras
-    Jade
-    JEI
     Lightmans Currency
     Little Logistics
     Open Parties and Claims
@@ -72,12 +70,13 @@ Soft No:
 DO:
 
     CONFIGS
+    how 
     Determine how Vein Mining is actually going to affect the player and tool durability
     Apotheosis - Turn down the spawn rates of mini bosses and disable armor drops from every mob
     CC Tweaked - TURN OFF THE TURTLES
     Farming for Blockheads - Adjust the market trades or just disable it?
     Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
-    Adjust scaling health for distance https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
+    Adjust scaling health for distance instead https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
     Create Deco - investigate and possibly Disable "coin stacks"?
     Investigate steam and rails for stuff we dont want (phantom rails?)
     Glassential functional glass blocks
@@ -86,6 +85,8 @@ DO:
     investigate secret rooms
     fix starter kit
     check toolbelt config for item list and quantity
+    Serene Seasons: crops (temp and season bands) and change season lengths
+    Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
 
 Server Update Command Line:
 `java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server` the start the minecraft dedi
