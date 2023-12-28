@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "c1cfcd8e1c794a5beda5d2536db1688321d567c5b026ca08cf379d6735c8b968"
+hash = "d740a448ffa5a5ee09b2e0d2c37944116b6436a638a5b3a9a9a3937fa5973464"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -19,6 +19,10 @@ hash = "2ff0d89ec4f83271728dc5c3e32621667ebe5c235f8e236ee416ba266eee12b1"
 [[files]]
 file = "config/create-common.toml"
 hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
+
+[[files]]
+file = "config/geolosys-common.toml"
+hash = "71c19afb5692c9ea00c89cf20db056fc2eab74a390dc3af111de961693a4beca"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
