@@ -32,7 +32,8 @@ Check out:
         N/A
 
     Mods:
-        Create: The Factory Must Grow ???
+        Create: The Factory Must Grow   ???
+        Create: Diesel Generators       ???
         Functional Storage OR Sophisticated Storage
         Tinkers OR Silents
         Gateways to Eternity

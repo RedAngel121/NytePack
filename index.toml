@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "d740a448ffa5a5ee09b2e0d2c37944116b6436a638a5b3a9a9a3937fa5973464"
+hash = "996fe4da517bba9d0f9457e6c865f1f96c93adf77d9d700fd678027544553f67"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -211,16 +211,6 @@ hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
 metafile = true
 
 [[files]]
-file = "mods/create-extended-cogs.pw.toml"
-hash = "895f9e1e4f3d3492540b158bf41eb91ed9dd2955cd6de24982865bdfc505804e"
-metafile = true
-
-[[files]]
-file = "mods/create-extended-flywheels.pw.toml"
-hash = "863f10a9025bd638b9bcb80d84ff309d47c0938d14dc1d45796105da4c778359"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2e4d543ae2a887b727ffe2ce8ebd854fb1b23066af0b544c99d40dbf28bd254e"
 metafile = true
@@ -247,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
+hash = "96e0915c74e1ec1f137208d4d247d307b1aaad8a9aa2cbaafb3730d4495d03a4"
 metafile = true
 
 [[files]]
@@ -507,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "c613960225450aa3d2e9c0e06dee874454fce78ed69742320424e3d8e5734d7f"
+hash = "5d3a3ecdd39a3883afedf37b127de3008d50c8e7764ad752ca9165f87c98c028"
 metafile = true
 
 [[files]]
