@@ -75,12 +75,13 @@ DO:
         Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
         Adjust scaling health for distance instead https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
         Create Deco - investigate and possibly Disable "coin stacks"?
-        Investigate steam and rails for stuff we dont want (phantom rails?)
+        Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
         Investigate Glassential functional glass blocks
         Determine if Pams food extended is just too much
         Investigate secret rooms
         Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
-    
+        IE Wooden Storage Crate and Wooden Barrel?
+
     CONFIGS:
         FIX SOL SWEET POTATO
         adjust the corail tombstone config as needed
@@ -95,4 +96,4 @@ DO:
 
 
 Server Update Command Line:
-`java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server` the start the minecraft dedi
+`java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server` then start the minecraft dedi
