@@ -70,24 +70,29 @@ Soft No:
 
 DO:
 
-    CONFIGS
-    how 
-    Determine how Vein Mining is actually going to affect the player and tool durability
-    Apotheosis - Turn down the spawn rates of mini bosses and disable armor drops from every mob
-    CC Tweaked - TURN OFF THE TURTLES
-    Farming for Blockheads - Adjust the market trades or just disable it?
-    Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
-    Adjust scaling health for distance instead https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
-    Create Deco - investigate and possibly Disable "coin stacks"?
-    Investigate steam and rails for stuff we dont want (phantom rails?)
-    Glassential functional glass blocks
-    Aircraft needs adjustments (nerf pedal) and better integration with crafting recp (possible aircraft industry?)
-    Determine if Pams food extended is too much
-    investigate secret rooms
-    fix starter kit
-    check toolbelt config for item list and quantity
-    Serene Seasons: crops (temp and season bands) and change season lengths
-    Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
+    Changes:
+        Determine how Vein Mining is actually going to affect the player and tool durability
+        Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
+        Adjust scaling health for distance instead https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
+        Create Deco - investigate and possibly Disable "coin stacks"?
+        Investigate steam and rails for stuff we dont want (phantom rails?)
+        Investigate Glassential functional glass blocks
+        Determine if Pams food extended is just too much
+        Investigate secret rooms
+        Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
+    
+    CONFIGS:
+        FIX SOL SWEET POTATO
+        adjust the corail tombstone config as needed
+        Apotheosis disable armor drops from every mob
+        CC Tweaked TURN OFF THE TURTLES
+        Farming for Blockheads - Adjust the market trades or just disable the market?
+        Aircraft needs adjustments (nerf pedal) and better integration with crafting recp (possible aircraft industry?)
+        fix starter kit
+        check toolbelt config for item white/blacklist ~~and quantity~~ *no quantity adjustments*
+        Serene Seasons: crops (temp and season bands) and manage tectonic biomes
+
+
 
 Server Update Command Line:
 `java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server` the start the minecraft dedi

@@ -204,7 +204,13 @@
 		#A modifier to apply to the cloches total growing speed
 		#Range: 0.001 ~ 1000.0
 		growth_modifier = 1.0
-
+		#A base-modifier for all solid fertilizers in the cloche
+		#Range: 0.001 ~ 1000.0
+		solid_fertilizer_mod = 1.0
+		#A base-modifier for all fluid fertilizers in the cloche
+		#Range: 0.001 ~ 1000.0
+		fluid_fertilizer_mod = 1.0
+	
 	[machines.lantern]
 		#Set this to false to disable the mob-spawn prevention of the Powered Lantern
 		spawnPrevent = true
@@ -332,6 +338,8 @@
 		#The maximum depletion a vein can start with, as a decimal value. When a vein generates, a random percentage up to this value is depleted from it
 		#Range: 0.0 ~ 1.0
 		initial_depletion = 0.2
+		#List of dimensions that can't contain minerals. Default: The End.
+		dimBlacklist = ["minecraft:the_end"]
 
 [ores]
 	#The retrogeneration key. Basically IE checks if this key is saved in the chunks data. If it isn't, it will perform retrogen on all ores marked for retrogen.
@@ -531,4 +539,10 @@
 		#A modifier for the damage of all projectiles fired by the Railgun
 		#Range: 0.0 ~ 1.7976931348623157E308
 		damage_modifier = 1.0
+
+	[tools.powerpack]
+		#A whitelist of armor pieces to allow attaching the capacitor backpack, formatting: [mod id]:[item name]
+		whitelist = []
+		#A blacklist of armor pieces to allow attaching the capacitor backpack, formatting: [mod id]:[item name]. Whitelist has priority over this
+		blacklist = []
 

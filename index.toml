@@ -6,15 +6,43 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "996fe4da517bba9d0f9457e6c865f1f96c93adf77d9d700fd678027544553f67"
+hash = "c82ef345f5b4182fb6efe1639c94564b987be696563d0a47aaf0fcdbd47fffd4"
 
 [[files]]
 file = "config/alltheores-common.toml"
 hash = "9caa6c542c1d1c41745c08e0c6e74191e0c4ef311b531706d2a4d0bcc9ff8280"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "f0b61f654be8840fd3e760cfc541c10a8a95eeca1e520f56b5a83e5865c06959"
+
+[[files]]
 file = "config/apotheosis/apotheosis.cfg"
 hash = "2ff0d89ec4f83271728dc5c3e32621667ebe5c235f8e236ee416ba266eee12b1"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "8dbf5a449f9a9346fcd484a02d75ad594c2889b4efe7c549d38402a3fc280cce"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "eb5c7e4ac9b208d70fca3d9bff2398ba8b544a459da5a815cee615b5aa67e7c0"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "27a10b24799384a03c09bdf199e9431a88325596a1057c189e71f336ac9e0969"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "4d952a8813770e89c40f12def7b5b6b02fc493cdb74dc8c16cff90213391c92b"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "d85c1cd4538207987ab387130a346a717849b87655575c19a3ca473434822bab"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "a86349c5ec4865a2bc3305fddf90a8989e67d17954f00b2b5906c3f0f8f5c826"
 
 [[files]]
 file = "config/create-common.toml"
@@ -25,8 +53,20 @@ file = "config/geolosys-common.toml"
 hash = "71c19afb5692c9ea00c89cf20db056fc2eab74a390dc3af111de961693a4beca"
 
 [[files]]
+file = "config/toolbelt-client.toml"
+hash = "d54cc925f9d5d87171433b80a30f79996a9c16365f9e679c43be9495758d8104"
+
+[[files]]
+file = "defaultconfigs/computercraft-server.toml"
+hash = "b61afc376012baadfe60676b6d127cb1e34645d5feebe99b84a89c5557f74844"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "b97d4272a25c0cace23ee81becd05f52dd7b901da4db30bd2bd5dcaedabf56d6"
+
+[[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "724e2f7149e2b464b7f173e1a6bceb01929debd40054d5471c3013c12a336ec7"
+hash = "5f48ae4f16f9efb1cc24026c9e5f55cd4964d2b3d930ade3ec04ab8a15f311cc"
 
 [[files]]
 file = "defaultconfigs/lightmanscurrency-server.toml"
@@ -35,6 +75,26 @@ hash = "3153825ecc000a800646858d952c524f44767713a979ded80601a141f7770207"
 [[files]]
 file = "defaultconfigs/scalinghealth-server.toml"
 hash = "c7a815673530e80ac9da5cf6f82700162202d8cffd8e1b8e359cee3140bb3e18"
+
+[[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "4b22a66bd9819ad9b642a9029a7daa191b49b486bf6acb824939b9c1f08948f6"
+
+[[files]]
+file = "defaultconfigs/solsweetpotato-server.toml"
+hash = "e77a765d1cf3b3cbba90b0579d7906946ba53a1b171adc618279019e8b48db81"
+
+[[files]]
+file = "defaultconfigs/tombstone-server.toml"
+hash = "2a2421a438cc8cdfb9ec0c62870ceaaf557b8bd385d2d4861cf8ff389fd49971"
+
+[[files]]
+file = "defaultconfigs/toolbelt-server.toml"
+hash = "38e800e17fb66d372bb80a01913e3fd3e9c92fa7f5646f553d449b711077d584"
+
+[[files]]
+file = "defaultconfigs/veinmining-server.toml"
+hash = "c2e0b3838bd5a45f4cb59401d37ea8d8d4b8768281643e05799f37a7bc6ad591"
 
 [[files]]
 file = "instance.png"
