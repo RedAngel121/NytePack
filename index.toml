@@ -171,6 +171,11 @@ hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "ca0f803024d815f4981a16e147f67b3d969692a016e017126950c8ea23a74b60"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "2525c4774e1b6f182cfb549a622653e7fd8457473dd9a0c97fe1090d8a61a1cb"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "4d71a6594696cc46a5530ba85c0314a734473c1003b9aab876be5d7a3ed7dd6b"
+metafile = true
+
+[[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "751f531575ccab2febb415b6739c40d0f01f58e8ae519fbab2614fc3e15888c5"
 metafile = true
 
 [[files]]
