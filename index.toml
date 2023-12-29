@@ -105,6 +105,10 @@ file = "defaultconfigs/veinmining-server.toml"
 hash = "c2e0b3838bd5a45f4cb59401d37ea8d8d4b8768281643e05799f37a7bc6ad591"
 
 [[files]]
+file = "global_packs/required_resources/Geolosys_Large_Deposits.zip"
+hash = "e0ad8b0d04942c7ad48aba246fdc7508b35be4a2847e76da3973e1494de8eef3"
+
+[[files]]
 file = "instance.png"
 hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
