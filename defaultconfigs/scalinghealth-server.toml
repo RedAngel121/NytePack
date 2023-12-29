@@ -2,7 +2,7 @@
 #All SH features can be disabled here. False to disable.
 [features]
 	#Enable player bonus hp by crystals.
-	crystalsAddHealth = true
+	crystalsAddHealth = false
 	#Enable player bonus hp by xp.
 	xpAddHealth = true
 	#Enable player regen hp by crystals.
@@ -10,7 +10,7 @@
 	#Enable pet add hp by crystals.
 	crystalsAddPetHealth = true
 	#Enable player add damage by crystals.
-	crystalsAddDamage = true
+	crystalsAddDamage = false
 	#Enable ore gen of health crystals. Still drops as loot.
 	hpCrystalsOreGen = false
 	#Enable ore gen of power crystals. Still drops as loot.
@@ -24,9 +24,9 @@
 	#Enable mob damage scaling.
 	mobDamageScaling = true
 	#Enable difficulty system. If disabled, everything will have 0 difficulty.
-	enableDifficulty = true
+	enableDifficulty = false
 	#Enable blights. If disabled, no blights will spawn.
-	enableBlights = true
+	enableBlights = false
 
 #Debug settings are intended for tuning configs or diagnosing issues.
 #They may decrease performance and should be disabled for normal play.

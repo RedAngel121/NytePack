@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "c82ef345f5b4182fb6efe1639c94564b987be696563d0a47aaf0fcdbd47fffd4"
+hash = "c230bc5c74914e839cbb41dbd5adc3a5fefa3cf9ba12df37f236ad330b77d8d9"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -42,7 +42,11 @@ hash = "d85c1cd4538207987ab387130a346a717849b87655575c19a3ca473434822bab"
 
 [[files]]
 file = "config/apotheosis/village.cfg"
-hash = "a86349c5ec4865a2bc3305fddf90a8989e67d17954f00b2b5906c3f0f8f5c826"
+hash = "168f9fd1a6f548979c1ad1b24a3962fc81543e296817f6042d530645eb42f208"
+
+[[files]]
+file = "config/bhc/drops.json"
+hash = "98ebb0b6701012291bb0f55ad988c646d8ff891e283e7eec1c8333448523bba8"
 
 [[files]]
 file = "config/create-common.toml"
@@ -51,6 +55,10 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 [[files]]
 file = "config/geolosys-common.toml"
 hash = "71c19afb5692c9ea00c89cf20db056fc2eab74a390dc3af111de961693a4beca"
+
+[[files]]
+file = "config/scalinghealth-client.toml"
+hash = "8a7914f6245550242376ccb70708193861d3b0cb6c71d57b312aa9255f8f7d3c"
 
 [[files]]
 file = "config/toolbelt-client.toml"
@@ -74,7 +82,7 @@ hash = "3153825ecc000a800646858d952c524f44767713a979ded80601a141f7770207"
 
 [[files]]
 file = "defaultconfigs/scalinghealth-server.toml"
-hash = "c7a815673530e80ac9da5cf6f82700162202d8cffd8e1b8e359cee3140bb3e18"
+hash = "16c172e75cb70baba55d4ad8abbb828eb1b4c6336af3383146bfd2137eed32cc"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
@@ -86,7 +94,7 @@ hash = "e77a765d1cf3b3cbba90b0579d7906946ba53a1b171adc618279019e8b48db81"
 
 [[files]]
 file = "defaultconfigs/tombstone-server.toml"
-hash = "2a2421a438cc8cdfb9ec0c62870ceaaf557b8bd385d2d4861cf8ff389fd49971"
+hash = "c651b2e0006357d3f3de8790492071fe676763ac1b9b8cf50b91e10950a60d14"
 
 [[files]]
 file = "defaultconfigs/toolbelt-server.toml"

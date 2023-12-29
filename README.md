@@ -40,7 +40,7 @@ Check out:
             Add an absolute metric ton of gateways cause thats going to be fun
             Could have integration with lightmans tickets for special purchases
         Baubley Heart Canisters
-            Needs to be removed from drops and added to purchaseable items from server vending machines
+            Needs to be removed from drops (done) and added to purchaseable items from server vending machines
 
     World:
         Towns and Towers
