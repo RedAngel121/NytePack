@@ -14,7 +14,7 @@ hash = "9caa6c542c1d1c41745c08e0c6e74191e0c4ef311b531706d2a4d0bcc9ff8280"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
-hash = "f0b61f654be8840fd3e760cfc541c10a8a95eeca1e520f56b5a83e5865c06959"
+hash = "83beccabff4f6c78058a5ec0a80a3b9759da68ff6c9112d7e5ffea18e707dad2"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -26,11 +26,11 @@ hash = "8dbf5a449f9a9346fcd484a02d75ad594c2889b4efe7c549d38402a3fc280cce"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
-hash = "eb5c7e4ac9b208d70fca3d9bff2398ba8b544a459da5a815cee615b5aa67e7c0"
+hash = "b0c20e5de283e25ea7327d8688b507acd2021d2b19b079aa11222167838b6312"
 
 [[files]]
 file = "config/apotheosis/names.cfg"
-hash = "27a10b24799384a03c09bdf199e9431a88325596a1057c189e71f336ac9e0969"
+hash = "cb4ae0cf7fe9ca509035dce09d76b0129bf52010fe768ba81d59109e2fb693b6"
 
 [[files]]
 file = "config/apotheosis/potion.cfg"
@@ -105,7 +105,7 @@ file = "defaultconfigs/veinmining-server.toml"
 hash = "c2e0b3838bd5a45f4cb59401d37ea8d8d4b8768281643e05799f37a7bc6ad591"
 
 [[files]]
-file = "global_packs/required_resources/Geolosys_Large_Deposits.zip"
+file = "global_packs/required_data/Geolosys_Large_Deposits.zip"
 hash = "e0ad8b0d04942c7ad48aba246fdc7508b35be4a2847e76da3973e1494de8eef3"
 
 [[files]]
