@@ -6,9 +6,9 @@
 	#Enable player bonus hp by xp.
 	xpAddHealth = true
 	#Enable player regen hp by crystals.
-	crystalsRegenHealth = true
+	crystalsRegenHealth = false
 	#Enable pet add hp by crystals.
-	crystalsAddPetHealth = true
+	crystalsAddPetHealth = false
 	#Enable player add damage by crystals.
 	crystalsAddDamage = false
 	#Enable ore gen of health crystals. Still drops as loot.
@@ -24,7 +24,7 @@
 	#Enable mob damage scaling.
 	mobDamageScaling = true
 	#Enable difficulty system. If disabled, everything will have 0 difficulty.
-	enableDifficulty = false
+	enableDifficulty = true
 	#Enable blights. If disabled, no blights will spawn.
 	enableBlights = false
 

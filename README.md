@@ -73,7 +73,12 @@ DO:
     Changes:
         Determine how Vein Mining is actually going to affect the player and tool durability
         Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
-        Adjust scaling health for distance instead https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
+        Adjust Scaling Health Mod
+            - Distance instead of time
+            - Set max health limits "higher"
+            - Disable all drops
+            - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
+            - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
         Create Deco - investigate and possibly Disable "coin stacks"?
         Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
         Investigate Glassential functional glass blocks
@@ -83,9 +88,9 @@ DO:
         IE Wooden Storage Crate and Wooden Barrel?
 
     CONFIGS:
-        FIX SOL SWEET POTATO
+        FIX SOL SWEET POTATO-SERVER.TOML to include the 
         adjust the corail tombstone config as needed
-        Apotheosis disable armor drops from every mob
+        Apotheosis disable armor drops from every mob, adjust settings
         CC Tweaked TURN OFF THE TURTLES
         Farming for Blockheads - Adjust the market trades or just disable the market?
         Aircraft needs adjustments (nerf pedal) and better integration with crafting recp (possible aircraft industry?)

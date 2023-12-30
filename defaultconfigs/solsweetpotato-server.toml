@@ -54,12 +54,12 @@
 	# Whether or not to reset food diversity on death, effectively losing all benefits.
 	#
 	#
-	resetOnDeath = false
+	resetOnDeath = true
 	#
 	# If true, eating foods outside of survival mode (e.g. creative/adventure) is not tracked.
 	#
 	#
-	limitProgressionToSurvival = false
+	limitProgressionToSurvival = true
 	#
 	# How many foods should be tracked. I.e., how many food items eaten in the past should count toward food diversity.
 	# Note that the larger this is, the higher your potential diversity value can be, so keep this mind
@@ -69,7 +69,7 @@
 	#
 	#
 	#Range: 1 ~ 1000
-	queueSize = 32
+	queueSize = 100
 
 [Advanced]
 	# These config options all affect the technical details of how diversity is calculated.
@@ -95,7 +95,7 @@
 	#
 	#
 	#Range: 0 ~ 1000
-	endDecay = 32
+	endDecay = 100
 	#
 	# How many meals in the past should the diversity time penalty start to apply.
 	# **Needs to be less than queueSize and less than or equal to endDecay!!!**
