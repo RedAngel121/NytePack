@@ -14,7 +14,7 @@ hash = "9caa6c542c1d1c41745c08e0c6e74191e0c4ef311b531706d2a4d0bcc9ff8280"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
-hash = "83beccabff4f6c78058a5ec0a80a3b9759da68ff6c9112d7e5ffea18e707dad2"
+hash = "cac921056282416d12c2123bb54e12f356439de53fbaebc8fa7700a9d82178f3"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -30,11 +30,11 @@ hash = "b0c20e5de283e25ea7327d8688b507acd2021d2b19b079aa11222167838b6312"
 
 [[files]]
 file = "config/apotheosis/names.cfg"
-hash = "cb4ae0cf7fe9ca509035dce09d76b0129bf52010fe768ba81d59109e2fb693b6"
+hash = "af7610dd78a74605f71741f3aad96a4e7432c4309277a44f0f8ac2696713cd72"
 
 [[files]]
 file = "config/apotheosis/potion.cfg"
-hash = "4d952a8813770e89c40f12def7b5b6b02fc493cdb74dc8c16cff90213391c92b"
+hash = "da603e65d8456d1f9cb201cfa5b2c49d3c5db3c4259e6aa7625335424809f4c6"
 
 [[files]]
 file = "config/apotheosis/spawner.cfg"
