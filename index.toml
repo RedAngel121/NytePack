@@ -54,7 +54,7 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 
 [[files]]
 file = "config/geolosys-common.toml"
-hash = "71c19afb5692c9ea00c89cf20db056fc2eab74a390dc3af111de961693a4beca"
+hash = "0f4bec4ca7b65b6ea947405b4d9933ab6dbe88c54dd189ee966c2cbe967ffd59"
 
 [[files]]
 file = "config/scalinghealth-client.toml"
