@@ -568,6 +568,11 @@ hash = "8b9af4d0f8b912ac1ec8fe7ab8291dc7384f9db13e18bf7a8eb4f054d685449f"
 metafile = true
 
 [[files]]
+file = "mods/no-more-inifinite-water.pw.toml"
+hash = "0db676d7d698a8868a7dd015ed500cde387238ec2bb68541a53ddfe7ffafbf6c"
+metafile = true
+
+[[files]]
 file = "mods/oauth.pw.toml"
 hash = "df6534c93c5c2b0a01c5b5fc03c6c9e63be78f0c12c7a9f6f7369cf7841cd22c"
 metafile = true

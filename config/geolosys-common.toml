@@ -25,11 +25,11 @@
 	giveManual = false
 	#Maximum samples that can generate with each pluton within a chunk
 	#Range: 1 ~ 256
-	maxSamplesPerChunk = 10
+	maxSamplesPerChunk = 4
 	#The upper limit of RNG for generating any pluton in a given chunk.
 	#Larger values indicate further distance between plutons.
 	#Range: 0.0 ~ 1.0
-	chunkSkipChance = 0.9
+	chunkSkipChance = 0.975
 
 #Feature Control
 ["feature control"]
