@@ -105,8 +105,604 @@ file = "defaultconfigs/veinmining-server.toml"
 hash = "c2e0b3838bd5a45f4cb59401d37ea8d8d4b8768281643e05799f37a7bc6ad591"
 
 [[files]]
-file = "global_packs/required_data/Geolosys_Large_Deposits.zip"
-hash = "e71f9981cdac26ec8310918e5e7287b2ff1149b1d76927e28797c2667d158e38"
+file = "global_packs/required_data/Geolosys_Custom_Deposits.zip"
+hash = "adfd1861dcc76742283d74aeb24cba537cb8c6b4d44f203b9cf9a9de5733bc20"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/ancient_debris.json"
+hash = "0d94dce465cc5352333b5361a16ba63257e1b6f42c2a9f6850f68aafe4f533bd"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/anthracitic_coal.json"
+hash = "1ef327660b68f472b47e8886c5b89e7889b2ceeb78f8e6e02bac2848d8131d43"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/assorted_quartz.json"
+hash = "b37433e8ced2f2957eaf2c4405eede9de802d98dd012aaf5844e304d9b5f4f51"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/autunite.json"
+hash = "2303f5156b974864d96c86c6816f9c61688291bc9338b0945831ef25c56cbbec"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/azurite.json"
+hash = "294b5ead233b8515440abb6d49a7689da4b55eda01e554062153ab7477348631"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/bauxite.json"
+hash = "ecaf190d786251861e500db7005f02b2daf733a682e3ea29fbf2df9a83751ab7"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/beryl.json"
+hash = "efd1b05d6c11ac1b8760e1279bcacaa6b4c90b9c5f228ff8fe208110ee38df74"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/bituminous_coal.json"
+hash = "fa5b64d2774f2cfa333a2542c213e6e4cd6f17af04c0f15d4e24ebd4c699bb09"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/cassiterite.json"
+hash = "f7932fa634fb51df403c1d7e8a7fa5226c5d9e4b8b3db7d69c63a344a3af4a8d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/cinnabar.json"
+hash = "14687cd730fb1d74b581591cd2adff20517fcbdc2ccdd60244cd1a90b72ec5d7"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/coal.json"
+hash = "a0f5fd82a03495c83a409e8234afd31aae5ddd5b41e7b9fb09af849e3d257306"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/galena.json"
+hash = "18ea80edbcbe44335e9d69a5a146b7ad9348adcab61ce95d643ca2dc4dad434c"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/gold.json"
+hash = "f86cd327b2da2ff1476ae2514e0859ceac924cb8b38536663b3e5b1bb48e30a1"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/gold_nether.json"
+hash = "c567e20d29ae60999964df7d96ad33d1d74c363b787750966795e5afa16fb142"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/hematite.json"
+hash = "b9e01fad535aea6504647a1c9f2c45df625573b670e14098767fb78398cc8449"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/kimberlite.json"
+hash = "6b1af3288cbd4a23d8ff21557e2b036518b3b251845057d06615af38958a291d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/lapis.json"
+hash = "6acd92c2eb5ec5ffbed8ad055038ad33f1fbb3b2224b2feb86220ff44d9797e1"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/lignite.json"
+hash = "591649d035788c6876a97eff479f5b78201bbf59bd6884d5ecda6be8b24a2886"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/limonite.json"
+hash = "d12931a2028ed8deeeeca0b6299d00c08066353f55214669fe5bbe653986a6a5"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/malachite.json"
+hash = "5c7b76befa9f304275cb481abfaaa07d877c6d0a1a3b52cb5513aea8b01cb113"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/platinum.json"
+hash = "bc1515abecb526213261f125cb14249be7aef82f24938c5612a5e48c1590fed9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/sphalerite.json"
+hash = "502c87bd1758509ddcdbac742756e8bc9a14c34af7c2ea4c85860aad9936a5b9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/ore/teallite_and_emerald.json"
+hash = "8e7df51a8cbb464774065e541af6d7f32571f1acb650c6205710472be3a43ce0"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/other/peat.json"
+hash = "3de13afabdfc583b51203ff0bd61b8be5592fdfd286999b65b18559276aace7d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/stone/andesite.json"
+hash = "bc7ef9056f4c2c4a74df911cae84aeec1762e9f67788bf598d70e1ef2982fc4a"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/stone/diorite.json"
+hash = "e195bd9a6f651e8fd111097f8cb93db64d8d68e3297a323999820b1a6eab5e84"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/deposits/stone/granite.json"
+hash = "edf7b7fd7071e640513da5f6e9fa9e9fc646d463db0b69b52ed5ab0ae7d720df"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/autunite_yellorium.json"
+hash = "5b3d9ce5b1d4c9d98f663f151947356e0fea9609490a0c2d585ffac911ad8bc2"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/coal_sulfur.json"
+hash = "72050f2b7f834bdbcdc32c296b528aec23e20d7665a2f172e4e90e6dda568d81"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/deepslate_autunite_yellorium.json"
+hash = "593cbdc679f1ae2be15e944a4f14923d8beb8882285649e44ccfb8343981a91e"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/deepslate_coal_sulfur.json"
+hash = "b458707ebf14605f82c7dc35b07e40a83037c870d7e03bd49571067c9df3308f"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/deepslate_platinum_osmium.json"
+hash = "ee4012f7dc9b4b3c27adc2037b84dabec93de66ff6724112dcb91f1ca7c16a18"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/deepslate_quartz_variants.json"
+hash = "70a37c89ca1ef3756186a6f6679cc7801217156d21e9664f276b2dc2ccc15422"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/platinum_osmium.json"
+hash = "8ad7ddf2c9b9da2831fb0bd2ab96b7330e5134b8f6a4f3acb4ded9d7952feda3"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_modifiers/quartz_variants.json"
+hash = "c74163823d1478124330c61a7d94ddb4879a6b775c8fe700092c2d0c70053973"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/ancient_debris_ore.json"
+hash = "1dfab1795da08f70c8eb9017f5543e567832f1a1ca521fe8253cee3503f352fd"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/ancient_debris_ore_sample.json"
+hash = "e030adff2fcad46b63aac6f9b7744c29b9d08def984eb3069966012cc1c94893"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/anthracite_coal_ore.json"
+hash = "dc7e04cce90d80457499ab4caf933951ef71f4d635fc6fafbd33b96497114d13"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/anthracite_coal_ore_sample.json"
+hash = "b00374147d7f95e7bd84b08ab3a6b2050bdea51689bf78149aa4689e0207d868"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/autunite_ore.json"
+hash = "8b8f66926974f280440a6af15b2c9d7306c41f968fe52525d402a7f4bfbdb39c"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/autunite_ore_sample.json"
+hash = "bb0cf925f498a6ab6778f46249bb4618a15cf5c18aee91f4d0f2a424216614b3"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/azurite_ore.json"
+hash = "7b1315c4aa33f93daf3344d8599256af48bd94d19b97c84e1214cdaedf50b246"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/azurite_ore_sample.json"
+hash = "38a2a1b9f77cb0537ce63c49f532590892951c9eb2a254f1aefbfaa5113947f2"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/bauxite_ore.json"
+hash = "0aa664db78190b7170790d6393dbe4e1b1c3dcba5295d5c727aa58a162f8eaf3"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/bauxite_ore_sample.json"
+hash = "f377ad10c87cf7a15c721868bfbb71d6114845a6c30dea8e861c9791ef8cda34"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/beryl_ore.json"
+hash = "2c5338637426f9712b52df43c09845b9a55abcd5a3fa6088f4195f88399de435"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/beryl_ore_sample.json"
+hash = "f0b09472b29b32c1ece2adda222ec0c84db003dd43dacfecd16fd8d492ba0421"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/bituminous_coal_ore.json"
+hash = "6484c5970e58e08d0dfe4729fed192d20d0cfb48faa97a3740403c56145f83d1"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/bituminous_coal_ore_sample.json"
+hash = "3516b02909a6964b3cf077ee3d0a0f380f216d444335e6d56ed3ea3e7922dcdd"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/cassiterite_ore.json"
+hash = "e9467b2ca1a1a2b30758470d803b6ccad96d9551231121bbbefead1db928a219"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/cassiterite_ore_sample.json"
+hash = "300f36f24b3e9b43c64f2655e7532f49b827f1d7ec96ae15fcef6bacc0336aed"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/cinnabar_ore.json"
+hash = "28d653a704707df4dacb3de75216bd532595f98fce68a772c639f791ca90a80e"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/cinnabar_ore_sample.json"
+hash = "7780c6af641386a184f892f8e2908c6b81f3836a02360e681fbad07606dcb5e7"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/coal_ore.json"
+hash = "236af4366735168c543bc5ea48975f0abc737afc5dd1f601263116046920a011"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/coal_ore_sample.json"
+hash = "8a71c66fedda65786d7638ec7c6cebf485cb613274fc3430afc07f1f61d8e464"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_anthracite_coal_ore.json"
+hash = "6a15a851d0582f85058fe29ad991fd751809c74e0fae23ed0afd8fb0da48770a"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_autunite_ore.json"
+hash = "42f1de5dd8898814859ae492c1f9475aae748272713e3b17bde321f60f0326f4"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_azurite_ore.json"
+hash = "b15aadf9940d0a12c597c3e2a2d08a04a7bef4e6434dd0ef5e5066eba7231f86"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_bauxite_ore.json"
+hash = "b3c5d1bf5a1fec57ea5712284a1f1bced5789e95892331550b6a96f44b9ade7f"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_beryl_ore.json"
+hash = "cdb00d66ffaa3eb17ba9b2994fa8bf031a7e3dd132c9aec5decc33e0c99d5d9f"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_bituminous_coal_ore.json"
+hash = "7de5d7edc68157372b409a64f87c99fc197ab49cc654051ece7b96a13495cab2"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_cassiterite_ore.json"
+hash = "8b2f2ad99fac5e2e937d4dfeb27e8f15d94a5270e78293ecde018aa47df6434d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_cinnabar_ore.json"
+hash = "783b53eddf0dc2f5522f6fdae6236bc31bc3704747e2c7ca6ba84cbfd7c20f93"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_coal_ore.json"
+hash = "733c1e38fd1f24a9a2d2062b10833384358b327e111c7414c3008b34420b753a"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_galena_ore.json"
+hash = "31a4f33334627eefce184d95346d2089a00dabef8bba613c3e61381f40ec56f2"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_gold_ore.json"
+hash = "a358b26aac11d5eaa3d203958db8df04f83a464d81c16565023663af52e8c248"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_hematite_ore.json"
+hash = "f5dc418109a33ccda4b990d1c6abde23e25eea75bd3456fb9ca59a4c20906e7c"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_kimberlite_ore.json"
+hash = "3177384c5aaf66b194bcf8a0b137a6f6253a37934b2668378404a1da3c5b64b3"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_lapis_ore.json"
+hash = "7534d5e09a2c829611200d635c5f59b6509ce2ae3f9561733d811a419edd4b35"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_lignite_ore.json"
+hash = "77bcfbc41788166926e6f510f6671863054e5419b35b8ad4bcbefcc26bf6cbf6"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_limonite_ore.json"
+hash = "66f78984ebb2c79cc60f10b888360c3e7a7565cd869b8a2a2ff64dc101147bb9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_malachite_ore.json"
+hash = "5c3cc28c67fd35dd984f3b6c8da540b93d9494a08a4125d41e75ffac71e99f35"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_platinum_ore.json"
+hash = "5dc8dfc9b6efc61dd48c76ab5a9f7cd9be32b0978abef0a81f40a878fad890bf"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_quartz_ore.json"
+hash = "fde57541a6a2b74ff2f08fd5d55a2e4889ae99995aaa2b6a319aa2a9556d876d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_sphalerite_ore.json"
+hash = "12fb11a220c71117f85ac644a72153fae750b4c5f2bf59f4b9210d0fca23766a"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/deepslate_teallite_ore.json"
+hash = "ff258bcde11b504e30cd3d1d8ac2088cb22d2386e25a12a14d63eaaf2ea850fd"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/galena_ore.json"
+hash = "1293c84bc72e226d1cc57e5383bd32c647587938c6d17450d0d89b575258c701"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/galena_ore_sample.json"
+hash = "37a532a33d2c7bfda4ac4a79c40329a149ec198e89c2ab1520b2307df9db4cde"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/gold_ore.json"
+hash = "8c31bb5f03d60f74d5769fc5c54a6983979b88297771a1b7377becfff6498c64"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/gold_ore_sample.json"
+hash = "bf27905e3f12d3074ae29f9d37641e46d16301772b00755d27c7cf4a9e8491a9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/hematite_ore.json"
+hash = "57e40826bd6d95a4b374203f4b8a0a3b2088f393da02ffeac4c1152c120b3083"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/hematite_ore_sample.json"
+hash = "afc1bd469736d2230e1042c777e19e7ac34b67e478953c6338c7984656b4b790"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/kimberlite_ore.json"
+hash = "ab86ebc1c54f060adee4fc821275423d55c134f1ef88e0c3bf3642572d7efc4e"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/kimberlite_ore_sample.json"
+hash = "307e994a137cc58894979b41989591b5e88f70e6c046df35d4b9d35b836d11fa"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/lapis_ore.json"
+hash = "b445d7f044ab24ff84e03930f673ae28ca6cc7072de37d1a1ed10e6c04a43307"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/lapis_ore_sample.json"
+hash = "712d1ef6eedf4e6f053ae292a74fbb2fefbb4cb727c6b3f12622d67d25911b1f"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/lignite_ore.json"
+hash = "587f03506ccc5b7819bd666cc274f5febcfb68badc515f479d9ad0af2e877fa0"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/lignite_ore_sample.json"
+hash = "ace0ea5b08d150f407a0a1625e4db0ba5805bbdf3fd2a9d56f3887bf602b44ff"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/limonite_ore.json"
+hash = "d6334e0aac4183abcc763ba9e59412cabb55030727052a4eede3338f69aa529f"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/limonite_ore_sample.json"
+hash = "316bb49c35fa2107088fa26cbea4e1c039668df736db8e1803381c7efa424a82"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/malachite_ore.json"
+hash = "5848e971249a36ebb0ce82a55e65c808714d5f0942caaa9f511f7dc45115250d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/malachite_ore_sample.json"
+hash = "38a2a1b9f77cb0537ce63c49f532590892951c9eb2a254f1aefbfaa5113947f2"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/nether_gold_ore.json"
+hash = "fa32e3b1d3e089dc7b14d6d093b4e1b1e65b6d388688723a1e9b95ce06dc951d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/nether_gold_ore_sample.json"
+hash = "e4a28942a23e3d856f060bb5833939965910e5a7201fbe8a9a924210627ba9c9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/peat.json"
+hash = "dd83be4eeaa50cf798561ea156b5111424b7dc8917ac5cf07c046a7385591826"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/platinum_ore.json"
+hash = "fbcd0fd1ef344562707e3df2ec39158462b3d78bf0591c85f1c1b0b490f5c4a8"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/platinum_ore_sample.json"
+hash = "f4d7719c365b10f312aa518ea35ec8316b1afdb5a9b308eb30e5156085dc9a32"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/quartz_ore.json"
+hash = "9f7882927650e12a5b0ca48ebef4a2df4f91ffbc68497f8588d2e5431c0a7dca"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/quartz_ore_sample.json"
+hash = "e94b52b815ee6397b98387d1c31ed256a558d7b0f000c352a37ca5b1ba4bd541"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/rhododendron.json"
+hash = "0544ce3834dbb92238bb3b5f1d04522721ca14642ae03a1a0ad25ad520d31dfe"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/sphalerite_ore.json"
+hash = "de421862478ba2e1bbdd44384bacc2657f00e48b084db974a116cfd663870dad"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/sphalerite_ore_sample.json"
+hash = "4c4169add9541ecaee465e5849d7bfa33c12641cbfd688fe0f324708ddb363d7"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/teallite_ore.json"
+hash = "9575e9799b04528d133687b5db830cf6f8adeef1ae48c8ed933ed2aa6d12c633"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/loot_tables/blocks/teallite_ore_sample.json"
+hash = "300f36f24b3e9b43c64f2655e7532f49b827f1d7ec96ae15fcef6bacc0336aed"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/aluminum_ingot_from_cluster_blasting.json"
+hash = "8c4be11a03dea4f8351192eadb03a8c6578d6499089529f81fba02ec2be105ac"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/copper_ingot_from_cluster_blasting.json"
+hash = "64d3f96964af295a4a6b4fae142853d5cbbd6e0414ea9328145829656bd458c1"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/gold_ingot_from_cluster_blasting.json"
+hash = "b0a20f1bda57e28b23e4c87b2863d70bb8e553a7a53a88a514a5c4b4cec6180d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/gold_nugget_from_poor_cluster_blasting.json"
+hash = "0a4ded0980b398b58efdb3a6343333f282ae57dea0dbe9c15bc9e404c78d2b82"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/iron_ingot_from_cluster_blasting.json"
+hash = "3c444547cfb76e36b5d7a1e02b4a34fe24990a25516a3bd4ef6eaac14a20b688"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/lead_ingot_from_cluster_blasting.json"
+hash = "3c34cc89dbf8314549bf512651ebd3dd8027140447aaafb20ea2a9f69f46d52b"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/netherite_scrap_from_cluster_blasting.json"
+hash = "67145b403aa06f65d38cccea3e0d0957e476f442d965d3d50100ea10e13dbe67"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/nickel_ingot_from_cluster_blasting.json"
+hash = "d894dba5e166699c9f73f8e7659c6ce39faf22316dcc4c7f12ce5e14a655caa1"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/platinum_ingot_from_cluster_blasting.json"
+hash = "ae272fdd94a0c0d1278cacf4038b180a77d3b57b0af1bd4538b5bbd1752aa8de"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/silver_ingot_from_cluster_blasting.json"
+hash = "a3b375e50cc4faead67f38e5e4a923a550d6e6ca11782791645f0dd0afc24b5e"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/tin_ingot_from_cluster_blasting.json"
+hash = "8f235a8ba5446f01a1742c3085be1611674f9614a0217ef6406bdb65c7def34f"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/blasting/zinc_ingot_from_cluster_blasting.json"
+hash = "ad80d7a859610e1aa71a1ccb08a1e10ee688de576f80fbbb5f4ddf2384a65bd8"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/compat/immersiveengineering/bituminous_coke_from_coke_oven.json"
+hash = "2e3a5c19a7fd77d7e849cabd6c06104024578f7dc69aa647fafb4a9bc3f8f9b9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/compat/immersiveengineering/lignite_coke_from_coke_oven.json"
+hash = "7bde19c2d5b79e4ffba0734405a1acc0cc682bf5add51ce470a57c81b7e7d765"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/field_manual_from_crafting.json"
+hash = "4d4fd0d59378d4f88caae385eb0bafba37e0229f8e67fab532db2179609005b8"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/aluminum_ingot_to_aluminum_nugget.json"
+hash = "c28b02fe38266236406d5e1f776988ee150c1c1116a9cc60544911286344275b"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/aluminum_nugget_to_aluminum_ingot.json"
+hash = "7d27cd3cb4acdc99570c927de1b1c69a5592860cbf56c8486f7eba8992c447d0"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/copper_ingot_to_copper_nugget.json"
+hash = "408bc1ea9cfd2b83ea49546aa9bbe1dfd00e4434ae0cb9e8f9df231a0e5ca8ec"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/copper_nugget_to_copper_ingot.json"
+hash = "9f2e4ea9d8686a787e4108d5a6998eef768dcfc1e4ea86c0d1ba187454375096"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/lead_ingot_to_lead_nugget.json"
+hash = "9fce3f431cac136ae8ac8192ff32f9a64f19f6db9b60dc2eb52873c60beec84d"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/lead_nugget_to_lead_ingot.json"
+hash = "dc799dba7de0030cf1387badf202434943cda16d012038f6eaf35c4487ac4c0a"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/nickel_ingot_to_nickel_nugget.json"
+hash = "6bf29019e348b5226560020ac70d54af6d0f6a08d002d9c0cbd4050bc0a40420"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/nickel_nugget_to_nickel_ingot.json"
+hash = "a4aa01704c080c709c0a1efab84ee5dbb9cb34ecd01ca8df7c85d1ebac03d717"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/platinum_ingot_to_platinum_nugget.json"
+hash = "1b703a7893def53574f94188c5f88459cd82b84bc497832e04d1ba8d41c442d2"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/platinum_nugget_to_platinum_ingot.json"
+hash = "f3ae25e8f96cd90bf665fd7d8d6f77628c3b8ec5a5c8a4b80de653870fa9ad09"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/silver_ingot_to_silver_nugget.json"
+hash = "4233bfca4cf59be95242d7f8e785a596204e6867916129b61c4141ffa9cdbfe9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/silver_nugget_to_silver_ingot.json"
+hash = "b1c54f58c31a5449c6fc2b91f3c06f6e05fd7352f9ba40b75e339f03686a3015"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/tin_ingot_to_tin_nugget.json"
+hash = "4720564e61f2828c1d0efc06adf92f52522160c9fa934eba550b1a77a7dcc1ad"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/tin_nugget_to_tin_ingot.json"
+hash = "c8331cf36c5d3de6c1911bc633ef20e87e5445fb9a92bcd95f056e04b26783d4"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/zinc_ingot_to_zinc_nugget.json"
+hash = "d889ae544e2330f15830c5f1d859954ff2825a479e2d028da82b827da2decfb0"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/nuggets/zinc_nugget_to_zinc_ingot.json"
+hash = "959047c681e4bcc029e8c192c2c86286a5d570985a3e0deb038e38ba01799ba9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/prospectors_pick_from_crafting.json"
+hash = "5dbf5f8e9c0e09d3fa9ce3f69d19da81f2eaa8a79562f02f245df464dbcbe6e5"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/crafting/purple_dye_from_rhododendron_crafting.json"
+hash = "d50cc4a8659bf24ef8ec27703f1699673e0897f786b5c5506b0c8caa1c5d93a3"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/aluminum_ingot_from_cluster_smelting.json"
+hash = "bdc77153d816269121aa3d88220e5821ab45918cbfd758775a586abfde327bad"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/copper_ingot_from_cluster_smelting.json"
+hash = "2288c375461e0a7d3d1f531e9d20d13fdcc928c5633307a016f798f3c9a821db"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/gold_ingot_from_cluster_smelting.json"
+hash = "c6bd2bfec19b55a988efe0e12a37972278592788f9728e024cc2f6061f9430c0"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/gold_nugget_from_poor_cluster_smelting.json"
+hash = "3df52cb400bcc41c033105b839d9e9d86f39e5e86944e6cbb81a626d9b728783"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/iron_ingot_from_cluster_smelting.json"
+hash = "18ea6771045510e1fd6536db49102214e6bfba6812c96784b0c6b1d6d79bb951"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/lead_ingot_from_cluster_smelting.json"
+hash = "bbac21292d77ec68dcb7665fb2d0945dfd9590dcfac222e5469edd69bbf2d4a7"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/netherite_scrap_from_cluster_smelting.json"
+hash = "3fd1baf50cc1639da732ce17db92a8bcdb84a7e05ae1e88d06c2b3df8dc162c9"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/nickel_ingot_from_cluster_smelting.json"
+hash = "4dcb4744c16d5944ed97880b43f2dc77f51fd37f9bb427022d1905ee3d1d18d8"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/platinum_ingot_from_cluster_smelting.json"
+hash = "b25c6db4c8e6675990e22804082c15ba5940b7230b9b4d040777d031161da1e8"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/silver_ingot_from_cluster_smelting.json"
+hash = "e5d289fe221f4cfe74c15a150875bbb9d8e94326e3a71edbeb1b4b5722c1ca49"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/tin_ingot_from_cluster_smelting.json"
+hash = "1f7a0602ba31eeb1d15e59ef57a1214b2da3c047eacec3f6c66e4bf1e250b972"
+
+[[files]]
+file = "global_packs/required_data/data/geolosys/recipes/smelting/zinc_ingot_from_cluster_smelting.json"
+hash = "1b9b5192ee57a507cd740afb57880122a1541f3362e1833797dd77d1609a98df"
 
 [[files]]
 file = "instance.png"

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "ingredient": {
+    "item": "geolosys:gold_cluster"
+  },
+  "result": "minecraft:gold_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

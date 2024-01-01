@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "geolosys:zinc_ingot"
+    }
+  ],
+  "ingredient": {
+    "item": "geolosys:zinc_cluster"
+  },
+  "result": "geolosys:zinc_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

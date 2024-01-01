@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "geolosys:silver_ingot"
+    }
+  ],
+  "ingredient": {
+    "item": "geolosys:silver_cluster"
+  },
+  "result": "geolosys:silver_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}
