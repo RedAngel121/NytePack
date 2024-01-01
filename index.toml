@@ -106,7 +106,7 @@ hash = "c2e0b3838bd5a45f4cb59401d37ea8d8d4b8768281643e05799f37a7bc6ad591"
 
 [[files]]
 file = "global_packs/required_data/Geolosys_Large_Deposits.zip"
-hash = "af06cb0149c898e3fb36d21b3601423e970febd18b383854f48acdc91e788488"
+hash = "e71f9981cdac26ec8310918e5e7287b2ff1149b1d76927e28797c2667d158e38"
 
 [[files]]
 file = "instance.png"
