@@ -3,7 +3,7 @@
 [prospecting]
 	#The number of times Geolosys will attempt to place plutons in a given chunk
 	#Range: > 1
-	numPlutonsPerChunk = 2
+	numPlutonsPerChunk = 1
 	#Whether or not Samples randomly tick (like crops). This can be bad for performance but fixes waterlogging issues on worldgen
 	shouldSamplesTick = true
 	#The diameter of the prospector's pick prospecting cycle
@@ -25,7 +25,7 @@
 	giveManual = false
 	#Maximum samples that can generate with each pluton within a chunk
 	#Range: 1 ~ 256
-	maxSamplesPerChunk = 4
+	maxSamplesPerChunk = 3
 	#The upper limit of RNG for generating any pluton in a given chunk.
 	#Larger values indicate further distance between plutons.
 	#Range: 0.0 ~ 1.0
