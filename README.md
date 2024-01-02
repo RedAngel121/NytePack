@@ -51,6 +51,8 @@ Soft No:
         FancyMenu
         PackMenu
         Simple Voice Chat
+        Neko's Enhanced Tools and Armor
+            & Shield Expansion
 
     Mods:
         Alex's Mobs (some of the mobs are just horrible)

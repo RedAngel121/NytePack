@@ -1164,8 +1164,18 @@ hash = "8b9af4d0f8b912ac1ec8fe7ab8291dc7384f9db13e18bf7a8eb4f054d685449f"
 metafile = true
 
 [[files]]
+file = "mods/nekos-enchanted-books.pw.toml"
+hash = "7f8fb189da26a16846035e53160df719b0fd6865d2d7b1463c06b1066ca0447f"
+metafile = true
+
+[[files]]
 file = "mods/no-more-inifinite-water.pw.toml"
 hash = "0db676d7d698a8868a7dd015ed500cde387238ec2bb68541a53ddfe7ffafbf6c"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "7723e3ec50c2ba2b78611149993c583d824a39acd385f0701f117dd435081c67"
 metafile = true
 
 [[files]]
