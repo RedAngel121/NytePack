@@ -106,11 +106,7 @@ hash = "c2e0b3838bd5a45f4cb59401d37ea8d8d4b8768281643e05799f37a7bc6ad591"
 
 [[files]]
 file = "global_packs/required_data/Geolosys_Custom_Deposits.zip"
-hash = "70e0bcf976fb80832a0c125f816247392f01cde431346ca6f2dced9196445fe1"
-
-[[files]]
-file = "global_packs/required_data/data/geolosys/deposits/large_deposits/ore/gold.json"
-hash = "1a7866d6adaa4481cd6d42fe629ec12592f86f14bc0fc5e8751c3e0f66d9ae22"
+hash = "ad3c3cbd519d8bfda6c8066c24a8cea3df938535d2f0835e9d65d31d9d5b3aa3"
 
 [[files]]
 file = "instance.png"
