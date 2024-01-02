@@ -4,7 +4,6 @@
     "yMin": -64,
     "yMax": 32,
     "size": 150,
-    "density": 1.0,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["overworld"]
@@ -37,6 +36,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 4
+    "generationWeight": 25
   }
 }
