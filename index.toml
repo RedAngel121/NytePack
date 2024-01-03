@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "ab1b210e4cd1e49db9aea3e7adb7421798818ffd4bab7db8e5c6c9603e12c0ce"
+hash = "2feaa9743c960b9de8c97caab4ed4795e14e7d90f6d576dd9f8a59128b804488"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -57,6 +57,18 @@ file = "config/geolosys-common.toml"
 hash = "eee2d57962d63d6631108479a6e80fbbc872a217a7992aa4c2d6ae6d38458e10"
 
 [[files]]
+file = "config/lctech-common.toml"
+hash = "cbb5220df605e2040f0b2548041aa86ec02deeaad7657d94ad464284cc5d797f"
+
+[[files]]
+file = "config/lightmanscurrency-client.toml"
+hash = "5304811c7206f995de79331fc0d10627c9a808a46aaec9c4793639d3c89d3d90"
+
+[[files]]
+file = "config/lightmanscurrency-common.toml"
+hash = "f3a8468c661ab68820d94ef6ab6826235ca137fad7c45ee89dfc16296b15e296"
+
+[[files]]
 file = "config/scalinghealth-client.toml"
 hash = "8a7914f6245550242376ccb70708193861d3b0cb6c71d57b312aa9255f8f7d3c"
 
@@ -78,7 +90,11 @@ hash = "5f48ae4f16f9efb1cc24026c9e5f55cd4964d2b3d930ade3ec04ab8a15f311cc"
 
 [[files]]
 file = "defaultconfigs/lightmanscurrency-server.toml"
-hash = "3153825ecc000a800646858d952c524f44767713a979ded80601a141f7770207"
+hash = "4370612589f54b727bbbfe7365b62a4514f65acbba593f51e9dffa0c7134d0f5"
+
+[[files]]
+file = "defaultconfigs/lightmansdiscord-server.toml"
+hash = "1c23ce00974815c8568ed1f3bfdebeba3acab67ca584b7330b6b789e37dcdc02"
 
 [[files]]
 file = "defaultconfigs/scalinghealth-server.toml"

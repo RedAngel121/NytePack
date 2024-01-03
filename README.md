@@ -71,6 +71,7 @@ Soft No:
 DO:
 
     Changes:
+        DISABLE WANDERING TRADER
         Determine how Vein Mining is actually going to affect the player and tool durability
         Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling using create)
         Adjust Scaling Health Mod
