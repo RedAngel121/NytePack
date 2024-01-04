@@ -44,6 +44,10 @@ Check out:
 
     World:
         Towns and Towers
+        https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
+            https://legacy.curseforge.com/minecraft/mc-mods/advanced-finders
+        https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
+            https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 
 Soft No:
 
@@ -96,8 +100,9 @@ DO:
         Farming for Blockheads - Adjust the market trades or just disable the market?
         Aircraft needs adjustments (nerf pedal) and better integration with crafting recp (possible aircraft industry?)
         fix starter kit
-        check toolbelt config for item white/blacklist ~~and quantity~~ *no quantity adjustments*
+        check toolbelt config for item white/blacklist (cannot change size)
         Serene Seasons: crops (temp and season bands) and manage tectonic biomes
+        Change the coin upgrade size
 
 
 
