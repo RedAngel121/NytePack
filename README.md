@@ -40,14 +40,10 @@ Check out:
             Add an absolute metric ton of gateways cause thats going to be fun
             Could have integration with lightmans tickets for special purchases
         Baubley Heart Canisters
-            Needs to be removed from drops (done) and added to purchaseable items from server vending machines
+            Needs to be removed from drops (removed all but red hearts, 0.001 drop rate, can be used or sold to spawn market) and added to purchaseable items from server vending machines
 
     World:
         Towns and Towers
-        https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
-            https://legacy.curseforge.com/minecraft/mc-mods/advanced-finders
-        https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
-            https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 
 Soft No:
 
@@ -57,6 +53,7 @@ Soft No:
         Simple Voice Chat
 
     Mods:
+        Create Interactive
         Alex's Mobs (some of the mobs are just horrible)
         Mekanism + Extras
         Supplementaries
@@ -71,6 +68,12 @@ Soft No:
         Deeper and Darker
         The Undergarden
         Philip's Ruins
+
+        Swap for Geolosys?:
+            https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
+                https://legacy.curseforge.com/minecraft/mc-mods/advanced-finders
+            https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
+                https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 
 DO:
 
