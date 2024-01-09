@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "fa568fa2519c5a2dde659110a6309f82677c96744ea05acadab0271ac368844f"
+hash = "85680f10fa386cb53e29f165f761fb9da86c27aca33e9822e50561abf4f30030"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "02bcf6368fb1bfbb0328c54b60886a15fa20ebb0168a13e2e1d44598f4ed03c1"
+hash = "32571f09ec5d9f4a393292922fabefbd2955b4ded70fc096b7ffb9099cb74bca"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "491083ff33707ce8e3f10946fffbee67a16094cc99f414921cce30b0c455ea65"
+hash = "a57798ef1373740ee7333a43b53cccb440fc6601190ed8e0d0b373cf425c8924"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "6e78372ec0fcc5ad41eb2a54e9df1160fc74756e4cd40d87c318207d8b62c104"
+hash = "6a363e39b0135715d091d1a808e3acd85d8811a4ad5be75df8ee369dd4592028"
 metafile = true
 
 [[files]]

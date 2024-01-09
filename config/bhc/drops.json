@@ -1,7 +1,7 @@
 {
   "heartEntries": {
     "red": {
-      "hostile": 0.001
+      "hostile": 0
     },
     "green": {
       "dragon": 0
