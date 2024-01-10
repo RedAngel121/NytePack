@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "85680f10fa386cb53e29f165f761fb9da86c27aca33e9822e50561abf4f30030"
+hash = "6b340244a6ce8d0db96e25b88cf9599d89ff97a9238cd660b29d8681e31eb044"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -106,7 +106,7 @@ hash = "4b22a66bd9819ad9b642a9029a7daa191b49b486bf6acb824939b9c1f08948f6"
 
 [[files]]
 file = "defaultconfigs/solsweetpotato-server.toml"
-hash = "95c51bea22cf8f6205ebc9a1b4af03b6b65b316799c4189d113b75b6354da78b"
+hash = "41e8670d6dafa8878f9cbefb106b7ce9f27c43bb5ba9a4d2c0df13b2417abbbf"
 
 [[files]]
 file = "defaultconfigs/tombstone-server.toml"

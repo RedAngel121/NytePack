@@ -4,7 +4,7 @@
 	# they will get the benefits associated with that threshold.
 	#
 	#
-	thresholds = [3.0, 5.0, 7.0, 10.0, 13.0, 18.0, 25.0, 31.0]
+	thresholds = [5.0, 10.0, 15.0, 20.0, 25.0, 30.0, 35.0, 40.0, 45.0, 50.0, 55.0, 60.0, 65.0, 70.0, 75.0, 80.0, 85.0, 90.0, 95.0, 100.0]
 	# 
 	# Define custom benefits here. Each entry in the list corresponds to a benefit that will be obtained
 	# at the corresponding diversity threshold defined the list above. For example, the first entry in
@@ -32,7 +32,28 @@
 	# and Slowness I below the corresponding threshold.
 	#
 	#
-	benefitsUnparsed = ["attribute,generic.max_health,2", "attribute,generic.max_health,2;effect,strength,0", "attribute,generic.max_health,2;effect,regeneration,0", "attribute,generic.max_health,2;effect,speed,0", "attribute,generic.max_health,2;attribute,generic.armor_toughness,2", "attribute,generic.armor_toughness,2;effect,strength,1", "attribute,generic.max_health,4", "attribute,generic.max_health,6"]
+	benefitsUnparsed = [
+						"attribute,generic.max_health,1",
+						"attribute,generic.max_health,1",
+						"attribute,generic.max_health,1",
+						"attribute,generic.max_health,1",
+						"attribute,generic.max_health,2;effect,strength,0",
+						"attribute,generic.max_health,2",
+						"attribute,generic.max_health,2",
+						"attribute,generic.max_health,2",
+						"attribute,generic.max_health,3;effect,speed,0",
+						"attribute,generic.max_health,3",
+						"attribute,generic.max_health,3",
+						"attribute,generic.max_health,3",
+						"attribute,generic.max_health,4;attribute,generic.armor_toughness,2",
+						"attribute,generic.max_health,4",
+						"attribute,generic.max_health,4",
+						"attribute,generic.max_health,4",
+						"attribute,generic.max_health,5;effect,strength,1",
+						"attribute,generic.max_health,5",
+						"attribute,generic.max_health,5"
+						"attribute,generic.max_health,5;effect,regeneration,0",
+					   ]
 	# The minimum number of foods a player needs to eat before any benefits are applied.
 	#
 	#
@@ -117,5 +138,9 @@
 	# Note that tags are NOT currently supported.
 	#
 	#
-	complexityUnparsed = ["minecraft:golden_carrot,2", "minecraft:golden_apple,2", "minecraft:enchanted_golden_apple,5"]
+	complexityUnparsed = [
+						  "minecraft:golden_carrot,2",
+						  "minecraft:golden_apple,2",
+						  "minecraft:enchanted_golden_apple,5"
+					     ]
 

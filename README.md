@@ -96,7 +96,7 @@ DO:
         IE Wooden Storage Crate and Wooden Barrel?
 
     CONFIGS:
-        FIX SOL SWEET POTATO-SERVER.TOML to include the 
+        FIX SOL SWEET POTATO-SERVER.TOML to include the foods from Pams
         adjust the corail tombstone config as needed
         Apotheosis disable armor drops from every mob, adjust settings
         CC Tweaked TURN OFF THE TURTLES
@@ -110,4 +110,4 @@ DO:
 
 
 Server Update Command Line:
-`java -jar packwiz-installer-bootstrap.jar https://base-modpack-pengolod.netlify.app/pack.toml -g -s server` then start the minecraft dedi
+`java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server` then start the minecraft dedi
