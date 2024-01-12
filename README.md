@@ -108,6 +108,5 @@ DO:
         Change the coin upgrade size
 
 
-
 Server Update Command Line:
 `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server` then start the minecraft dedi

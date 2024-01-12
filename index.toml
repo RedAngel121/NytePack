@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "6b340244a6ce8d0db96e25b88cf9599d89ff97a9238cd660b29d8681e31eb044"
+hash = "9e944bb9d5a22c5ce83e9587445b8f2ab1e7a8a47f4e4422800c338bf02de4f7"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2af47308a54902c7807d79653a7ac2cf58b33837b04532cda02eaef6cfec58e2"
+hash = "7cdbdc7b3c8ade518204bf85c8214d852c9866d1f0666ea2858efdb27ff02db2"
 metafile = true
 
 [[files]]
