@@ -1,0 +1,33 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 37,
+    "yMax": 46,
+    "size": 200,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": ["overworld"]
+    },
+    "blocks": {
+      "default": [
+        {
+          "block": "geolosys:sphalerite_ore",
+          "chance": 1.0
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "geolosys:deepslate_sphalerite_ore",
+          "chance": 1.0
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:sphalerite_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 5
+  }
+}

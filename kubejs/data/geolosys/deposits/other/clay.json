@@ -1,0 +1,24 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": -10,
+    "yMax": 50,
+    "size": 80,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": [ "overworld" ]
+    },
+    "blocks": {
+      "default": [
+        { "block": "minecraft:clay", "chance": 1.0 }
+      ],
+      "minecraft:deepslate": [
+        { "block": "minecraft:clay", "chance": 1.0 }
+      ]
+    },
+    "samples": [
+      { "block": "geolosys:clay_sample", "chance": 1.0 }
+    ],
+    "generationWeight": 10
+  }
+}

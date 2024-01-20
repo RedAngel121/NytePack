@@ -1,0 +1,33 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 34,
+    "yMax": 78,
+    "size": 200,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": ["overworld"]
+    },
+    "blocks": {
+      "default": [
+        {
+          "block": "geolosys:coal_ore",
+          "chance": 1.0
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "geolosys:deepslate_coal_ore",
+          "chance": 1.0
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:coal_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 6
+  }
+}
