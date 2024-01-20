@@ -1,0 +1,34 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 10,
+    "yMax": 180,
+    "size": 150,
+    "blockStateMatchers": [
+      "minecraft:netherrack",
+      "minecraft:basalt",
+      "minecraft:blackstone",
+      "minecraft:magma_block",
+      "minecraft:lava"
+    ],
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": ["the_nether"]
+    },
+    "blocks": {
+      "default": [
+        {
+          "block": "silentgear:crimson_iron_ore",
+          "chance": 1.0
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:crimson_iron_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 10
+  }
+}
