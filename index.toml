@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "9e944bb9d5a22c5ce83e9587445b8f2ab1e7a8a47f4e4422800c338bf02de4f7"
+hash = "d57adeb1b1c386e85a0c47f07381287ea84af4f422466bef919384f9b786c1c0"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -103,10 +103,6 @@ hash = "e35dd3c5be23bc1de22a9a809bd631288cc8df1219be5d2d4e6eed4791f28931"
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
 hash = "4b22a66bd9819ad9b642a9029a7daa191b49b486bf6acb824939b9c1f08948f6"
-
-[[files]]
-file = "defaultconfigs/solsweetpotato-server.toml"
-hash = "41e8670d6dafa8878f9cbefb106b7ce9f27c43bb5ba9a4d2c0df13b2417abbbf"
 
 [[files]]
 file = "defaultconfigs/tombstone-server.toml"
@@ -714,13 +710,28 @@ hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "9b8c789ccf7a922e2366ff3e436780ef691be7548351c565c969eaade9093b58"
+metafile = true
+
+[[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "96bd96fe6021b16727e73b19753752f7ae298d8bc80adca76db6544ad420bafb"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-sweet-potato-edition.pw.toml"
-hash = "488fd8f9e145cf0abeb23ab11ab4de5d7ca5598a6256735b02461da512151d7b"
+file = "mods/sophisticated-core.pw.toml"
+hash = "2ca9c2e9eeadc58994c510e19b8cf3a04950358d7e309eab43632a9b67804735"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "db9312acc2e615f58847c05a1be9c7c49075160b9d19896341602d2acdd99db4"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-apple-pie-edition.pw.toml"
+hash = "3c2f3bb5106bd03f44005b115fe97b24bf7b5b4537b0905926a2333120c00493"
 metafile = true
 
 [[files]]
@@ -852,7 +863,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"

@@ -1,0 +1,13 @@
+name = "Spice of Life: Apple Pie Edition"
+filename = "solapplepie-1.18.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8642237bee06e0fd3fa1a3e8f62158d5d38d9ff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4092299
+project-id = 704584
