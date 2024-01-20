@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "d57adeb1b1c386e85a0c47f07381287ea84af4f422466bef919384f9b786c1c0"
+hash = "6ac49fd1dbe53f6e41f9eb8a02c892cd462bf94c9c05d21e63a85d1ae6a5d6ef"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -337,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trees-pams-harvestcraft-2.pw.toml"
 hash = "a413e540951943de95b9c2bf3518d34a71f6a10f770b96737c946826a1726b54"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-tectonic.pw.toml"
-hash = "3651cf9c713110f665cf508395c18ea2d729ace40afa9ac817b550e82212dc8f"
 metafile = true
 
 [[files]]

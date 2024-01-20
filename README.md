@@ -1,6 +1,15 @@
 # NytePack
 The new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
 
+Join Our Discord: https://discord.gg/kkjwfuz
+
+
+WARNING: Single player worlds will break as updates are made!
+- If you still want to play it then expect your stuff to be reset a lot.
+- You can get the pack as a full release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
+- Import to any non vanilla launcher: MultiMC, Prism or ATLauncher to play
+- Once a public server is ready we will be making an annoucement.
+
 Important Mods List: (~150 mods in total)
 
     Agricraft
@@ -22,9 +31,13 @@ Important Mods List: (~150 mods in total)
     Toms Storage
     Tool Belt
 
-We need to talk about Ore Gen... and how that works THEN how it factors in Vein Mining + Farming.
-Ore factories will have different ways of processing ore per type
-We need to talk about Currency and Proper Chunk Claiming and how to pay for it. How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options.
+We need to talk about Ore Gen and how that works THEN how it factors in Vein Mining + Farming.
+Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists (other than Create)
+"Ore factories" will have different ways of processing ore per type 
+    initial layout will be one raw chunk of ore in a furnace makes a nugget
+    more complex ore processing will yield better results
+We need to talk about Currency and Proper Chunk Claiming and how to pay for it through lightmans.
+    How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options?
 
 Balance is Key!
 
