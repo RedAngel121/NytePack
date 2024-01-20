@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "6ac49fd1dbe53f6e41f9eb8a02c892cd462bf94c9c05d21e63a85d1ae6a5d6ef"
+hash = "cf749e57c0bcec63dfbed9d019041127c32d43d1feae16f412ef6138749b8425"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -54,7 +54,7 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 
 [[files]]
 file = "config/geolosys-common.toml"
-hash = "eee2d57962d63d6631108479a6e80fbbc872a217a7992aa4c2d6ae6d38458e10"
+hash = "6dc03feaa5b5d840738331b16346e67ad672aa0ef752876ea9d9c0fe68ed65ef"
 
 [[files]]
 file = "config/lctech-common.toml"
@@ -71,6 +71,26 @@ hash = "f3a8468c661ab68820d94ef6ab6826235ca137fad7c45ee89dfc16296b15e296"
 [[files]]
 file = "config/scalinghealth-client.toml"
 hash = "8a7914f6245550242376ccb70708193861d3b0cb6c71d57b312aa9255f8f7d3c"
+
+[[files]]
+file = "config/silentgear-common.toml"
+hash = "78d651bcb18b6176d833178a5e3060e7b23f0c9a33bd526deb466ab214bfb93e"
+
+[[files]]
+file = "config/solapplepie-client.toml"
+hash = "22bc81053111881c2ce334b7cbb81756a1688a1a91f3dd7930fe102762f44fcf"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "0e987a43f7f47d21ad6cd2050eee05e90a460b3cc1ec26f1b0265cd1968b6102"
+
+[[files]]
+file = "config/sophisticatedstorage-client.toml"
+hash = "a2f53f0a46a448a684ff024bcc0ea910a9adca68bf9b2ff09e0bacba046f31a2"
+
+[[files]]
+file = "config/starterkit.json5"
+hash = "c5c2f85ee5e5d597af6481b53edab999d9c0e289845dd663582b7617b1edad10"
 
 [[files]]
 file = "config/toolbelt-client.toml"
@@ -117,12 +137,172 @@ file = "defaultconfigs/veinmining-server.toml"
 hash = "c2e0b3838bd5a45f4cb59401d37ea8d8d4b8768281643e05799f37a7bc6ad591"
 
 [[files]]
-file = "global_packs/required_data/Geolosys_Custom_Deposits.zip"
-hash = "aee0d869d986c8a3585e3e4567be93fbb9902484a4c719bcf793e84687fd073a"
-
-[[files]]
 file = "instance.png"
 hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
+
+[[files]]
+file = "kubejs/assets/geolosys/blockstates/azure_silver_ore_sample.json"
+hash = "4410ebcc6cbfbde6bf239f98cde66a907169c4afb8de9642efe24034173b2f64"
+
+[[files]]
+file = "kubejs/assets/geolosys/blockstates/bort_ore_sample.json"
+hash = "02e742f86100c1df80c2cffdf64c60e8b0ba7486d738fe8e19eb0d12efa9da18"
+
+[[files]]
+file = "kubejs/assets/geolosys/blockstates/crimson_iron_ore_sample.json"
+hash = "66fc01c4c12fa5be7af4ff41fd54b7cf8ff0aaa6e19a1b708a77697dc5b77e54"
+
+[[files]]
+file = "kubejs/assets/geolosys/lang/en_us.json"
+hash = "0a7647c536cb769bf62be2ce153e2212dfbd33f4e047eb52d7aee0f7cfc2c5bf"
+
+[[files]]
+file = "kubejs/assets/geolosys/models/block/azure_silver_ore_sample.json"
+hash = "f9006a04880d9ee90cca6ce97735d3f2d6a1d7817b0c089d48702eb1617ebc57"
+
+[[files]]
+file = "kubejs/assets/geolosys/models/block/bort_ore_sample.json"
+hash = "8610ad45c48d43943197078b101344222f1d7db4fa142387c183c96925e65352"
+
+[[files]]
+file = "kubejs/assets/geolosys/models/block/crimson_iron_ore_sample.json"
+hash = "d5d027859c07c8b5ea2a2a902be9dc311797f955e88e9d2e33f542e7e20da8b5"
+
+[[files]]
+file = "kubejs/assets/geolosys/models/item/azure_silver_ore_sample.json"
+hash = "8f807d23ef07dd4d8d91d99925262e931b4eff03266e73e659affef417299ff8"
+
+[[files]]
+file = "kubejs/assets/geolosys/models/item/bort_ore_sample.json"
+hash = "41516810db4b380ed8575c48ff601c5a82666f821e00e2989c154d17199fd7b9"
+
+[[files]]
+file = "kubejs/assets/geolosys/models/item/crimson_iron_ore_sample.json"
+hash = "832461f089388164c725d21ad2dadd20595600ba9bab5a075ea3fcbdeb4bc8cd"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "e0a7ab271e0e452ab2ce329e3a522523f07a436ab45eabfb0cb2529cab57bc2b"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/ancient_debris.json"
+hash = "ff0c3dacbe673590f2586dc038016c800dc7dd15064269e7928d33604cb5907f"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/anthracitic_coal.json"
+hash = "7c97cd73ac043f46a5decb7a19957f2184d09e28cdb8a164da8d4f0305cf6408"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/assorted_quartz.json"
+hash = "b37433e8ced2f2957eaf2c4405eede9de802d98dd012aaf5844e304d9b5f4f51"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/autunite.json"
+hash = "bf730ddc0d7b06a2b4e070b95e51f056d404899aa01b3be4681c70baa4efd684"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/azurite.json"
+hash = "947c9b5600f261660788727b5bf3f30c23d2fbd47c979b2e00b7d6e80e83a923"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/bauxite.json"
+hash = "3f0ce273a86e7300e17b77b4f48325b037f29dad5bddf5187488a3b1200997f6"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/beryl.json"
+hash = "0cb60a5b03f6edcb09a3bfd08308e414ff2697de76e066257a4fd44b4baf438b"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/bituminous_coal.json"
+hash = "e035bef632b29f45088b9fc08425775414d7bde5742d14aaa4e5fc7ff3085058"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/bort.json"
+hash = "757175e431e04abf10a193e9d0477e41deaef130d9a3dcef86c919e5d37b2b00"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/cassiterite.json"
+hash = "f7da69d296e9aa9eaf5dad4b1ae2f1a36fee73d66fb2ca18f5f4646c5c2f63d6"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/cinnabar.json"
+hash = "57c37e961363ae0c68f49357d891c7db72213478229d14772b6958d9067a22f4"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/coal.json"
+hash = "9ebe183f3adc1003f37548389cdae24b13ef67cea021619fa8d46612f176a4d8"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/galena.json"
+hash = "42da81af6d682beafdb3caba804248c32d83690cad44f80976808755d44b8edb"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/gold.json"
+hash = "23ba25a73eea35c871f272bbe0d44edbbf9a2369a4487c8997d7381fe4f70dc4"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/gold_nether.json"
+hash = "f9593441a5b7c71d0a3da0ad699f54efc52cc6a7efc81e6ec8a2e022a1c91107"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/hematite.json"
+hash = "93aa4941ae461c9517c199f733d54b105517e1ca86e78d8d339a2c7e8ea0ca37"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/iron_nether.json"
+hash = "5fd991cf38cb4d5ccfd1a7a9fea309c4155c442d067b34bd55014dc2df38b580"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/kimberlite.json"
+hash = "b32b6c9a76ad03de3374f31990007d230b4eaf16670a72fc5fc25a81f15a896c"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/lapis.json"
+hash = "7d322f63f23a7d1dea02f21e9108d575a86472f7030ccba65803907d892276d5"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/lignite.json"
+hash = "aef01e3f28188d39c9ecc49b1f9ec0910a468e8edf4a79b3a6c38fd43608ffeb"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/limonite.json"
+hash = "3dbe6ef36120a85992328b0f7af143b1945ccf7b976788b74e7e5cbeb880e9e0"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/malachite.json"
+hash = "2ff4b86c489d3c6f35da5799821c2907ee6a5861e99ee771d4def9bef4b111b3"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/platinum.json"
+hash = "3ddb75437d2fdf25429f69d2934102b67141bc73f6032a36f9a1dfa70f6589dd"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/silver_end.json"
+hash = "ba4cced46a095846749912847b045c0c1d79e072464f692f7c71cabe2a75da06"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/sphalerite.json"
+hash = "44ca78fd3798f3e4d342b191ebe5e98d6d6f83b342f209022355623bcbe3bd17"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/teallite_and_emerald.json"
+hash = "ee51e8b9b3d4b06b7101ebbbff39d4a5f5f24585225251d3267241659828b6c6"
+
+[[files]]
+file = "kubejs/data/geolosys/loot_tables/blocks/azure_silver_ore_sample.json"
+hash = "9b7935dc22e21902873682ecdf28e846a81577ad87b5aa096ea2ea05bb252a9d"
+
+[[files]]
+file = "kubejs/data/geolosys/loot_tables/blocks/bort_ore_sample.json"
+hash = "8d80fbfad963cb604a0029ffdc0f933e00b645749c685f1c3b396454da645ca4"
+
+[[files]]
+file = "kubejs/data/geolosys/loot_tables/blocks/crimson_iron_ore_sample.json"
+hash = "04af6c61d4ce6d8c5c29cad4082ba3cfa5b57c23d6916ef890167a289a6566da"
+
+[[files]]
+file = "kubejs/startup_scripts/geolosys.js"
+hash = "5ef22d3bafca485827cf61f019ede25a8480ff1c68d88d7ffeb5f752297222af"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
