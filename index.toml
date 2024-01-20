@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "32571f09ec5d9f4a393292922fabefbd2955b4ded70fc096b7ffb9099cb74bca"
+hash = "256ca6c65db21bc3009a94e5631fd833ebab733e8ef613a9002235bc7e82470c"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
+hash = "4adf594e5f65bf0e89606a715b7c74e49f832fcefa713c6a6687c71a4982bccc"
 metafile = true
 
 [[files]]
