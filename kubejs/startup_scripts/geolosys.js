@@ -24,7 +24,7 @@ function createCustomSample(sampleRegistryName) {
 }
 
 onEvent('block.registry', event => {
-	createCustomSample('bort_sample')
-	createCustomSample('crimson_iron_sample')
-	createCustomSample('azure_silver_sample')
+	createCustomSample('bort_ore_sample')
+	createCustomSample('crimson_iron_ore_sample')
+	createCustomSample('azure_silver_ore_sample')
 })

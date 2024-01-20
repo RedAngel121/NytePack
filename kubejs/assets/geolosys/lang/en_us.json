@@ -1,3 +1,5 @@
 {
-  "block.geolosys.clay_sample": "Clay Sample"
+  "block.geolosys.bort_ore_sample": "Bort Ore Sample",
+  "block.geolosys.crimson_iron_ore_sample": "Crimson Iron Ore Sample",
+  "block.geolosys.azure_silver_ore_sample": "Azure Silver Ore Sample"
 }

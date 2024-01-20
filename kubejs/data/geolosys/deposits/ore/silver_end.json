@@ -9,7 +9,7 @@
     ],
     "dimensions": {
       "isBlacklist": false,
-      "filter": ["the_nether"]
+      "filter": ["the_end"]
     },
     "blocks": {
       "default": [

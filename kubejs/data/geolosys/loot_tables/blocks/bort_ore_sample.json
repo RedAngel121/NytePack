@@ -3,7 +3,7 @@
   "pools": [
     {
       "rolls": 1,
-      "entries": [{ "type": "minecraft:item", "name": "silentgear:bort_block" }],
+      "entries": [{ "type": "minecraft:item", "name": "silentgear:bort" }],
       "conditions": [{ "condition": "minecraft:survives_explosion" }]
     }
   ]

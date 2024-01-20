@@ -2,7 +2,7 @@
   "parent": "geolosys:block/ore_sample",
   "textures": {
     "particle": "minecraft:block/gravel",
-    "ore": "minecraft:block/clay",
+    "ore": "silentgear:block/bort_block",
     "stone": "minecraft:block/gravel"
   }
 }

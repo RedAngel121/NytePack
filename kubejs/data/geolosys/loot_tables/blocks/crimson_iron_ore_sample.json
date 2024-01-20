@@ -3,7 +3,7 @@
   "pools": [
     {
       "rolls": 1,
-      "entries": [{ "type": "minecraft:item", "name": "silentgear:crimson_iron_block" }],
+      "entries": [{ "type": "minecraft:item", "name": "silentgear:crimson_iron_nugget" }],
       "conditions": [{ "condition": "minecraft:survives_explosion" }]
     }
   ]

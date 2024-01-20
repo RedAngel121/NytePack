@@ -1,0 +1,8 @@
+{
+  "parent": "geolosys:block/ore_sample",
+  "textures": {
+    "particle": "minecraft:block/end_stone",
+    "ore": "silentgear:block/raw_azure_silver_block",
+    "stone": "minecraft:block/end_stone"
+  }
+}

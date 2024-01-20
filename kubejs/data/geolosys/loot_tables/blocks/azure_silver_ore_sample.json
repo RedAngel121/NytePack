@@ -3,7 +3,7 @@
   "pools": [
     {
       "rolls": 1,
-      "entries": [{ "type": "minecraft:item", "name": "silentgear:azure_silver_block" }],
+      "entries": [{ "type": "minecraft:item", "name": "silentgear:azure_silver_nugget" }],
       "conditions": [{ "condition": "minecraft:survives_explosion" }]
     }
   ]
