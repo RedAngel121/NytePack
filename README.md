@@ -38,9 +38,9 @@ Check out:
         Create: Diesel Generators       ???
         Gateways to Eternity
             Add an absolute metric ton of gateways cause thats going to be fun
-            Could have integration with lightmans for special purchases (Hearts?)
+            Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
         Baubley Heart Canisters
-            Hearts need to be added to purchaseable items from server vending machines
+            Heart cans need to be added to purchaseable items from server vending machines (red = 1 / yellow = 2 / green = 3 / blue = 4)
 
     World:
         Towns and Towers

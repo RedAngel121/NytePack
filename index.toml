@@ -760,11 +760,6 @@ hash = "9e94ddf43d8fd4067ab40e47cc690feb35a4a62b51f262581b55a231946fe8f6"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "4adf594e5f65bf0e89606a715b7c74e49f832fcefa713c6a6687c71a4982bccc"
-metafile = true
-
-[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "163c1534919222bb25f2a048d02c7707992e769acb1755c346832d24516830e3"
 metafile = true
