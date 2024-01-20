@@ -54,7 +54,7 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 
 [[files]]
 file = "config/geolosys-common.toml"
-hash = "6dc03feaa5b5d840738331b16346e67ad672aa0ef752876ea9d9c0fe68ed65ef"
+hash = "0fcc6a228124558d94d10dbe74b5ab54853ff8dcb7465d4053507e92eac81cf7"
 
 [[files]]
 file = "config/lctech-common.toml"
