@@ -21,6 +21,7 @@ Important Mods List: (~150 mods in total)
 - Corail Tombstone
 - Create + Extras
 - Dymanic Trees
+- Immersive Aircraft
 - Immersive Engineering + Extras
 - Lightmans Currency
 - Little Logistics
@@ -109,8 +110,7 @@ DO:
         Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
         Disable IE Wooden Storage Crate and Wooden Barrel?
         Adjust Sophisticated Storage settings
-        Add silentgear:deepslate_bort_ore, silentgear:crimson_iron_ore, and silentgear:azure_silver_ore to Geolosys
-        - add new samples using KubeJS = edit "startup_scripts/geolosys.js" add the lines there for new ores, as well as the content inside the data folder and the resources folder`
+        Loot: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 
     Config Changes:
         SOL Apple Pie - check configs to make sure its going to work like we want
