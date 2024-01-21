@@ -34,10 +34,13 @@ Important Mods List: (~150 mods in total)
 - Tool Belt
 
 We need to dive into Vein Mining and by extension... Farming
+
 Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists (other than Create's world gen stuff)
+
 "Ore factories" will have different ways of processing ore per type:
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
 - More complex ore processing will yield better results
+
 We need to talk about Currency and Proper Chunk Claiming and how to pay for it through lightmans.
 - How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options?
 
