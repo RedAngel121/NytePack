@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "cf749e57c0bcec63dfbed9d019041127c32d43d1feae16f412ef6138749b8425"
+hash = "ec45fece1f6bc9e10a1c0e500874d40d5b479e61abe9dd2e0cf40cb6ed282aeb"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -54,7 +54,7 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 
 [[files]]
 file = "config/geolosys-common.toml"
-hash = "0fcc6a228124558d94d10dbe74b5ab54853ff8dcb7465d4053507e92eac81cf7"
+hash = "822503ae343586f5dbdc35f33f07748ef103165c16e1e2819c19017915a6ce6a"
 
 [[files]]
 file = "config/lctech-common.toml"
@@ -198,7 +198,7 @@ hash = "b37433e8ced2f2957eaf2c4405eede9de802d98dd012aaf5844e304d9b5f4f51"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/autunite.json"
-hash = "bf730ddc0d7b06a2b4e070b95e51f056d404899aa01b3be4681c70baa4efd684"
+hash = "cb7a56e2aa4b8181b515eee32a5cf57d3903b367beac6ef7e36ad49f1d16a7c9"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/azurite.json"
@@ -234,7 +234,7 @@ hash = "9ebe183f3adc1003f37548389cdae24b13ef67cea021619fa8d46612f176a4d8"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/galena.json"
-hash = "42da81af6d682beafdb3caba804248c32d83690cad44f80976808755d44b8edb"
+hash = "193a2de571ef4ece7525b7ad636a839a0c0f3d5eda9320710232a4ffedfb58fe"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/gold.json"
@@ -286,7 +286,7 @@ hash = "44ca78fd3798f3e4d342b191ebe5e98d6d6f83b342f209022355623bcbe3bd17"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/teallite_and_emerald.json"
-hash = "ee51e8b9b3d4b06b7101ebbbff39d4a5f5f24585225251d3267241659828b6c6"
+hash = "fde3c12575005b7dd4907ada1ab0bf218e5c43a6a4ad7cd667ed43dcf662d31d"
 
 [[files]]
 file = "kubejs/data/geolosys/loot_tables/blocks/azure_silver_ore_sample.json"
