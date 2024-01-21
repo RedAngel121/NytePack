@@ -54,7 +54,7 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 
 [[files]]
 file = "config/geolosys-common.toml"
-hash = "822503ae343586f5dbdc35f33f07748ef103165c16e1e2819c19017915a6ce6a"
+hash = "aced9a25f5a96bdc430f8750d57beac5a7b5d8833b08bb36ad9d6efabd91116f"
 
 [[files]]
 file = "config/lctech-common.toml"
@@ -186,7 +186,7 @@ hash = "e0a7ab271e0e452ab2ce329e3a522523f07a436ab45eabfb0cb2529cab57bc2b"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/ancient_debris.json"
-hash = "ff0c3dacbe673590f2586dc038016c800dc7dd15064269e7928d33604cb5907f"
+hash = "ba51c7b8c7f64a827628b29854b2861737b4fc4ad235668dd5610307ba6ac477"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/anthracitic_coal.json"
@@ -250,7 +250,7 @@ hash = "93aa4941ae461c9517c199f733d54b105517e1ca86e78d8d339a2c7e8ea0ca37"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/iron_nether.json"
-hash = "5fd991cf38cb4d5ccfd1a7a9fea309c4155c442d067b34bd55014dc2df38b580"
+hash = "3baf0d4579f909189147a72a09da04463c07fcff01e9c70f496fe9a6f28c99a4"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/kimberlite.json"
