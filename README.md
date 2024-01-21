@@ -125,7 +125,7 @@ DO:
         Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
 
 Lastly, 
-- Remove World Edit Mods and other Admin only mods like the datapack one....
+- Remove World Edit Mods and other Admin only mods
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management
 

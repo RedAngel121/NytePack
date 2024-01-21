@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "ec45fece1f6bc9e10a1c0e500874d40d5b479e61abe9dd2e0cf40cb6ed282aeb"
+hash = "12091b51495167d8278d217fc86c7cb04c3c8997570d5eb53e9938a0df37fd89"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -54,7 +54,7 @@ hash = "af17e9a2946132bcc986168860f407bb4749835a09d71fd3512248bf659ee5a8"
 
 [[files]]
 file = "config/geolosys-common.toml"
-hash = "822503ae343586f5dbdc35f33f07748ef103165c16e1e2819c19017915a6ce6a"
+hash = "34e4cd03d8ead3410cb31817049bc1f3ab9fb1c9995dd3a23abfacd4cd72fea7"
 
 [[files]]
 file = "config/lctech-common.toml"
