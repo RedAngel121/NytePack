@@ -510,11 +510,6 @@ hash = "efcc621dcc9e78c82b188f63ea82c8d6278bb7ee86bbcfdc658f0eb51e7b859e"
 metafile = true
 
 [[files]]
-file = "mods/drp-global-datapack.pw.toml"
-hash = "97625e8d9efb25abb5e32ddd744981636dd248ecf4bdfce5d3a7f42dd9ccc0e2"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-pams-harvestcraft-2.pw.toml"
 hash = "a413e540951943de95b9c2bf3518d34a71f6a10f770b96737c946826a1726b54"
 metafile = true
