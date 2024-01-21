@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "12091b51495167d8278d217fc86c7cb04c3c8997570d5eb53e9938a0df37fd89"
+hash = "194b78266854a42329fb226fe814f9e2a4e6b38d4727a4cef1d43d09e255827b"
 
 [[files]]
 file = "config/alltheores-common.toml"

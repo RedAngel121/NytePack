@@ -4,11 +4,11 @@ The new Minecraft Pack that has been in the works for like *forever* and never a
 
 Join Our Discord: https://discord.gg/kkjwfuz
 
-WARNING: Single player worlds will break as updates are still being pushed!
+WARNING: Single player worlds will break repeatedly as the pack is still under heavy development!
 - If you still want to play it then expect your stuff to be reset/borked a lot.
 - You can get the pack as a full release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
 - Just Import to any non vanilla launcher (MultiMC, Prism, ATLauncher) to play
-- Once a public server is ready we will be making an annoucement in the Discord.
+- Once a public server is ready we will be making an announcement in the Discord.
 
 Important Mods List: (~150 mods in total)
 
@@ -33,14 +33,13 @@ Important Mods List: (~150 mods in total)
 - Toms Storage
 - Tool Belt
 
-We need to dive into Ore Gen how it factors in Vein Mining (And by extension... Farming)
+We need to dive into Vein Mining and by extension... Farming
 Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists (other than Create's world gen stuff)
-- still need to replace Silent's natural ore gen with Geolosys typing
 "Ore factories" will have different ways of processing ore per type:
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
 - More complex ore processing will yield better results
 We need to talk about Currency and Proper Chunk Claiming and how to pay for it through lightmans.
-How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options?
+- How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options?
 
 Balance is Key!
 
@@ -52,11 +51,6 @@ Check out:
     Mods:
         Create: The Factory Must Grow   ???
         Create: Diesel Generators       ???
-        Gateways to Eternity
-            Add an absolute metric ton of gateways cause thats going to be fun
-            Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
-        Baubley Heart Canisters
-            Heart cans need to be added to purchaseable items from server vending machines (red = 1 / yellow = 2 / green = 3 / blue = 4)
 
     World:
         Towns and Towers
@@ -85,7 +79,7 @@ Soft No:
         The Undergarden
         Philip's Ruins
 
-        Swap for Geolosys?: disenclined...
+        Swap for Geolosys?: disinclined...
             https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
                 https://legacy.curseforge.com/minecraft/mc-mods/advanced-finders
             https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
@@ -98,11 +92,11 @@ DO:
         Determine how Vein Mining is actually going to affect the player hunger and tool durability
         Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling?)
         Adjust Scaling Health Mod
-            - Distance instead of time
-            - Set max health limits "higher"
-            - Disable all drops
-            - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
-            - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
+        - Distance instead of time
+        - Set max health limits "higher"
+        - Disable all drops
+        - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
+        - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
         Create Deco - investigate and possibly Disable "coin stacks" to prevent confusion
         Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
         Investigate Glassential functional glass blocks
@@ -110,6 +104,11 @@ DO:
         Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
         Disable IE Wooden Storage Crate and Wooden Barrel?
         Adjust Sophisticated Storage settings
+        Gateways to Eternity
+        - Add an absolute metric ton of gateways cause thats going to be fun
+        - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
+        Baubley Heart Canisters
+        - Heart cans need to be added to purchasable items from server vending machines (red = 1 / yellow = 2 / green = 3 / blue = 4)
         Loot: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 
     Config Changes:
