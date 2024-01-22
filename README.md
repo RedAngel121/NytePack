@@ -52,11 +52,10 @@ Check out:
         None at this time
 
     Mods:
-        Create: The Factory Must Grow   ???
-        Create: Diesel Generators       ???
+        None at this time
 
     World:
-        Towns and Towers
+        None at this time
 
 Soft No:
 
@@ -74,11 +73,11 @@ Soft No:
         Lootr
         Nightmare Epic Siege
         Enhanced Celestials
-        Aquaculture (remove fake/non-players from getting neptunium stuff)
+        Aquaculture (remove neptunium stuff?)
         Natures Aura (possible server overhead issues)
 
     World:
-        Deeper and Darker
+        Deeper and Darker (not available for 1.18)
         The Undergarden
         Philip's Ruins
 
@@ -105,7 +104,7 @@ DO:
         Investigate Glassential functional glass blocks
         Investigate secret rooms
         Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
-        Disable IE Wooden Storage Crate and Wooden Barrel?
+        Disable IE Wooden Storage Crate and Wooden Barrel, Creosote and steel production in favor of TFMG
         Adjust Sophisticated Storage settings
         Gateways to Eternity
         - Add an absolute metric ton of gateways cause thats going to be fun
@@ -130,6 +129,7 @@ Lastly,
 - Remove World Edit Mods and other Admin only mods
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management
+- Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find the config)
 
 Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
