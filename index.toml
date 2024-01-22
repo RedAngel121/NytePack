@@ -880,6 +880,11 @@ hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
 metafile = true
 
 [[files]]
+file = "mods/ruins.pw.toml"
+hash = "14880146b1cd702b2b42ed267bf219d0a67a0c740e88c1cafe85a8553378fb36"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "6a363e39b0135715d091d1a808e3acd85d8811a4ad5be75df8ee369dd4592028"
 metafile = true
