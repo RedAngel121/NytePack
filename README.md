@@ -55,7 +55,7 @@ Check out:
         None at this time
 
     Mods:
-        SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul 
+        SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod
 
     World:
         None at this time
@@ -68,7 +68,8 @@ Soft No:
         Simple Voice Chat (Possible Server Overhead/Network Issues)
 
     Mods:
-        Create Interactive (propbably not happneing due to possible compat issues, will test later)
+        Beyond Earth (Awating 7.0 update and maybe even avoiding depeding on whats included)
+        Create Interactive (propbably not happning due to possible performance/compat issues, will test later)
         Alex's Mobs (some of the mobs are just horrible and need to be disabled)
         Mekanism + Extras (most likely not included because its too streamlined and would need heavy edits)
         Supplementaries (lots of problems with this that im not super intersted in fine tuning yet)
@@ -80,6 +81,7 @@ Soft No:
         Natures Aura (possible server overhead issues)
 
     World:
+        Terralith (chunk generation issues)
         Deeper and Darker (not available for 1.18)
         The Undergarden (not something i want because its far outside the realm of the pack)
 

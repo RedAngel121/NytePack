@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "1ea2bba289d41a77ddd3a6e2cf0a3b055107d665df27569872be367a79cd561b"
+hash = "e0a5866a737747c571892bbe902466f45bb2ef2b980d68d18a9262737e649ce3"
 
 [[files]]
 file = "config/agricraft/config-client.toml"
@@ -538,11 +538,6 @@ hash = "a413e540951943de95b9c2bf3518d34a71f6a10f770b96737c946826a1726b54"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-terralith.pw.toml"
-hash = "415ac9f1db0761e03ef30ce7197da7bfb25b4f288fc17e76a4c3cf31c75d3ea7"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "687763852b583a03f03ab2a235be39428e5a08490f63c7d1186a6aadd1b355c7"
 metafile = true
@@ -975,11 +970,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "4adf594e5f65bf0e89606a715b7c74e49f832fcefa713c6a6687c71a4982bccc"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "efbf122082be256263193f518a809a6429d6c438f6a46c06e65935e5631dec25"
 metafile = true
 
 [[files]]
