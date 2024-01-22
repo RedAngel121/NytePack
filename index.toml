@@ -77,20 +77,16 @@ file = "config/silentgear-common.toml"
 hash = "78d651bcb18b6176d833178a5e3060e7b23f0c9a33bd526deb466ab214bfb93e"
 
 [[files]]
-file = "config/solapplepie-client.toml"
-hash = "22bc81053111881c2ce334b7cbb81756a1688a1a91f3dd7930fe102762f44fcf"
-
-[[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "0e987a43f7f47d21ad6cd2050eee05e90a460b3cc1ec26f1b0265cd1968b6102"
+hash = "e50ab2e8496501870c4ca59139053bcc45cf2bd0f1306db352d0d1835d1ec667"
 
 [[files]]
 file = "config/sophisticatedstorage-client.toml"
-hash = "a2f53f0a46a448a684ff024bcc0ea910a9adca68bf9b2ff09e0bacba046f31a2"
+hash = "a768fa966b0208d266e5db94dfece2d93a24b5418c98971ed5cdd76e6b9dd965"
 
 [[files]]
 file = "config/starterkit.json5"
-hash = "c5c2f85ee5e5d597af6481b53edab999d9c0e289845dd663582b7617b1edad10"
+hash = "20dbdd8d77faf4294b1feb7cdd29a03dea1a31e5439ba040f1ce4f3b769499fb"
 
 [[files]]
 file = "config/toolbelt-client.toml"
