@@ -9,6 +9,10 @@ file = "README.md"
 hash = "89f6bac64fa418b524faf94a608a484d103c634b47922fa993cd0566113ee35e"
 
 [[files]]
+file = "config/agricraft/config-client.toml"
+hash = "c09736a2ad308d32154e65a19941fa3422c82d842e8dde3801566a3e6c06ecb4"
+
+[[files]]
 file = "config/alltheores-common.toml"
 hash = "9caa6c542c1d1c41745c08e0c6e74191e0c4ef311b531706d2a4d0bcc9ff8280"
 
