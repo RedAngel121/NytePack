@@ -22,7 +22,8 @@ Important Mods List: (~150 mods in total)
 - Create + Extras
 - Dymanic Trees
 - Immersive Aircraft
-- Immersive Engineering + Extras
+- Immersive Engineering
+- Immersive Petroleum
 - Lightmans Currency
 - Little Logistics
 - Open Parties and Claims
@@ -40,9 +41,11 @@ Right now we have EXTREMELY large veins sparsely placed in the world, no other o
 "Ore factories" will have different ways of processing ore per type:
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
 - More complex ore processing will yield better results
+- Mekanism (not included) is a good example of this
 
-We need to talk about Currency and Proper Chunk Claiming and how to pay for it through lightmans.
-- How does this factor into Starting Cash/Mob drops/Loot Chests/UBI + Taxes and other options?
+We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big update for 1.18).
+- How does this factor into Starting Cash/Mob drops/Chest Loot/UBI+Taxes and other options?
+- What options do we have for purchasing chunk loading time? cant find anything on this yet...
 
 Balance is Key!
 
@@ -60,26 +63,25 @@ Check out:
 Soft No:
 
     QOL:
-        FancyMenu
-        PackMenu
-        Simple Voice Chat
+        FancyMenu (Lots of work)
+        PackMenu (Lots of work)
+        Simple Voice Chat (Possible Server Overhead/Network Issues)
 
     Mods:
-        Create Interactive
-        Alex's Mobs (some of the mobs are just horrible)
-        Mekanism + Extras
-        Supplementaries
-        Comforts
-        Lootr
-        Nightmare Epic Siege
-        Enhanced Celestials
+        Create Interactive (propbably not happneing due to possible compat issues, will test later)
+        Alex's Mobs (some of the mobs are just horrible and need to be disabled)
+        Mekanism + Extras (most likely not included because its too streamlined and would need heavy edits)
+        Supplementaries (lots of problems with this that im not super intersted in fine tuning yet)
+        Comforts (possible compat issues)
+        Lootr (will not be added as it floods the market with items)
+        Nightmare Epic Siege ( :Sweats: yea idk yet, some of these things are just not ok but the options for intelegent mobs would be interesting)
+        Enhanced Celestials (as long as we can disable the blood moon and the stupid moon noises)
         Aquaculture (remove neptunium stuff?)
         Natures Aura (possible server overhead issues)
 
     World:
         Deeper and Darker (not available for 1.18)
-        The Undergarden
-        Philip's Ruins
+        The Undergarden (not something i want because its far outside the realm of the pack)
 
         Swap for Geolosys?: disinclined...
             https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
@@ -90,7 +92,8 @@ Soft No:
 DO:
 
     Mod Changes:
-        DISABLE WANDERING TRADER
+        PERMANENTLY DISABLE WANDERING TRADER
+        Philip's Ruins - Remove MiniBoss Ruins
         Determine how Vein Mining is actually going to affect the player hunger and tool durability
         Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling?)
         Adjust Scaling Health Mod
@@ -105,17 +108,18 @@ DO:
         Investigate secret rooms
         Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
         Disable IE Wooden Storage Crate and Wooden Barrel
-        Use Oil settings provided by Immersive Petroleum
+        Use Oil and settings provided by Immersive Petroleum
         Adjust Sophisticated Storage settings
         Gateways to Eternity
         - Add an absolute metric ton of gateways cause thats going to be fun
         - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
         Baubley Heart Canisters
-        - Heart cans need to be added to purchasable items from server vending machines (red = 1 / yellow = 2 / green = 3 / blue = 4)
+        - Heart cans need to be added to purchasable items from server vending machines (red = 1 / yellow = 2 / green = 4 / blue = 8)
         Loot: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 
     Config Changes:
-        SOL Apple Pie - check configs to make sure its going to work like we want
+        Fix the last of the ores and just make everything large bubbles like gold.json... no sense in keeping disks or pylons right now
+        SOL Apple Pie - check configs to make sure its going to work like we want, config added and needs adjustment after testing
         Adjust the corail tombstone config as needed
         Apotheosis disable armor drops from every mob, adjust settings
         CC Tweaked - TURN OFF THE TURTLES

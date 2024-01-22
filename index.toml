@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "593dd96aa08714f606e9f8c0b7e5356b0bf988a78829f15dc19c32a61fa28ee8"
+hash = "89f6bac64fa418b524faf94a608a484d103c634b47922fa993cd0566113ee35e"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -125,8 +125,12 @@ file = "defaultconfigs/sereneseasons-server.toml"
 hash = "4b22a66bd9819ad9b642a9029a7daa191b49b486bf6acb824939b9c1f08948f6"
 
 [[files]]
+file = "defaultconfigs/solapplepie-server.toml"
+hash = "14bf3902c9396505ddc4b9f400357fa6f3dd7abd2c2698b2f2a7a13eb05e4e1c"
+
+[[files]]
 file = "defaultconfigs/tombstone-server.toml"
-hash = "c651b2e0006357d3f3de8790492071fe676763ac1b9b8cf50b91e10950a60d14"
+hash = "4a59825f678f67b725f5832dd9169f088cc792b5f3a15158749376256672393e"
 
 [[files]]
 file = "defaultconfigs/toolbelt-server.toml"
