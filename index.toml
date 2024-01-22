@@ -480,6 +480,11 @@ hash = "895f9e1e4f3d3492540b158bf41eb91ed9dd2955cd6de24982865bdfc505804e"
 metafile = true
 
 [[files]]
+file = "mods/create-industry.pw.toml"
+hash = "b1233c6fc3c0cb71350915de3ffa66a985f1cff510cf73ed3c6fc08d20f804bf"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2e4d543ae2a887b727ffe2ce8ebd854fb1b23066af0b544c99d40dbf28bd254e"
 metafile = true
