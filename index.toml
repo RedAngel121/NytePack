@@ -69,6 +69,10 @@ file = "config/lightmanscurrency-common.toml"
 hash = "f3a8468c661ab68820d94ef6ab6826235ca137fad7c45ee89dfc16296b15e296"
 
 [[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "f712cdb3a698b1475b4a37f746ef04e24eddda37a635b38b4321270feab37ba3"
+
+[[files]]
 file = "config/scalinghealth-client.toml"
 hash = "8a7914f6245550242376ccb70708193861d3b0cb6c71d57b312aa9255f8f7d3c"
 
