@@ -55,7 +55,7 @@ Check out:
         None at this time
 
     Mods:
-        None at this time
+        SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul 
 
     World:
         None at this time
@@ -118,6 +118,7 @@ DO:
         Loot: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 
     Config Changes:
+        Agricraft - Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
         Fix the last of the ores and just make everything large bubbles like gold.json... no sense in keeping disks or pylons right now
         SOL Apple Pie - check configs to make sure its going to work like we want, config added and needs adjustment after testing
         Adjust the corail tombstone config as needed
@@ -131,6 +132,7 @@ DO:
         Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
 
 Lastly, 
+- Agricraft disable "Missing JSON Gen" (L13)
 - Remove World Edit Mods and other Admin only mods
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management

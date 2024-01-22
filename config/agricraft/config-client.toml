@@ -26,7 +26,7 @@
 	"Only fertile crops mutate" = false
 
 	#Set to false if to disable triggering of mutations by using fertilizers on a cross crop.
-	"Fertilizer mutations" = true
+	"Fertilizer mutations" = false
 
 	#Set to true to allow mutations on clone events (spreading from single crop).
 	"Clone mutations" = false
@@ -54,10 +54,10 @@
 	"Weeds can spread" = true
 
 	#Set this to true to have weeds destroy the crop sticks when they are broken with weeds (to encourage rake usage).
-	"Weeds destroy crop sticks" = false
+	"Weeds destroy crop sticks" = true
 
 	#Set to false if you wish to disable drops from raking weeds.
-	"Raking weeds drops items" = true
+	"Raking weeds drops items" = false
 
 	#Defines the seed compost value, if set to zero, seeds will not be compostable
 	#Range: 0.0 ~ 1.0
@@ -68,7 +68,7 @@
 
 	#Enchantment cost in player levels to enchant the seed bag
 	#Range: 0 ~ 30
-	"seed bag enchant cost" = 10
+	"seed bag enchant cost" = 5
 
 	#The amount of seeds one seed bag can hold
 	#Range: 8 ~ 256
@@ -105,8 +105,8 @@
 
 [stats]
 
-	#Logic to calculate stats from gene pairs, accepted values are: "min", "min", and "mean"
-	"Stat calculation logic" = "max"
+	#Logic to calculate stats from gene pairs, accepted values are: "min", "max", and "mean"
+	"Stat calculation logic" = "mean"
 
 	#Minimum allowed value of the Gain stat (setting min and max equal will freeze the stat to that value in crop breeding)
 	#Range: 1 ~ 10
@@ -238,7 +238,7 @@
 	#The growth rate modifier applied to crops inside greenhouses;
 	#0 = no growth allowed (why would you do this), < 1 = slower growth, 1 = no effect, > 1 = faster growth
 	#Range: 0.0 ~ 10.0
-	"Greenhouse growth modifier" = 1.25
+	"Greenhouse growth modifier" = 0.7
 
 [compat]
 

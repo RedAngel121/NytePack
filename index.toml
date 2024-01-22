@@ -6,11 +6,11 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "89f6bac64fa418b524faf94a608a484d103c634b47922fa993cd0566113ee35e"
+hash = "1ea2bba289d41a77ddd3a6e2cf0a3b055107d665df27569872be367a79cd561b"
 
 [[files]]
 file = "config/agricraft/config-client.toml"
-hash = "c09736a2ad308d32154e65a19941fa3422c82d842e8dde3801566a3e6c06ecb4"
+hash = "c0e092febe2ed2064fa7dcc2187613d1ad59524ef7efea6f2337953655095bbf"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -798,11 +798,6 @@ hash = "7723e3ec50c2ba2b78611149993c583d824a39acd385f0701f117dd435081c67"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "4d2bad5b4335ce48ae261b5177efb9ea546beaab0f06bcdf6d879ab3de37eb21"
-metafile = true
-
-[[files]]
 file = "mods/oauth.pw.toml"
 hash = "df6534c93c5c2b0a01c5b5fc03c6c9e63be78f0c12c7a9f6f7369cf7841cd22c"
 metafile = true
@@ -890,11 +885,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
-metafile = true
-
-[[files]]
-file = "mods/ruins.pw.toml"
-hash = "14880146b1cd702b2b42ed267bf219d0a67a0c740e88c1cafe85a8553378fb36"
 metafile = true
 
 [[files]]
