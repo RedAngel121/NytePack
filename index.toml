@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "e0a5866a737747c571892bbe902466f45bb2ef2b980d68d18a9262737e649ce3"
+hash = "954ebaa5a2ae2b1c8ce65ab78258f7a4f4eee7627dc31131bfeb3d7d77d0c240"
 
 [[files]]
 file = "config/agricraft/config-client.toml"

@@ -35,6 +35,7 @@ Important Mods List: (~150 mods in total)
 - Tool Belt
 
 We need to dive into Vein Mining and by extension... Farming
+- Determine how Vein Mining is actually going to affect the player hunger and tool durability
 
 Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists (other than Create's world gen stuff)
 
@@ -71,19 +72,21 @@ Soft No:
         Beyond Earth (Awating 7.0 update and maybe even avoiding depeding on whats included)
         Create Interactive (propbably not happning due to possible performance/compat issues, will test later)
         Alex's Mobs (some of the mobs are just horrible and need to be disabled)
-        Mekanism + Extras (most likely not included because its too streamlined and would need heavy edits)
+        Mekanism + Extras (most likely not included because its too streamlined or technically advanced and would need heavy edits to function the way we want)
         Supplementaries (lots of problems with this that im not super intersted in fine tuning yet)
-        Comforts (possible compat issues)
+        Comforts (possible compat issues with seasons)
         Lootr (will not be added as it floods the market with items)
-        Nightmare Epic Siege ( :Sweats: yea idk yet, some of these things are just not ok but the options for intelegent mobs would be interesting)
-        Enhanced Celestials (as long as we can disable the blood moon and the stupid moon noises)
+        Nightmare Epic Siege ( Disable 90% of the mod?? :Sweats: yea idk yet, some of these things are just not ok but the options for intelegent mobs would be interesting)
+        Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
         Aquaculture (remove neptunium stuff?)
-        Natures Aura (possible server overhead issues)
+        Natures Aura (possible server overhead issues because of the chunk aura updates)
 
     World:
-        Terralith (chunk generation issues)
+        Terralith (slow chunk generation issues)
         Deeper and Darker (not available for 1.18)
-        The Undergarden (not something i want because its far outside the realm of the pack)
+        The Undergarden 
+            - not something i want because its far outside the realm of the pack
+            - we could turn it into a planet instead of a portal?
 
         Swap for Geolosys?: disinclined...
             https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
@@ -96,8 +99,9 @@ DO:
     Mod Changes:
         PERMANENTLY DISABLE WANDERING TRADER
         Philip's Ruins - Remove MiniBoss Ruins
-        Determine how Vein Mining is actually going to affect the player hunger and tool durability
-        Do something about the Create Mechanical Drill, makes things too easy (slow down or disable ore drilling?)
+        Create Possible Issues
+        - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
+        - Hose Pulley makes the nether an infinite lava source
         Adjust Scaling Health Mod
         - Distance instead of time
         - Set max health limits "higher"
