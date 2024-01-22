@@ -104,7 +104,8 @@ DO:
         Investigate Glassential functional glass blocks
         Investigate secret rooms
         Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
-        Disable IE Wooden Storage Crate and Wooden Barrel, Creosote and steel production in favor of TFMG
+        Disable IE Wooden Storage Crate and Wooden Barrel
+        Use Oil settings provided by Immersive Petroleum
         Adjust Sophisticated Storage settings
         Gateways to Eternity
         - Add an absolute metric ton of gateways cause thats going to be fun

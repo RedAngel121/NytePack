@@ -6,7 +6,7 @@ hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
 
 [[files]]
 file = "README.md"
-hash = "f59c6cd1e9a9b8f94e43471178eb5344f18d2e4b7ade6ad7dd28ad5f2291a362"
+hash = "32d94f74760d56db4a4574ead962b266a40dd7c4f8d443cddb4b9d45c933d2ff"
 
 [[files]]
 file = "config/alltheores-common.toml"
@@ -472,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "02a4b48196c9bd959fe8b936d27bc0a8d99f16076d10566e69b649ad51312815"
 metafile = true
 
 [[files]]
