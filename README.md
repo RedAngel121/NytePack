@@ -94,7 +94,7 @@ Soft No:
             https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
                 https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 
-DO:
+TODO:
 
     Mod Changes:
         PERMANENTLY DISABLE WANDERING TRADER
