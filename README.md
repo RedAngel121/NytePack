@@ -39,6 +39,9 @@ Important Mods List:
 
 Pack Build Rules are as follows:
 1. No Teleporting items or players
+2. No Backpacks or On-Person Inventory Storage (mod/item specific things like the Agricraft Pouch are fine)
+3. Theme is more Dieselpunk Factory with long-term play and community goals
+4. Update to 1.20.1 if ALL mods are available (after update look into C:TFMG and NuclearCraft)
 
 We need to dive into Vein Mining and by extension... Farming
 - Determine how Vein Mining is actually going to affect the player hunger and tool durability

@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "28cde81458be1d43da50c312c8a4be8f474257e6e22b8f510780918d569e3c67"
-
-[[files]]
-file = "README.md"
-hash = "fd75b726b641b045c971c3d4f36e8acd8ca46a633ae796b40901efd308cf96a0"
-
-[[files]]
 file = "config/agricraft/config-client.toml"
 hash = "c0e092febe2ed2064fa7dcc2187613d1ad59524ef7efea6f2337953655095bbf"
 
@@ -744,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "d5df32b81d9ddd8863e66c8f02952355428f793cf6b0d5386b7ef1038f9ae333"
+hash = "10eada556249ae0e1b64f2f003fd3dc056c2ff9eda1e9c9c7008459ecd609276"
 metafile = true
 
 [[files]]

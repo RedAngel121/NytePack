@@ -1,12 +1,12 @@
 name = "NytePack"
-author = "Red and Dev"
-version = "0.2"
+author = "RedAngel121"
+version = "0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "85afbe98cf4e26f57997a7d755004e653d89bfa68ba5841adfc5a475e182f0d5"
+hash = "07b1f4b7e258f1c2d15fc9d382c52db36cae892e74094a9a56b1995965a76776"
 
 [versions]
 forge = "40.2.14"
