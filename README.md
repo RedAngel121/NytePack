@@ -5,12 +5,12 @@ The new Minecraft Pack that has been in the works for like *forever* and never a
 Join Our Discord: https://discord.gg/kkjwfuz
 
 WARNING: Single player worlds will break repeatedly as the pack is still under heavy development!
-- If you still want to play it then expect your stuff to be reset/borked a lot.
-- You can get the pack as a full release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
+- If you still want to play it then expect your stuff to be reset/borked a lot
+- You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
 - Just Import to any non vanilla launcher (MultiMC, Prism, ATLauncher) to play
-- Once a public server is ready we will be making an announcement in the Discord.
+- Once a public server is ready we will be making an announcement in the Discord
 
-Important Mods List: (~150 mods in total)
+Important Mods List:
 
 - Agricraft
 - Apotheosis
@@ -33,20 +33,23 @@ Important Mods List: (~150 mods in total)
 - Sophisticated Storage
 - Toms Storage
 - Tool Belt
+- +150 more!
+
+TEAM NOTES:
 
 We need to dive into Vein Mining and by extension... Farming
 - Determine how Vein Mining is actually going to affect the player hunger and tool durability
 
 Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists (other than Create's world gen stuff)
 
-"Ore factories" will have different ways of processing ore per type:
+"Ore Factories" will have different ways of processing ore per type:
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
 - More complex ore processing will yield better results
 - Mekanism (not included) is a good example of this
 
-We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big update for 1.18).
-- How does this factor into Starting Cash/Mob drops/Chest Loot/UBI+Taxes and other options?
-- What options do we have for purchasing chunk loading time? cant find anything on this yet...
+We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big backport update for 1.18.2).
+- How does this factor into Starting Cash, Mob Cash Drops, Chest Loot, Login Bonus Income, Taxes, and other options?
+- What options do we have for purchasing chunk loading times? cant find anything on this yet...
 
 Balance is Key!
 
@@ -56,10 +59,13 @@ Check out:
         None at this time
 
     Mods:
-        SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod
+        Aquaculture (remove neptunium stuff)
+        Beyond Earth (progression beyond steel/netherite and make other planets actually useful)
 
     World:
-        None at this time
+        SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod
+        Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
+        Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
 
 Soft No:
 
@@ -78,15 +84,14 @@ Soft No:
         Lootr (will not be added as it floods the market with items)
         Nightmare Epic Siege ( Disable 90% of the mod?? :Sweats: yea idk yet, some of these things are just not ok but the options for intelegent mobs would be interesting)
         Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
-        Aquaculture (remove neptunium stuff?)
         Natures Aura (possible server overhead issues because of the chunk aura updates)
 
     World:
         Terralith (slow chunk generation issues)
         Deeper and Darker (not available for 1.18)
         The Undergarden 
-            - not something i want because its far outside the realm of the pack
-            - we could turn it into a planet instead of a portal?
+            - not something i want, but how far outside the realm of the pack?
+            - we could turn it into a planet instead of a portal for use with Beyond Earth?
 
         Swap for Geolosys?: disinclined...
             https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
@@ -97,31 +102,31 @@ Soft No:
 TODO:
 
     Mod Changes:
-        PERMANENTLY DISABLE WANDERING TRADER
-        Philip's Ruins - Remove MiniBoss Ruins
-        Create Possible Issues
+        JUST PERMANENTLY DISABLE WANDERING TRADER FOREVER PLEASE 
+        Philip's Ruins - Find out impoact on start times and most likely remove MiniBoss Ruins oir something
+        Create Mod Possible Issues:
         - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
         - Hose Pulley makes the nether an infinite lava source
-        Adjust Scaling Health Mod
+        Adjust Scaling Health Mod:
         - Distance instead of time
         - Set max health limits "higher"
         - Disable all drops
         - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
         - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
-        Create Deco - investigate and possibly Disable "coin stacks" to prevent confusion
+        Create Deco - investigate and possibly disable "coin stacks" to prevent possible confusion
         Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
         Investigate Glassential functional glass blocks
         Investigate secret rooms
-        Blood Magic Sigil of Air and (something about a meteor that dev is concerned about)
-        Disable IE Wooden Storage Crate and Wooden Barrel
-        Use Oil and settings provided by Immersive Petroleum
-        Adjust Sophisticated Storage settings
+        Blood Magic Sigil of Air and (something about a meteor that dev is concerned about?)
+        Disable KeepInv for IE Wooden Storage Crate / Wooden Barrel
+        Use Oil and settings provided by Immersive Petroleum and no pnumaticraft
+        Adjust Sophisticated Storage settings or disable some upgrades
         Gateways to Eternity
         - Add an absolute metric ton of gateways cause thats going to be fun
         - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
         Baubley Heart Canisters
         - Heart cans need to be added to purchasable items from server vending machines (red = 1 / yellow = 2 / green = 4 / blue = 8)
-        Loot: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
+        Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 
     Config Changes:
         Agricraft - Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
@@ -129,12 +134,11 @@ TODO:
         SOL Apple Pie - check configs to make sure its going to work like we want, config added and needs adjustment after testing
         Adjust the corail tombstone config as needed
         Apotheosis disable armor drops from every mob, adjust settings
-        CC Tweaked - TURN OFF THE TURTLES
-        Farming for Blockheads - Disable Market
-        Aircraft needs adjustments (nerf pedal craft) and better integration with crafting recp (possible steel aircraft industry?)
-        Fix Starter Kit to include things players should have day one
+        CC Tweaked - TURN OFF THE TURTLES!
+        Farming for Blockheads - just disable the Market, check everything else to make sure it doesnt break the spirit of the pack
+        Aircraft needs adjustments (nerf pedal craft) and better integration with crafting recipes (possible steel aircraft industry?)
+        Fix Starter Kit to include things players should have day one (What items tho?)
         Check toolbelt config for item white/blacklist (sadly cannot change its size)
-        Serene Seasons: crops (temp and season bands) and manage tectonic biomes
         Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
 
 Lastly, 
