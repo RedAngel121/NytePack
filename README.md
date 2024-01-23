@@ -7,7 +7,7 @@ Join Our Discord: https://discord.gg/kkjwfuz
 WARNING: Single player worlds will break repeatedly as the pack is still under heavy development!
 - If you still want to play it then expect your stuff to be reset/borked a lot
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
-- Just Import to any non vanilla launcher (MultiMC, Prism, ATLauncher) to play
+- Requires Prism Launcher or AT Launcher to play, ***CurseForge and Microsoft are not compatable.***
 - Once a public server is ready we will be making an announcement in the Discord
 
 Important Mods List:
@@ -35,7 +35,10 @@ Important Mods List:
 - Tool Belt
 - +150 more!
 
-TEAM NOTES:
+~ BUILD TEAM NOTES ~
+
+Pack Build Rules are as follows:
+1. No Teleporting items or players
 
 We need to dive into Vein Mining and by extension... Farming
 - Determine how Vein Mining is actually going to affect the player hunger and tool durability
@@ -130,7 +133,7 @@ TODO:
 
     Config Changes:
         Agricraft - Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-        Fix the last of the ores and just make everything large bubbles like gold.json... no sense in keeping disks or pylons right now
+        Fix and fine tune the last of the ores and just make everything large bubbles like gold.json... no sense in keeping disks or pylons right now
         SOL Apple Pie - check configs to make sure its going to work like we want, config added and needs adjustment after testing
         Adjust the corail tombstone config as needed
         Apotheosis disable armor drops from every mob, adjust settings
