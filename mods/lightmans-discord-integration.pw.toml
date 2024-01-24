@@ -1,6 +1,6 @@
 name = "Lightman's Discord Integration"
 filename = "lightmansdiscord-1.18-0.2.0.3-server.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-discord-integration.pw.toml"
-hash = "7b8890c8c62291e84f51d23f9fa7ef8bea5062f56863d71fe970957b593a2a35"
+hash = "465fd6be38d6b5d2399cc2a62f0dad810932fb1db997638427bf2609130ecf54"
 metafile = true
 
 [[files]]

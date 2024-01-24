@@ -75,7 +75,7 @@ Check out:
         SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod
         Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
         Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
-        Find a way to increase world build height and lower bedrock
+        Find a way to increase world build height and lower bedrock + Flat Bedrock
 
 Soft No:
 
