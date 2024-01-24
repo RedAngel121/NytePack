@@ -86,7 +86,7 @@
 	thermoelectric_output = 1.0
 	#The Flux that will be output by the lightning rod when it is struck
 	#Range: > 0
-	lightning_output = 16000000
+	lightning_output = 160000000
 	#The Flux per tick that the Diesel Generator will output. The burn time of the fuel determines the total output
 	#Range: > 0
 	dieselGen_output = 4096
@@ -165,9 +165,9 @@
 		#Range: > 1
 		consumption_accelerate = 5
 		#Set this to false to disable the fluid pump being able to draw infinite water from sources
-		infiniteWater = true
+		infiniteWater = false
 		#If this is set to true (default) the pump will replace fluids it picks up with cobblestone in order to reduce lag caused by flowing fluids.
-		placeCobble = true
+		placeCobble = false
 
 	[machines.teslacoil]
 		#The Flux per tick the Tesla Coil will consume, simply by being active
@@ -194,7 +194,7 @@
 	[machines.garden_cloche]
 		#The Flux per tick the cloche consumes to grow plants
 		#Range: > 1
-		consumption = 8
+		consumption = 64
 		#The amount of ticks one dose of fertilizer lasts in the cloche
 		#Range: > 1
 		fertilizer = 6000
@@ -334,10 +334,10 @@
 		chance = 0.9
 		#The maximum amount of yield one can get out of a chunk with the excavator. Set a number smaller than zero to make it infinite
 		#Range: > -1
-		yield = 38400
+		yield = 128000
 		#The maximum depletion a vein can start with, as a decimal value. When a vein generates, a random percentage up to this value is depleted from it
 		#Range: 0.0 ~ 1.0
-		initial_depletion = 0.2
+		initial_depletion = 0.8
 		#List of dimensions that can't contain minerals. Default: The End.
 		dimBlacklist = ["minecraft:the_end"]
 
@@ -538,7 +538,7 @@
 		consumption = 800
 		#A modifier for the damage of all projectiles fired by the Railgun
 		#Range: 0.0 ~ 1.7976931348623157E308
-		damage_modifier = 1.0
+		damage_modifier = 2.0
 
 	[tools.powerpack]
 		#A whitelist of armor pieces to allow attaching the capacitor backpack, formatting: [mod id]:[item name]

@@ -53,6 +53,14 @@ file = "config/geolosys-common.toml"
 hash = "aced9a25f5a96bdc430f8750d57beac5a7b5d8833b08bb36ad9d6efabd91116f"
 
 [[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "b8b4947f4dbe447dda863765f447b4316875e72d53264f5b5e1153b2f902474d"
+
+[[files]]
+file = "config/immersiveengineering-common.toml"
+hash = "8f69b89e521ed8718279208d3d2dc071ec6450f44d4992217a20a49a02da31ce"
+
+[[files]]
 file = "config/lctech-common.toml"
 hash = "cbb5220df605e2040f0b2548041aa86ec02deeaad7657d94ad464284cc5d797f"
 
@@ -102,7 +110,7 @@ hash = "b97d4272a25c0cace23ee81becd05f52dd7b901da4db30bd2bd5dcaedabf56d6"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "5f48ae4f16f9efb1cc24026c9e5f55cd4964d2b3d930ade3ec04ab8a15f311cc"
+hash = "dde7fc05e59b1d274ffc1b57eae01503d3506f65aaf03ee77bde3ae6fe25d285"
 
 [[files]]
 file = "defaultconfigs/lightmanscurrency-server.toml"

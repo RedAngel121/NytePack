@@ -120,18 +120,18 @@ TODO:
         Philip's Ruins - Remove MiniBoss Ruins
         Create Mod Possible Issues:
         - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
-        - Hose Pulley makes the nether an infinite lava source
+        - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
         Adjust Scaling Health Mod:
         - Distance instead of time
         - Set max health limits higher or unlimited
         - Disable all loot/drops
         - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
         - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
-        Create Deco - investigate and possibly disable "coin stacks" to prevent possible confusion
+        Create Deco - disable coins and coin stacks to prevent confusion (add them to Currency Chain after LC 2.2 update?)
         Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
         Investigate Glassential functional glass blocks
-        Investigate secret rooms
-        Blood Magic Sigil of Air and (something about a meteor that dev is concerned about?)
+        Investigate secret rooms mod
+        Blood Magic Sigil of Air and something about a meteor that dev is concerned about?
         Disable KeepInv for IE Wooden Storage Crate / Wooden Barrel
         Use Oil and settings provided by Immersive Petroleum and no pnumaticraft
         Adjust Sophisticated Storage settings or disable some upgrades
@@ -154,6 +154,7 @@ TODO:
         Fix Starter Kit to include things players should have day one (What items tho?)
         Check toolbelt config for item white/blacklist (sadly cannot change its size)
         Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
+        Immersive Engineering - garden_cloche needs growth_modifier adjustments
 
 Lastly, 
 - Agricraft disable "Missing JSON Gen" (L13)
