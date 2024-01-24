@@ -186,15 +186,15 @@ hash = "e0a7ab271e0e452ab2ce329e3a522523f07a436ab45eabfb0cb2529cab57bc2b"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/ancient_debris.json"
-hash = "ba51c7b8c7f64a827628b29854b2861737b4fc4ad235668dd5610307ba6ac477"
+hash = "b4874a2f8b6ff6a2501b4804f06c5c41a585c2b14877e420e47779f74e2d36d0"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/anthracitic_coal.json"
-hash = "7c97cd73ac043f46a5decb7a19957f2184d09e28cdb8a164da8d4f0305cf6408"
+hash = "a500f11f2bb276a130e8307d693370592e6b99aa50deb59c69b9739225399d3e"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/assorted_quartz.json"
-hash = "b37433e8ced2f2957eaf2c4405eede9de802d98dd012aaf5844e304d9b5f4f51"
+hash = "06714017b481a26d77f12ae7ca3a0d3764b76de0dc0d923f1251a6a08d997e9c"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/autunite.json"
@@ -210,11 +210,11 @@ hash = "3f0ce273a86e7300e17b77b4f48325b037f29dad5bddf5187488a3b1200997f6"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/beryl.json"
-hash = "0cb60a5b03f6edcb09a3bfd08308e414ff2697de76e066257a4fd44b4baf438b"
+hash = "ca89178e482b2b17874c387a5a4f39252c0ee61fa742fa5b55875d72ea39d336"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/bituminous_coal.json"
-hash = "e035bef632b29f45088b9fc08425775414d7bde5742d14aaa4e5fc7ff3085058"
+hash = "4ba05a9ef4c241a6e1258ae70326251a85da1ccd462dfc14166e24fb6d443339"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/bort.json"
@@ -242,19 +242,19 @@ hash = "23ba25a73eea35c871f272bbe0d44edbbf9a2369a4487c8997d7381fe4f70dc4"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/gold_nether.json"
-hash = "f9593441a5b7c71d0a3da0ad699f54efc52cc6a7efc81e6ec8a2e022a1c91107"
+hash = "af547fa296c547fe960858a83ee1556278f6999206845ffa67a7a831946f54a3"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/hematite.json"
-hash = "93aa4941ae461c9517c199f733d54b105517e1ca86e78d8d339a2c7e8ea0ca37"
+hash = "45be80a0f763e14bac4602c7a28ea4963a2e056a856c59f29f6fa10c35c1610b"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/iron_nether.json"
-hash = "3baf0d4579f909189147a72a09da04463c07fcff01e9c70f496fe9a6f28c99a4"
+hash = "56bc27cb9fa739d1263fa7e9b2c67555e97e516184c31e83a3a218a01a366954"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/kimberlite.json"
-hash = "b32b6c9a76ad03de3374f31990007d230b4eaf16670a72fc5fc25a81f15a896c"
+hash = "855cb697e35bbf31ae16417c4a274a9df291db76ddd66c4cd00b26dd55423efb"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/lapis.json"
@@ -262,11 +262,11 @@ hash = "7d322f63f23a7d1dea02f21e9108d575a86472f7030ccba65803907d892276d5"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/lignite.json"
-hash = "aef01e3f28188d39c9ecc49b1f9ec0910a468e8edf4a79b3a6c38fd43608ffeb"
+hash = "8962d0ea1f7d135a4ace8cdc1f883f02ea0fbd8dd4d34eea12183079ed9a7742"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/limonite.json"
-hash = "3dbe6ef36120a85992328b0f7af143b1945ccf7b976788b74e7e5cbeb880e9e0"
+hash = "e35f52c912c0337b12c449e5e42a7378bfaa59cf3f18e5a9f33667b61eda60af"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/malachite.json"
@@ -274,7 +274,7 @@ hash = "2ff4b86c489d3c6f35da5799821c2907ee6a5861e99ee771d4def9bef4b111b3"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/platinum.json"
-hash = "3ddb75437d2fdf25429f69d2934102b67141bc73f6032a36f9a1dfa70f6589dd"
+hash = "b32005b9ae1b9315e3fcb0bad9f8fe5591fe68c8b075221d38f490222f21c497"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/silver_end.json"
@@ -286,7 +286,7 @@ hash = "44ca78fd3798f3e4d342b191ebe5e98d6d6f83b342f209022355623bcbe3bd17"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/teallite_and_emerald.json"
-hash = "fde3c12575005b7dd4907ada1ab0bf218e5c43a6a4ad7cd667ed43dcf662d31d"
+hash = "bc793005d74a381233d9c2773f67eedd3e982bb2005563f9bf7d7a3bff7d4612"
 
 [[files]]
 file = "kubejs/data/geolosys/loot_tables/blocks/azure_silver_ore_sample.json"
@@ -772,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "7f8fb189da26a16846035e53160df719b0fd6865d2d7b1463c06b1066ca0447f"
+metafile = true
+
+[[files]]
+file = "mods/new-world-height-and-depth.pw.toml"
+hash = "1ddb1eb1658d02055b101bc64675ea2dfe7a9e9cde0b1189175d5428120119f3"
 metafile = true
 
 [[files]]

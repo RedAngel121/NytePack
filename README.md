@@ -38,15 +38,16 @@ Important Mods List:
 ~ BUILD TEAM NOTES ~
 
 Pack Build Rules are as follows:
-1. No Teleporting items or players
+1. No Teleporting items or players (CoRail's Death Key Exception)
 2. No Backpacks or On-Person Inventory Storage (mod/item specific things like the Agricraft Pouch are fine)
-3. Theme is more Dieselpunk Factory with long-term play and community goals
-4. Update to 1.20.1 if ALL mods are available (after update look into C:TFMG and NuclearCraft)
+3. Theme is more Dieselpunk Factory with long-term goals and community play
+4. Mod Interconnectivity is desired between Create/IE/other tech mods (Which one do we want producing power?)
+5. Update to 1.20.1 if ALL mods are available (after update look into C:TFMG and NuclearCraft)
 
 We need to dive into Vein Mining and by extension... Farming
 - Determine how Vein Mining is actually going to affect the player hunger and tool durability
 
-Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists (other than Create's world gen stuff)
+Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff
 
 "Ore Factories" will have different ways of processing ore per type:
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
@@ -62,9 +63,11 @@ Balance is Key!
 Check out:
 
     QOL:
-        None at this time
+        https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack
+        https://www.curseforge.com/minecraft/mc-mods/no-more-piglin-portal-spawning
 
     Mods:
+        https://www.curseforge.com/minecraft/mc-mods/daves-potioneering
         Aquaculture (remove neptunium stuff)
         Beyond Earth (progression beyond steel/netherite and make other planets actually useful)
 
@@ -76,6 +79,7 @@ Check out:
 Soft No:
 
     QOL:
+        https://www.curseforge.com/minecraft/mc-mods/y-is-there-autojump-forge (if you cant config)
         FancyMenu (Lots of work)
         PackMenu (Lots of work)
         Simple Voice Chat (Possible Server Overhead/Network Issues)
@@ -91,12 +95,15 @@ Soft No:
         Nightmare Epic Siege ( Disable 90% of the mod?? :Sweats: yea idk yet, some of these things are just not ok but the options for intelegent mobs would be interesting)
         Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
         Natures Aura (possible server overhead issues because of the chunk aura updates)
+        https://www.curseforge.com/minecraft/mc-mods/suspicious-zombification ??? (find purpose or reasonable limits)
+        https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires (check for Ore Gen and see whats not compatable)
+        https://www.curseforge.com/minecraft/mc-mods/create-connected (should be fine but still look at it first)
 
     World:
         Terralith (slow chunk generation issues)
         Deeper and Darker (not available for 1.18)
         The Undergarden 
-            - not something i want, but how far outside the realm of the pack?
+            - not something i want personally, but how far outside the realm of the pack is it really?
             - we could turn it into a planet instead of a portal for use with Beyond Earth?
 
         Swap for Geolosys?: disinclined...

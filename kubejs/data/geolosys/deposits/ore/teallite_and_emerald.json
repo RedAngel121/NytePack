@@ -1,5 +1,5 @@
 {
-  "type": "geolosys:deposit_dike",
+  "type": "geolosys:deposit_dense",
   "config": {
     "blocks": {
       "default": [
@@ -31,7 +31,7 @@
     ],
     "yMin": -60,
     "yMax": -30,
-    "baseRadius": 12,
+    "size": 200,
     "biomes": {
       "isBlacklist": false,
       "filter": ["RIVER", "HOT"]

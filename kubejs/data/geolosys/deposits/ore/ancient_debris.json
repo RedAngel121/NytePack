@@ -1,9 +1,9 @@
 {
-  "type": "geolosys:deposit_dike",
+  "type": "geolosys:deposit_dense",
   "config": {
-    "yMin": 8,
-    "yMax": 22,
-    "baseRadius": 8,
+    "yMin": 1,
+    "yMax": 32,
+    "size": 150,
     "dimensions": {
       "isBlacklist": false,
       "filter": ["the_nether"]

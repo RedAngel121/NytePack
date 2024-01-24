@@ -1,9 +1,9 @@
 {
   "type": "geolosys:deposit_dense",
   "config": {
-    "yMin": 40,
-    "yMax": 100,
-    "size": 75,
+    "yMin": 100,
+    "yMax": 190,
+    "size": 150,
     "blockStateMatchers": [
       "minecraft:netherrack",
       "minecraft:basalt",
