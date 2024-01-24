@@ -116,8 +116,8 @@ Soft No:
 TODO:
 
     Mod Changes:
-        JUST PERMANENTLY DISABLE WANDERING TRADER FOREVER PLEASE 
-        Philip's Ruins - Find out impoact on start times and most likely remove MiniBoss Ruins oir something
+        JUST PERMANENTLY DISABLE WANDERING TRADER FOREVER PLEASE
+        Philip's Ruins - Remove MiniBoss Ruins
         Create Mod Possible Issues:
         - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
         - Hose Pulley makes the nether an infinite lava source
