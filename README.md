@@ -113,48 +113,46 @@ Soft No:
             https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
                 https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 
-TODO:
-
-    Mod Changes:
-        JUST PERMANENTLY DISABLE WANDERING TRADER FOREVER PLEASE
-        Philip's Ruins - Remove MiniBoss Ruins
-        Create Mod Possible Issues:
-        - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
-        - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
-        Adjust Scaling Health Mod:
-        - Distance instead of time
-        - Set max health limits higher or unlimited
-        - Disable all loot/drops
-        - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
-        - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
-        Create Deco - disable coins and coin stacks to prevent confusion (add them to Currency Chain after LC 2.2 update?)
-        Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
-        Investigate Glassential functional glass blocks
-        Investigate secret rooms mod
-        Blood Magic Sigil of Air and something about a meteor that dev is concerned about?
-        Disable KeepInv for IE Wooden Storage Crate / Wooden Barrel
-        Use Oil and settings provided by Immersive Petroleum and no pnumaticraft
-        Adjust Sophisticated Storage settings or disable some upgrades
-        Gateways to Eternity
-        - Add an absolute metric ton of gateways cause thats going to be fun
-        - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
-        Baubley Heart Canisters
-        - Heart cans need to be added to purchasable items from server vending machines (red = 1 / yellow = 2 / green = 4 / blue = 8)
-        Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-
-    Config Changes:
-        Agricraft - Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-        Fix and fine tune the last of the ores and just make everything large bubbles like gold.json... no sense in keeping disks or pylons right now
-        SOL Apple Pie - check configs to make sure its going to work like we want, config added and needs adjustment after testing
-        Adjust the corail tombstone config as needed
-        Apotheosis disable armor drops from every mob, adjust settings
-        CC Tweaked - TURN OFF THE TURTLES!
-        Farming for Blockheads - just disable the Market, check everything else to make sure it doesnt break the spirit of the pack
-        Aircraft needs adjustments (nerf pedal craft) and better integration with crafting recipes (possible steel aircraft industry?)
-        Fix Starter Kit to include things players should have day one (What items tho?)
-        Check toolbelt config for item white/blacklist (sadly cannot change its size)
-        Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
-        Immersive Engineering - garden_cloche needs growth_modifier adjustments
+Mod/Config Changes:
+    JUST PERMANENTLY DISABLE WANDERING TRADER FOREVER PLEASE
+    Philip's Ruins - Remove MiniBoss Ruins
+    Create Mod Possible Issues:
+    - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
+    - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
+    Adjust Scaling Health Mod:
+    - Distance instead of time
+    - Set max health limits higher or unlimited
+    - Disable all loot/drops
+    - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
+    - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
+    Create Deco - disable coins and coin stacks to prevent confusion (add them to Currency Chain after LC 2.2 update?)
+    Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
+    Investigate Glassential functional glass blocks
+    Investigate secret rooms mod
+    Blood Magic Sigil of Air and something about a meteor that dev is concerned about?
+    Use Oil and settings provided by Immersive Petroleum and no pnumaticraft
+    Adjust Sophisticated Storage settings or disable some upgrades
+    Gateways to Eternity
+    - Add an absolute metric ton of gateways cause thats going to be fun
+    - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
+    Baubley Heart Canisters
+    - Heart cans need to be added to purchasable items from server vending machines (red = 1 / yellow = 2 / green = 4 / blue = 8)
+    Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
+    Agricraft - Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
+    Fix and fine tune the last of the ores and just make everything large bubbles like gold.json... no sense in keeping disks or pylons right now
+    SOL Apple Pie - check configs to make sure its going to work like we want, config added and needs adjustment after testing
+    Adjust the corail tombstone config as needed
+    Apotheosis disable armor drops from every mob, adjust settings
+    CC Tweaked - TURN OFF THE TURTLES!
+    Farming for Blockheads - just disable the Market, check everything else to make sure it doesnt break the spirit of the pack
+    Aircraft needs adjustments (nerf pedal craft) and better integration with crafting recipes (possible steel aircraft industry?)
+    Fix Starter Kit to include things players should have day one (What items tho?)
+    Check toolbelt config for item white/blacklist (sadly cannot change its size)
+    Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
+    Immersive Engineering:
+        - garden_cloche needs growth_modifier adjustments
+        - Disable KeepInv for IE Wooden Storage Crate / Wooden Barrel
+        - Modify the loot table for the crates and instead of tile_drop, make it do drop_inv 
 
 Lastly, 
 - Agricraft disable "Missing JSON Gen" (L13)
