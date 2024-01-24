@@ -75,6 +75,7 @@ Check out:
         SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod
         Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
         Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
+        Find a way to increase world build height and lower bedrock
 
 Soft No:
 
@@ -122,8 +123,8 @@ TODO:
         - Hose Pulley makes the nether an infinite lava source
         Adjust Scaling Health Mod:
         - Distance instead of time
-        - Set max health limits "higher"
-        - Disable all drops
+        - Set max health limits higher or unlimited
+        - Disable all loot/drops
         - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
         - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
         Create Deco - investigate and possibly disable "coin stacks" to prevent possible confusion
