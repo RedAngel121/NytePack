@@ -65,14 +65,18 @@ Check out:
     QOL:
         https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack
         https://www.curseforge.com/minecraft/mc-mods/no-more-piglin-portal-spawning
+        https://www.curseforge.com/minecraft/mc-mods/y-is-there-autojump-forge (ONLY IF you cant find the config)
 
     Mods:
         https://www.curseforge.com/minecraft/mc-mods/daves-potioneering
         Aquaculture (remove neptunium stuff)
         Beyond Earth (progression beyond steel/netherite and make other planets actually useful)
+        https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires (check for Ore Gen and see whats not compatable)
+        https://www.curseforge.com/minecraft/mc-mods/create-connected (should be fine but still look at it first)
 
     World:
-        SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod
+        SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod (nothing before 1.20.1)
+        Investigate https://www.curseforge.com/minecraft/mc-mods/nullscape
         Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
         Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
         Find a way to increase world build height and lower bedrock + Flat Bedrock
@@ -80,25 +84,18 @@ Check out:
 Soft No:
 
     QOL:
-        https://www.curseforge.com/minecraft/mc-mods/y-is-there-autojump-forge (if you cant config)
         FancyMenu (Lots of work)
         PackMenu (Lots of work)
-        Simple Voice Chat (Possible Server Overhead/Network Issues)
+        Simple Voice Chat (Possible Server Overhead/Network caps)
 
     Mods:
         Beyond Earth (Awating 7.0 update and maybe even avoiding depeding on whats included)
-        Create Interactive (propbably not happning due to possible performance/compat issues, will test later)
+        Create Interactive (probably not happening due to possible performance/compat issues, will test later)
         Alex's Mobs (some of the mobs are just horrible and need to be disabled)
-        Mekanism + Extras (most likely not included because its too streamlined or technically advanced and would need heavy edits to function the way we want)
         Supplementaries (lots of problems with this that im not super intersted in fine tuning yet)
         Comforts (possible compat issues with seasons)
-        Lootr (will not be added as it floods the market with items)
-        Nightmare Epic Siege ( Disable 90% of the mod?? :Sweats: yea idk yet, some of these things are just not ok but the options for intelegent mobs would be interesting)
-        Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
+        Nightmare Epic Siege (Disable 90% of the mod: Most things are not ok but intelligent mobs could be interesting)
         Natures Aura (possible server overhead issues because of the chunk aura updates)
-        https://www.curseforge.com/minecraft/mc-mods/suspicious-zombification ??? (find purpose or reasonable limits)
-        https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires (check for Ore Gen and see whats not compatable)
-        https://www.curseforge.com/minecraft/mc-mods/create-connected (should be fine but still look at it first)
 
     World:
         Terralith (slow chunk generation issues)
@@ -112,6 +109,13 @@ Soft No:
                 https://legacy.curseforge.com/minecraft/mc-mods/advanced-finders
             https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
                 https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
+
+Hard No:
+        Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
+        https://www.curseforge.com/minecraft/mc-mods/suspicious-zombification ??? (find purpose or reasonable limits)
+        Lootr (will not be added as it floods the market with items)
+        Mekanism + Extras (most likely not included because its too streamlined or technically advanced and would need heavy edits to function the way we want)
+
 
 Mod/Config Changes:
     JUST PERMANENTLY DISABLE WANDERING TRADER FOREVER PLEASE
@@ -160,6 +164,7 @@ Lastly,
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management
 - Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find the config)
+- Change Sleep % to 50
 
 Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
