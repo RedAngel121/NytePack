@@ -346,7 +346,7 @@ hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "4e3cf34b0668634e6b92d45f9b6cde1e7a615cd8daf5ca76e47cd6072f856ed8"
+hash = "d36a099c1dbb7aca7c346a266ffe54fecb12d404a459e3edd7ac083dbe9ed606"
 
 [[files]]
 file = "kubejs/startup_scripts/geolosys.js"

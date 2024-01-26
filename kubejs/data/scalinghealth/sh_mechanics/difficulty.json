@@ -44,7 +44,7 @@
       },
       {
         "entities" : ["minecraft:ender_dragon"],
-        "onKilled" : "difficulty + 0.1"
+        "onKilled" : "difficulty + 1"
       }
     ]
   }
