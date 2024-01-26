@@ -310,11 +310,11 @@ hash = "04af6c61d4ce6d8c5c29cad4082ba3cfa5b57c23d6916ef890167a289a6566da"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"
-hash = "1f69979ea82b952724703aac940d442d24eee7b92b4aa180529348b6230a122e"
+hash = "3859bfbf73958802548025bf6b93302020bb475a98a83cce66341d947f69b113"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/peaceful.json"
-hash = "d679768455e011ff58e0b19f83ba95862a1ea538da8ee6b7d8bf98107cb153ed"
+hash = "1e6219e83183c338ffc789d9354f6e1fa58e8b7fb5643e21e9a29425c971d408"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/abandoned_mineshaft.json"
