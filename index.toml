@@ -198,7 +198,7 @@ hash = "b4874a2f8b6ff6a2501b4804f06c5c41a585c2b14877e420e47779f74e2d36d0"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/anthracitic_coal.json"
-hash = "a500f11f2bb276a130e8307d693370592e6b99aa50deb59c69b9739225399d3e"
+hash = "555810d26640322c6d1b3af96955dd5db90568c7ccfa7cf5db29b21eb297b796"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/assorted_quartz.json"
@@ -250,7 +250,7 @@ hash = "23ba25a73eea35c871f272bbe0d44edbbf9a2369a4487c8997d7381fe4f70dc4"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/gold_nether.json"
-hash = "af547fa296c547fe960858a83ee1556278f6999206845ffa67a7a831946f54a3"
+hash = "146883755d4eeb44647883b582abe4e35ff8a23b55472b129bb49ae6cfb45f88"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/hematite.json"
@@ -290,7 +290,7 @@ hash = "ba4cced46a095846749912847b045c0c1d79e072464f692f7c71cabe2a75da06"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/sphalerite.json"
-hash = "44ca78fd3798f3e4d342b191ebe5e98d6d6f83b342f209022355623bcbe3bd17"
+hash = "83ef950e84643a7513d037c8843078957fea3217e4188e26d7f5a651ec016039"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/teallite_and_emerald.json"
