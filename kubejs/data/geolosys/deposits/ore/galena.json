@@ -4,10 +4,6 @@
     "yMin": -16,
     "yMax": 32,
     "size": 200,
-    "biomes": {
-      "isBlacklist": false,
-      "filter": ["PLAINS"]
-    },
     "dimensions": {
       "isBlacklist": false,
       "filter": ["overworld"]

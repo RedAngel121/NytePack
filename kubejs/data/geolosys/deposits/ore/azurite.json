@@ -1,6 +1,13 @@
 {
   "type": "geolosys:deposit_dense",
   "config": {
+    "yMin": -49,
+    "yMax": 13,
+    "size": 200,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": ["overworld"]
+    },
     "blocks": {
       "default": [
         {
@@ -21,13 +28,6 @@
         "chance": 1.0
       }
     ],
-    "yMin": -49,
-    "yMax": 13,
-    "size": 200,
-    "dimensions": {
-      "isBlacklist": false,
-      "filter": ["overworld"]
-    },
     "generationWeight": 3
   }
 }

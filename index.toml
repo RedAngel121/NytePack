@@ -206,11 +206,11 @@ hash = "06714017b481a26d77f12ae7ca3a0d3764b76de0dc0d923f1251a6a08d997e9c"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/autunite.json"
-hash = "cb7a56e2aa4b8181b515eee32a5cf57d3903b367beac6ef7e36ad49f1d16a7c9"
+hash = "fde753fd5cd6708d9a56a94a9a861f3d0405ae7fbca9336be1809622919fe234"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/azurite.json"
-hash = "947c9b5600f261660788727b5bf3f30c23d2fbd47c979b2e00b7d6e80e83a923"
+hash = "4d8773af2fde3dc791eeb4344683c81426853fa329a66162d35bbb1d8d7800bc"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/bauxite.json"
@@ -218,7 +218,7 @@ hash = "3f0ce273a86e7300e17b77b4f48325b037f29dad5bddf5187488a3b1200997f6"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/beryl.json"
-hash = "ca89178e482b2b17874c387a5a4f39252c0ee61fa742fa5b55875d72ea39d336"
+hash = "5638dc9cd17ce1bc6548ed4a244cc619dea9e8d0abf0a6ed91ba74b64c02edd7"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/bituminous_coal.json"
@@ -230,7 +230,7 @@ hash = "757175e431e04abf10a193e9d0477e41deaef130d9a3dcef86c919e5d37b2b00"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/cassiterite.json"
-hash = "f7da69d296e9aa9eaf5dad4b1ae2f1a36fee73d66fb2ca18f5f4646c5c2f63d6"
+hash = "cbfeda8b1b0e7e77efe32bc4bd834e6a201c2bf602a85e5e5bef80306bb7b7ff"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/cinnabar.json"
@@ -242,7 +242,7 @@ hash = "9ebe183f3adc1003f37548389cdae24b13ef67cea021619fa8d46612f176a4d8"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/galena.json"
-hash = "193a2de571ef4ece7525b7ad636a839a0c0f3d5eda9320710232a4ffedfb58fe"
+hash = "22824e0268ba6006e4f5c92a62b4b756c9bd5429d1e763e5bc721f81e939a994"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/gold.json"
@@ -266,7 +266,7 @@ hash = "855cb697e35bbf31ae16417c4a274a9df291db76ddd66c4cd00b26dd55423efb"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/lapis.json"
-hash = "7d322f63f23a7d1dea02f21e9108d575a86472f7030ccba65803907d892276d5"
+hash = "8a34bcb3273110c6b41b0084a8d96505014d145aa4639da7c635efb0d274378a"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/lignite.json"
@@ -274,15 +274,15 @@ hash = "8962d0ea1f7d135a4ace8cdc1f883f02ea0fbd8dd4d34eea12183079ed9a7742"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/limonite.json"
-hash = "e35f52c912c0337b12c449e5e42a7378bfaa59cf3f18e5a9f33667b61eda60af"
+hash = "c58499ee65e9f3abd48b4b90bc9dad811135966061b89100017322ea26c2fc01"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/malachite.json"
-hash = "2ff4b86c489d3c6f35da5799821c2907ee6a5861e99ee771d4def9bef4b111b3"
+hash = "32b6631b6f52353f824392ff0457dd0a623c17c75f2d46939c9124d83ca0f275"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/platinum.json"
-hash = "b32005b9ae1b9315e3fcb0bad9f8fe5591fe68c8b075221d38f490222f21c497"
+hash = "756d601a01e3e68160df2eb1752bac7d01a70dbc98e5bd9cdaa903b82d894f6f"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/silver_end.json"
@@ -294,7 +294,7 @@ hash = "44ca78fd3798f3e4d342b191ebe5e98d6d6f83b342f209022355623bcbe3bd17"
 
 [[files]]
 file = "kubejs/data/geolosys/deposits/ore/teallite_and_emerald.json"
-hash = "bc793005d74a381233d9c2773f67eedd3e982bb2005563f9bf7d7a3bff7d4612"
+hash = "ddc9954bdd96dbe3ad96f9e57cd385baf6d9d2aec67ea81d8671fb4b33160408"
 
 [[files]]
 file = "kubejs/data/geolosys/loot_tables/blocks/azure_silver_ore_sample.json"

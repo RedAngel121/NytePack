@@ -1,6 +1,13 @@
 {
   "type": "geolosys:deposit_dense",
   "config": {
+    "yMin": -60,
+    "yMax": -30,
+    "size": 200,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": ["overworld"]
+    },
     "blocks": {
       "default": [
         {
@@ -29,17 +36,6 @@
         "chance": 1.0
       }
     ],
-    "yMin": -60,
-    "yMax": -30,
-    "size": 200,
-    "biomes": {
-      "isBlacklist": false,
-      "filter": ["RIVER", "HOT"]
-    },
-    "dimensions": {
-      "isBlacklist": false,
-      "filter": ["overworld"]
-    },
     "generationWeight": 2
   }
 }
