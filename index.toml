@@ -345,6 +345,10 @@ file = "kubejs/data/scalinghealth/loot_tables/chests_addition/woodland_mansion.j
 hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
 
 [[files]]
+file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
+hash = "02beb16ec1cbb237c92192e066315430c8d7ff67834a09e728c49c1daf6006b5"
+
+[[files]]
 file = "kubejs/startup_scripts/geolosys.js"
 hash = "5ef22d3bafca485827cf61f019ede25a8480ff1c68d88d7ffeb5f752297222af"
 

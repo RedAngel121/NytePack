@@ -124,10 +124,9 @@ Mod/Config Changes:
     - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
     - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
     Adjust Scaling Health Mod:
-    - Distance instead of time
+    - Distance instead of Time
     - Set max health limits higher or unlimited
-    - Disable all loot/drops
-    - Set Health From XP to amount of XP points instead of +1 heart every 10 levels
+    - Set "Health From XP" to amount of XP points instead of XP levels
     - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
     Create Deco - disable coins and coin stacks to prevent confusion (add them to Currency Chain after LC 2.2 update?)
     Investigate steam and rails for stuff we dont want (phantom rails/bogies?)
