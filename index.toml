@@ -309,6 +309,42 @@ file = "kubejs/data/geolosys/loot_tables/blocks/crimson_iron_ore_sample.json"
 hash = "04af6c61d4ce6d8c5c29cad4082ba3cfa5b57c23d6916ef890167a289a6566da"
 
 [[files]]
+file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"
+hash = "1f69979ea82b952724703aac940d442d24eee7b92b4aa180529348b6230a122e"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/peaceful.json"
+hash = "d679768455e011ff58e0b19f83ba95862a1ea538da8ee6b7d8bf98107cb153ed"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/chests_addition/abandoned_mineshaft.json"
+hash = "98620fb29903733c18b605017502d21a353a728834a6d1843349f0990a4fde61"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/chests_addition/buried_treasure.json"
+hash = "98620fb29903733c18b605017502d21a353a728834a6d1843349f0990a4fde61"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/chests_addition/nether_bridge.json"
+hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/chests_addition/simple_dungeon.json"
+hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/chests_addition/stronghold_library.json"
+hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/chests_addition/underwater_ruin_big.json"
+hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+
+[[files]]
+file = "kubejs/data/scalinghealth/loot_tables/chests_addition/woodland_mansion.json"
+hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+
+[[files]]
 file = "kubejs/startup_scripts/geolosys.js"
 hash = "5ef22d3bafca485827cf61f019ede25a8480ff1c68d88d7ffeb5f752297222af"
 
