@@ -40,11 +40,11 @@
       },
       {
         "entities" : ["minecraft:wither"],
-        "onKilled" : "difficulty + 1"
+        "onKilled" : "difficulty + 0.1"
       },
       {
         "entities" : ["minecraft:ender_dragon"],
-        "onKilled" : "difficulty + 1"
+        "onKilled" : "difficulty + 0.1"
       }
     ]
   }
