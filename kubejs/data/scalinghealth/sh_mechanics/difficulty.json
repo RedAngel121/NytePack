@@ -1,6 +1,4 @@
 {
-  "startingValue" : 0,
-  "minValue" : 0,
   "mode" : {
     "type" : "distance",
     "fromOrigin" : true
