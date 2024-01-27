@@ -78,7 +78,7 @@ hash = "f712cdb3a698b1475b4a37f746ef04e24eddda37a635b38b4321270feab37ba3"
 
 [[files]]
 file = "config/scalinghealth-client.toml"
-hash = "8a7914f6245550242376ccb70708193861d3b0cb6c71d57b312aa9255f8f7d3c"
+hash = "18a3932b3235257c74fcf4d7d058e30c541e0fc4161f6fdba3ec051fad40d5c2"
 
 [[files]]
 file = "config/silentgear-common.toml"
