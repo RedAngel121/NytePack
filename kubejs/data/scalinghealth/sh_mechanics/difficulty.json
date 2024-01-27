@@ -4,9 +4,9 @@
   "maxValue" : 250,
   "changePerSecond" : 0,
   "mode" : {
-    "type" : "distance",
-    "radius" : 1024,
-    "fromOrigin" : true
+    "type" : "extrema",
+    "radius" : 256,
+    "min" : true
   },
   "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
   "groupBonusRadius" : 64,
