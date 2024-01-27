@@ -346,7 +346,7 @@ hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "a532ced0929a15cff5f0b8cdb8923dfb100cff09917300788e45d8a8a6e6076e"
+hash = "5330eebd5f3b99af10a71bdd0669fd782f557395d9b844b6cea1c9bac9ec5a10"
 
 [[files]]
 file = "kubejs/startup_scripts/geolosys.js"
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaling-health.pw.toml"
-hash = "604f6f03a27dcff4d84ba328e33e8125592e1922ef7ab334eafc2f7d05bd94d2"
+hash = "0685813a63990cd8b153c39342f015afd9f64c3354dfcaf9516caa92ff084dce"
 metafile = true
 
 [[files]]
