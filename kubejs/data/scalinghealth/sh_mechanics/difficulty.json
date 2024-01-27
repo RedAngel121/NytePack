@@ -2,10 +2,10 @@
   "startingValue" : 0,
   "minValue" : 0,
   "maxValue" : 250,
-  "changePerSecond" : 0.1,
+  "changePerSecond" : 0,
   "mode" : {
     "type" : "distance",
-    "distanceFactor" : 64,
+    "distanceFactor" : 256,
     "fromOrigin" : true
   },
   "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
