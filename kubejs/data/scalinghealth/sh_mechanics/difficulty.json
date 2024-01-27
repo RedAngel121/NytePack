@@ -1,44 +1,4 @@
-{
-  "mode" : {
-    "type" : "distance",
-    "fromOrigin" : true
-  },
-  "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
-  "groupBonusRadius" : 64,
-  "afkMessage" : false,
-  "sleepWarningMessage": false,
-  "multipliers" : {
-    "locationMultipliers" : [
-      {
-        "scale" : 1.1,
-        "dimensions" : ["minecraft:the_nether"]
-      },
-      {
-        "scale" : 1.2,
-        "dimensions" : ["minecraft:the_end"]
-      }
-    ]
-  },
-  "mutators" : {
-    "onBlightKilled" : "difficulty",
-    "onHostileKilled" : "difficulty",
-    "onPeacefulKilled" : "difficulty",
-    "onPlayerKilled" : "difficulty",
-    "onPlayerDeath" : "difficulty",
-    "onPlayerSleep" : "difficulty",
-    "byEntity" : [
-      {
-        "entities" : ["minecraft:villager"],
-        "onKilled" : "difficulty + 0.05"
-      },
-      {
-        "entities" : ["minecraft:wither"],
-        "onKilled" : "difficulty + 0.1"
-      },
-      {
-        "entities" : ["minecraft:ender_dragon"],
-        "onKilled" : "difficulty + 1"
-      }
-    ]
-  }
-}
+{"mode" : {
+  "type" : "distance",
+  "fromOrigin" : true
+}}
