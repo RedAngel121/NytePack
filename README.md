@@ -117,14 +117,14 @@ Hard No:
         Mekanism + Extras (most likely not included because its too streamlined or technically advanced and would need heavy edits to function the way we want)
 
 
-Mod/Config Changes:
+Additional Mod/Config Changes:
+    
     JUST PERMANENTLY DISABLE WANDERING TRADER FOREVER PLEASE
     Philip's Ruins - Remove MiniBoss Ruins
     Create Mod Possible Issues:
     - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
     - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
     Adjust Scaling Health Mod:
-    - Distance instead of Time
     - Set max health limits higher or unlimited
     - Set "Health From XP" to amount of XP points instead of XP levels
     - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
@@ -133,7 +133,6 @@ Mod/Config Changes:
     Investigate Glassential functional glass blocks
     Investigate secret rooms mod
     Blood Magic Sigil of Air and something about a meteor that dev is concerned about?
-    Use Oil and settings provided by Immersive Petroleum and no pnumaticraft
     Adjust Sophisticated Storage settings or disable some upgrades
     Gateways to Eternity
     - Add an absolute metric ton of gateways cause thats going to be fun
@@ -154,8 +153,7 @@ Mod/Config Changes:
     Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
     Immersive Engineering:
     - garden_cloche needs growth_modifier adjustments
-    - Disable KeepInv for IE Wooden Storage Crate / Wooden Barrel
-    - Modify the loot table for the crates and instead of tile_drop, make it do drop_inv 
+    - Disable crate minecart and reinforced crate minecart
 
 Lastly, 
 - Agricraft disable "Missing JSON Gen" (L13)
