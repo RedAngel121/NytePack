@@ -1,13 +1,13 @@
 {
   "startingValue" : 0,
   "minValue" : 0,
-  "maxValue" : -1,
+  "maxValue" : 1638,
   "changePerSecond" : 0,
   "mode" : {
     "type" : "distance",
     "distanceFactor" : 0.1,
     "fromOrigin" : true,
-    "min" : 256
+    "radius" : 128
   },
   "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
   "groupBonusRadius" : 64,
