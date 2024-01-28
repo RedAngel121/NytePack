@@ -153,9 +153,9 @@ Mod/Config Changes:
     Check toolbelt config for item white/blacklist (sadly cannot change its size)
     Lightmans needs to update to v2.2 - Change the coin upgrade size to 100/1
     Immersive Engineering:
-        - garden_cloche needs growth_modifier adjustments
-        - Disable KeepInv for IE Wooden Storage Crate / Wooden Barrel
-        - Modify the loot table for the crates and instead of tile_drop, make it do drop_inv 
+    - garden_cloche needs growth_modifier adjustments
+    - Disable KeepInv for IE Wooden Storage Crate / Wooden Barrel
+    - Modify the loot table for the crates and instead of tile_drop, make it do drop_inv 
 
 Lastly, 
 - Agricraft disable "Missing JSON Gen" (L13)

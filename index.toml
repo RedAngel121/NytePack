@@ -309,6 +309,10 @@ file = "kubejs/data/geolosys/loot_tables/blocks/crimson_iron_ore_sample.json"
 hash = "04af6c61d4ce6d8c5c29cad4082ba3cfa5b57c23d6916ef890167a289a6566da"
 
 [[files]]
+file = "kubejs/data/immersiveengineering/loot_tables/blocks/crate.json"
+hash = "917a793adecde79df354b73b565162132a9ebc2be254ab015cdf7344c3f82753"
+
+[[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"
 hash = "3859bfbf73958802548025bf6b93302020bb475a98a83cce66341d947f69b113"
 
@@ -346,7 +350,7 @@ hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "0355589986c14ca95ca52216fa6e083842bdb6e6fc1cf91e32853a19fcac18ca"
+hash = "e60d14da0184ad525b2f2269c383bb28aa28991738f97cf751bc38309d79d4db"
 
 [[files]]
 file = "kubejs/startup_scripts/geolosys.js"
