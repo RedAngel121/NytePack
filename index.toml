@@ -310,11 +310,11 @@ hash = "04af6c61d4ce6d8c5c29cad4082ba3cfa5b57c23d6916ef890167a289a6566da"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/loot_tables/blocks/crate.json"
-hash = "99cc19852e0965f89db134d1b34ba297f82faaea74f189997bc9b2f507976f46"
+hash = "989dea2ea61a6d3b2059a10a1d001ecc424f303b90d2178e15fa7f3fa6398f53"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/loot_tables/blocks/reinforced_crate.json"
-hash = "5f75b3508df75d7913649eb6597d9ce74e17c3d0be8496008408aabac5f7721e"
+hash = "989dea2ea61a6d3b2059a10a1d001ecc424f303b90d2178e15fa7f3fa6398f53"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"

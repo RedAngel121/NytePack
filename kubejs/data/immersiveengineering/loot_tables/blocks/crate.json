@@ -1,23 +1,31 @@
 {
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
+    "type": "minecraft:block",
+    "pools": [
         {
-          "type": "immersiveengineering:drop_inv"
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "immersiveengineering:tile_drop"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ]
         },
         {
-          "type": "minecraft:item",
-          "name": "immersiveengineering:crate",
-          "functions": [
-            {
-              "function": "minecraft:copy_name",
-              "source": "block_entity"
-            }
-          ]
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "immersiveengineering:drop_inv"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
