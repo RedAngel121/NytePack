@@ -6,8 +6,7 @@
   "mode" : {
     "type" : "distance",
     "distanceFactor" : 0.1,
-    "fromOrigin" : true,
-    "radius" : 128
+    "fromOrigin" : true
   },
   "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
   "groupBonusRadius" : 64,
