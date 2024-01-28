@@ -310,7 +310,7 @@ hash = "04af6c61d4ce6d8c5c29cad4082ba3cfa5b57c23d6916ef890167a289a6566da"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/loot_tables/blocks/crate.json"
-hash = "9b018198c37c3be86376d04cdcd68cac73b3c95e4f46559ab6afe9ef3cb525db"
+hash = "99cc19852e0965f89db134d1b34ba297f82faaea74f189997bc9b2f507976f46"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/loot_tables/blocks/reinforced_crate.json"
