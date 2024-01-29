@@ -1,8 +1,8 @@
 # NytePack
-The new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
-- Maybe I should describe it here better... but that will come with "effort" into the pack.
-
-Join Our Discord: https://discord.gg/kkjwfuz
+**Welcome to the GameNytes NytePack** where innovation is productivity!
+[Join The GameNytes Discord!](https://discord.gg/kkjwfuz) This is the new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
+Unleash your creativity in a dynamic world generated with Geolosys and Tectonic, encouraging exploration, ingenious designs, and technological mastery.
+Welcome to a world where innovation is productivity, and the possibilities are only limited to your ability to overcome the obstacles.
 
 # WARNING:
 Single player worlds will break repeatedly as the pack is still under heavy development!
@@ -22,7 +22,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Cooking and Farming for Blockheads
 - Corail Tombstone
 - Create + Extras
-- Dymanic Trees
+- Dynamic Trees
+- Geolosys
 - Immersive Aircraft
 - Immersive Engineering
 - Immersive Petroleum
@@ -33,6 +34,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Pnumaticraft
 - Silent Gear
 - Sophisticated Storage
+- Tectonic
 - Toms Storage
 - Tool Belt
 - +150 more!
@@ -44,8 +46,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 2. No Backpacks or On-Person Inventory Storage (mod/item specific things like the Agricraft Pouch are fine)
 3. Theme is more Dieselpunk Factory with long-term goals and community play
 4. Mod Interconnectivity is desired between Create, IE, and other tech mods (Which one do we want producing power?)
-5. Update to 1.20.1 if ALL mods are available 
-- After update look into 
+5. Update to 1.20.1 if ALL mods are available
+- After update look into
   - [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
   - Mechano (Mod Still Under Heavy Development)
   - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
@@ -70,8 +72,8 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
 
 ### Mods:
 - https://www.curseforge.com/minecraft/mc-mods/daves-potioneering
-- Aquaculture (remove neptunium stuff)
-- Beyond Earth (progression beyond steel/netherite and make other planets actually useful)
+- Aquaculture (remove neptunium stuff) https://www.curseforge.com/minecraft/mc-mods/aquaculture
+- Beyond Earth (progression beyond steel/netherite and make other planets actually useful) https://www.curseforge.com/minecraft/mc-mods/beyond-earth
 - https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires (check for Ore Gen and see whats not compatable)
 - https://www.curseforge.com/minecraft/mc-mods/create-connected (should be fine but still look at it first)
 
@@ -99,7 +101,7 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
 ### World:
 - Terralith (slow chunk generation issues)
 - Deeper and Darker (not available for 1.18)
-- The Undergarden 
+- The Undergarden
   -  not something i want personally, but how far outside the realm of the pack is it really?
   -  we could turn it into a planet instead of a portal for use with Beyond Earth?
 - Swap for Geolosys?: disinclined...
@@ -117,7 +119,7 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
 
 
 # Additional Mod/Config Changes:
-    
+  
 - Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
 - Investigate Glassential functional glass blocks
 - Investigate secret rooms mod
@@ -140,7 +142,7 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
   - nerf pedal crafts
   - better integration with alternative crafting recipes
   - possible steel aircraft industry?
-- Philip's Ruins 
+- Philip's Ruins
   - Remove MiniBoss Ruins
 - Create Mod Possible Issues:
   - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
@@ -149,11 +151,11 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
   - Set max health limits higher or unlimited
   - Set "Health From XP" to amount of XP points instead of XP levels
   - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
-- Create Deco 
-  - Disable coins and coin stacks to prevent confusion 
+- Create Deco
+  - Disable coins and coin stacks to prevent confusion
   - add them to a new Currency Chain after LC-2.2 update?
-- Blood Magic 
-  - Sigil of Air 
+- Blood Magic
+  - Sigil of Air
   - Something about a "meteor" that dev is concerned about?
 - Gateways to Eternity
   - Add an absolute metric ton of gateways cause thats going to be fun
@@ -164,7 +166,7 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
   - garden_cloche needs growth_modifier adjustments
   - Disable crate minecart and reinforced crate minecart
 
-### Lastly, 
+### Lastly,
 - Agricraft disable "Missing JSON Gen" (L13)
 - Remove World Edit Mods and other Admin only mods
 - Sort out Server vs Client side mods
