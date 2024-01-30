@@ -1,7 +1,8 @@
 # NytePack
 **Welcome to the GameNytes NytePack** where innovation is productivity!
-[Join The GameNytes Discord!](https://discord.gg/kkjwfuz) This is the new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
-Unleash your creativity in a dynamic world generated with Geolosys and Tectonic, encouraging exploration, ingenious designs, and technological mastery.
+- [Join The GameNytes Discord!](https://discord.gg/kkjwfuz) 
+This is the new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
+Unleash your creativity in a Custom Dynamic world generated with Geolosys and Tectonic, encouraging exploration, ingenious designs, and technological mastery.
 Welcome to a world where innovation is productivity, and the possibilities are only limited to your ability to overcome the obstacles.
 
 # WARNING:
