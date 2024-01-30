@@ -1,5 +1,5 @@
 # NytePack
-**Welcome to the GameNytes NytePack** where innovation is productivity!
+**Welcome to the GameNytes NytePack where innovation is productivity!**
 
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz) 
 
