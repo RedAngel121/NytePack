@@ -16,7 +16,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Once a public server is ready we will be making an announcement in the Discord
 
 # Important Mods List:
-
 - Agricraft
 - Apotheosis
 - Blood Magic
@@ -43,7 +42,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - +150 more!
 
 # ~ BUILD TEAM NOTES ~
-
 ## Pack Build Rules are as follows:
 1. No Easy Teleporting items or players (CoRail's Death Key Exception)
 2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exception)
@@ -74,7 +72,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
 
 # Balance is Key! Check These Out:
-
 ### QOL:
 - https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack
 - https://www.curseforge.com/minecraft/mc-mods/no-more-piglin-portal-spawning
@@ -82,49 +79,46 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ### Mods:
 - [Daves Potioneering](https://www.curseforge.com/minecraft/mc-mods/daves-potioneering): what does this mod even do?
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
-- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth): progression beyond steel/netherite and make other planets actually useful
+- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth): 
+  - Progression beyond steel/netherite and we make other planets actually useful
+  - Awating 7.0 update and maybe even avoiding depeding on whats included
 - [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): check for Ore Gen and see whats not compatable
 - [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected): should be fine but still look at it first
 
 ### World:
 - Find a way to increase world build height and lower bedrock + Flat Bedrock
+  - [Shattered World Limits](https://www.curseforge.com/minecraft/mc-mods/new-world-height-and-depth)?
 
 # Soft No:
-
 ### QOL:
-- FancyMenu (Lots of work)
-- PackMenu (Lots of work)
-- Simple Voice Chat (Possible Server Overhead/Network caps)
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu): Lots of work
+- [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Lots of work
+- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat): Possible Server Overhead/Network Cap issues
 ### Mods:
-- Beyond Earth (Awating 7.0 update and maybe even avoiding depeding on whats included)
-- Create Interactive (probably not happening due to possible performance/compat issues, will test later)
-- Alex's Mobs (some of the mobs are just horrible and need to be disabled)
-- Supplementaries (lots of problems with this that im not super intersted in fine tuning yet)
-- Comforts (possible compat issues with seasons)
-- Nightmare Epic Siege (Disable 90% of the mod: Most things are not ok but intelligent mobs could be interesting)
-- Natures Aura (possible server overhead issues because of the chunk aura updates)
+- [Create Interactive](https://www.curseforge.com/minecraft/mc-mods/create-interactive): probably not happening due to possible performance/compat issues, will test later
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): lots of problems with this that im not super intersted in fine tuning yet
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts): possible compat issues with Serene Seasons?
+- [Nightmare Epic Siege](https://www.curseforge.com/minecraft/mc-mods/nightmareesm): Disable 90% of the mod: Most things are not ok but more intelligent mobs could be interesting
+- [Natures Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura): possible server overhead issues because of the chunk aura updates
 ### World:
-- Terralith (slow chunk generation issues)
-- Deeper and Darker (not available for 1.18)
-- The Undergarden
+- [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith): slow chunk generation issues and needs [DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terralith)
+- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker): not available for 1.18
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
   -  not something i want personally, but how far outside the realm of the pack is it really?
   -  we could turn it into a planet instead of a portal for use with Beyond Earth?
-- Swap for Geolosys?: disinclined...
+- Swap for Geolosys? Disinclined as Geolosys is being worked on for 1.20.1 now...
   - https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
   - https://legacy.curseforge.com/minecraft/mc-mods/advanced-finders
   - https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
   - https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 
 # Hard No:
-
 - Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
-- https://www.curseforge.com/minecraft/mc-mods/suspicious-zombification ??? (find purpose or reasonable limits)
 - Lootr (will not be added as it floods the market with items)
 - Mekanism + Extras (most likely not included because its too streamlined or technically advanced and would need heavy edits to function the way we want)
 
-
 # Additional Mod/Config Changes:
-
 - Connected Textures do not work with Framed Blocks...
   - CT does not work with Framed Blocks in 1.18.2: frame blocks register CT but not with each other or orig block
   - Same but backwards in 1.20.1: frame blocks do not register CT even though orig block registers and connects correctly
@@ -174,7 +168,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - garden_cloche needs growth_modifier adjustments
   - Disable crate minecart and reinforced crate minecart
 
-### Lastly,
+# Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
 - Agricraft disable "Missing JSON Gen" (L13)
 - Remove World Edit Mods and other Admin only mods
