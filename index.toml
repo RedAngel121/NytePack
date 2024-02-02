@@ -655,11 +655,6 @@ hash = "4d71a6594696cc46a5530ba85c0314a734473c1003b9aab876be5d7a3ed7dd6b"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "197d6651e7544c47aae4295a8b406d68b1f3dfdd390adfa4dc5d81246fbcd9ca"
-metafile = true
-
-[[files]]
 file = "mods/gateways-to-eternity.pw.toml"
 hash = "751f531575ccab2febb415b6739c40d0f01f58e8ae519fbab2614fc3e15888c5"
 metafile = true
@@ -726,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
+hash = "2c0416f828fc81937832d22a2fe68b46badaa81f8193f0e2c53735bc28a017f7"
 metafile = true
 
 [[files]]
@@ -966,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons-pams-harvestcraft-2-crops-compat.pw.toml"
-hash = "9b2c0e87185b9be390a13f61be76dcfdc7cb571df3705c89206c7396ad6bd1ee"
+hash = "a493c46d907c4e1d0907e0d63d32978825728b8fc208c64840a4385d38d7f205"
 metafile = true
 
 [[files]]
@@ -1086,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "59ea3b2a779f77f1cb1251a4cb8627489890952f1bbb18180131ac12484456c1"
+hash = "e2b7d9269c0595dafb25ce7536bdac09c930ebbeac28a0545088881af0c50b7f"
 metafile = true
 
 [[files]]

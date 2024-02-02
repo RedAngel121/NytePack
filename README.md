@@ -54,15 +54,16 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
   - Mechano (Mod Still Under Heavy Development)
   - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
+  - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney): Already got a KubeJS setup for additional gates, check for updates on this.
 
-We need to dive into Vein Mining, and by extension Farming, to determine how Vein Mining is actually going to affect the player hunger and tool durability. Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff, which may be expanded with New Create Mods in 1.20
-
-"Ore Factories" will have different ways of processing ore per type:
+## More Immediete Settings and Changes
+1. We need to dive into Vein Mining, and by extension Farming, to determine how Vein Mining is actually going to affect the player hunger and tool durability. 
+2. Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff, which may be expanded with New Create Mods in 1.20
+3. "Ore Factories" will have different ways of processing ore per type:
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
 - More complex ore processing will yield better results
 - Mekanism (not included) is a good example of this
-
-We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big backport update for 1.18.2).
+4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big backport update for 1.18.2).
 - How does this factor into Starting Cash, Mob Cash Drops, Chest Loot, Login Bonus Income, Taxes, and other options?
 - What options do we have for purchasing chunk loading times? cant find anything on this yet...
 
