@@ -45,16 +45,10 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # ~ BUILD TEAM NOTES ~
 
 ## Pack Build Rules are as follows:
-1. No Teleporting items or players (CoRail's Death Key Exception)
-2. No Backpacks or On-Person Inventory Storage (mod/item specific things like the Agricraft Pouch are fine)
+1. No Easy Teleporting items or players (CoRail's Death Key Exception)
+2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exception)
 3. Theme is more Dieselpunk Factory with long-term goals and community play
-4. Mod Interconnectivity is desired between Create, IE, and other tech mods (Which one do we want producing power?)
-5. Update to 1.20.1 if ALL mods are available
-- After update look into
-  - [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
-  - Mechano (Mod Still Under Heavy Development)
-  - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
-  - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney): Already got a KubeJS setup for additional gates, check for updates on this.
+4. Mod Inter-Connectivity is desired between Create and all the other tech mods (Which one do we want producing power?)
 
 ## More Immediete Settings and Changes
 1. We need to dive into Vein Mining, and by extension Farming, to determine how Vein Mining is actually going to affect the player hunger and tool durability. 
@@ -66,6 +60,15 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big backport update for 1.18.2).
 - How does this factor into Starting Cash, Mob Cash Drops, Chest Loot, Login Bonus Income, Taxes, and other options?
 - What options do we have for purchasing chunk loading times? cant find anything on this yet...
+5. Update to 1.20.1 if ALL mods are available
+- After update look into
+  - [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
+  - Mechano (Mod Still Under Heavy Development)
+  - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
+  - == OPTIONAL: ==
+  - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney) 
+    - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), check for updates on this.
+    - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
 
 # Balance is Key! Check These Out:
 
