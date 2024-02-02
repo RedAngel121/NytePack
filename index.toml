@@ -354,7 +354,7 @@ hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "e60d14da0184ad525b2f2269c383bb28aa28991738f97cf751bc38309d79d4db"
+hash = "7bc71261ba9a32bc3b7757b4fdba666bd916928e2502abb1e59a51e9faf1c8da"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
@@ -470,11 +470,6 @@ hash = "95f667886b65aa3df3c25f59ca916d52a33c8955a7bc53a970ec90f1d64b870b"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
-metafile = true
-
-[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "e9633b94b7c3d75172d61d3df66781eb666838df29598c3fbcdc17364dc38ba3"
 metafile = true
@@ -570,13 +565,13 @@ hash = "201fbdb672e83a6e12269409aae0445e14f65d2def938668269c5bcf6a2f62da"
 metafile = true
 
 [[files]]
-file = "mods/ctm.pw.toml"
-hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
+file = "mods/curios.pw.toml"
+hash = "96e0915c74e1ec1f137208d4d247d307b1aaad8a9aa2cbaafb3730d4495d03a4"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "96e0915c74e1ec1f137208d4d247d307b1aaad8a9aa2cbaafb3730d4495d03a4"
+file = "mods/cut-through.pw.toml"
+hash = "8c6cf1f667b3e9fbd1935ce61c43120e3d998c37fdafdd73aae609002aede507"
 metafile = true
 
 [[files]]
@@ -1027,11 +1022,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "5126484d4e52ec400ff97ee3610be897dee635aa42ceae44186c3401a450ac61"
-metafile = true
-
-[[files]]
-file = "mods/swingthroughgrass.pw.toml"
-hash = "9e94ddf43d8fd4067ab40e47cc690feb35a4a62b51f262581b55a231946fe8f6"
 metafile = true
 
 [[files]]

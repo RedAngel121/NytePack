@@ -1,0 +1,13 @@
+name = "Cut Through"
+filename = "CutThrough-v3.0.0-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "778357f382ca4f5ef3a194bbbcec53d45d7c139e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5076044
+project-id = 969423

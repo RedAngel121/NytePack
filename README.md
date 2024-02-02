@@ -74,6 +74,7 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
 - https://www.curseforge.com/minecraft/mc-mods/y-is-there-autojump-forge (ONLY IF you cant find the config)
 
 ### Mods:
+- Exchange Chipped/CTM for something that works with Framed Blocks
 - https://www.curseforge.com/minecraft/mc-mods/daves-potioneering
 - Aquaculture (remove neptunium stuff) https://www.curseforge.com/minecraft/mc-mods/aquaculture
 - Beyond Earth (progression beyond steel/netherite and make other planets actually useful) https://www.curseforge.com/minecraft/mc-mods/beyond-earth
