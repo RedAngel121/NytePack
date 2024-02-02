@@ -1,7 +1,7 @@
 # NytePack
 **Welcome to the GameNytes NytePack where innovation is productivity!**
 
-- [Join The GameNytes Discord!](https://discord.gg/kkjwfuz) 
+- [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
 
 This is the new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
 Unleash your creativity in a Custom Dynamic world generated with Geolosys and Tectonic, encouraging exploration, ingenious designs, and technological mastery.
@@ -51,7 +51,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 4. Mod Inter-Connectivity is desired between Create and all the other tech mods (Which one do we want producing power?)
 
 ## More Immediete Settings and Changes
-1. We need to dive into Vein Mining, and by extension Farming, to determine how Vein Mining is actually going to affect the player hunger and tool durability. 
+1. We need to dive into Vein Mining, and by extension Farming, to determine how Vein Mining is actually going to affect the player hunger and tool durability.
 2. Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff, which may be expanded with New Create Mods in 1.20
 3. "Ore Factories" will have different ways of processing ore per type:
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
@@ -60,35 +60,33 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big backport update for 1.18.2).
 - How does this factor into Starting Cash, Mob Cash Drops, Chest Loot, Login Bonus Income, Taxes, and other options?
 - What options do we have for purchasing chunk loading times? cant find anything on this yet...
-5. Update to 1.20.1 if ALL mods are available
-- After update look into
-  - [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
-  - Mechano (Mod Still Under Heavy Development)
-  - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
-  - == OPTIONAL: ==
-  - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney) 
-    - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), check for updates on this.
-    - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
+5. Update to 1.20.1 if ALL mods are available; After update look into:
+- [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
+- Mechano (Mod Still Under Heavy Development)
+- [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
+- An End Overhaul that will spruce up The End a bit without breaking YUNG's End Island
+  - Investigate https://www.curseforge.com/minecraft/mc-mods/nullscape
+  - Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
+  - Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
+6. == OPTIONAL: ==
+- [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
+  - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
+  - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
 
 # Balance is Key! Check These Out:
 
 ### QOL:
 - https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack
 - https://www.curseforge.com/minecraft/mc-mods/no-more-piglin-portal-spawning
-- https://www.curseforge.com/minecraft/mc-mods/y-is-there-autojump-forge (ONLY IF you cant find the config)
 
 ### Mods:
-- https://www.curseforge.com/minecraft/mc-mods/daves-potioneering
-- Aquaculture (remove neptunium stuff) https://www.curseforge.com/minecraft/mc-mods/aquaculture
-- Beyond Earth (progression beyond steel/netherite and make other planets actually useful) https://www.curseforge.com/minecraft/mc-mods/beyond-earth
-- https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires (check for Ore Gen and see whats not compatable)
-- https://www.curseforge.com/minecraft/mc-mods/create-connected (should be fine but still look at it first)
+- [Daves Potioneering](https://www.curseforge.com/minecraft/mc-mods/daves-potioneering): what does this mod even do?
+- [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
+- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth): progression beyond steel/netherite and make other planets actually useful
+- [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): check for Ore Gen and see whats not compatable
+- [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected): should be fine but still look at it first
 
 ### World:
-- SOMETHING that will spruce up The End a bit without breaking YUNG's End Island Overhaul Mod (nothing before 1.20.1)
-- Investigate https://www.curseforge.com/minecraft/mc-mods/nullscape
-- Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
-- Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
 - Find a way to increase world build height and lower bedrock + Flat Bedrock
 
 # Soft No:
@@ -126,7 +124,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 
 # Additional Mod/Config Changes:
-  
+
 - Connected Textures do not work with Framed Blocks...
   - CT does not work with Framed Blocks in 1.18.2: frame blocks register CT but not with each other or orig block
   - Same but backwards in 1.20.1: frame blocks do not register CT even though orig block registers and connects correctly
@@ -177,11 +175,12 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - Disable crate minecart and reinforced crate minecart
 
 ### Lastly,
+- Change Client keybind config and upload to the Nytepack_Installer.Zip
 - Agricraft disable "Missing JSON Gen" (L13)
 - Remove World Edit Mods and other Admin only mods
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management
-- Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find the config)
+- Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in a config)
 - Change Sleep % to 50
 
 ### Server Update Command Line:
