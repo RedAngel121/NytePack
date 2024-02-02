@@ -5,7 +5,8 @@
             "rolls": 1,
             "entries": [
                 {
-                    "item": "immersiveengineering:reinforced_crate"
+                    "type": "minecraft:item",
+                    "name": "immersiveengineering:reinforced_crate"
                 }
             ],
             "conditions": [
