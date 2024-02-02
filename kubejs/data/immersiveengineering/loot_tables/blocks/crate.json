@@ -5,7 +5,7 @@
             "rolls": 1,
             "entries": [
                 {
-                    "type": "immersiveengineering:tile_drop"
+                    "type": "immersiveengineering:crate"
                 }
             ],
             "conditions": [
