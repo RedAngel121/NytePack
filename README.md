@@ -74,7 +74,6 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
 - https://www.curseforge.com/minecraft/mc-mods/y-is-there-autojump-forge (ONLY IF you cant find the config)
 
 ### Mods:
-- Exchange Chipped/CTM for something that works with Framed Blocks
 - https://www.curseforge.com/minecraft/mc-mods/daves-potioneering
 - Aquaculture (remove neptunium stuff) https://www.curseforge.com/minecraft/mc-mods/aquaculture
 - Beyond Earth (progression beyond steel/netherite and make other planets actually useful) https://www.curseforge.com/minecraft/mc-mods/beyond-earth
@@ -124,6 +123,9 @@ We need to talk about Currency and Proper Chunk Claiming and how to pay for it t
 
 # Additional Mod/Config Changes:
   
+- Connected Textures do not work with Framed Blocks...
+  - CT does not work with Framed Blocks in 1.18.2: frame blocks register CT but not with each other or orig block
+  - Same but backwards in 1.20.1: frame blocks do not register CT even though orig block registers and connects correctly
 - Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
 - Investigate Glassential functional glass blocks
 - Investigate secret rooms mod

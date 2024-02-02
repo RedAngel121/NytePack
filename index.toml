@@ -655,6 +655,11 @@ hash = "4d71a6594696cc46a5530ba85c0314a734473c1003b9aab876be5d7a3ed7dd6b"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "197d6651e7544c47aae4295a8b406d68b1f3dfdd390adfa4dc5d81246fbcd9ca"
+metafile = true
+
+[[files]]
 file = "mods/gateways-to-eternity.pw.toml"
 hash = "751f531575ccab2febb415b6739c40d0f01f58e8ae519fbab2614fc3e15888c5"
 metafile = true
