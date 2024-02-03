@@ -58,7 +58,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big backport update for 1.18.2).
 - How does this factor into Starting Cash, Mob Cash Drops, Chest Loot, Login Bonus Income, Taxes, and other options?
 - What options do we have for purchasing chunk loading times? cant find anything on this yet...
-5. Update to 1.20.1 if ALL mods are available; After update look into:
+## Update to 1.20.1
+### Only if ALL mods are available. After update look into:
 - [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
 - Mechano (Mod Still Under Heavy Development)
 - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
@@ -140,9 +141,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Apotheosis disable armor drops from every mob and adjust settings
 - Adjust the corail tombstone config as needed
 - CC Tweaked: TURN OFF THE TURTLES!
-- Toolbelt Blacklist
-- Fix Starter Kit to include things players should have day one (What items tho?)
-- Fine Tune Geolosys
+- Toolbelt Blacklist?
+- Fix Starter Kit to include things players should have day one... What items tho?
+- Fine Tune Geolosys as needed
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - Farming for Blockheads
   - Disable the Market
@@ -152,7 +153,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - investigate all new config system
 - Immersive Aircraft
   - nerf pedal crafts
-  - better integration with alternative crafting recipes
+  - better integration with alternative tech and crafting recipes
   - possible steel aircraft industry?
 - Philip's Ruins
   - Remove MiniBoss Ruins
