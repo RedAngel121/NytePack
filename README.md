@@ -79,7 +79,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 }
 ```
 
-6. == OPTIONAL: ==
+### == OPTIONAL: ==
 - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
   - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
   - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
