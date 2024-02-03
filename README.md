@@ -67,6 +67,15 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
   - Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
 - From what I can tell, we are missing Agricraft+lib, DynTrees with Dyn+ and pams compat, Geolosys, IE, IP, and a Finite Water mod for the 1.20.1 update
+- [Finite water](https://legacy.curseforge.com/minecraft/mc-mods/finitewater/files/5077993)
+  - The tag is called /data/finitewater/tags/worldgen/biome/has_infinite_water.json found [here](https://github.com/JDKDigital/finitewater/blob/dev-1.20.1/src/main/resources/data/finitewater/tags/worldgen/biome/has_infinite_water.json), just put this in and you're set!
+```{
+  "values": [
+    "#minecraft:is_ocean",
+    "#minecraft:is_river"
+  ]
+}```
+
 6. == OPTIONAL: ==
 - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
   - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.

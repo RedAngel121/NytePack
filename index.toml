@@ -105,6 +105,10 @@ file = "defaultconfigs/computercraft-server.toml"
 hash = "b61afc376012baadfe60676b6d127cb1e34645d5feebe99b84a89c5557f74844"
 
 [[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "66054fd55bc5bb668d49de1cc1ec1847490968346a2a78d6d6c6b711f09af18f"
+
+[[files]]
 file = "defaultconfigs/forge-server.toml"
 hash = "b97d4272a25c0cace23ee81becd05f52dd7b901da4db30bd2bd5dcaedabf56d6"
 
