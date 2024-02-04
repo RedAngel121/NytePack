@@ -181,6 +181,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Immersive Engineering:
   - garden_cloche needs growth_modifier adjustments
   - Disable crate minecart and reinforced crate minecart
+- Disable Pnumaticraft Chest
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
