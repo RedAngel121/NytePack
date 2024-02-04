@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3219dfca4b249e6f4fd34c4699455841feaea6d70f154bdb927fd9be8d9d3631"
+hash = "f5e433c9b3a2e6584efcaa5ac7bb478f1e86959f1df8e01979817a1d99ca5424"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "1f37237502fcd551b13222fb32db83c65ec61cfc25c48542b612cbd38b38425f"
+hash = "4fd9c4ee9b5e32bb9948f76671133f48dafdfe880018e5177726a5c48ca602de"
 metafile = true
 
 [[files]]
@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7cdbdc7b3c8ade518204bf85c8214d852c9866d1f0666ea2858efdb27ff02db2"
+hash = "0087b94807290a026dcc832e92bb522aa6ba14b549cca5ade7bafcd0066b23da"
 metafile = true
 
 [[files]]

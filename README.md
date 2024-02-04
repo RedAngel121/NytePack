@@ -165,6 +165,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
 - Adjust Scaling Health Mod:
   - Set max health limits higher or unlimited
+  - Remove the crafting items or change the recipies
   - Set "Health From XP" to amount of XP points instead of XP levels
   - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
 - Create Deco
