@@ -1,0 +1,28 @@
+{
+	"base_stargate": "sgjourney:pegasus_stargate",
+	
+	"texture": "moregates:textures/entity/stargate/pegasus/dark_ascension/dark_ascension_stargate.png",
+	"engaged_texture": "moregates:textures/entity/stargate/pegasus/dark_ascension/dark_ascension_stargate_engaged.png",
+	"event_horizon_texture": "moregates:textures/entity/stargate/pegasus/dark_ascension/dark_ascension_event_horizon.png",
+	"shiny_event_horizon_texture": "moregates:textures/entity/stargate/pegasus/dark_ascension/dark_ascension_event_horizon_shiny.png",
+	"symbol_color": [87, 0, 0, 255],
+	"engaged_symbol_color": [255, 25, 25, 255],
+	
+	"model":
+	{
+		"alternate_model": true,
+		"back_chevrons": true
+	},
+	
+	"sounds":
+	{
+		"chevron_engage_sound": "moregates:dark_ascension_chevron_engage",
+		"chevron_encode_sound": "moregates:dark_ascension_chevron_engage",
+		"chevron_open_sound": "moregates:dark_ascension_chevron_engage",
+		"incoming_sound": "moregates:dark_ascension_chevron_engage",
+		"fail_sound": "sgjourney:pegasus_dial_fail",
+		"wormhole_open_sound": "moregates:dark_ascension_wormhole_open",
+		"wormhole_close_sound": "moregates:dark_ascension_gate_close",
+		"rotation_sound": "sgjourney:nothing"
+	}
+}

@@ -1,0 +1,7 @@
+{
+   "base_stargate":"sgjourney:tollan_stargate",
+   "texture":"moregates:textures/entity/stargate/tollan/doom/doom_stargate.png",
+   "engaged_texture":"moregates:textures/entity/stargate/tollan/doom/doom_stargate_engaged.png",
+   "event_horizon_texture":"moregates:textures/entity/stargate/tollan/doom/doom_event_horizon.png",
+   "shiny_event_horizon_texture":"moregates:textures/entity/stargate/tollan/doom/doom_event_horizon_shiny.png"
+}

@@ -1,0 +1,9 @@
+{
+	"base_stargate": "sgjourney:milky_way_stargate",
+	
+	"texture": "moregates:textures/entity/stargate/milky_way/galifrey/galifrey_stargate.png",
+	"engaged_texture": "moregates:textures/entity/stargate/milky_way/galifrey/galifrey_stargate_engaged.png",
+	"event_horizon_texture": "moregates:textures/entity/stargate/milky_way/galifrey/galifrey_event_horizon.png",
+	"shiny_event_horizon_texture": "moregates:textures/entity/stargate/milky_way/galifrey/galifrey_event_horizon_shiny.png",
+	"symbol_color": [71, 147, 122, 255]
+}

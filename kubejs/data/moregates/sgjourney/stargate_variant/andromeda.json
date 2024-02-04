@@ -1,0 +1,28 @@
+{
+	"base_stargate": "sgjourney:pegasus_stargate",
+	
+	"texture": "moregates:textures/entity/stargate/pegasus/andromeda/andromeda_stargate.png",
+	"engaged_texture": "moregates:textures/entity/stargate/pegasus/andromeda/andromeda_stargate_engaged.png",
+	"event_horizon_texture": "moregates:textures/entity/stargate/pegasus/andromeda/andromeda_event_horizon.png",
+	"shiny_event_horizon_texture": "moregates:textures/entity/stargate/pegasus/andromeda/andromeda_event_horizon_shiny.png",
+	"symbol_color": [30, 56, 31, 255],
+	"engaged_symbol_color": [140, 255, 144, 255],
+	
+	"model":
+	{
+		"alternate_model": true,
+		"back_chevrons": true
+	},
+	
+	"sounds":
+	{
+		"chevron_engage_sound": "moregates:andromeda_chevron_engage",
+		"chevron_encode_sound": "moregates:andromeda_chevron_engage",
+		"chevron_open_sound": "moregates:andromeda_chevron_engage",
+		"incoming_sound": "moregates:andromeda_chevron_incoming",
+		"fail_sound": "sgjourney:pegasus_dial_fail",
+		"wormhole_open_sound": "sgjourney:pegasus_wormhole_open",
+		"wormhole_close_sound": "sgjourney:pegasus_wormhole_close",
+		"rotation_sound": "sgjourney:pegasus_ring_spin"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"base_stargate": "sgjourney:milky_way_stargate",
+	
+	"texture": "moregates:textures/entity/stargate/milky_way/forerunner/forerunner_stargate.png",
+	"engaged_texture": "moregates:textures/entity/stargate/milky_way/forerunner/forerunner_stargate_engaged.png",
+	"event_horizon_texture": "moregates:textures/entity/stargate/milky_way/forerunner/forerunner_event_horizon.png",
+	"shiny_event_horizon_texture": "moregates:textures/entity/stargate/milky_way/forerunner/forerunner_event_horizon_shiny.png",
+	"symbol_color": [109, 110, 133, 255]
+}

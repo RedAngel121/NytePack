@@ -1,0 +1,34 @@
+{
+	"base_stargate": "sgjourney:milky_way_stargate",
+	
+	"texture": "moregates:textures/entity/stargate/milky_way/nox/nox_stargate.png",
+	"engaged_texture": "moregates:textures/entity/stargate/milky_way/nox/nox_stargate_engaged.png",
+	"event_horizon_texture": "moregates:textures/entity/stargate/milky_way/nox/nox_event_horizon.png",
+	"shiny_event_horizon_texture": "moregates:textures/entity/stargate/milky_way/nox/nox_event_horizon_shiny.png",
+	"symbol_color": [247, 196, 49, 255],
+	"encoded_symbol_color": [38, 255, 0, 255],
+	"engaged_symbol_color": [38, 255, 0, 255],
+	
+	"model":
+	{
+		"alternate_model": true,
+		"back_chevrons": false,
+		"engage_symbols_on_incoming": true,
+		"encoded_symbols_glow": true,
+		"engage_encoded_symbols": true
+	},
+	
+	"sounds":
+	{
+		"chevron_engage_sound": "moregates:andromeda_chevron_engage",
+		"chevron_encode_sound": "moregates:nox_chevron_encode",
+		"chevron_open_sound": "moregates:nox_chevron_encode",
+		"incoming_sound": "moregates:nox_chevron_encode",
+		"chevron_incoming_sound": "moregates:nox_chevron_encode",
+		"dial_fail_sound": "sgjourney:universe_dial_fail",
+		"wormhole_open_sound": "sgjourney:milky_way_wormhole_open",
+		"wormhole_close_sound": "sgjourney:milky_way_wormhole_close",
+		"rotation_sound": "moregates:nox_spin",
+		"rotation_buildup_sound": "sgjourney:nothing"
+	}
+}

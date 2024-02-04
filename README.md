@@ -83,6 +83,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
   - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
   - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) With [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta)
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -99,7 +100,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected): should be fine but still look at it first
 
 ### World:
-- Find a way to increase world build height and lower bedrock + Flat Bedrock
+- Find a way to increase world build height and lower bedrock + Flat Bedrock (wont work with TFMG Oil Gen)
   - [Shattered World Limits](https://www.curseforge.com/minecraft/mc-mods/new-world-height-and-depth)?
 
 # Soft No:

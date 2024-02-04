@@ -1,0 +1,25 @@
+{
+	"base_stargate": "sgjourney:tollan_stargate",
+	
+	"texture": "moregates:textures/entity/stargate/tollan/makeshift/makeshift_stargate.png",
+	"engaged_texture": "moregates:textures/entity/stargate/tollan/makeshift/makeshift_stargate_engaged.png",
+	"event_horizon_texture": "moregates:textures/entity/stargate/tollan/makeshift/makeshift_event_horizon.png",
+	"shiny_event_horizon_texture": "moregates:textures/entity/stargate/tollan/makeshift/makeshift_event_horizon_shiny.png",
+	"symbol_color": [81, 30, 148, 255],
+	
+	"model":
+	{
+		"alternate_model": false,
+		"back_chevrons": false
+	},
+	
+	"sounds":
+	{
+		"chevron_engage_sound": "moregates:makeshift_chevron_engage",
+		"chevron_encode_sound": "moregates:makeshift_chevron_engage",
+		"chevron_open_sound": "moregates:makeshift_chevron_engage",
+		"dial_fail_sound": "sgjourney:pegasus_dial_fail",
+		"wormhole_open_sound": "moregates:makeshift_wormhole_open",
+		"wormhole_close_sound": "sgjourney:movie_wormhole_close"
+	}
+}

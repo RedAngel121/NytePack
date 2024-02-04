@@ -1,0 +1,11 @@
+{
+	"base_stargate": "sgjourney:pegasus_stargate",
+	
+	"texture": "moregates:textures/entity/stargate/pegasus/horizon/horizon_stargate.png",
+	"engaged_texture": "moregates:textures/entity/stargate/pegasus/horizon/horizon_stargate_engaged.png",
+	"event_horizon_texture": "moregates:textures/entity/stargate/pegasus/horizon/horizon_event_horizon.png",
+	"shiny_event_horizon_texture": "moregates:textures/entity/stargate/pegasus/horizon/horizon_event_horizon_shiny.png",
+	"symbol_color": [43, 206, 123, 255],
+	"engaged_symbol_color": [43, 206, 123, 255]
+}
+
