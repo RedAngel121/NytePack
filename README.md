@@ -67,10 +67,16 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - Investigate https://www.curseforge.com/minecraft/mc-mods/nullscape
   - Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
   - Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
-- From what I can tell, we are missing Agricraft+lib, DynTrees with Dyn+ and pams compat, Geolosys, IE/IP for the 1.20.1 update
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) With [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta)
+  - We can remove all inventroy sorting as Quark handles it
+  - Blacklist Soph Chests from Sorting buttons as they have built in sorting
+  - Disable backpack and other inventory expansion options
+- [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
+  - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
+  - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
 - [Finite water](https://legacy.curseforge.com/minecraft/mc-mods/finitewater/files/5077993)
   - The tag is called /data/finitewater/tags/worldgen/biome/has_infinite_water.json found [here](https://github.com/JDKDigital/finitewater/blob/dev-1.20.1/src/main/resources/data/finitewater/tags/worldgen/biome/has_infinite_water.json), just put this in and you're set!
-```
+```json
 {
   "values": [
     "#minecraft:is_ocean",
@@ -78,15 +84,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   ]
 }
 ```
-
-### == OPTIONAL: ==
-- [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
-  - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
-  - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
-- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) With [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta)
-  - We can remove all inventroy sorting as Quark handles it
-  - Blacklist Soph Chests from Sorting buttons as they have built in sorting
-  - Disable backpack and other inventory expansion options
+- From what I can tell, we are missing Agricraft+lib, DynTreesPlus and PHC2 Compat, Geolosys, IE/IP (possible TFMG replacement?) for the 1.20.1 update
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -96,7 +94,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ### Mods:
 - [Daves Potioneering](https://www.curseforge.com/minecraft/mc-mods/daves-potioneering): what does this mod even do?
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
-- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth): 
+- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
   - Progression beyond steel/netherite and we make other planets actually useful
   - Awating 7.0 update and maybe even avoiding depeding on whats included
   - Stargate integration using kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_biomes.json
