@@ -43,10 +43,10 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 # ~ BUILD TEAM NOTES ~
 ## Pack Build Rules are as follows:
-1. No Easy Teleporting items or players (CoRail's Death Key Exception)
-2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exception)
-3. Theme is more Dieselpunk Factory with long-term goals and community play
-4. Mod Inter-Connectivity is desired between Create and all the other tech mods (Which one do we want producing power?)
+1. No Easy Teleporting items or players (CoRail's Death Key Exception / Eventually Stargates when 1.20.1 happens)
+2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exception + Similar item specific inv space)
+3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD
+4. Crafting Recipe Inter-Connectivity is desired between Create and all the other tech mods (How do we manage Power?)
 
 ## More Immediete Settings and Changes
 1. We need to dive into Vein Mining, and by extension Farming, to determine how Vein Mining is actually going to affect the player hunger and tool durability.
@@ -55,7 +55,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Initial layout will be one raw chunk of ore in a furnace makes a nugget
 - More complex ore processing will yield better results
 - Mekanism (not included) is a good example of this
-4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency (pending big backport update for 1.18.2).
+4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency.
 - How does this factor into Starting Cash, Mob Cash Drops, Chest Loot, Login Bonus Income, Taxes, and other options?
 - What options do we have for purchasing chunk loading times? cant find anything on this yet...
 ## Update to 1.20.1
@@ -84,6 +84,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
   - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) With [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta)
+  - We can remove all inventroy sorting as Quark handles it
+  - Blacklist Soph Chests from Sorting buttons as they have built in sorting
+  - Disable backpack and other inventory expansion options
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -96,6 +99,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth): 
   - Progression beyond steel/netherite and we make other planets actually useful
   - Awating 7.0 update and maybe even avoiding depeding on whats included
+  - Stargate integration using kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_biomes.json
 - [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): check for Ore Gen and see whats not compatable
 - [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected): should be fine but still look at it first
 

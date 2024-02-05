@@ -1,0 +1,36 @@
+{
+	"replace": false,
+	
+	"_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+	"values":
+	[
+		{id: "ad_astra:glacio_ice_peaks", required: false},
+		{id: "ad_astra:glacio_snowy_barrens", required: false},
+		{id: "ad_astra:infernal_venus_barrens", required: false},
+		{id: "ad_astra:lunar_wasteland", required: false},
+		{id: "ad_astra:martian_canyon_creek", required: false},
+		{id: "ad_astra:martian_polar_caps", required: false},
+		{id: "ad_astra:martian_wastelands", required: false},
+		{id: "ad_astra:mercury_deltas", required: false},
+		{id: "ad_astra:venus_wasteland", required: false},
+		
+		{id: "proxima_plus:proxima_b_desert", required: false},
+		{id: "proxima_plus:proxima_b_devastated_forest", required: false},
+		{id: "proxima_plus:proxima_b_mud_wastes", required: false},
+		{id: "proxima_plus:proxima_b_snow_wastes", required: false},
+		{id: "proxima_plus:proxima_d_ocean", required: false},
+		
+		{id: "swplanets:endor_taiga", required: false},
+		{id: "swplanets:hot_desert", required: false},
+		{id: "swplanets:mandalore_vestige", required: false},
+		{id: "swplanets:mustafar_hill", required: false},
+		{id: "swplanets:tatooine_desert", required: false},
+		
+		{id: "adastraextra:adrastea_plains", required: false},
+		{id: "adastraextra:amalthea_plains", required: false},
+		{id: "adastraextra:deimos_plains", required: false},
+		{id: "adastraextra:meltis_plains", required: false},
+		{id: "adastraextra:phobos_plains", required: false},
+		{id: "adastraextra:thebe_plains", required: false}
+	]
+}
