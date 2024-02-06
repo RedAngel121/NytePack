@@ -1,11 +1,6 @@
 # NytePack
-**Welcome to the GameNytes NytePack where innovation is productivity!**
-
+**Welcome to NytePack where innovation is productivity!**
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
-
-This is the new Minecraft Pack that has been in the works for like *forever* and never actually getting done.
-Unleash your creativity in a Custom Dynamic world generated with Geolosys and Tectonic, encouraging exploration, ingenious designs, and technological mastery.
-Welcome to a world where innovation is productivity, and the possibilities are only limited to your ability to overcome the obstacles.
 
 # WARNING:
 Single player worlds will break repeatedly as the pack is still under heavy development!
@@ -149,7 +144,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - CC Tweaked: TURN OFF THE TURTLES!
 - Toolbelt Blacklist?
 - Fix Starter Kit to include things players should have day one... What items tho?
-- Fine Tune Geolosys as needed
+- Fine Tune Geolosys as needed / Add new M&A ore
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - Farming for Blockheads
   - Disable the Market
