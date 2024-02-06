@@ -60,7 +60,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - What options do we have for purchasing chunk loading times? cant find anything on this yet...
 ## Update to 1.20.1
 ### Only if ALL mods are available. After update look into:
-- [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
+- From what I can tell, we are missing Agricraft+lib, DynTreesPlus and PHC2 Compat, Geolosys, IE/IP (possible TFMG replacement?) for the 1.20.1 update
+
+- replace IE and IP with [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
 - Mechano (Mod Still Under Heavy Development)
 - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
 - An End Overhaul that will spruce up The End a bit without breaking YUNG's End Island
@@ -84,7 +86,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   ]
 }
 ```
-- From what I can tell, we are missing Agricraft+lib, DynTreesPlus and PHC2 Compat, Geolosys, IE/IP (possible TFMG replacement?) for the 1.20.1 update
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -173,9 +174,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Create Deco
   - Disable coins and coin stacks to prevent confusion
   - add them to a new Currency Chain after LC-2.2 update?
-- Blood Magic
-  - Sigil of Air
-  - Something about a "meteor" that dev is concerned about?
 - Gateways to Eternity
   - Add an absolute metric ton of gateways cause thats going to be fun
   - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
@@ -185,6 +183,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - garden_cloche needs growth_modifier adjustments
   - Disable crate minecart and reinforced crate minecart
 - Disable Pnumaticraft Chest
+- Mana and Artiface
+  - Check into symbols and spells and see what can be used to make OP spells
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip

@@ -444,11 +444,6 @@ hash = "2525c4774e1b6f182cfb549a622653e7fd8457473dd9a0c97fe1090d8a61a1cb"
 metafile = true
 
 [[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "fd84f4d2e26dfaf74ba56e710d8aad6715033c2ceddaec1efaa8fef047fec805"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
@@ -809,6 +804,11 @@ hash = "7b8fd31eb22aaee307154b261ed917430f8fffc5d342f05c1e65913cb6987366"
 metafile = true
 
 [[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "5cc89ca5e4360b164fbb732e5861ab9ed35f839548207a52aa2a880ac9fe984d"
+metafile = true
+
+[[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "7bfa34ea9ad11fe95d1973cba7fe19925b7946c3f51496f235526c6659bb7c47"
 metafile = true
@@ -995,12 +995,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2ca9c2e9eeadc58994c510e19b8cf3a04950358d7e309eab43632a9b67804735"
+hash = "abfabcdf4dfca4b73c907f1458996f4a6ee437a1b95fd716c0358a0d935bbcbc"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "db9312acc2e615f58847c05a1be9c7c49075160b9d19896341602d2acdd99db4"
+hash = "030502c1555f1e8789d58f1265c83b6737573a13c82db8ab1c90eaf8a1b49a68"
 metafile = true
 
 [[files]]
