@@ -379,11 +379,6 @@ hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
 
 [[files]]
-file = "mods/akashic-tome.pw.toml"
-hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "9f995d56c618dbeeefcd66855cdd64ff8ef8d5920b33b026668ae996677b6704"
 metafile = true
@@ -416,11 +411,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
-metafile = true
-
-[[files]]
-file = "mods/autoreglib.pw.toml"
-hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
