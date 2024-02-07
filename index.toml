@@ -125,10 +125,6 @@ file = "defaultconfigs/lightmansdiscord-server.toml"
 hash = "1c23ce00974815c8568ed1f3bfdebeba3acab67ca584b7330b6b789e37dcdc02"
 
 [[files]]
-file = "defaultconfigs/mna-general.toml"
-hash = "7bf4110ad7244d777f9f009a8cc06b83cdfad316ef0173b24ab886b653e9eee9"
-
-[[files]]
 file = "defaultconfigs/scalinghealth-server.toml"
 hash = "e35dd3c5be23bc1de22a9a809bd631288cc8df1219be5d2d4e6eed4791f28931"
 
