@@ -183,7 +183,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - Check into symbols and spells and see what can be used to make OP spells
   - Increase distance between structure world gen
   - Disable and Migrate New Vinteum Ore into Geolosys using the Iron Ore config
-  - https://github.com/Mithion/Mana-And-Artifice/issues/644 Ore Cannot be Disabled untill update
+  - https://github.com/Mithion/Mana-And-Artifice/issues/644 Ore Cannot be Disabled until updated
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
