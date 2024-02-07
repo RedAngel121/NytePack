@@ -144,7 +144,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - CC Tweaked: TURN OFF THE TURTLES!
 - Toolbelt Blacklist?
 - Fix Starter Kit to include things players should have day one... What items tho?
-- Fine Tune Geolosys as needed / Add new M&A ore
+- Fine Tune Geolosys as needed
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - Farming for Blockheads
   - Disable the Market
@@ -157,6 +157,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - better integration with alternative tech and crafting recipes
   - possible steel aircraft industry?
 - Philip's Ruins
+  - Increase Distance Between Ruins
   - Remove MiniBoss Ruins
 - Create Mod Possible Issues:
   - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
@@ -180,6 +181,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Disable Pnumaticraft Chest
 - Mana and Artiface
   - Check into symbols and spells and see what can be used to make OP spells
+  - Increase distance between structure world gen
+  - Disable and Migrate New Vinteum Ore into Geolosys with Iron config
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
