@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "256ca6c65db21bc3009a94e5631fd833ebab733e8ef613a9002235bc7e82470c"
+hash = "1320be428dfa568309a7262f65ed4432b38a6b8acb07d6441a73e2ea886f33c8"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "02a4b48196c9bd959fe8b936d27bc0a8d99f16076d10566e69b649ad51312815"
+hash = "a4b385e5afe72d0b54693e5ad3a57e5e6b6eb620c509d5ccfe8486a602c02b4a"
 metafile = true
 
 [[files]]
