@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "60dae26990035300fa780d675f08756ef4d5fded76423b839328d648869e6b23"
+hash = "df9400a75a35cc7f882da325dcbfbe8f9444a994f5429552d73500a6b8e3ae1b"
 metafile = true
 
 [[files]]
@@ -990,12 +990,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "abfabcdf4dfca4b73c907f1458996f4a6ee437a1b95fd716c0358a0d935bbcbc"
+hash = "94b0ae2513c47043290edb24d2abc8eb2844665f31351b0325ce8953cc3240ff"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "030502c1555f1e8789d58f1265c83b6737573a13c82db8ab1c90eaf8a1b49a68"
+hash = "337af8d705b169a432d889f5ae0e44342cf8bb124e36c5636e0bbecba00f6bea"
 metafile = true
 
 [[files]]

@@ -13,7 +13,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # Important Mods List:
 - Agricraft
 - Apotheosis
-- Blood Magic
 - Chipped
 - Construction Wand
 - Cooking and Farming for Blockheads
@@ -26,6 +25,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Immersive Petroleum
 - Lightmans Currency
 - Little Logistics
+- Mana & Artiface
 - Open Parties and Claims
 - Pams Harvestcraft 2
 - Pnumaticraft
