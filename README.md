@@ -55,7 +55,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - What options do we have for purchasing chunk loading times? cant find anything on this yet...
 ## Update to 1.20.1
 ### Only if ALL mods are available. After update look into:
-- From what I can tell, we are missing Agricraft+lib, DynTreesPlus and PHC2 Compat, Geolosys, IE/IP (possible TFMG replacement?) for the 1.20.1 update
+- From what I can tell, we are missing Agricraft+lib (May 2024), DynTreesPlus (unknown) and PHC2 Compat (unknown), Geolosys (May 2024), IE/IP (Replace with TFMG) for the 1.20.1 update
 
 - replace IE and IP with [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
 - Mechano (Mod Still Under Heavy Development)
