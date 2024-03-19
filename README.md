@@ -162,7 +162,7 @@ From what I can tell we are missing:
   - possible steel aircraft industry?
 - Philip's Ruins
   - Increase Distance Between Ruins
-  - Remove MiniBoss Ruins
+  - Remove MiniBoss Ruins?
 - Create Mod Possible Issues:
   - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
   - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
@@ -185,7 +185,7 @@ From what I can tell we are missing:
 - Disable Pnumaticraft Chest
 - Mana and Artiface
   - Check into symbols and spells and see what can be used to make OP spells
-  - Increase distance between cache/structure world gen
+  - Increase distance slightly between cache/structure world gen
   - Disable and Migrate New Vinteum Ore into Geolosys using the Iron Ore config
   - https://github.com/Mithion/Mana-And-Artifice/issues/644 Ore Cannot be Disabled until updated
 
