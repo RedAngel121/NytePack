@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "b69f9478c0cae292cfd9fca9dc56c6edd41447bcf2e38169e9709593232d7a58"
+hash = "f7e23ab3305e13a78531244a88bc17eb896ecaa7b16bad0f73a5b20344ca6a88"
 metafile = true
 
 [[files]]

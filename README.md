@@ -88,12 +88,14 @@ From what I can tell we are missing:
 
 # Balance is Key! Check These Out:
 ### QOL:
-- https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack
-- https://www.curseforge.com/minecraft/mc-mods/no-more-piglin-portal-spawning
+- [Staaaaaaaaaaaack (Stxck)](https://www.curseforge.com/minecraft/mc-mods/staaaaaaaaaaaack)
+- [No More Piglin Portal Spawning](https://www.curseforge.com/minecraft/mc-mods/no-more-piglin-portal-spawning)
+- [Experimental Settings Disabler](https://www.curseforge.com/minecraft/mc-mods/experimental-settings-disabler)
 
 ### Mods:
 - [Daves Potioneering](https://www.curseforge.com/minecraft/mc-mods/daves-potioneering): what does this mod even do?
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
+- [NoMo' Portals](https://legacy.curseforge.com/minecraft/mc-mods/no-mo-portals): maybe add this to force travel by spaceship/stargate? (nether/end excluded?)
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
   - Progression beyond steel/netherite and we make other planets actually useful
   - Awating 7.0 update and maybe even avoiding depeding on whats included (May 2024)
@@ -117,6 +119,9 @@ From what I can tell we are missing:
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts): possible compat issues with Serene Seasons?
 - [Nightmare Epic Siege](https://www.curseforge.com/minecraft/mc-mods/nightmareesm): Disable 90% of the mod: Most things are not ok but more intelligent mobs could be interesting
 - [Natures Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura): possible server overhead issues because of the chunk aura updates
+- [Lit it Up](https://legacy.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces more realistic
+- [Burning Furnace](https://legacy.curseforge.com/minecraft/mc-mods/burning-furnace): making furnaces more dangerous
+
 ### World:
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith): slow chunk generation issues and needs [DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terralith)
 - [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker): not available for 1.18
