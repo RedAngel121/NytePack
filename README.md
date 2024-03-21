@@ -43,7 +43,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (Planetary Travel?)
 4. Crafting Recipe Inter-Connectivity is desired (How do we manage Power storage and generation?)
 
-## More Immediete Settings and Changes
+## More Immediate Settings and Changes
 1. We need to dive into Vein Mining (and by extension Farming) to determine how Vein Mining is actually going to affect the player hunger and tool durability.
 2. Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff (which may be expanded with New Create Mods in 1.20.1)
 3. "Ore Factories" will have different ways of processing ore per type:
