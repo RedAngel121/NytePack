@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "a0ad97da4346242c768955c7f03ff497995ddbf1d5b7c4ad7be2f8fc29f2effe"
+hash = "ced05b0987649029bb55565e2a59c545765b870afa9c147e5aa1cddd9896d57a"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a5c4fb25c5c24fb7dab81694549f264cc9abbb97055c39381dd94024c1df1462"
+hash = "c66b9615a36ecd3dcb5c07c8bf4afe31aafd681447541972c60d208b5f5749b2"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "6cbed60c3e43463d036ee06dce96fb8232ac9fb4a398b76a4a94e9e9db41aca8"
+hash = "775451b8f55a752b0e04e658da5473d00967b29ec0b380ae37c41875376835cb"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "8efc83f181371fb79f6e3b3510750543ebf9f85bf5282fbb36838b8ee044b8b4"
+hash = "da6d738301fa9044a5372ca84919a73ad1ce97d07bf06528428c1c176f78bbb1"
 metafile = true
 
 [[files]]

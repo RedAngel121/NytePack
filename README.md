@@ -56,13 +56,16 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ## Update to 1.20.1 in June 2024
 ### Only if ALL mods are available. After update look into:
 From what I can tell we are missing:
-- Agricraft+InfinityLib (May 2024)
+- Agricraft+InfinityLib (May 2024 - 1.20.4?)
 - DynTreesPlus (unknown) and PHC2 Compat (unknown)
 - Geolosys (May 2024)
-- IE/IP (Replace with TFMG and more Create stuff) 
+- IE/IP (Replace with TFMG and more Create stuff)
+- Lazy DFU is depreciated and not needed for 1.20.1
+- Oauth is updated and works, just need to enforce version control there
+- replace "shutup exp settings" with [Experimental Settings Disabler](https://www.curseforge.com/minecraft/mc-mods/experimental-settings-disabler/files/all?page=1&pageSize=20&version=1.20.1)
 
-- Replace IE and IP with [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry)
-- Mechano (Mod Still Under Heavy Development)
+- Replace IE and IP with [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry/files/all?page=1&pageSize=20&version=1.20.1)
+- Mechano (Unreleased Mod Still Under Heavy Development)
 - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
 - An End Overhaul that will spruce up The End a bit without breaking YUNG's End Island
   - Investigate https://www.curseforge.com/minecraft/mc-mods/nullscape
@@ -73,10 +76,10 @@ From what I can tell we are missing:
   - Blacklist Soph Chests from Sorting buttons as they have built in sorting
   - Disable Quark's Backpack and other inventory expansion options
 - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
-  - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates)
+  - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates) increased distance or make gates be something to make manually
   - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
-- [Finite water](https://legacy.curseforge.com/minecraft/mc-mods/finitewater/files/5077993)
-  - The tag is called /data/finitewater/tags/worldgen/biome/has_infinite_water.json found [here](https://github.com/JDKDigital/finitewater/blob/dev-1.20.1/src/main/resources/data/finitewater/tags/worldgen/biome/has_infinite_water.json), just put this in and you're set!
+- [Finite water](https://www.curseforge.com/minecraft/mc-mods/finitewater/files/all?page=1&pageSize=20&version=1.20.1)
+  - The tag is called /data/finitewater/tags/worldgen/biome/has_infinite_water.json found [here](https://github.com/JDKDigital/finitewater/blob/dev-1.20.1/src/main/resources/data/finitewater/tags/worldgen/biome/has_infinite_water.json), just put this code block inside and you're set!
 ```json
 {
   "values": [
@@ -128,11 +131,6 @@ From what I can tell we are missing:
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
   -  Not something i want personally, but how far outside the realm of the pack is it really?
   -  We could turn it into a planet instead of a portal for use with Beyond Earth?
-- Swap for Geolosys? Disinclined as Geolosys is being worked on for 1.20.1 now...
-  - https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits
-  - https://legacy.curseforge.com/minecraft/mc-mods/advanced-finders
-  - https://www.curseforge.com/minecraft/mc-mods/pollution-of-the-realms
-  - https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys
 
 # Hard No:
 - Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
@@ -191,8 +189,8 @@ From what I can tell we are missing:
 - Mana and Artiface
   - Check into symbols and spells and see what can be used to make OP spells
   - Increase distance slightly between cache/structure world gen
-  - Disable and Migrate New Vinteum Ore into Geolosys using the Iron Ore config
-  - https://github.com/Mithion/Mana-And-Artifice/issues/644 Ore Cannot be Disabled until updated
+  - Disable and Migrate New Vinteum Ore into Geolosys using the Diamond Ore config
+  - https://github.com/Mithion/Mana-And-Artifice/issues/644 Ore Cannot be Disabled until update to 1.20.1
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
