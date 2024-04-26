@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "edab479c255f5179ee88c1f4667dd7d86b337d936ff12267aec93e75c4c4eafb"
+hash = "aa553793277369433a4f8666a5e9a73cfc8eac50bc52d40645249a12d79148f3"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "09169f60564677485f8679750af2b1431cd590b6954f471df57ad931f2df75e7"
+hash = "76e74da616cfeb71dee22f665f20b7bf646493362679a4a679dc8081dea3824c"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c66b9615a36ecd3dcb5c07c8bf4afe31aafd681447541972c60d208b5f5749b2"
+hash = "675f90b8b377b69ad530620748e453514624e49d4df7e25d742184dd6d058236"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "5d3a3ecdd39a3883afedf37b127de3008d50c8e7764ad752ca9165f87c98c028"
+hash = "1c82d11cc7a4d81610813aa7aedf604dd328ed1ce8874e888142bfd027d5544d"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "775451b8f55a752b0e04e658da5473d00967b29ec0b380ae37c41875376835cb"
+hash = "9c8d8e6cbafe91212902b921582b9b1b8c672992f16d844fcf4a056c1933c773"
 metafile = true
 
 [[files]]
@@ -1075,12 +1075,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "aa54b54dee75a22b92ff6bcf3e938046c7223b9b036e770e93cc61fbf09d3da5"
+hash = "7a5e160cef41ada98f2eb39dca3265b42ab17e83275a676808ca4614a0135f64"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a3afff602b2eefa26269e9b0f59e0de7ad6ad870b1f25c14db75b98d5e71ba84"
+hash = "354cc3b183822e4d3a05194dd0817fa34b91d4498d8cb59710fb089f50e26333"
 metafile = true
 
 [[files]]
