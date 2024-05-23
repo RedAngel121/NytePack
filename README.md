@@ -26,7 +26,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Mana & Artiface
 - Open Parties and Claims
 - Pams Harvestcraft 2
-- Pnumaticraft
 - Silent Gear
 - Sophisticated Storage
 - Tectonic
@@ -37,45 +36,44 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # ~ BUILD TEAM NOTES ~
 ## Pack Build Rules are as follows:
 1. No Easy Teleporting items or players (CoRail's Death Key Exception / Eventually Stargates when 1.20.1 happens)
-2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exception + Similar item specific inv space)
-3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (Planetary Travel?)
-4. Crafting Recipe Inter-Connectivity is desired (How do we manage Power storage and generation?)
+2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exceptions or similar item specific inv spaces)
+3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary Travel? Stargates?)
+4. Crafting Recipe Inter-Connectivity is desired between most mods for increased complexity and semi-realism
+5. Power storage, production, and transfer, will be handled in world and not by items on the player
+6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not jetpacks or similar (apoth excluded)
 
 ## More Immediate Settings and Changes
-1. We need to dive into Vein Mining (and by extension Farming) to determine how Vein Mining is actually going to affect the player hunger and tool durability.
-2. Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff (which may be expanded with New Create Mods in 1.20.1)
+1. We need to dive into Vein Mining Enchant configs (and by extension Farming options) to determine how Vein Mining is actually going to affect the player hunger and tool durability.
+2. Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff
 3. "Ore Factories" will have different ways of processing ore per type:
-- Initial layout will be one raw chunk of ore in a furnace makes a nugget
-- More complex ore processing will yield better results
-- Mekanism (not included) is a good example of this
-4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through Lightmans Currency.
-- How does this factor into Starting Cash? Mob Cash Drops? Chest Loot? Taxes? and other options?
-- What options do we have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"
+  - More complex ore processing will yield better results
+    - Initial layout will be one raw chunk of ore in a furnace makes a nugget
+    - One raw ore chunk in create mixer makes multiple nuggets
+  - Mekanism (not included) is a good example of this
+4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency.
+  - How does this factor into Starting Cash? Mob Cash Drops? Chest Loot? Taxes? and other options?
+  - What options do we have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
+
 ## Update to 1.20.1 in June 2024
 ### Only if ALL mods are available. After update look into:
 From what I can tell we are missing:
-- Agricraft+InfinityLib (May 2024 - 1.20.4?)
-- DynTreesPlus (unknown) and PHC2 Compat (unknown)
-- Geolosys (May 2024)
-- IE/IP (Replace with TFMG and more Create stuff)
-- Lazy DFU is depreciated and not needed for 1.20.1
-- Oauth is updated and works, just need to enforce version control there
-- replace "shutup exp settings" with [Experimental Settings Disabler](https://www.curseforge.com/minecraft/mc-mods/experimental-settings-disabler/files/all?page=1&pageSize=20&version=1.20.1)
+- Agricraft+InfinityLib - released for 1.20.4
+- DynTreesPlus and PHC2 Compat - In Progress
+- Geolosys - July 2024?
 
-- Replace IE and IP with [C:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry/files/all?page=1&pageSize=20&version=1.20.1)
+### New Additions
+- [Create:TFMG](https://www.curseforge.com/minecraft/mc-mods/create-industry/files/all?page=1&pageSize=20&version=1.20.1)
 - Mechano (Unreleased Mod Still Under Heavy Development)
 - [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)
-- An End Overhaul that will spruce up The End a bit without breaking YUNG's End Island
-  - Investigate https://www.curseforge.com/minecraft/mc-mods/nullscape
-  - Investigate https://www.curseforge.com/minecraft/mc-mods/unusual-end
-  - Investigate https://www.curseforge.com/minecraft/mc-mods/endless-biomes
+- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) With [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta)
   - We can remove all inventroy sorting as Quark handles it
   - Blacklist Soph Chests from Sorting buttons as they have built in sorting
   - Disable Quark's Backpack and other inventory expansion options
+  - DynTrees compat?
 - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
-  - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates) increased distance or make gates be something to make manually
-  - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
+  - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates) increased distance between gates? or manual creation?
+  - [MoreGates](https://www.curseforge.com/minecraft/mc-mods/more-gates-mod-ver)
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -84,6 +82,7 @@ From what I can tell we are missing:
 - [Experimental Settings Disabler](https://www.curseforge.com/minecraft/mc-mods/experimental-settings-disabler)
 
 ### Mods:
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) compat can be added for air compressing items
 - [Daves Potioneering](https://www.curseforge.com/minecraft/mc-mods/daves-potioneering): what does this mod even do?
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
 - [NoMo' Portals](https://legacy.curseforge.com/minecraft/mc-mods/no-mo-portals): maybe add this to force travel by spaceship/stargate? (nether/end excluded?)
@@ -95,14 +94,15 @@ From what I can tell we are missing:
 - [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected): should be fine but still look at it first
 
 ### World:
-- Find a way to increase world build height and lower bedrock + Flat Bedrock (wont work with TFMG Oil Gen)
+- Find a way to increase world build height and lower bedrock + Flat Bedrock (probably wont work with TFMG Oil Gen)
   - [Shattered World Limits](https://www.curseforge.com/minecraft/mc-mods/new-world-height-and-depth)?
 
-# Soft No:
+# Things to look at much later:
 ### QOL:
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu): Lots of work
 - [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Lots of work
 - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat): Possible Server Overhead/Network Cap issues
+
 ### Mods:
 - [Create Interactive](https://www.curseforge.com/minecraft/mc-mods/create-interactive): probably not happening due to possible performance/compat issues, will test later
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
@@ -118,37 +118,36 @@ From what I can tell we are missing:
 - [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker): not available for 1.18
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
   -  Not something i want personally, but how far outside the realm of the pack is it really?
-  -  We could turn it into a planet instead of a portal for use with Beyond Earth?
+  -  Maybe we could turn it into a planet instead of a portal for use with Beyond Earth?
 
 # Hard No:
 - Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
 - Lootr (will not be added as it floods the market with items)
-- Mekanism + Extras (most likely not included because its too streamlined or technically advanced and would need heavy edits to function the way we want)
+- Mekanism (is most likely not included because its too streamlined and technically advanced and would need heavy edits to function the way we want)
 
 # Additional Mod/Config Changes:
-- Connected Textures do not work with Framed Blocks...
+- Connected Textures do not work with Framed Blocks... replace with Copycats Plus?
   - CT does not work with Framed Blocks in 1.18.2: frame blocks register CT but not with each other or orig block
-  - Same but backwards in 1.20.1: frame blocks do not register CT even though orig block registers and connects correctly
+  - Same but backwards in 1.20.1: frame blocks do not register CT even though orig block registers and connects correctly to framed
 - Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
 - Investigate Glassential functional glass blocks
-- Investigate secret rooms mod
 - Investigate Sophisticated Storage settings or disable some upgrades
 - Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-- Apotheosis disable armor drops from every mob and adjust settings
+- Apotheosis disable armor drops from every mob, adjust settings?
 - Adjust the corail tombstone config as needed
 - CC Tweaked: TURN OFF THE TURTLES!
 - Toolbelt Blacklist?
-- Fix Starter Kit to include things players should have day one... What items tho?
+- Fix Starter Kit to include things players should have day one... currency? What other items tho?
 - Fine Tune Geolosys as needed
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - Farming for Blockheads
   - Disable the Market
   - Check everything else to make sure it doesnt break the spirit of the pack
-- Lightmans Currency update to v2.2
+- Lightmans Currency
   - Change the coin upgrade size to 100/1
   - Investigate all new config system
 - Immersive Aircraft
-  - Nerf pedal crafts
+  - Nerf pedal craft, find addons?
   - Better integration with alternative tech and crafting recipes
   - Possible steel aircraft industry?
 - Philip's Ruins
@@ -163,17 +162,12 @@ From what I can tell we are missing:
   - Set "Health From XP" to amount of XP points instead of XP levels
   - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
 - Create Deco
-  - Disable coins and coin stacks to prevent confusion
-  - Add them to a new Currency Chain after LC-2.2 update?
+  - Disable coins to prevent confusion
 - Gateways to Eternity
-  - Add an absolute metric ton of gateways cause thats going to be fun
+  - Add an absolute metric ton of gateways *cause thats going to be fun*
   - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
 - Baubley Heart Canisters
-  - Heart cans need to be added to purchasable items from server vending machines (red = 1 / yellow = 2 / green = 4 / blue = 8)
-- Immersive Engineering:
-  - garden_cloche needs growth_modifier adjustments
-  - Disable crate minecart and reinforced crate minecart
-- Disable Pnumaticraft Chest
+  - Heart cans need to be added to purchasable items from server vending machines (red = 2 / yellow = 4 / green = 8 / blue = 16)
 - Mana and Artiface
   - Check into symbols and spells and see what can be used to make OP spells
   - Increase distance slightly between cache/structure world gen
@@ -186,8 +180,8 @@ From what I can tell we are missing:
 - Remove World Edit Mods and other Admin only mods
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management
-- Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in a config)
-- Change Sleep % to 100
+- Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in server configs)
+- Change Sleep % to 0
 
 ### Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`

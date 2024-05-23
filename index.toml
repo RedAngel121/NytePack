@@ -53,14 +53,6 @@ file = "config/geolosys-common.toml"
 hash = "aced9a25f5a96bdc430f8750d57beac5a7b5d8833b08bb36ad9d6efabd91116f"
 
 [[files]]
-file = "config/immersiveengineering-client.toml"
-hash = "b8b4947f4dbe447dda863765f447b4316875e72d53264f5b5e1153b2f902474d"
-
-[[files]]
-file = "config/immersiveengineering-common.toml"
-hash = "8f69b89e521ed8718279208d3d2dc071ec6450f44d4992217a20a49a02da31ce"
-
-[[files]]
 file = "config/lctech-common.toml"
 hash = "cbb5220df605e2040f0b2548041aa86ec02deeaad7657d94ad464284cc5d797f"
 
@@ -908,11 +900,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
-metafile = true
-
-[[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "565ee4d42c9a42a5e77559c91427771f51114ae33b0e9ca4684329710f7646c7"
 metafile = true
 
 [[files]]
