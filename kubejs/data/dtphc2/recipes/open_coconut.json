@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "dtphc2:coconut_seed"
+    }
+  },
+  "result": {
+    "item": "harvestcraft:coconutitem",
+    "count": 2
+  }
+}
