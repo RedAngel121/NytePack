@@ -197,6 +197,14 @@ file = "kubejs/config/common.properties"
 hash = "e0a7ab271e0e452ab2ce329e3a522523f07a436ab45eabfb0cb2529cab57bc2b"
 
 [[files]]
+file = "kubejs/data/dtphc2/recipes/apple_sapling_to_pip.json"
+hash = "db131292951d62edf6280f427db0480534e2397e1a625f34e6be47df520ebd24"
+
+[[files]]
+file = "kubejs/data/dtphc2/recipes/open_coconut.json"
+hash = "566095e8d9f0395d2d938b2210616a1ff308bfcf8da4b1faa603b4c03c3c2ef2"
+
+[[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
 hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
 
@@ -327,10 +335,6 @@ hash = "258a3f8207a04157c2511f50c232ba836f96374c1941572439d9df339146e568"
 [[files]]
 file = "kubejs/data/pamhc2crops/recipes/bottle_x4_cattail_x2.json"
 hash = "53dedd039114d5c7e460d0cf16130205de003918d344cf26707d2ff7519955d9"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
-hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
 
 [[files]]
 file = "kubejs/data/pamhc2crops/recipes/torch_cattail.json"
