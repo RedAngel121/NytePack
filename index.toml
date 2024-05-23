@@ -202,7 +202,7 @@ hash = "db131292951d62edf6280f427db0480534e2397e1a625f34e6be47df520ebd24"
 
 [[files]]
 file = "kubejs/data/dtphc2/recipes/open_coconut.json"
-hash = "566095e8d9f0395d2d938b2210616a1ff308bfcf8da4b1faa603b4c03c3c2ef2"
+hash = "e0db0021aa0968ef6944374e5643e02a030911c8dcf66edc085914bbe1136207"
 
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
@@ -471,11 +471,6 @@ hash = "9e01208496046b92fda93877cfbc27b5c4fbf4fc9f937be3e54fede8fb3373d4"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "1320be428dfa568309a7262f65ed4432b38a6b8acb07d6441a73e2ea886f33c8"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "9d4e075259bb040795c2e83d0db124f6924e7831e9e344dc738fdd32e5111ee8"
 metafile = true
@@ -711,16 +706,6 @@ hash = "0290a32259171f66475edba23f9c510e08547ec517ce256ced8043a5a2fff2b5"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
-metafile = true
-
-[[files]]
-file = "mods/immersive-petroleum.pw.toml"
-hash = "9c4c4eb27c5b487c0303aa05300670147b1087ac6303da0f3ed4fb5f6ade725c"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "c1023e22bc3b7d2fdf3b19c57174ca54a0fbdd9bfc399ce46b92f4272cc6e5fa"
 metafile = true
@@ -766,18 +751,8 @@ hash = "26281d06f94e69a9becd2ad30ee390140fe0c732dbe2e77e17945085aaae5c70"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-immersive-engineering.pw.toml"
-hash = "ec0ff13c5582c8e209b41f7573fafa41f31f6df074dbbaf859f5011bff9e2cd4"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
-metafile = true
-
-[[files]]
-file = "mods/lazy-dfu-forge.pw.toml"
-hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
@@ -798,11 +773,6 @@ metafile = true
 [[files]]
 file = "mods/lightmans-discord-integration.pw.toml"
 hash = "465fd6be38d6b5d2399cc2a62f0dad810932fb1db997638427bf2609130ecf54"
-metafile = true
-
-[[files]]
-file = "mods/lightspeedmod.pw.toml"
-hash = "179de6180653ff93abb091b60569b0860c3b74d7197f7af8cc4f4547aa3dc128"
 metafile = true
 
 [[files]]
@@ -886,11 +856,6 @@ hash = "4d2bad5b4335ce48ae261b5177efb9ea546beaab0f06bcdf6d879ab3de37eb21"
 metafile = true
 
 [[files]]
-file = "mods/oauth.pw.toml"
-hash = "df6534c93c5c2b0a01c5b5fc03c6c9e63be78f0c12c7a9f6f7369cf7841cd22c"
-metafile = true
-
-[[files]]
 file = "mods/observable.pw.toml"
 hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
 metafile = true
@@ -946,11 +911,6 @@ hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
 
 [[files]]
-file = "mods/pluto.pw.toml"
-hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
-metafile = true
-
-[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "565ee4d42c9a42a5e77559c91427771f51114ae33b0e9ca4684329710f7646c7"
 metafile = true
@@ -981,18 +941,8 @@ hash = "14880146b1cd702b2b42ed267bf219d0a67a0c740e88c1cafe85a8553378fb36"
 metafile = true
 
 [[files]]
-file = "mods/saturn.pw.toml"
-hash = "f76a9f81f1139c2ed6a3e3b1b02adf65b20a7a3a2582be6efd0678ad45d50c68"
-metafile = true
-
-[[files]]
 file = "mods/scaling-health.pw.toml"
 hash = "0685813a63990cd8b153c39342f015afd9f64c3354dfcaf9516caa92ff084dce"
-metafile = true
-
-[[files]]
-file = "mods/secretroomsmod.pw.toml"
-hash = "ffc7684367213f3902dec9267a04489c88c046b446872fa7476eb3fe0368ebd0"
 metafile = true
 
 [[files]]

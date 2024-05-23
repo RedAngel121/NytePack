@@ -21,8 +21,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Dynamic Trees
 - Geolosys
 - Immersive Aircraft
-- Immersive Engineering
-- Immersive Petroleum
 - Lightmans Currency
 - Little Logistics
 - Mana & Artiface
