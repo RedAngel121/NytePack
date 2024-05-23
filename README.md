@@ -78,16 +78,6 @@ From what I can tell we are missing:
 - [Stargate Journey](https://www.curseforge.com/minecraft/mc-mods/sgjourney)
   - [Common Stargates](https://www.curseforge.com/minecraft/texture-packs/common-stargates) increased distance or make gates be something to make manually
   - Already got a KubeJS setup for [MoreGates](https://www.curseforge.com/minecraft/mc-addons/more-stargates), but still check for updates on this.
-- [Finite water](https://www.curseforge.com/minecraft/mc-mods/finitewater/files/all?page=1&pageSize=20&version=1.20.1)
-  - The tag is called /data/finitewater/tags/worldgen/biome/has_infinite_water.json found [here](https://github.com/JDKDigital/finitewater/blob/dev-1.20.1/src/main/resources/data/finitewater/tags/worldgen/biome/has_infinite_water.json), just put this code block inside and you're set!
-```json
-{
-  "values": [
-    "#minecraft:is_ocean",
-    "#minecraft:is_river"
-  ]
-}
-```
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -158,11 +148,11 @@ From what I can tell we are missing:
   - Check everything else to make sure it doesnt break the spirit of the pack
 - Lightmans Currency update to v2.2
   - Change the coin upgrade size to 100/1
-  - investigate all new config system
+  - Investigate all new config system
 - Immersive Aircraft
-  - nerf pedal crafts
-  - better integration with alternative tech and crafting recipes
-  - possible steel aircraft industry?
+  - Nerf pedal crafts
+  - Better integration with alternative tech and crafting recipes
+  - Possible steel aircraft industry?
 - Philip's Ruins
   - Increase Distance Between Ruins
   - Remove MiniBoss Ruins?
@@ -176,7 +166,7 @@ From what I can tell we are missing:
   - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
 - Create Deco
   - Disable coins and coin stacks to prevent confusion
-  - add them to a new Currency Chain after LC-2.2 update?
+  - Add them to a new Currency Chain after LC-2.2 update?
 - Gateways to Eternity
   - Add an absolute metric ton of gateways cause thats going to be fun
   - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
@@ -199,7 +189,7 @@ From what I can tell we are missing:
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management
 - Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in a config)
-- Change Sleep % to 50
+- Change Sleep % to 100
 
 ### Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`

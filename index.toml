@@ -197,6 +197,10 @@ file = "kubejs/config/common.properties"
 hash = "e0a7ab271e0e452ab2ce329e3a522523f07a436ab45eabfb0cb2529cab57bc2b"
 
 [[files]]
+file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
+hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
+
+[[files]]
 file = "kubejs/data/geolosys/deposits/ore/ancient_debris.json"
 hash = "b4874a2f8b6ff6a2501b4804f06c5c41a585c2b14877e420e47779f74e2d36d0"
 
@@ -363,6 +367,18 @@ hash = "7bc71261ba9a32bc3b7757b4fdba666bd916928e2502abb1e59a51e9faf1c8da"
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
 hash = "312ce236f43afe02c2e4be6765a2f93496335171d38e0041ddde1aff18fd1c1d"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_biomes.json"
+hash = "c12eff4cd3339e972131060b9ea59a6bdd27e84cef24861b0860d58febf289ef"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/structure/has_stargate.json"
+hash = "3dcb9be31f33841e1a11a47e020180fa73bfc201e426eac470e407f58332e23d"
+
+[[files]]
+file = "kubejs/server_scripts/remove_blocks.js"
+hash = "d99ed5210671c5fd709bc2906887f05ad63e00e9fc82492676c3ac466465669f"
 
 [[files]]
 file = "kubejs/startup_scripts/geolosys.js"
@@ -604,6 +620,11 @@ hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
 metafile = true
 
 [[files]]
+file = "mods/experimental-settings-disabler.pw.toml"
+hash = "eaf53a4c865a637ad40d0db36f283f47cb5e74deec3fda8005a6b969b3db923a"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
 metafile = true
@@ -636,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
+metafile = true
+
+[[files]]
+file = "mods/finitewater.pw.toml"
+hash = "9f5cd55d1fe951f0d6cd9616970aba010858bc313e6ef9d09b71185a5a873715"
 metafile = true
 
 [[files]]
@@ -830,12 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "67714a9144a38e7083b905eec438c7f1853208aa871e0507359e75129fe545ec"
-metafile = true
-
-[[files]]
-file = "mods/no-more-inifinite-water.pw.toml"
-hash = "0db676d7d698a8868a7dd015ed500cde387238ec2bb68541a53ddfe7ffafbf6c"
+hash = "11161d9b270d5850081def731f717190e32f0b2f69584aaa9c49e1f7e68e9e5b"
 metafile = true
 
 [[files]]
@@ -971,11 +992,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
-metafile = true
-
-[[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
-hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
