@@ -325,6 +325,18 @@ file = "kubejs/data/immersiveengineering/loot_tables/blocks/reinforced_crate.jso
 hash = "258a3f8207a04157c2511f50c232ba836f96374c1941572439d9df339146e568"
 
 [[files]]
+file = "kubejs/data/pamhc2crops/recipes/bottle_x4_cattail_x2.json"
+hash = "53dedd039114d5c7e460d0cf16130205de003918d344cf26707d2ff7519955d9"
+
+[[files]]
+file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
+hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
+
+[[files]]
+file = "kubejs/data/pamhc2crops/recipes/torch_cattail.json"
+hash = "bdca31e2859c414041f6280186a2f27f72d69a1ee11a527b1b14352087d91c50"
+
+[[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"
 hash = "3859bfbf73958802548025bf6b93302020bb475a98a83cce66341d947f69b113"
 
@@ -377,7 +389,7 @@ file = "kubejs/data/sgjourney/tags/worldgen/structure/has_stargate.json"
 hash = "3dcb9be31f33841e1a11a47e020180fa73bfc201e426eac470e407f58332e23d"
 
 [[files]]
-file = "kubejs/server_scripts/remove_blocks.js"
+file = "kubejs/server_scripts/recipes.js"
 hash = "d99ed5210671c5fd709bc2906887f05ad63e00e9fc82492676c3ac466465669f"
 
 [[files]]
