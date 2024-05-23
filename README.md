@@ -83,6 +83,7 @@ From what I can tell we are missing:
 
 ### Mods:
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) compat can be added for air compressing items
+  - [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
 - [Daves Potioneering](https://www.curseforge.com/minecraft/mc-mods/daves-potioneering): what does this mod even do?
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
 - [NoMo' Portals](https://legacy.curseforge.com/minecraft/mc-mods/no-mo-portals): maybe add this to force travel by spaceship/stargate? (nether/end excluded?)

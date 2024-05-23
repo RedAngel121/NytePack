@@ -493,11 +493,6 @@ hash = "ac1b752858973dbec55ecd6b98771367fa1b8df5b7dba4b4183952437777b8b8"
 metafile = true
 
 [[files]]
-file = "mods/compressedcreativity.pw.toml"
-hash = "4ad97f20d4c230d5215e4d46608f03ce709a2e430e6d5323afe636f163159d87"
-metafile = true
-
-[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "504e0b21fb643f5a6e1d2db18b3975993673b7c89b062be49de37dbedc3684da"
 metafile = true
