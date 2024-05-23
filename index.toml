@@ -420,11 +420,6 @@ hash = "0d783ed73eeddfc3d994c0a63ff4a6544b30cfc082fcb054143617c8e05f4ee5"
 metafile = true
 
 [[files]]
-file = "mods/ato.pw.toml"
-hash = "c5795cf9270b6abed5edddff888209a3fe73f0280b1320bee7a2c04e62a710bd"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "13f3b6987f5b5eee115a70d8dc8c8df7860e448e1246e35232828c7e6b785a49"
 metafile = true
