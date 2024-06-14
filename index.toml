@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "f7e23ab3305e13a78531244a88bc17eb896ecaa7b16bad0f73a5b20344ca6a88"
+hash = "f1782dd830429e3b1c53a0b8f5b461af952629a0896ac6f52a124bea8f57ce07"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "768168107df7cbee4da06c093a7695e0cc7ff0ad49a6b63e0857515f236f19f1"
+hash = "ebda55f427d8140fbffca853b8144e25c32c52278c4fbf88a2566b7e994c1304"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "675f90b8b377b69ad530620748e453514624e49d4df7e25d742184dd6d058236"
+hash = "e8ea1ed24c1b1acbf78409861fe031e5b65fb1164f9ba3bd73973a863432ba5a"
 metafile = true
 
 [[files]]
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "9c8d8e6cbafe91212902b921582b9b1b8c672992f16d844fcf4a056c1933c773"
+hash = "453fab5cfb7444477255e6526f98b22bfe2847884c3a10d9534486064b42e781"
 metafile = true
 
 [[files]]
@@ -1044,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "354cc3b183822e4d3a05194dd0817fa34b91d4498d8cb59710fb089f50e26333"
+hash = "08c551300ce2585270b71b8898126ab7d4c09d4570386be03632cf39d492a734"
 metafile = true
 
 [[files]]
