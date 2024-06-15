@@ -393,11 +393,6 @@ file = "kubejs/startup_scripts/geolosys.js"
 hash = "5ef22d3bafca485827cf61f019ede25a8480ff1c68d88d7ffeb5f752297222af"
 
 [[files]]
-file = "mods/agricraft.pw.toml"
-hash = "41ee539ed983cdaea4e48191f5424cba2e9b27d2e9c1a6062a092bddaef57042"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
@@ -678,11 +673,6 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
-file = "mods/geolosys.pw.toml"
-hash = "446b60cb46b3da94fc8b0c4d18567179783d04bf3884880131bcd32b4f95a986"
-metafile = true
-
-[[files]]
 file = "mods/glassential.pw.toml"
 hash = "df0a3492490ee76d36fb4b6d36dc44d0b7edf923b31e512dbb7e55a0c0962f31"
 metafile = true
@@ -695,11 +685,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "c1023e22bc3b7d2fdf3b19c57174ca54a0fbdd9bfc399ce46b92f4272cc6e5fa"
-metafile = true
-
-[[files]]
-file = "mods/infinitylib.pw.toml"
-hash = "7f588f0de386b79f01baa9a4bc4248b2ccca0d20af2772d1e392bc050412f0bc"
 metafile = true
 
 [[files]]
