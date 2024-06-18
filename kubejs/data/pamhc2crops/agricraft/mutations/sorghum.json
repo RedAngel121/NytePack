@@ -1,0 +1,6 @@
+{
+  "chance": 0.5,
+  "child": "pamhc2crops:sorghum",
+  "parent1": "pamhc2crops:canola",
+  "parent2": "pahmhc2crops:rye"
+}

@@ -1,0 +1,6 @@
+{
+  "chance": 0.5,
+  "child": "pamhc2crops:parsnip",
+  "parent1": "minecraft:carrot",
+  "parent2": "minecraft:beetroot"
+}

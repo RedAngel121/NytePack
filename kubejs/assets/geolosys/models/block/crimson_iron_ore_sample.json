@@ -1,8 +1,0 @@
-{
-  "parent": "geolosys:block/ore_sample",
-  "textures": {
-    "particle": "minecraft:block/netherrack",
-    "ore": "silentgear:block/raw_crimson_iron_block",
-    "stone": "minecraft:block/netherrack"
-  }
-}

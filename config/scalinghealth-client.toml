@@ -89,10 +89,10 @@
 	[difficulty.meter]
 		#When to show the difficulty meter.
 		#Allowed Values: ALWAYS, SOMETIMES, NEVER
-		show = "ALWAYS"
+		show = "NEVER"
 		#Show the difficulty meter for this many seconds (only on SOMETIMES mode)
 		#Range: 0.0 ~ 1.7976931348623157E308
-		showDuration = 1.0
+		showDuration = 0
 
 		[difficulty.meter.position]
 			#Position of the difficulty meter.

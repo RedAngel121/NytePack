@@ -1,13 +1,13 @@
 name = "Lightman's Discord Integration"
-filename = "lightmansdiscord-1.18-0.2.0.3-server.jar"
+filename = "lightmansdiscord-1.20-0.2.0.3-server.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "685528ae5a24ff3e2d3341c227d18f1ff1492c9b"
+hash = "ff318d7ea835f328112b22e93bb8ab9288837c8d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4767178
+file-id = 4767181
 project-id = 545459

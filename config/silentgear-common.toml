@@ -1,4 +1,3 @@
-
 [item]
 
 	#Blueprint and template settings
@@ -94,10 +93,12 @@
 	#The item tier assigned to gear tool items.
 	#Leave this alone unless you are trying to work around mod compatibility issues!
 	#Normally, this value is not used for anything. But some mods mistakenly check it.
+	#Allowed Values: WOOD, STONE, IRON, DIAMOND, GOLD, NETHERITE
 	dummyToolTier = "WOOD"
 	#The armor material assigned to the gear armor items.
 	#Leave this alone unless you are trying to work around mod compatibility issues!
 	#Normally, this value is not used for anything. But some mods mistakenly check it.
+	#Allowed Values: LEATHER, CHAIN, IRON, GOLD, DIAMOND, TURTLE, NETHERITE
 	dummyArmorMaterial = "LEATHER"
 
 	[gear.enchanting]
@@ -145,9 +146,10 @@
 
 	[gear.upgrades]
 		#If true, upgrade parts may only be applied in an anvil.
-		applyInAnvilOnly = false
+		applyInAnvilOnly = true
+		#If true, parts that are replaced (swapped out) of a gear item are not returned to the player and are instead destroyed.
 		#This applies to the recipe where placing a gear item and a part into a crafting grid will swap out the part.
-		destroySwappedParts = false
+		destroySwappedParts = true
 
 #Settings for the material grader
 [materialGrader]
@@ -190,17 +192,17 @@
 	[world.azureSilver]
 		#Veins of azure silver ore per chunk
 		#Range: 0 ~ 1000
-		count = 0
+		count = 10
 
 	[world.bort]
 		#Attempts to place individual bort ore blocks per chunk.
 		#Range: 0 ~ 1000
-		count = 0
+		count = 10
 
 	[world.crimsonIron]
 		#Veins of crimson iron ore per chunk
 		#Range: 0 ~ 1000
-		count = 0
+		count = 10
 
 [debug]
 
@@ -217,6 +219,7 @@
 		worldGen = true
 
 [other]
+	#Shows a "WIP" (work in progress) label in the tooltip of certain unfinished, but usable blocks and items
 	#Set to false to remove the text from tooltips
 	showWipText = true
 

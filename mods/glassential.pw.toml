@@ -1,13 +1,13 @@
 name = "Glassential"
-filename = "glassential-forge-1.18.2-1.2.3.jar"
+filename = "glassential-forge-1.20.1-1.2.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1ee5a82e0966c68840af4a77d2c7d8f3879f93e9"
+hash = "7ede3ab30d7e06303484e3ad6146e1922fb8df6c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3759157
+file-id = 5245960
 project-id = 319194

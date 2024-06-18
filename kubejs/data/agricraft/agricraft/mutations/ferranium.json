@@ -1,0 +1,6 @@
+{
+  "chance": 0,
+  "child": "agricraft:ferranium",
+  "parent1": "minecraft:melon",
+  "parent2": "minecraft:pumpkin"
+}

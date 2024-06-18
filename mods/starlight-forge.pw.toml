@@ -1,13 +1,13 @@
 name = "Starlight (Forge)"
-filename = "starlight-1.0.2+forge.546ae87.jar"
+filename = "starlight-1.1.2+forge.1cda73c.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7"
+hash = "a915880c7834a0b0f9f300f0e3053deaa9a3205a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3706539
+file-id = 4631193
 project-id = 526854

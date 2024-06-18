@@ -1,13 +1,13 @@
 name = "Finite Water"
-filename = "finitewater-1.18.2-0.1.1.jar"
+filename = "finitewater-1.20.1-0.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cdec821452d72c34916b26f46411a311c41663e4"
+hash = "3f37a774f2670a0f9065a488ec1b5a62eadd561f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4385493
+file-id = 5077993
 project-id = 821384

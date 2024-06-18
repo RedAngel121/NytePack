@@ -13,6 +13,7 @@
 #Packmakers' control panel for internal recipe compat
 [recipes]
 	#.
+	#.
 	#Allow the Mechanical Press to process entire stacks at a time.
 	bulkPressing = false
 	#.
@@ -60,6 +61,7 @@
 #.
 #Parameters and abilities of Create's kinetic mechanisms
 [kinetics]
+	#.
 	#.
 	#Disable the Stress mechanic altogether.
 	disableStress = false
@@ -180,6 +182,10 @@
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
 		movableObsidian = "UNMOVABLE"
 		#.
+		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
+		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
+		movableReinforcedDeepslate = "UNMOVABLE"
+		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
 		moveItemsToStorage = true
 		#.
@@ -232,6 +238,7 @@
 		#Fine tune the kinetic stats of individual components
 		[kinetics.stressValues.v2]
 
+			#.
 			#.
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
@@ -289,15 +296,16 @@
 			[kinetics.stressValues.v2.capacity]
 				copper_valve_handle = 8.0
 				hand_crank = 8.0
+				windmill_bearing = 512.0
 				steam_engine = 1024.0
 				creative_motor = 16384.0
 				large_water_wheel = 128.0
 				water_wheel = 32.0
-				windmill_bearing = 512.0
 
 #.
 #Create's liquid manipulation tools
 [fluids]
+	#.
 	#.
 	#[in Buckets]
 	#The amount of liquid a tank can hold per block.
@@ -342,6 +350,7 @@
 #Tweaks for logistical components
 [logistics]
 	#.
+	#.
 	#The amount of ticks a funnel waits between item transferrals, when it is not re-activated by redstone.
 	#Range: > 1
 	defaultExtractionTimer = 8
@@ -376,6 +385,7 @@
 #.
 #Everything related to Schematic tools
 [schematics]
+	#.
 	#.
 	#Whether placing a Schematic directly in Creative Mode should replace world blocks with Air
 	creativePrintIncludesAir = false
@@ -414,6 +424,7 @@
 #Equipment and gadgets added by Create
 [equipment]
 	#.
+	#.
 	#The Maximum Distance to an active mirror for the symmetry wand to trigger.
 	#Range: > 10
 	maxSymmetryWandRange = 50
@@ -445,6 +456,7 @@
 #.
 #Create's builtin Railway systems
 [trains]
+	#.
 	#.
 	#Whether moving Trains can hurt colliding mobs and players.
 	trainsCauseDamage = true

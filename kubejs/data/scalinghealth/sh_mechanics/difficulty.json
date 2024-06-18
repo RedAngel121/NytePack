@@ -1,7 +1,7 @@
 {
   "startingValue" : 0,
   "minValue" : 0,
-  "maxValue" : 65536,
+  "maxValue" : 10000,
   "changePerSecond" : 0,
   "mode" : {
     "type" : "distance",
@@ -13,17 +13,17 @@
   "groupBonusRadius" : 64,
   "idleMultiplier" : 1,
   "afkMessage" : false,
-  "timeBeforeAfk" : 300,
+  "timeBeforeAfk" : 30,
   "sleepWarningMessage": false,
   "multipliers" : {
     "lunarMultipliers" : [1.1, 1.075, 1.05, 1.0, 0.95, 1.0, 1.05, 1.075],
     "locationMultipliers" : [
       {
-        "scale" : 1.1,
+        "scale" : 1.25,
         "dimensions" : ["minecraft:the_nether"]
       },
       {
-        "scale" : 1.2,
+        "scale" : 1.5,
         "dimensions" : ["minecraft:the_end"]
       }
     ]
@@ -42,11 +42,11 @@
       },
       {
         "entities" : ["minecraft:wither"],
-        "onKilled" : "difficulty + 0.1"
+        "onKilled" : "difficulty"
       },
       {
         "entities" : ["minecraft:ender_dragon"],
-        "onKilled" : "difficulty + 1"
+        "onKilled" : "difficulty"
       }
     ]
   }

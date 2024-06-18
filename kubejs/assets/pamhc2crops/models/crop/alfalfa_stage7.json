@@ -1,0 +1,6 @@
+{
+  "parent": "agricraft:crop/crop_hash",
+  "textures": {
+    "crop": "pamhc2crops:block/alfalfa_stage_3"
+  }
+}

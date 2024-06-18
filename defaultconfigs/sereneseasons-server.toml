@@ -36,3 +36,69 @@
 	#Biomes which use tropical seasons.
 	tropical_biomes = ["minecraft:swamp", "minecraft:warm_ocean"]
 
+[melting_settings]
+
+	#The melting settings for snow and ice in each season. The game must be restarted for these to apply.
+	#melt_percent is the 0-1 percentage chance a snow or ice block will melt when chosen. (e.g. 100.0 = 100%, 50.0 = 50%)
+	#rolls is the number of blocks randomly picked in each chunk, each tick. (High number rolls is not recommended on servers)
+	#rolls should be 0 if blocks should not melt in that season.
+	[[melting_settings.season_melt_chances]]
+		season = "EARLY_WINTER"
+		melt_percent = 0.0
+		rolls = 0
+
+	[[melting_settings.season_melt_chances]]
+		season = "MID_WINTER"
+		melt_percent = 0.0
+		rolls = 0
+
+	[[melting_settings.season_melt_chances]]
+		season = "LATE_WINTER"
+		melt_percent = 0.0
+		rolls = 0
+
+	[[melting_settings.season_melt_chances]]
+		season = "EARLY_SPRING"
+		melt_percent = 6.25
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "MID_SPRING"
+		melt_percent = 8.33
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "LATE_SPRING"
+		melt_percent = 12.5
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "EARLY_SUMMER"
+		melt_percent = 25.0
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "MID_SUMMER"
+		melt_percent = 25.0
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "LATE_SUMMER"
+		melt_percent = 25.0
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "EARLY_AUTUMN"
+		melt_percent = 12.5
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "MID_AUTUMN"
+		melt_percent = 8.33
+		rolls = 1
+
+	[[melting_settings.season_melt_chances]]
+		season = "LATE_AUTUMN"
+		melt_percent = 6.25
+		rolls = 1
+
