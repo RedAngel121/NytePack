@@ -86,7 +86,7 @@ hash = "45c0c406ae95c9629b6ff522594a5037e43385eb8bf90d867fb228267fa0e5da"
 
 [[files]]
 file = "config/lightmanscurrency-common.lcconfig"
-hash = "c1f7695b0040482bfef56877a4cb39bfd66217079e53b1189ad2f2550c368fa7"
+hash = "2ffb1149bea1b19bf688c73dc486d9183ed70fb0d2589c5470e0c53e39f8e8c6"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
