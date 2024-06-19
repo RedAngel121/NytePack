@@ -23,7 +23,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Immersive Aircraft
 - Lightmans Currency
 - Little Logistics
-- Mana & Artiface
 - Open Parties and Claims
 - Pams Harvestcraft 2
 - Silent Gear
@@ -56,7 +55,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 ## Update to 1.20.1 in June 2024
 ### New Additions
-- Find a Bow and arrow Mod that makes bows useful at high level
+- Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
 - Mechano? (Unreleased Mod Still Under Heavy Development)
 
 # Balance is Key! Check These Out:
@@ -106,15 +105,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Mekanism (is most likely not included because its too streamlined and technically advanced and would need heavy edits to function the way we want)
 
 # Additional Mod/Config Changes:
-- Quark
-  - Blacklist Soph Chests from Sorting buttons as they have built in sorting
-  - Disable Quark's Backpack and other inventory expansion options
-  - [DynTrees compat required when it's available](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark)
-- Connected Textures do not work with Framed Blocks... replace with Copycats Plus?
-  - CT does not work with Framed Blocks in 1.18.2: frame blocks register CT but not with each other or orig block
-  - Same but backwards in 1.20.1: frame blocks do not register CT even though orig block registers and connects correctly to framed
 - Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
-- Investigate Glassential functional glass blocks
 - Investigate Sophisticated Storage settings or disable some upgrades
 - Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
 - Apotheosis disable armor drops from every mob, adjust settings?
