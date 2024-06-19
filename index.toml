@@ -4706,7 +4706,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "9fddc0bb8802b3e7d0bec5632400ddaa3d2ac8f87e6b08fa59315d578de27934"
+hash = "b625eb6f14738be16b98cef675a9639458781bfbf40c28f7d3da473d0cda84f3"
 metafile = true
 
 [[files]]
@@ -5146,7 +5146,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "4da28b4b3c88e4d84c485da2ca76c41df512282fb3d4a5d0425fa9446a48f0e3"
+hash = "14980cc4c6b0726ebe83af198c39bd592e20d75e9bca2f01307ceff0a17b59f8"
 metafile = true
 
 [[files]]
