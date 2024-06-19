@@ -1,6 +1,5 @@
 name = "NytePack"
 author = "RedAngel121"
-version = "1"
 pack-format = "packwiz:1.1.0"
 
 [index]
