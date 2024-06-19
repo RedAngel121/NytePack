@@ -1,0 +1,13 @@
+name = "Yung Structures Addon for Loot Integrations"
+filename = "lootintegrationaddonyung-1.18-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c55c76dc28fe951ca961ce50889b4f20d94519cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5309771
+project-id = 1012211
