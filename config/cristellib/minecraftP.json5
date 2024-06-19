@@ -53,7 +53,7 @@ KEEP IN MIND THAT SPACING ALWAYS NEEDS TO BE HIGHER THAN SEPARATION.
 	},
 	"nether_complexes": {
 		"spacing": 27,
-		"separation": 4,
+		"separation": 10,
 		"salt": 30084232
 	},
 	"ocean_monuments": {

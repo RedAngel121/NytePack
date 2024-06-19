@@ -70,7 +70,7 @@ hash = "cc058244906dfb6b0afc6c9655590e76df141dd1991ca3c68ad39684aa4331d7"
 
 [[files]]
 file = "config/cristellib/minecraftP.json5"
-hash = "7b01957279c4c8f92715115b11061ae7aa558e2a2fee6ef33f58a4bc4d8bcaf1"
+hash = "8e7146a99be233f5c695daa39e83bc19f34b2e1629c940134ccd148ac2d0026a"
 
 [[files]]
 file = "config/davespotioneering-client.toml"
@@ -86,7 +86,7 @@ hash = "45c0c406ae95c9629b6ff522594a5037e43385eb8bf90d867fb228267fa0e5da"
 
 [[files]]
 file = "config/lightmanscurrency-common.lcconfig"
-hash = "2ffb1149bea1b19bf688c73dc486d9183ed70fb0d2589c5470e0c53e39f8e8c6"
+hash = "da23f40be56c05d5ad201fef6fc2ff2b06c708794a2f2e86855ff268fb018a81"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
