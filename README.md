@@ -169,3 +169,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ### Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
 - Then start the minecraft dedicated server using the premade server script
+
+possible default seeds:
+-2788073536708642139

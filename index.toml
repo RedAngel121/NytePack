@@ -4841,6 +4841,11 @@ hash = "5f3e6e9b3941cc713d098b4c7efcccb162ba4797009202a95eb08e471427fca8"
 metafile = true
 
 [[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "ab3457be92e9835f4063fe5ad75bb49658680702f3d47278cdeb43e16a1ca800"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "ec1e75e28d448fba354039b37470565e9c2aefc63fde1852904c38af0b4b2136"
 metafile = true
