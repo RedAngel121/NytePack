@@ -81,10 +81,6 @@ file = "config/immersive_aircraft.json"
 hash = "d62b68882c06aa471ed93f1ff3504a92499ecc0996b8730e408a707c96861cfb"
 
 [[files]]
-file = "config/lightmanscurrency-client.lcconfig"
-hash = "45c0c406ae95c9629b6ff522594a5037e43385eb8bf90d867fb228267fa0e5da"
-
-[[files]]
 file = "config/lightmanscurrency-common.lcconfig"
 hash = "da23f40be56c05d5ad201fef6fc2ff2b06c708794a2f2e86855ff268fb018a81"
 
