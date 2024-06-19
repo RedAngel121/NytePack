@@ -44,7 +44,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 ## More Immediate Settings and Changes
 1. We need to dive into Vein Mining Enchant configs (and by extension Farming options) to determine how Vein Mining is actually going to affect the player hunger and tool durability.
-2. Right now we have EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff
+2. Right now we want EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff
 3. "Ore Factories" will have different ways of processing ore per type:
   - More complex ore processing will yield better results
     - Initial layout will be one raw chunk of ore in a furnace makes a nugget
@@ -55,14 +55,13 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - What options do we have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
 
 ## Update to 1.20.1 in June 2024
-- ReAdd Agricraft ASAP
-
 ### New Additions
+- Find a Bow and arrow Mod that makes bows useful at high level
 - Mechano? (Unreleased Mod Still Under Heavy Development)
 
 # Balance is Key! Check These Out:
 ### QOL:
-- [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
+- None at this time
 
 ### Mods:
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) compat can be added for air compressing items
