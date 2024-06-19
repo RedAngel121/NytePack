@@ -94,7 +94,7 @@ hash = "ce5e84a9375edb39194fd073c5a886258723f8051d80a7464fef5b20b2442644"
 
 [[files]]
 file = "config/lightmanscurrency/MasterCoinList.json"
-hash = "da63b1fae6440f5054433379e07331db629cded0eae3f96ff54ba12da0d792f2"
+hash = "30c3bf0269badd9371ecd588d1b6455666ceeced976ddb93d61c4ff89d774051"
 
 [[files]]
 file = "config/philips-ruins-common-configs.toml"

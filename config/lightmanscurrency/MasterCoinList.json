@@ -1,30 +1,6 @@
 {
   "Chains": [
     {
-      "chain": "emeralds",
-      "name": {
-        "translate": "lightmanscurrency.money.chain.emeralds"
-      },
-      "displayType": "lightmanscurrency:number",
-      "displayFormat": {
-        "translate": "lightmanscurrency.money.chain.emeralds.display"
-      },
-      "displayFormatWordy": {
-        "translate": "lightmanscurrency.money.chain.emeralds.display.wordy"
-      },
-      "InputType": "DEFAULT",
-      "CoreChain": [
-        {
-          "Coin": "minecraft:emerald",
-          "baseUnit": true
-        },
-        {
-          "Coin": "minecraft:emerald_block",
-          "exchangeRate": 9
-        }
-      ]
-    },
-    {
       "chain": "main",
       "name": {
         "translate": "lightmanscurrency.money.chain.main"
