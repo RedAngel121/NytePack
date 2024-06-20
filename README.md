@@ -49,24 +49,23 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
     - Initial layout will be one raw chunk of ore in a furnace makes a nugget
     - One raw ore chunk in create mixer makes multiple nuggets
   - Mekanism (not included) is a good example of this
-4. We need to talk about Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency.
+4. We need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency.
   - How does this factor into Starting Cash? Mob Cash Drops? Chest Loot? Taxes? and other options?
   - What options do we have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
 
 ## Update to 1.20.1 in June 2024
 ### New Additions
 - Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
-- Mechano? (Unreleased Mod Still Under Heavy Development)
+- Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
 
 # Balance is Key! Check These Out:
 ### QOL:
 - None at this time
 
 ### Mods:
-- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) compat can be added for air compressing items
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
-- [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals): maybe add this to force travel by spaceship/stargate? (nether/end excluded?)
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
   - Progression beyond steel/netherite and we make other planets actually useful
   - Awating 7.0 update and maybe even avoiding depeding on whats included (July 2024?)
@@ -80,7 +79,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ### QOL:
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu): Lots of work
 - [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Lots of work
-- [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat): Possible Server Overhead/Network Cap issues
 
 ### Mods:
 - [Create Interactive](https://www.curseforge.com/minecraft/mc-mods/create-interactive): probably not happening due to possible performance/compat issues, will test later
