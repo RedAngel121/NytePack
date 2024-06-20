@@ -4791,6 +4791,11 @@ hash = "d57e612098aa7e78a6ab0e2d6ddfca93236fa0244448bb5bc8460c84589960a8"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-terralith.pw.toml"
+hash = "f1353799a3c4046c6e81c3cc42cf1d0693ac137e5f2a4c69d2a7aa2b7782fb18"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "e4a5d71ffd925290804ba8f74fb831c078fe58af47d68f54283f6bb073d33f96"
 metafile = true
@@ -5198,6 +5203,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "754176cbcf3ba7a1a4a0b4f818121e3baa3aa264ee5cb861da6842e7586c33b0"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]

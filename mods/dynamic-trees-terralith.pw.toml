@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Terralith"
+filename = "DynamicTreesTerralith-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caa142686405359996ba4d14ff6c1faa4c6ead80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5442509
+project-id = 852886

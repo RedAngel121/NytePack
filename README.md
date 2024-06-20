@@ -93,7 +93,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [Burning Furnace](https://www.curseforge.com/minecraft/mc-mods/burning-furnace): making furnaces more dangerous
 
 ### World:
-- [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith): slow chunk generation issues and needs [DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terralith)
 - [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker):
   - Not something I want personally, but how far outside the realm of the pack is it really?
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden):
