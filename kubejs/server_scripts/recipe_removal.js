@@ -52,6 +52,11 @@ ServerEvents.recipes(event => {
         { id: "createdeco:industrial_iron_coinstack" },
         { id: "createdeco:zinc_coin" },
         { id: "createdeco:pressing/coins/zinc_coin" },
-        { id: "createdeco:zinc_coinstack" }
+        { id: "createdeco:zinc_coinstack" },
+        { id: "scalinghealth:heart_crystal" },
+        { id: "scalinghealth:heart_dust" },
+        { id: "scalinghealth:power_crystal" },
+        { id: "scalinghealth:bandages" },
+        { id: "scalinghealth:medkit" },
     ]);
 })

@@ -37,9 +37,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 1. No Easy Teleporting items or players (CoRail's Death Key Exception and Stargates)
 2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exceptions or similar item specific inv spaces)
 3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary Travel? what about Stargates?)
-4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity and semi-realism
+4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage, production, and transfer, will be handled in world and not by items on the player (to the best of ability)
-6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not jetpacks or similar (apoth excluded)
+6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items I.E. jetpacks (apoth excluded)
 
 ## More Immediate Settings and Changes
 1. We need to dive into Vein Mining Enchant configs (and by extension Farming options) to determine how Vein Mining is actually going to affect the player hunger and tool durability.
@@ -63,9 +63,10 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - None at this time
 
 ### Mods:
+- Find replacement for Geolosys
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
-- [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff
+- [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff or adjust it
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
   - Progression beyond steel/netherite and we make other planets actually useful
   - Awating 7.0 update and maybe even avoiding depeding on whats included (July 2024?)
@@ -81,8 +82,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Lots of work
 
 ### Mods:
+- Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [Create Interactive](https://www.curseforge.com/minecraft/mc-mods/create-interactive): probably not happening due to possible performance/compat issues, will test later
-- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled/tuned
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): lots of problems with this that im not super intersted in fine tuning yet
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts): possible compat issues with Serene Seasons?
 - [Nightmare Epic Siege](https://www.curseforge.com/minecraft/mc-mods/nightmareesm): Disable 90% of the mod: Most things are not ok but more intelligent mobs could be interesting
@@ -92,63 +94,43 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 ### World:
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith): slow chunk generation issues and needs [DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terralith)
-- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker): not available for 1.18
-- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
-  - Not something i want personally, but how far outside the realm of the pack is it really?
-  - Maybe we could turn it into a planet instead of a portal for use with Beyond Earth?
+- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker):
+  - Not something I want personally, but how far outside the realm of the pack is it really?
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden):
+  - Not something I want personally, but how far outside the realm of the pack is it really?
 
 # Hard No:
 - Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
-- Lootr (will not be added as it floods the market with items)
+- Lootr (will not be added as it floods the market with items/loot)
 - Mekanism (is most likely not included because its too streamlined and technically advanced and would need heavy edits to function the way we want)
 
 # Additional Mod/Config Changes:
 - Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
 - Investigate Sophisticated Storage settings or disable some upgrades
 - Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-- Apotheosis disable armor drops from every mob, adjust settings?
 - Adjust the corail tombstone config as needed
-- CC Tweaked: TURN OFF THE TURTLES! (i think i got this one... idk yet)
-- Toolbelt Blacklist editing?
-- Fix Starter Kit to include things players should have day one... currency? What other items tho?
-- Find replacement for Geolosys
-- Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- Farming for Blockheads
-  - Disable the Market
-  - Check everything else to make sure it doesnt break the spirit of the pack
+- Toolbelt Blacklist Options
 - Lightmans Currency
   - Figure out how taxes are going to work
   - Claim Purchasing options
-  - Finish the LC configs later
 - Immersive Aircraft
   - Better integration with alternative tech and crafting recipes
-  - Possible steel aircraft industry?
 - Philip's Ruins
   - Increase Distance Between Ruins
-  - Remove MiniBoss Ruins?
 - Create Mod Possible Issues:
-  - Mechanical Drill, makes things too easy, slow down or disable ore drilling?
-  - Hose Pulley makes the nether an infinite lava source (do we care? its no different than Overworld oceans...)
+  - Mechanical Drill makes things too easy, slow down or disable ore drilling? (only if Geolosys replacement can be added)
 - Adjust Scaling Health Mod:
-  - Set max health limits higher or unlimited
   - Remove the crafting items or change the recipies
-  - Set "Health From XP" to amount of XP points instead of XP levels
   - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
-- Create Deco
-  - Disable coins to prevent confusion
 - Gateways to Eternity
   - Add an absolute metric ton of gateways *cause thats going to be fun*
   - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
 - Baubley Heart Canisters
   - Heart cans need to be added to purchasable items from server vending machines (red = 2 / yellow = 4 / green = 8 / blue = 16)
-- Mana and Artiface
-  - Check into symbols and spells and see what can be used to make OP spells
-  - Increase distance slightly between caches (structures world gen)
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
-- Agricraft disable "Missing JSON Gen" (L13)
-- Remove World Edit Mods and other Admin only mods
+- Remove World Stripper and other Admin only mods
 - Sort out Server vs Client side mods
 - Edit the Server Startup Script to allow packwiz management
 - Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in server configs)
@@ -156,6 +138,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 ### Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
+- For use on servers, add the `-g` flag to disable the GUI and `-s server` to download only server-side mods.
 - Then start the minecraft dedicated server using the premade server script
 
 possible default seeds:

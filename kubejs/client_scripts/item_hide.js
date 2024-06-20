@@ -33,4 +33,18 @@ JEIEvents.hideItems(event => {
     event.hide("createdeco:industrial_iron_coinstack"),
     event.hide("createdeco:zinc_coin"),
     event.hide("createdeco:zinc_coinstack")
+    event.hide("scalinghealth:deepslate_heart_crystal_ore"),
+    event.hide("scalinghealth:deepslate_power_crystal_ore"),
+    event.hide("scalinghealth:heart_crystal_ore"),
+    event.hide("scalinghealth:power_crystal_ore"),
+    event.hide("scalinghealth:heart_crystal_shard"),
+    event.hide("scalinghealth:power_crystal_shard"),
+    event.hide("scalinghealth:heart_crystal"),
+    event.hide("scalinghealth:power_crystal"),
+    event.hide("scalinghealth:heart_dust"),
+    event.hide("scalinghealth:bandages"),
+    event.hide("scalinghealth:medkit"),
+    event.hide("scalinghealth:cursed_heart"),
+    event.hide("scalinghealth:enchanted_heart"),
+    event.hide("scalinghealth:chance_heart")
 })

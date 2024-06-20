@@ -3742,7 +3742,7 @@ hash = "e568fb50d0aa311dfe7939b72e5c84592b16ac13fdad26818c7a5d6ca5da6602"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "3524d7ad053fe55c7a6691bbdf8843d5b0dd93383297f48b7651273dbc366b22"
+hash = "d53a8fb63d25d00be58c5bfad557dd5854015ee2489226d26d68c620fafb2495"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/ferranium.json"
@@ -4574,11 +4574,11 @@ hash = "d6bb007d44ab9567c7f2c39bc8ca54fc7e7a2e5fd87818830d42cd953882f32a"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
-hash = "312ce236f43afe02c2e4be6765a2f93496335171d38e0041ddde1aff18fd1c1d"
+hash = "2069445cc7e70048efff5ef249e3e5775ecbb208098e61488384303c8fa079be"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "92add219e581d4be42dbe77d9b42bdab2d165bbf1233b1cb4b630f00abc6b467"
+hash = "bcd0afeae0c577e701c3ba82fae92ab2457238a9d0829173295d53117406130b"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -5007,7 +5007,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "719d6289c5c0a0ada27b685b5ec099a8d6a7c3dd41e167eb2bd28ac8d7ff4e40"
+hash = "40937a4740d823c55cfb62505c8ced0dcc3cf35bc8b86465b48f5d799b69a340"
 metafile = true
 
 [[files]]
@@ -5111,11 +5111,6 @@ hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "561dd511de15a2a35535bad21196df592095f1405ec84456b6db74ae0881a3a6"
-metafile = true
-
-[[files]]
 file = "mods/ruins.pw.toml"
 hash = "161455ee9660744a94dbfa5a853d68c7ce12482590e9e2876c2f5c6754efc914"
 metafile = true
@@ -5202,7 +5197,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "a943b190ae8648304ae8f33c139ee59a0f90f2f30c997e4fcb4f246aed4f9a0a"
+hash = "754176cbcf3ba7a1a4a0b4f818121e3baa3aa264ee5cb861da6842e7586c33b0"
 metafile = true
 
 [[files]]
@@ -5243,11 +5238,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
-metafile = true
-
-[[files]]
-file = "mods/world-stripper.pw.toml"
-hash = "db4d7932bbf2afd7d8d74fc0c3ebdcec9fa330c02f573cf9fc7468bf09c8bf93"
 metafile = true
 
 [[files]]
