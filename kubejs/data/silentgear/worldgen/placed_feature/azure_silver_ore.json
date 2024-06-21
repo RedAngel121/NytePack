@@ -1,0 +1,39 @@
+{
+  "feature": "silentgear:azure_silver_ore",
+  "placement": [
+    {
+      "count": {
+        "type": "minecraft:weighted_list",
+        "distribution": [
+          {
+            "weight": 875,
+            "data": 0
+          },
+          {
+            "weight": 125,
+            "data": 1
+          }
+        ]
+      },
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 92
+        },
+        "min_inclusive": {
+          "absolute": 16
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

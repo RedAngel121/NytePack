@@ -3762,11 +3762,11 @@ hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
-hash = "d66216918fd9807d8725e0186f1fd8d511884715633c85d5964da45b9ac7402a"
+hash = "d31d5ffa1fd8ecda6a0aa438219059f6000eb8385f0b0fc4704493921e5b8283"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_small.json"
-hash = "ebf61e21b6f69b0c0cd6e2b1f2cecd62415c767fe8742de971f4472db65a5b99"
+hash = "d66216918fd9807d8725e0186f1fd8d511884715633c85d5964da45b9ac7402a"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_coal.json"
@@ -4757,6 +4757,30 @@ file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
 hash = "2069445cc7e70048efff5ef249e3e5775ecbb208098e61488384303c8fa079be"
 
 [[files]]
+file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
+hash = "745a770fa0ca8946e6eb3b6a28baa07ddcfcfbfb504e13ab686f777c93bc1c59"
+
+[[files]]
+file = "kubejs/data/silentgear/worldgen/configured_feature/bort_ore.json"
+hash = "42bb5dca7fa82a0b23adce556ef2bab704b718db185ea72b94c56f1997e271c7"
+
+[[files]]
+file = "kubejs/data/silentgear/worldgen/configured_feature/crimson_iron_ore.json"
+hash = "8d6f2a560ff6b90f24b04bb91a62cd394bb37aae847dd204aea9d1a2505748ce"
+
+[[files]]
+file = "kubejs/data/silentgear/worldgen/placed_feature/azure_silver_ore.json"
+hash = "d31e362d1bc291d66b6464d8bdd3285acb25f804a9c792b1d2b6a65edc02a3d7"
+
+[[files]]
+file = "kubejs/data/silentgear/worldgen/placed_feature/bort_ore.json"
+hash = "466fc111eef46b2703a5645c64f781dbf63e9553ba74f75d73a6d80525c0dcb3"
+
+[[files]]
+file = "kubejs/data/silentgear/worldgen/placed_feature/crimson_iron_ore.json"
+hash = "49c534a7b23ccfeef589db9ee07a47b7557d9fbc3c62dfdb4f01b3a8489e60fd"
+
+[[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
 hash = "bcd0afeae0c577e701c3ba82fae92ab2457238a9d0829173295d53117406130b"
 
@@ -4822,7 +4846,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "f88c85bc1b56127f3c6bb2c07dc2f27c566d3a312191e030173fd11c1c473b46"
+hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
 
 [[files]]
@@ -5107,7 +5131,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "3036c1d17c0ec750c48e97813c51b20b503ba7c5284946f89bb3d34aa5201142"
+hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
 metafile = true
 
 [[files]]
@@ -5143,11 +5167,6 @@ metafile = true
 [[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations.pw.toml"
-hash = "d9eb4b00cb9dbf32c6ab202bcfaac537d1846c8a2bc97d50ad8bfb49e06e42bb"
 metafile = true
 
 [[files]]
@@ -5448,11 +5467,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e9d60c8dd6456b72a8c7b10b052c8945d8904edf070b35d2ca67b9d83d1b2158"
-metafile = true
-
-[[files]]
-file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
-hash = "fc7b6d2384c6e0b3c133677f7f9dde6acb74f74c05299cf3f66a9ebd8507b02d"
 metafile = true
 
 [[files]]

@@ -130,4 +130,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 possible default seeds:
 -2788073536708642139
 
-Modify Incendium Ore Generation?
+Modify Ore Gen:
+- Silent Gear
+- Incendium
