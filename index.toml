@@ -4682,7 +4682,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "6b690f3bc815149cc5c0fd03a98ac9b19cb62a9cbdc3b9aa0f8fca3321a3a07b"
+hash = "622618762994a583312da6a35f4bdbf7ab9d69b5b7080b6875e9479a85a68ef9"
 metafile = true
 
 [[files]]
@@ -4713,6 +4713,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "b612a6b66dc537d6f151c23a96f9049bbe3910d675c599baf852e6b72289f09f"
 metafile = true
 
 [[files]]

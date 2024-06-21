@@ -17,7 +17,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Construction Wand
 - Cooking and Farming for Blockheads
 - Corail Tombstone
-- Create
+- Create C&A
 - Create: TFMG
 - Dynamic Trees
 - Immersive Aircraft
@@ -27,14 +27,14 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Pams Harvestcraft 2
 - Silent Gear
 - Sophisticated Storage
-- Tectonic
+- Terralith & Tectonic
 - Toms Storage
 - Tool Belt
 - And More!
 
 # ~ BUILD TEAM NOTES ~
 ## Pack Build Rules are as follows:
-1. No Easy Teleporting items or players (CoRail's Death Key Exception and Stargates)
+1. No Easy Teleporting items or players (Stargates Exception)
 2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exceptions or similar item specific inv spaces)
 3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary Travel? what about Stargates?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
@@ -63,15 +63,11 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - None at this time
 
 ### Mods:
-- Find replacement for Geolosys
+- Find replacement for Geolosys?
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
   - [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff or adjust it
-- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
-  - Progression beyond steel/netherite and we make other planets actually useful
-  - Awating 7.0 update and maybe even avoiding depeding on whats included (July 2024?)
 - [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): check for Ore Gen and see whats not compatable
-- [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected): should be fine but still look at it first
 
 ### World:
 - None at this time
@@ -83,6 +79,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 ### Mods:
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
+- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
+  - Progression beyond steel/netherite and we make other planets actually useful
+  - Awating 7.0 update and maybe even avoiding depeding on whats included (July 2024?)
 - [Create Interactive](https://www.curseforge.com/minecraft/mc-mods/create-interactive): probably not happening due to possible performance/compat issues, will test later
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled/tuned
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): lots of problems with this that im not super intersted in fine tuning yet
@@ -94,9 +93,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 ### World:
 - [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker):
-  - Not something I want personally, but how far outside the realm of the pack is it really?
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden):
-  - Not something I want personally, but how far outside the realm of the pack is it really?
 
 # Hard No:
 - Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
@@ -106,20 +103,16 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # Additional Mod/Config Changes:
 - Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
 - Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-- Adjust the corail tombstone config as needed
+- Adjust the corail tombstone config as needed (disable death key or find a better tombstone system)
 - Toolbelt Blacklist Options
-- Lightmans Currency
-  - Claim Purchasing options and force loads
-- Immersive Aircraft
-  - Recipe Integration with alternative tech mods
+- Lightmans Currency Claim Purchasing options and force loads
+- Immersive Aircraft Recipe Integration with alternative tech mods
 - Philip's Ruins Needs Increased Distance Between Ruins
-- Create Mod Possible Issues:
-  - Mechanical Drill makes things too easy, slow down or disable ore drilling? (only if Geolosys replacement can be added)
+- Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling? (only if Geolosys replacement can be added)
+- Baubley Heart Canisters need to be added to purchasable items from server vending machines using unique tokens (red = 2 / yellow = 4 / green = 8 / blue = 16)
 - Gateways to Eternity
   - Add an absolute metric ton of gateways *cause thats going to be fun*
   - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
-- Baubley Heart Canisters
-  - Heart cans need to be added to purchasable items from server vending machines (red = 2 tickets / yellow = 4 / green = 8 / blue = 16)
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
