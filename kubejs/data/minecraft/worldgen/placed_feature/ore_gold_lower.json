@@ -1,0 +1,39 @@
+{
+  "feature": "minecraft:ore_gold_buried",
+  "placement": [
+    {
+      "count": {
+          "type": "minecraft:weighted_list",
+          "distribution": [
+              {
+                  "weight": 85,
+                  "data": 0
+              },
+              {
+                  "weight": 15,
+                  "data": 2
+              }
+          ]
+      },
+      "type": "minecraft:count"
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": -48
+        },
+        "min_inclusive": {
+          "absolute": -64
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
