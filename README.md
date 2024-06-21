@@ -108,7 +108,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Lightmans Currency Claim Purchasing options and force loads
 - Immersive Aircraft Recipe Integration with alternative tech mods
 - Philip's Ruins Needs Increased Distance Between Ruins
-- Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling? (only if Geolosys replacement can be added)
+- Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - Baubley Heart Canisters need to be added to purchasable items from server vending machines using unique tokens (red = 2 / yellow = 4 / green = 8 / blue = 16)
 - Gateways to Eternity
   - Add an absolute metric ton of gateways *cause thats going to be fun*
@@ -129,3 +129,5 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 possible default seeds:
 -2788073536708642139
+
+Modify Incendium Ore Generation?

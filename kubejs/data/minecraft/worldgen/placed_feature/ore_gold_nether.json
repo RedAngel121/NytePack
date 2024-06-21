@@ -2,11 +2,20 @@
   "feature": "minecraft:ore_nether_gold",
   "placement": [
     {
-      "type": "minecraft:count",
-      "count": 3
-    },
-    {
-      "type": "minecraft:in_square"
+      "count": {
+        "type": "minecraft:weighted_list",
+        "distribution": [
+          {
+            "weight": 875,
+            "data": 0
+          },
+          {
+            "weight": 125,
+            "data": 1
+          }
+        ]
+      },
+      "type": "minecraft:count"
     },
     {
       "type": "minecraft:height_range",
