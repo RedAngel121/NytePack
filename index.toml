@@ -146,11 +146,11 @@ hash = "54a5c264d34d40cfe05a8c7a2e0c5a5840fac225f84b76c689fdb58251c98c93"
 
 [[files]]
 file = "config/staaaaaaaaaaaack-common.toml"
-hash = "5decf87990c732b7e4966349f4743c99704f35cb209f83e1059afa95eeb86cde"
+hash = "5d345109a2490d838879d530014fa248f4c90f4b321409b582204be36d0b5068"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "07b0a932a91d03df079388b7a98c7c8fc96f76c09dd8f6180a6d96be2902610e"
+hash = "7c363801bcd165f1e7e64ed4820ebf7c68793c8ac86d9ebfc99d053f521d3de9"
 
 [[files]]
 file = "config/toastcontrol-common.toml"

@@ -46,8 +46,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 2. Right now we want EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff
 3. "Ore Factories" will have different ways of processing ore per type:
   - More complex ore processing will yield better results
-    - Initial layout will be one raw chunk of ore in a furnace makes a nugget
-    - One raw ore chunk in create mixer makes multiple nuggets
+  - Initial layout will be one raw chunk of ore in a furnace makes a nugget
+  - One raw ore chunk in create mixer makes multiple nuggets
   - Mekanism (not included) is a good example of this
 4. We need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency.
   - How does this factor into Starting Cash? Mob Cash Drops? Chest Loot? Taxes? and other options?
@@ -105,32 +105,26 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 # Additional Mod/Config Changes:
 - Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
-- Investigate Sophisticated Storage settings or disable some upgrades
 - Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
 - Adjust the corail tombstone config as needed
 - Toolbelt Blacklist Options
 - Lightmans Currency
-  - Figure out how taxes are going to work
-  - Claim Purchasing options
+  - Claim Purchasing options and force loads
 - Immersive Aircraft
-  - Better integration with alternative tech and crafting recipes
-- Philip's Ruins
-  - Increase Distance Between Ruins
+  - Recipe Integration with alternative tech mods
+- Philip's Ruins Needs Increased Distance Between Ruins
 - Create Mod Possible Issues:
   - Mechanical Drill makes things too easy, slow down or disable ore drilling? (only if Geolosys replacement can be added)
-- Adjust Scaling Health Mod:
-  - Remove the crafting items or change the recipies
-  - Use https://github.com/SilentChaos512/ScalingHealth/wiki/Making-a-datapack
 - Gateways to Eternity
   - Add an absolute metric ton of gateways *cause thats going to be fun*
   - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
 - Baubley Heart Canisters
-  - Heart cans need to be added to purchasable items from server vending machines (red = 2 / yellow = 4 / green = 8 / blue = 16)
+  - Heart cans need to be added to purchasable items from server vending machines (red = 2 tickets / yellow = 4 / green = 8 / blue = 16)
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
 - Remove World Stripper and other Admin only mods
-- Sort out Server vs Client side mods
+- Sort out Server vs Client side only mods
 - Edit the Server Startup Script to allow packwiz management
 - Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in server configs)
 - Change Sleep % to 0
