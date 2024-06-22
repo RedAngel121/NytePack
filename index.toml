@@ -157,14 +157,6 @@ file = "config/toastcontrol-common.toml"
 hash = "3c15c409da635f5759b6e51cf6a287d5ca9b85fd7d1d58056840f6bfd3fe90db"
 
 [[files]]
-file = "config/tombstone-common.toml"
-hash = "16a6a93ad65d84f4dc049e53b81207725579467acf6732ff6647d14914a7b93b"
-
-[[files]]
-file = "config/tombstone-server.toml"
-hash = "ebcc388ae395bc6c0f54e9ef663449cf66451fa9bb0410e3070e576873a8e623"
-
-[[files]]
 file = "config/toolbelt-client.toml"
 hash = "d54cc925f9d5d87171433b80a30f79996a9c16365f9e679c43be9495758d8104"
 
@@ -4910,11 +4902,6 @@ hash = "b625eb6f14738be16b98cef675a9639458781bfbf40c28f7d3da473d0cda84f3"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "fb19dba7ae5cfd7112887cbd7fda913a4facfabf5e3ecb0a4db6f81641ac09e5"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
 metafile = true
@@ -5077,6 +5064,11 @@ metafile = true
 [[files]]
 file = "mods/glassential.pw.toml"
 hash = "514ed93e4ce1fdabbfdb6203dadf8c16b420c2331f72512417a728b230a7348a"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "941bbc3b5a23b8392d88b534a7fa1973273c3daa6f8fb70bfe4d4645423a2159"
 metafile = true
 
 [[files]]

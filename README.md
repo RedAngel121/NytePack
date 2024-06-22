@@ -15,8 +15,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Apotheosis
 - Chipped
 - Construction Wand
-- Cooking and Farming for Blockheads
-- Corail Tombstone
+- Cooking for Blockheads
 - Create C&A
 - Create: TFMG
 - Dynamic Trees
@@ -55,7 +54,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
     - Starting Cash? 5i
     - Mob Cash Drops? deep dive
     - Chest Loot? mostly fixed
-    - Taxes? meh...
+    - Taxes? nah...
   - What options do I have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
 
 ### New Additions and Changes
@@ -66,7 +65,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - wtf coal biome?! its fungal caves so fix that
   - Terralith (deep dive) (coal biome?!?!)
   - Incendium (deep dive)
-  - Emeralds (missing files)
+  - Emeralds (missing editable files / do they really need to be changed? / check recipes for crafting requirements)
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -113,7 +112,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # Additional Mod/Config Changes:
 - Investigate Create: Steam and Rails for stuff I dont want like phantom rails/bogies
 - Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-- Adjust the corail tombstone config as needed (disable death key or find a better tombstone system)
 - Toolbelt Blacklist Options
 - Lightmans Currency Claim Purchasing options and force loads
 - Immersive Aircraft Recipe Integration with alternative tech mods
