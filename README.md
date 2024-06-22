@@ -8,7 +8,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - No, I'm not helping you if something breaks, I'm probably working on a problem
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
 - Requires Prism Launcher or AT Launcher to play, ***CurseForge and Microsoft are not compatable.***
-- Once a public server is ready we will be making an announcement in the Discord
+- Once a public server is ready I will be making an announcement in the Discord
 
 # Important Mods List:
 - Agricraft
@@ -36,27 +36,37 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ## Pack Build Rules are as follows:
 1. No Easy Teleporting items or players (Stargates Exception)
 2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exceptions or similar item specific inv spaces)
-3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary Travel? what about Stargates?)
+3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Travel/Stargates)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage, production, and transfer, will be handled in world and not by items on the player (to the best of ability)
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items I.E. jetpacks (apoth excluded)
 
 ## More Immediate Settings and Changes
-1. We need to dive into Vein Mining Enchant configs (and by extension Farming options) to determine how Vein Mining is actually going to affect the player hunger and tool durability.
-2. Right now we want EXTREMELY large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff
+1. I need to dive into Vein Mining Enchant configs (and by extension Farming options) to determine how Vein Mining is actually going to affect the player hunger and tool durability.
+2. Right now I have large veins sparsely placed in the world, no other ore gen exists other than Create's world gen stuff
 3. "Ore Factories" will have different ways of processing ore per type:
-  - More complex ore processing will yield better results
   - Initial layout will be one raw chunk of ore in a furnace makes a nugget
-  - One raw ore chunk in create mixer makes multiple nuggets
-  - Mekanism (not included) is a good example of this
-4. We need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency.
-  - How does this factor into Starting Cash? Mob Cash Drops? Chest Loot? Taxes? and other options?
-  - What options do we have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
+  - One raw ore chunk in create mixer makes 1-3 nuggets
+  - 1 raw ore in a crushing wheel makes 1-2 crushed ore, then into washer makes 2-4 nuggets each
+  - More complex ore processing will yield better results
+    - Mekanism (not included) is a good example of this
+4. I need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency.
+  - How does this factor into:
+    - Starting Cash? 5i
+    - Mob Cash Drops? deep dive
+    - Chest Loot? mostly fixed
+    - Taxes? meh...
+  - What options do I have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
 
-## Update to 1.20.1 in June 2024
-### New Additions
+### New Additions and Changes
 - Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
 - Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
+- Modify Ore Gen:
+  - less gold/redstone
+  - wtf coal biome?! its fungal caves so fix that
+  - Terralith (deep dive) (coal biome?!?!)
+  - Incendium (deep dive)
+  - Emeralds (missing files)
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -80,7 +90,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ### Mods:
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
-  - Progression beyond steel/netherite and we make other planets actually useful
+  - Progression beyond steel/netherite and I make other planets actually useful
   - Awating 7.0 update and maybe even avoiding depeding on whats included (July 2024?)
 - [Create Interactive](https://www.curseforge.com/minecraft/mc-mods/create-interactive): probably not happening due to possible performance/compat issues, will test later
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled/tuned
@@ -98,10 +108,10 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # Hard No:
 - Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)
 - Lootr (will not be added as it floods the market with items/loot)
-- Mekanism (is most likely not included because its too streamlined and technically advanced and would need heavy edits to function the way we want)
+- Mekanism (is most likely not included because its too streamlined and technically advanced and would need heavy edits to function the way I want)
 
 # Additional Mod/Config Changes:
-- Investigate Create: Steam and Rails for stuff we dont want like phantom rails/bogies
+- Investigate Create: Steam and Rails for stuff I dont want like phantom rails/bogies
 - Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
 - Adjust the corail tombstone config as needed (disable death key or find a better tombstone system)
 - Toolbelt Blacklist Options
@@ -129,7 +139,3 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 possible default seeds:
 -2788073536708642139
-
-Modify Ore Gen:
-- Silent Gear
-- Incendium
