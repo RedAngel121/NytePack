@@ -5132,6 +5132,11 @@ hash = "cf2614cb672f5d5b08b0486987cc941c0e4dc0071107671b7b2fc0ac72f4531c"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "2ba0f3804faaad224e23af01d7beaafa9436befcb121568ec8c5b5b513e14420"
+metafile = true
+
+[[files]]
 file = "mods/libx.pw.toml"
 hash = "2c255a6aff5c016d8769777fd9e23f4bbc256d103fb45eef12b1d6af77249ba1"
 metafile = true
@@ -5144,6 +5149,11 @@ metafile = true
 [[files]]
 file = "mods/lightmans-discord-integration.pw.toml"
 hash = "eb95f88d3e81b807100d0564d09fa68c32a9bafcc0019568bff008e1d8a919bd"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "1fd7013e2b41e76c0d0bccc7f47a88ebcbb4f597d1f5bea3126caa2d7b13200f"
 metafile = true
 
 [[files]]

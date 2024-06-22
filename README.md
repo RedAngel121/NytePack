@@ -13,12 +13,14 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # Important Mods List:
 - Agricraft
 - Apotheosis
+- Cataclysm
 - Chipped
 - Construction Wand
 - Cooking for Blockheads
 - Create C&A
 - Create: TFMG
 - Dynamic Trees
+- Gravestones
 - Immersive Aircraft
 - Lightmans Currency
 - Little Logistics
