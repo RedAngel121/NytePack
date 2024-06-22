@@ -37,7 +37,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 ## Pack Build Rules are as follows:
 1. No Easy Teleporting items or players (Stargates Exception)
 2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exceptions or similar item specific inv spaces)
-3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Travel/Stargates)
+3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Travel/Stargates/?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage, production, and transfer, will be handled in world and not by items on the player (to the best of ability)
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items I.E. jetpacks (apoth excluded)
@@ -64,8 +64,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
 - Modify Ore Gen:
   - less gold/redstone
-  - wtf coal biome?! its fungal caves so fix that
-  - Terralith (deep dive) (coal biome?!?!)
+  - Terralith (deep dive)
   - Incendium (deep dive)
   - Emeralds (missing editable files / do they really need to be changed? / check recipes for crafting requirements)
 

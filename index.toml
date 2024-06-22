@@ -189,6 +189,10 @@ file = "defaultconfigs/framedblocks-server.toml"
 hash = "4429acefe73eb64234730d53ffaf5d19c436210aab8ca72ceddfc53a64950dd1"
 
 [[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "c503a51e9cc55cae8fc16c2584c3dc2e6e802d6650455ca103c0132e5b6da7d6"
+
+[[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "5d856c2807f75174a55b2c0ed44a4828c3938da8313fd328a70ea5b44c04d74e"
 
@@ -4771,6 +4775,14 @@ hash = "466fc111eef46b2703a5645c64f781dbf63e9553ba74f75d73a6d80525c0dcb3"
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/crimson_iron_ore.json"
 hash = "2021288d201d14f32202a576f0a2c7ab859936f5b1dfe4245ffd5bf68baad57f"
+
+[[files]]
+file = "kubejs/data/terralith/worldgen/biome/cave/fungal_caves.json"
+hash = "1aed57fba16ebb97ed04d6090134411109197713a7ce8da78928e341158ccd79"
+
+[[files]]
+file = "kubejs/data/terralith/worldgen/biome/cave/underground_jungle.json"
+hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
