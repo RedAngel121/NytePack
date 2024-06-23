@@ -1,13 +1,13 @@
 name = "AgriCraft"
-filename = "AgriCraft-forge-1.20.1-4.0.1-beta.jar"
+filename = "AgriCraft-forge-1.20.1-4.0.2-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c0440a1956a3d062c1d11cf67162bbcda3674d07"
+hash = "01785dd7fc39d8b616a401a07f808831bc0ad7f8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5434288
+file-id = 5465317
 project-id = 225635

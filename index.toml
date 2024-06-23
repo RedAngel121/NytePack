@@ -4834,7 +4834,7 @@ hash = "bcd0afeae0c577e701c3ba82fae92ab2457238a9d0829173295d53117406130b"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
-hash = "3188464b504db019eaa7453c9da4d8ad7b83101175fce1c8552f602bfdc433ef"
+hash = "a7ea1f74cd548cba9c72050a90629398265dc2960d7365dbb06613bd47cc111c"
 metafile = true
 
 [[files]]
@@ -4934,7 +4934,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "622618762994a583312da6a35f4bdbf7ab9d69b5b7080b6875e9479a85a68ef9"
+hash = "c281134b17e7f0ba2daf7c2c55bd2cebdd24b471060372ab0cbcc8233ce5d681"
 metafile = true
 
 [[files]]
@@ -4999,7 +4999,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
+hash = "a45ee84e709107a3469d600ccdeb161a2a75bf3468b09983edd3c02fb9866960"
 metafile = true
 
 [[files]]
@@ -5114,7 +5114,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "7c3daed5cb51e9706cabc4da62eadbb49e6e590e6e5ffaf049e3d85e4623a012"
+hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
 metafile = true
 
 [[files]]
@@ -5379,7 +5379,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "161455ee9660744a94dbfa5a853d68c7ce12482590e9e2876c2f5c6754efc914"
+hash = "c0ecfde73ccdb404136f50c44266cbdb0805d4c7786ae2a67c16a4dd0f13ca04"
 metafile = true
 
 [[files]]
