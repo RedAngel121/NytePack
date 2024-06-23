@@ -102,8 +102,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [Burning Furnace](https://www.curseforge.com/minecraft/mc-mods/burning-furnace): making furnaces more dangerous
 
 ### World:
-- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker):
-- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden):
+- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
 
 # Hard No:
 - Enhanced Celestials (harvest moon is the only befenit and doesnt provide enough to warrant including the mod)

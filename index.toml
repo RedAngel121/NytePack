@@ -4753,6 +4753,50 @@ file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
 hash = "2069445cc7e70048efff5ef249e3e5775ecbb208098e61488384303c8fa079be"
 
 [[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_biomes.json"
+hash = "0e3b38c736604d756251dd6b867c171bc597eea9d5ea3a2d14ec959a5bc83086"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_desert_biomes.json"
+hash = "0e3b38c736604d756251dd6b867c171bc597eea9d5ea3a2d14ec959a5bc83086"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_outpost/lantean_outpost_ocean_biomes.json"
+hash = "0bbf8868e1cea562fca3a3727543b050258add33e6586d7a286933d4c6b0dc5b"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_badlands_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_chulak_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_deep_dark_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_desert_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_jungle_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_mushroom_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_snow_biomes.json"
+hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+
+[[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
 hash = "cf15fd2361530c1e1e8aa6f61a6e9c1b088a94bf36574f78dc006fabcc3439ce"
 
