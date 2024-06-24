@@ -5557,12 +5557,12 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "754176cbcf3ba7a1a4a0b4f818121e3baa3aa264ee5cb861da6842e7586c33b0"
+hash = "a943b190ae8648304ae8f33c139ee59a0f90f2f30c997e4fcb4f246aed4f9a0a"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "d46b18eb734b557e82e097f4a22ded6e768ed8a7d814ddd2208cb35e57b66597"
+hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]

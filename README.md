@@ -72,6 +72,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 # Balance is Key! Check These Out:
 ### QOL:
+- None at this time
 
 ### Mods:
 - Find replacement for Geolosys?
