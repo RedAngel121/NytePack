@@ -181,6 +181,10 @@ file = "defaultconfigs/computercraft-server.toml"
 hash = "6ad0161a52539ebeb19797ea39bdc0bdd79f5aef437ab175697b8d601e310909"
 
 [[files]]
+file = "defaultconfigs/corpse-server.toml"
+hash = "8b8bfc73e2f33005555049c1bee25b0f77f42b54d68ee40387d46c818a8fc9c7"
+
+[[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "a40ac6172f18fa62af26d54766248453faa1774cbac282b265f9a9cd885cd01e"
 
