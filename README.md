@@ -5,7 +5,7 @@
 # WARNING:
 Single player worlds will break repeatedly as the pack is still under heavy development!
 - If you still want to play it then expect your stuff to be reset/borked a lot
-- No, I'm not helping you if something breaks, I'm probably working on a problem
+- No, I'm not helping you if something breaks, I'm probably working that problem anyway
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
 - Requires Prism Launcher or AT Launcher to play, ***CurseForge and Microsoft are not compatable.***
 - Once a public server is ready I will be making an announcement in the Discord
@@ -51,7 +51,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
     - Starting Cash? 5i
     - Mob Cash Drops? deep dive
     - Chest Loot? need to add loot tabes from other mods
-  - What options do I have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
+  - What options do I have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"? [like this one](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)
 
 ### New Additions and Changes
 - Modify SGJ recipes to make building a stargate more difficult and resource intensive

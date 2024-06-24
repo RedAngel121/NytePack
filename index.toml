@@ -3742,7 +3742,7 @@ hash = "e568fb50d0aa311dfe7939b72e5c84592b16ac13fdad26818c7a5d6ca5da6602"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "655b1a79ae13be64df10f222b0f539ca6f0bc1c1483efabb9bffd0452f9cc182"
+hash = "5435ac9e143a8ed8dae72c04baa89f10fe8f87db317c95b4702168f8fdef5ab1"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/ferranium.json"
@@ -4914,7 +4914,7 @@ hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "36a0005d6058f6549d43b6c1162bb172f7ddbab2dcd976a30f513e4c1012da81"
+hash = "c219fbd5fce9a53332f2e7cfc1482ce19c6277e55b8bc360d4a50d0d32f7b7aa"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -5349,6 +5349,11 @@ metafile = true
 [[files]]
 file = "mods/more-gates-mod-ver.pw.toml"
 hash = "f7b8831896aa050498a4533c0e93bdc1de133c2f29fae7b6fd9a4d0fd130f1a4"
+metafile = true
+
+[[files]]
+file = "mods/more-minecarts.pw.toml"
+hash = "6f8dbef0437c81d94f883fc1077d07c6c6784710ec693daec98202788f4e3098"
 metafile = true
 
 [[files]]

@@ -1,5 +1,7 @@
 ServerEvents.recipes(event => {
     event.remove([
+        { id: "moreminecarts:minecart_with_chunk_loader" },
+
         { id: "computercraft:turtle_normal" },
         { id: "computercraft:turtle_normal_overlays/turtle_trans_overlay" },
         { id: "computercraft:turtle_normal_overlays/turtle_rainbow_overlay" },
@@ -7,6 +9,7 @@ ServerEvents.recipes(event => {
         { id: "computercraft:turtle_advanced_upgrade" },
         { id: "computercraft:turtle_advanced_overlays/turtle_trans_overlay" },
         { id: "computercraft:turtle_advanced_overlays/turtle_rainbow_overlay" },
+
         { id: "lightmanscurrency:coinmint" },
         { id: "lightmanscurrency:gem_terminal" },
         { id: "lightmanscurrency:portable_gem_terminal" },
@@ -32,6 +35,7 @@ ServerEvents.recipes(event => {
         { id: "lightmanscurrency:coin_chocolate_netherite" },
         { id: "lightmanscurrency:coinpile_chocolate_netherite" },
         { id: "lightmanscurrency:coinblock_chocolate_netherite" },
+
         { id: "createdeco:gold_coin" },
         { id: "createdeco:pressing/coins/gold_coin" },
         { id: "createdeco:gold_coinstack" },
@@ -53,11 +57,13 @@ ServerEvents.recipes(event => {
         { id: "createdeco:zinc_coin" },
         { id: "createdeco:pressing/coins/zinc_coin" },
         { id: "createdeco:zinc_coinstack" },
+
         { id: "scalinghealth:heart_crystal" },
         { id: "scalinghealth:heart_dust" },
         { id: "scalinghealth:power_crystal" },
         { id: "scalinghealth:bandages" },
         { id: "scalinghealth:medkit" },
+
         { id: "bhc:red_heart_canister" },
         { id: "bhc:yellow_heart_canister" },
         { id: "bhc:green_heart_canister" },
