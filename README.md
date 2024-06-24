@@ -18,7 +18,6 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Cooking for Blockheads
 - Create
 - Dynamic Trees
-- Gravestones
 - Immersive Aircraft
 - Lightmans Currency
 - Pams Harvestcraft 2
@@ -69,7 +68,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - Gateways to Eternity
   - Add an absolute metric ton of gateways *cause thats going to be fun*
-  - Could have integration with lightmans for special purchases: Heart Can, Armor, Weapon, Food, ETC
+  - Could have integration with lightmans for special purchases or Heart Canisters
 
 # Balance is Key! Check These Out:
 ### QOL:
@@ -113,11 +112,16 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Mekanism (is most likely not included because its too streamlined and technically advanced and would need heavy edits to function the way I want)
 
 # Additional Server World Changes:
+- Starting town either built by hand or built with a mod (minecolonies?)
+  - Different DIM Portals and shops will be spread around town
+  - Will need seperate buildings for different styles of gameplay
+  - Server Owned Vending machines as money sinks: Starter Gear, Armors, Weapons, Basic Food, Simple Items, ETC
+  - DIM Portals will need to be **Pay to Enter** (lightmans)
 - Baubley Heart Canisters need to be added to purchasable items from server vending machines
   - Amulet can be purchased (find good price) maybe Earn with Gateways?
   - bones can be earned with gateways and natural mob spawns
   - red can = 9 wither bones
-  - yellow can= 9 red cans and an iron coin
+  - yellow can = 9 red cans and an iron coin
   - green can = 9 yellow cans and a gold coin
   - blue can = 9 green cans and an emerald coin
 

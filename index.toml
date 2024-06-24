@@ -193,10 +193,6 @@ file = "defaultconfigs/framedblocks-server.toml"
 hash = "4429acefe73eb64234730d53ffaf5d19c436210aab8ca72ceddfc53a64950dd1"
 
 [[files]]
-file = "defaultconfigs/gravestone-server.toml"
-hash = "c503a51e9cc55cae8fc16c2584c3dc2e6e802d6650455ca103c0132e5b6da7d6"
-
-[[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "5d856c2807f75174a55b2c0ed44a4828c3938da8313fd328a70ea5b44c04d74e"
 
@@ -4758,7 +4754,7 @@ hash = "bbf90dea0f02bbe58a406cb6f798b819deb6c20674f16b603881bc63a128067f"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
-hash = "2069445cc7e70048efff5ef249e3e5775ecbb208098e61488384303c8fa079be"
+hash = "5ebdc4f3999e71ff5da9cb5a88eafcc53eb4ef1613171bebb9626bc5a34a66ae"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_biomes.json"
@@ -5041,6 +5037,11 @@ hash = "b625eb6f14738be16b98cef675a9639458781bfbf40c28f7d3da473d0cda84f3"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
 metafile = true
@@ -5203,11 +5204,6 @@ metafile = true
 [[files]]
 file = "mods/glassential.pw.toml"
 hash = "514ed93e4ce1fdabbfdb6203dadf8c16b420c2331f72512417a728b230a7348a"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "941bbc3b5a23b8392d88b534a7fa1973273c3daa6f8fb70bfe4d4645423a2159"
 metafile = true
 
 [[files]]
