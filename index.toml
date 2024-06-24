@@ -5002,11 +5002,6 @@ hash = "4337eaad4e8c07a6faed08a344c088aefa38b3e8e41e5a07611195aa2560e939"
 metafile = true
 
 [[files]]
-file = "mods/chunk-loaders.pw.toml"
-hash = "639857fb6b3f29345a30ea5e727a15ec7c3c63a8559d743bf9807155f8a311ab"
-metafile = true
-
-[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
