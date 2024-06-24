@@ -5126,6 +5126,11 @@ hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-pams-harvestcraft-2.pw.toml"
 hash = "d57e612098aa7e78a6ab0e2d6ddfca93236fa0244448bb5bc8460c84589960a8"
 metafile = true
