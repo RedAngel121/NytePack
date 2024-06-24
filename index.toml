@@ -4870,7 +4870,7 @@ hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_temple/great_pyramid_biomes.json"
-hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+hash = "f687c13883f60220512fc9e66b017d40ec67d00790e1341c8dbdbf61ab3bca1c"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/terra_stargate_biomes.json"
