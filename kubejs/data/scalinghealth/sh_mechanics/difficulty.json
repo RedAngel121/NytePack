@@ -23,6 +23,10 @@
         "dimensions" : ["minecraft:the_nether"]
       },
       {
+        "scale" : 2,
+        "dimensions" : ["sgjourney:abydos"]
+      },
+      {
         "scale" : 1.5,
         "dimensions" : ["minecraft:the_end"]
       }
