@@ -4754,47 +4754,127 @@ hash = "2069445cc7e70048efff5ef249e3e5775ecbb208098e61488384303c8fa079be"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_biomes.json"
-hash = "0e3b38c736604d756251dd6b867c171bc597eea9d5ea3a2d14ec959a5bc83086"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_desert_biomes.json"
-hash = "0e3b38c736604d756251dd6b867c171bc597eea9d5ea3a2d14ec959a5bc83086"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/cartouche/abydos_cartouche_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/cartouche/chulak_cartouche_monument_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/cartouche/sandstone_cartouche_monument_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/cartouche/stone_cartouche_monument_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/city/abydos_city_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/destiny_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/goauld_temple/badlands_ziggurat_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/goauld_temple/desert_pyramid_abandoned_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/goauld_temple/desert_pyramid_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/goauld_temple/jungle_pyramid_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/jaffa_house_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/pegasus_stargate_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate/pedestal/classic_stargate_pedestal_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_outpost/lantean_outpost_ocean_biomes.json"
-hash = "0bbf8868e1cea562fca3a3727543b050258add33e6586d7a286933d4c6b0dc5b"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_badlands_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_cavum_tenebrae_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_chulak_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_deep_dark_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_desert_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_end_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_glacio_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_jungle_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_mushroom_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_nether_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_snow_biomes.json"
-hash = "0b128254c93d67d7284f0cf671847546278d9a1e8216a406a583328b38338196"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_temple/abydos_pyramid_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_temple/great_pyramid_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/terra_stargate_biomes.json"
+hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
