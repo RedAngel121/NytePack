@@ -58,5 +58,12 @@ ServerEvents.recipes(event => {
         { id: "scalinghealth:power_crystal" },
         { id: "scalinghealth:bandages" },
         { id: "scalinghealth:medkit" },
+        { id: "bhc:red_heart_canister" },
+        { id: "bhc:yellow_heart_canister" },
+        { id: "bhc:green_heart_canister" },
+        { id: "bhc:blue_heart_canister" },
+        { id: "bhc:soul_heart_canister" },
+        { id: "bhc:canister" },
+        { id: "bhc:relic_apple" },
     ]);
 })

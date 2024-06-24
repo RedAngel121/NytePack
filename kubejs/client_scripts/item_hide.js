@@ -47,4 +47,6 @@ JEIEvents.hideItems(event => {
     event.hide("scalinghealth:cursed_heart"),
     event.hide("scalinghealth:enchanted_heart"),
     event.hide("scalinghealth:chance_heart")
+    event.hide("bhc:canister")
+    event.hide("bhc:relic_apple")
 })

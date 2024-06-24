@@ -15,20 +15,15 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Apotheosis
 - Cataclysm
 - Chipped
-- Construction Wand
 - Cooking for Blockheads
-- Create C&A
-- Create: TFMG
+- Create
 - Dynamic Trees
 - Gravestones
 - Immersive Aircraft
 - Lightmans Currency
-- Little Logistics
-- Open Parties and Claims
 - Pams Harvestcraft 2
 - Silent Gear
 - Sophisticated Storage
-- Terralith & Tectonic
 - Toms Storage
 - Tool Belt
 - And More!
@@ -55,22 +50,29 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - How does this factor into:
     - Starting Cash? 5i
     - Mob Cash Drops? deep dive
-    - Chest Loot? mostly fixed
-    - Taxes? nah...
+    - Chest Loot? need to add loot tabes from other mods
   - What options do I have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"?
 
 ### New Additions and Changes
+- Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
 - Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
 - Modify Ore Gen:
-  - less gold/redstone
   - Terralith (deep dive)
   - Incendium (deep dive)
   - Emeralds (missing editable files / do they really need to be changed? / check recipes for crafting requirements)
+- Investigate Create: Steam and Rails for stuff I dont want like phantom rails/bogies
+- Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
+- Toolbelt Blacklist Options
+- Immersive Aircraft Recipe Integration with alternative tech mods
+- Philip's Ruins Needs Increased Distance Between Ruins
+- Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
+- Gateways to Eternity
+  - Add an absolute metric ton of gateways *cause thats going to be fun*
+  - Could have integration with lightmans for special purchases: Heart Can, Armor, Weapon, Food, ETC
 
 # Balance is Key! Check These Out:
 ### QOL:
-- None at this time
 
 ### Mods:
 - Find replacement for Geolosys?
@@ -110,18 +112,14 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Lootr (will not be added as it floods the market with items/loot)
 - Mekanism (is most likely not included because its too streamlined and technically advanced and would need heavy edits to function the way I want)
 
-# Additional Mod/Config Changes:
-- Investigate Create: Steam and Rails for stuff I dont want like phantom rails/bogies
-- Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-- Toolbelt Blacklist Options
-- Lightmans Currency Claim Purchasing options and force loads
-- Immersive Aircraft Recipe Integration with alternative tech mods
-- Philip's Ruins Needs Increased Distance Between Ruins
-- Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
-- Baubley Heart Canisters need to be added to purchasable items from server vending machines using unique tokens (red = 2 / yellow = 4 / green = 8 / blue = 16)
-- Gateways to Eternity
-  - Add an absolute metric ton of gateways *cause thats going to be fun*
-  - Could have integration with lightmans for special purchases (Tickets for Heart Canisters?)
+# Additional Server World Changes:
+- Baubley Heart Canisters need to be added to purchasable items from server vending machines
+  - Amulet can be purchased (find good price) maybe Earn with Gateways?
+  - bones can be earned with gateways and natural mob spawns
+  - red can = 9 wither bones
+  - yellow can= 9 red cans and an iron coin
+  - green can = 9 yellow cans and a gold coin
+  - blue can = 9 green cans and an emerald coin
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
@@ -129,12 +127,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - Sort out Server vs Client side only mods
 - Edit the Server Startup Script to allow packwiz management
 - Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in server configs)
-- Change Sleep % to 0
+- Change Sleep % to 0 (add sleeping bags if you want more than 50%)
 
 ### Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
 - For use on servers, add the `-g` flag to disable the GUI and `-s server` to download only server-side mods.
 - Then start the minecraft dedicated server using the premade server script
-
-possible default seeds:
--2788073536708642139

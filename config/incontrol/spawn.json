@@ -1,0 +1,11 @@
+[
+    {
+        "mob": "minecraft:pillager",
+        "mincount": {
+            "amount": 15,
+            "hostile": true,
+            "perplayer": true
+        },
+        "result": "deny"
+    }
+]
