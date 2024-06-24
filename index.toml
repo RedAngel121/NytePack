@@ -126,7 +126,7 @@ hash = "1e2947edfe05bf3763e248fad734a46e577f983a64c93ac7b3cdb767244db17a"
 
 [[files]]
 file = "config/sgjourney-common.toml"
-hash = "3090ec6591a2348f31854adb58d05eaba2d1ed5c8f32eb2f5a20119ac1b4b48d"
+hash = "e761351f7d57aa953bcbaf97a5dcbe21d823925894533c758b252315a2fd51b0"
 
 [[files]]
 file = "config/silentgear-common.toml"
@@ -3931,6 +3931,10 @@ hash = "2314f5cf02c65733a1bc0257f70e518d378729ef6c779d76a9d2c46486bb77d6"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
 hash = "ed791f8c6dbeac18233642fb308f3fc4ecd69dfa2ad7da76e41915193b6220a3"
+
+[[files]]
+file = "kubejs/data/moreminecarts/tags/worldgen/biome/has_vegetation/glass_cactus.json"
+hash = "f74498097708215ee46031db7467ce3abed880ed8188eff156e81993d9787e31"
 
 [[files]]
 file = "kubejs/data/pamhc2crops/agricraft/mutations/agave.json"

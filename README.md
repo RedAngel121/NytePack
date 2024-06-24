@@ -51,7 +51,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
     - Starting Cash? 5i
     - Mob Cash Drops? deep dive
     - Chest Loot? need to add loot tabes from other mods
-  - What options do I have for purchasing chunk loading times? cant find anything on this yet... find a chunk loader that accepts "fuel"? [like this one](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)
+5. Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff
 
 ### New Additions and Changes
 - Modify SGJ recipes to make building a stargate more difficult and resource intensive

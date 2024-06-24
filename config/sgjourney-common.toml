@@ -80,16 +80,16 @@
 			universe_fast_rotation = true
 			#FAST - Incoming Chevrons take 4 Ticks to lock; MEDIUM - Incoming Chevrons take 8 Ticks to lock; SLOW - Incoming Chevrons take 12 Ticks to lock
 			#Allowed Values: SLOW, MEDIUM, FAST
-			universe_chevron_lock_speed = "SLOW"
+			universe_chevron_lock_speed = "FAST"
 			#FAST - Incoming Chevrons take 4 Ticks to lock; MEDIUM - Incoming Chevrons take 8 Ticks to lock; SLOW - Incoming Chevrons take 12 Ticks to lock
 			#Allowed Values: SLOW, MEDIUM, FAST
-			milky_way_chevron_lock_speed = "SLOW"
+			milky_way_chevron_lock_speed = "FAST"
 			#FAST - Incoming Chevrons take 4 Ticks to lock; MEDIUM - Incoming Chevrons take 8 Ticks to lock; SLOW - Incoming Chevrons take 12 Ticks to lock
 			#Allowed Values: SLOW, MEDIUM, FAST
-			pegasus_chevron_lock_speed = "MEDIUM"
+			pegasus_chevron_lock_speed = "FAST"
 			#FAST - Incoming Chevrons take 4 Ticks to lock; MEDIUM - Incoming Chevrons take 8 Ticks to lock; SLOW - Incoming Chevrons take 12 Ticks to lock
 			#Allowed Values: SLOW, MEDIUM, FAST
-			classic_chevron_lock_speed = "SLOW"
+			classic_chevron_lock_speed = "FAST"
 			#FAST - Incoming Chevrons take 4 Ticks to lock; MEDIUM - Incoming Chevrons take 8 Ticks to lock; SLOW - Incoming Chevrons take 12 Ticks to lock
 			#Allowed Values: SLOW, MEDIUM, FAST
 			tollan_chevron_lock_speed = "FAST"
