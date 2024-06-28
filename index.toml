@@ -1386,7 +1386,7 @@ hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
-hash = "be3e409a00029a92016c440760a798a9be6ec26656cf60238f007ab9a02bc81f"
+hash = "9dd798fcdc286e840ef15f9c35c4c6c5747684391c2e4231d47c0c8764f701c0"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/bort_ore.json"
@@ -1394,7 +1394,7 @@ hash = "42bb5dca7fa82a0b23adce556ef2bab704b718db185ea72b94c56f1997e271c7"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/crimson_iron_ore.json"
-hash = "9b336f36e8e713c6f4c012b2106e9ebe1e1ae86083b8e39c3b18b057dd00ee03"
+hash = "65c4a703a7aac1cc56db8ba970ea1fc538d3b485a1b28b1e990522ed481dc97e"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/azure_silver_ore.json"

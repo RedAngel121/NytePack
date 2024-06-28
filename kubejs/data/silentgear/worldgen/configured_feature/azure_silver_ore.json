@@ -16,7 +16,7 @@
       {
         "target": {
           "predicate_type": "minecraft:random_block_match",
-          "block": "minecraft:endstone",
+          "block": "minecraft:end_stone",
           "probability": 0.05
         },
         "state": {
