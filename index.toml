@@ -254,7 +254,7 @@ hash = "70495c6a7430935d808b501068d896c4e8a304cc2700557565ea58f9f259f602"
 
 [[files]]
 file = "kubejs/data/create/worldgen/configured_feature/zinc_ore.json"
-hash = "c71a3db6f239de42d7aa424c48a846ad928841c1224d0dc4874111e37d2b3cb3"
+hash = "6c2af5bf3db36808849de81f329ac05f160e87672c2bc26c7d41effa49ccc429"
 
 [[files]]
 file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
@@ -394,7 +394,7 @@ hash = "15c7ed94e6de0b4861f684707ae154801fd27a5d51147813865401652dcfda4f"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
-hash = "b1b8471692f741cac1e82c67bd796ac5932643a7a5e7f4b4c7a411297109413f"
+hash = "bf991866d4b083528819e97aaa945b0fbe0027004577013300d7864847bf2013"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
@@ -434,7 +434,7 @@ hash = "2314f5cf02c65733a1bc0257f70e518d378729ef6c779d76a9d2c46486bb77d6"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
-hash = "ed791f8c6dbeac18233642fb308f3fc4ecd69dfa2ad7da76e41915193b6220a3"
+hash = "a2aa50a613bbb6da4e89d9ffe2b5e502c5ae50283e02d6b06117d09564089984"
 
 [[files]]
 file = "kubejs/data/moreminecarts/tags/worldgen/biome/has_vegetation/glass_cactus.json"

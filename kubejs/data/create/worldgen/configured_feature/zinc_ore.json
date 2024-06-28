@@ -5,21 +5,41 @@
     "size": 48,
     "targets": [
       {
-        "state": {
-          "Name": "create:zinc_ore"
-        },
         "target": {
-          "predicate_type": "minecraft:tag_match",
-          "tag": "minecraft:stone_ore_replaceables"
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:stone",
+          "probability": 0.03
+        },
+        "state": {
+          "Name": "minecraft:raw_zinc_block"
         }
       },
       {
-        "state": {
-          "Name": "create:deepslate_zinc_ore"
+        "target": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:deepslate",
+          "probability": 0.05
         },
+        "state": {
+          "Name": "minecraft:raw_zinc_block"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stone_ore_replaceables"
+        },
+        "state": {
+          "Name": "minecraft:zinc_ore"
+        }
+      },
+      {
         "target": {
           "predicate_type": "minecraft:tag_match",
           "tag": "minecraft:deepslate_ore_replaceables"
+        },
+        "state": {
+          "Name": "minecraft:deepslate_zinc_ore"
         }
       }
     ]
