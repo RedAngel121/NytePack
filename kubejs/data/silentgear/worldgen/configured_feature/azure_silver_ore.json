@@ -5,15 +5,6 @@
     "size": 64,
     "targets": [
       {
-        "state": {
-          "Name": "silentgear:azure_silver_ore"
-        },
-        "target": {
-          "predicate_type": "minecraft:tag_match",
-          "tag": "forge:end_stones"
-        }
-      },
-      {
         "target": {
           "predicate_type": "minecraft:random_block_match",
           "block": "minecraft:end_stone",
@@ -21,6 +12,15 @@
         },
         "state": {
           "Name": "minecraft:raw_azure_silver_block"
+        }
+      },
+      {
+        "state": {
+          "Name": "silentgear:azure_silver_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "forge:end_stones"
         }
       }
     ]

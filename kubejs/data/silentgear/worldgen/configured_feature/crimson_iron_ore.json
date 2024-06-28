@@ -5,15 +5,6 @@
     "size": 64,
     "targets": [
       {
-        "state": {
-          "Name": "silentgear:crimson_iron_ore"
-        },
-        "target": {
-          "predicate_type": "minecraft:tag_match",
-          "tag": "minecraft:base_stone_nether"
-        }
-      },
-      {
         "target": {
           "predicate_type": "minecraft:random_block_match",
           "block": "minecraft:netherrack",
@@ -21,6 +12,15 @@
         },
         "state": {
           "Name": "minecraft:raw_crimson_iron_block"
+        }
+      },
+      {
+        "state": {
+          "Name": "silentgear:crimson_iron_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:base_stone_nether"
         }
       }
     ]

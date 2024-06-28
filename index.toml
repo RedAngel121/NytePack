@@ -302,7 +302,7 @@ hash = "f077f13db0a7a5960d549b91bdfb755c50b42f89c03df7655f5b0aaef46879f5"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold.json"
-hash = "e573bb7d754689bc640b118027227539004716e95cc5b508f5cd08b82a191fed"
+hash = "ba5ab2d1a72748d575eba95a73e1a5a77bce4fe3382919a907763d984e9c27b3"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold_buried.json"
@@ -382,7 +382,7 @@ hash = "72cb29cb6cb82a7040e9e23e0113448daefb22c8a86842bdd443eee086d8b818"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
-hash = "5e76582c86033177db5f354740a50d9ded75f46a2416b3f948c2fa2a21eb3759"
+hash = "f7987fc0cba773eb0a629ba576b9217cc0f7954e206ffb37f01b672041f3cae8"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
@@ -406,7 +406,7 @@ hash = "7ba3e92d8e48ce1e400cc428d88130f96f33551027d56f944e3f3e6e3a5914d9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "79d3b1fa9d27e8f09c14bc252b9205233f841043cbdcf89db5a170ddc3430f49"
+hash = "0b1a3df44d4e9bbf0920610f8aeb38b129fcd89b3f7f474f07ac9a9dc3d3b9bd"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
@@ -1386,7 +1386,7 @@ hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
-hash = "9dd798fcdc286e840ef15f9c35c4c6c5747684391c2e4231d47c0c8764f701c0"
+hash = "fce0558cd270ce7e3c4f803d5b5109f5670eab87ced3916226924e7b2cb33fad"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/bort_ore.json"
@@ -1394,7 +1394,7 @@ hash = "42bb5dca7fa82a0b23adce556ef2bab704b718db185ea72b94c56f1997e271c7"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/crimson_iron_ore.json"
-hash = "65c4a703a7aac1cc56db8ba970ea1fc538d3b485a1b28b1e990522ed481dc97e"
+hash = "dff7c0317ccb3e765b145cf6f8fa21bce7868842cf7b62f6d73911357f3b1590"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/azure_silver_ore.json"
