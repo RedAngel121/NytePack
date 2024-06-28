@@ -1385,6 +1385,22 @@ file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/terra_stargate_b
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
+file = "kubejs/data/sgjourney/worldgen/configured_feature/ore_naquadah_large.json"
+hash = "57c5618848ba367a9c9148254c18b37ec3ba9e52b8229f462b6bff6e6349eee7"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/configured_feature/ore_naquadah_medium.json"
+hash = "02a41679a080b4d6a52c4caab184f31995004d9a528d0b667cead9526c114777"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah.json"
+hash = "dfdced54ffc539dfb3e17d92fd0923d62bde9fdd974c17b14163250acfc85518"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah_extra.json"
+hash = "89ffedd8d0590a11a0e8e762f6137d2576140772ee03f776f452c88d389ece07"
+
+[[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
 hash = "b691fe30519fae4b0d059ce7025499017c48fc87fda885657d1b11c1ef84c9ab"
 

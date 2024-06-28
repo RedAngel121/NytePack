@@ -58,7 +58,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
 - [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
-- [ ] Investigate Create: Steam and Rails for stuff I dont want like phantom rails/bogies
+- [ ] Investigate Create: Steam and Rails for stuff I dont want
 - [ ] Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Philip's Ruins Needs Increased Distance Between Ruins
