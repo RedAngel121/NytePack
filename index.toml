@@ -1258,7 +1258,7 @@ hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "bbf90dea0f02bbe58a406cb6f798b819deb6c20674f16b603881bc63a128067f"
+hash = "da344320b46aa5dc4bd2dc2260736e0593ab0881427c26cc15e239623b433387"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
@@ -1533,7 +1533,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "65c4dffbaa7cb8d15ba64db868d0c087fcd96ae9fae0a4154fea6b4d1e8f69f3"
+hash = "651ed7a3b96a5cac6460ee68db74719adadbc44b48a9fc3cde796be744059b84"
 metafile = true
 
 [[files]]
@@ -1553,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "927ec7891f8ab22f2171f6dcf82ad30f7a643e4526c45200708bbaf943a8081f"
+hash = "ecde06eae0428afe6d44435db3030d7073668e18427daa7b1e2930d4f33445fa"
 metafile = true
 
 [[files]]
@@ -2113,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
-hash = "a6c0a50e04654abc105c4017a07c9a68e7b154ace7e564f8eb03f904a38ebfcb"
+hash = "0d1a0a24a2d759c48bb1daa4b1bf27df514c91a4ff9a2c87df20ed5ce9ae809a"
 metafile = true
 
 [[files]]

@@ -42,17 +42,16 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
 - [ ] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
-- [ ] is 5 iron coins enough Starting Cash?
 - [ ] Adjust Mob Cash Drops: deep dive into lightmans to find and lower natural drop count to 1-5 coins per mob
 - [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
-- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff (not yet possible)
+- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
 - [ ] Gateways to Eternity
-  - Add an absolute metric ton of gateways *cause thats going to be fun*
-  - Integration with lightmans for special purchases or Heart Canisters
+  - Add an absolute metric ton of gateways with all types of mobs (add new mob mods?) *cause thats going to be fun*
+  - Find out what rewards should be allowed
 
-# Big Recipe Changers
+# Big Changers
 - [ ] Add loot tabes from other mods for lightmans to insert coins into
-- [ ] Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
+- [ ] Create Mod Possible Mining Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
@@ -69,29 +68,27 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 ### Heavy Consideration:
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- [Lit it Up](https://www.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces more realistic
-- [Burning Furnace](https://www.curseforge.com/minecraft/mc-mods/burning-furnace): making furnaces more dangerous
+- [Lit it Up](https://www.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces a bit more realistic
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
   - Heavily modified ore gen and recipes to counter its easy access, should not be accessable before visiting alternate dims for ore (lock behind Naq?)
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) is a large scale upgrade to include with scaling health mod
 
 ### Interesting Ideas:
-- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled/tuned
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff or adjust it
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
   - Progression beyond steel/netherite and I make other planets actually useful
   - Awating 7.0 update and maybe even avoiding depeding on whats included (July 2024?)
-- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts): possible compat issues with Serene Seasons?
-- [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): check for Ore Gen and see whats not compatable
-- [Create Interactive](https://www.curseforge.com/minecraft/mc-mods/create-interactive): probably not happening due to possible performance/compat issues, will test later
-- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) small mod but could be fun (wireless chest access?)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): Possibly incompatable with pack direction due to tools
+- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) small mod but could be fun (disable wireless chest access?)
 - [Natures Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura): possible server overhead issues because of the chunk aura updates
 - [Nightmare Epic Siege](https://www.curseforge.com/minecraft/mc-mods/nightmareesm): Disable 90% of the mod: Most things are not ok but more intelligent mobs could be interesting
-- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
-  - And [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) And [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): lots of problems with this that im not super intersted in fine tuning yet
 
 # Additional Server World Changes:
+- Find out how much Starting Cash will be needed to play on the server
 - Disable Portals to other Dims and use a Stargate instead (Add a mod to do this)
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
   - **Nether** payment will be Iron coins and a diamond

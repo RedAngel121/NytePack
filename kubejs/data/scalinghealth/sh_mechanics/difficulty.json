@@ -19,16 +19,20 @@
     "lunarMultipliers" : [1.1, 1.075, 1.05, 1.0, 0.95, 1.0, 1.05, 1.075],
     "locationMultipliers" : [
       {
-        "scale" : 1.25,
+        "scale" : 1.5,
         "dimensions" : ["minecraft:the_nether"]
       },
       {
         "scale" : 2,
+        "dimensions" : ["minecraft:the_end"]
+      },
+      {
+        "scale" : 3,
         "dimensions" : ["sgjourney:abydos"]
       },
       {
-        "scale" : 1.5,
-        "dimensions" : ["minecraft:the_end"]
+        "scale" : 4,
+        "dimensions" : ["undergarden:undergarden"]
       }
     ]
   },
