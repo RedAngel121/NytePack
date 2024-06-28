@@ -16,7 +16,7 @@
       {
         "target": {
           "predicate_type": "minecraft:random_block_match",
-          "block": "forge:netherrack",
+          "tag": "forge:netherrack",
           "probability": 0.05
         },
         "state": {
