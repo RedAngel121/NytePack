@@ -44,8 +44,9 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 [ ] Vein Mining Enchant configs to determine its effects on hunger and durability
 [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial layout will be one raw chunk of ore in a furnace makes a nugget
-  - One raw ore chunk in create mixer with water makes 1-3 nuggets
-  - 1 raw ore in a crushing wheel makes 1-2 crushed ore, then into washer makes 3-5 nuggets each
+  - 1 raw chunk in create mixer with water makes 1-3 nuggets
+  - 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for 2 nuggets each or washed for 3-5 nuggets
+  - the entire Ore Block can double or triple this input/output
   - More complex ore processing will yield better results
   - Mekanism is a good example of this
 [ ] I need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency and FLAN
@@ -71,13 +72,13 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu): Lots of work
 - [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Lots of work
 
-### Heavy Consideration Mods:
+### Heavy Consideration:
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [Lit it Up](https://www.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces more realistic
 - [Burning Furnace](https://www.curseforge.com/minecraft/mc-mods/burning-furnace): making furnaces more dangerous
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
   - Heavily modified ore gen and recipes to counter its easy access, should not be accessable before visiting alternate dims for ore (lock behind Naq?)
-- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) is a large scale upgrade
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) is a large scale upgrade to include with scaling health mod
 
 ### Interesting Ideas:
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled/tuned
@@ -98,6 +99,10 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # Additional Server World Changes:
 - Disable Portals to other Dims and use a Stargate instead (Add a mod to do this)
   - Stargate will need to be **Pay $ to Enter** (lightmans currency) based on destination and have easy access to return
+  - **Nether** payment will be Iron coins and a diamond
+  - **End** payment will be Gold coins and netherite ingot
+  - **Abydos** payment will be Emerald coins and block of azure silver?
+  - **Undergarden** payment will be Diamond coins and a stargate base block
 - Starting town either built by hand or built with a mod (minecolonies fortress maybe?)
   - Will need seperate buildings for different styles of gameplay
   - Server Owned Vending machines as money sinks: Starter Gear, Armors, Weapons, Basic Food, Simple Items, ETC

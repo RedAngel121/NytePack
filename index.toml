@@ -126,7 +126,7 @@ hash = "1e2947edfe05bf3763e248fad734a46e577f983a64c93ac7b3cdb767244db17a"
 
 [[files]]
 file = "config/sgjourney-common.toml"
-hash = "e761351f7d57aa953bcbaf97a5dcbe21d823925894533c758b252315a2fd51b0"
+hash = "f9890c475c7be8fa96cc325c2843d1eca49f14a14e4566414dd490cf19b8e382"
 
 [[files]]
 file = "config/silentgear-common.toml"
