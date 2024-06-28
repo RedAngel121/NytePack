@@ -10,9 +10,9 @@
 	#Controls the density.
 	#The larger the value the more structures will spawn.
 	#(Must be less than separation)
-	"Structure Density" = 10
+	"Structure Density" = 12
 	#Seed for structures.
-	"Structure Spawn Seed" = 1
+	"Structure Spawn Seed" = 2
 	#Set true to disable ruins.
 	#This will disable the following
 	#structure philipsruins:ancient_ruins
@@ -32,11 +32,11 @@
 	#This will disable the following
 	#structure philipsruins:ocean_fortress
 	#structure philipsruins:ocean_ruins
-	OceanRuins = false
+	OceanRuins = true
 	#Set true to disable ruins.
 	#This will disable the following
 	#structure philipsruins:lost_soul_city
 	#structure philipsruins:lost_soul_dungeon
 	#structure philipsruins:underground_structures
-	UndergroundRuins = false
+	UndergroundRuins = true
 

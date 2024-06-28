@@ -30,7 +30,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 # ~ BUILD TEAM NOTES ~
 ## Pack Build Rules are as follows:
-1. No Easy Teleporting items or players (Stargates Exception)
+1. No Easy Teleporting items or players (Stargates Exception because power limitations)
 2. No Easy Backpacks or On-Person Inventory Storage (Toolbelt and Agricraft Pouch Exceptions or similar item specific inv spaces)
 3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Travel/Stargates/?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
@@ -41,6 +41,18 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
+- [ ] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
+- [ ] is 5 iron coins enough Starting Cash?
+- [ ] Adjust Mob Cash Drops: deep dive into lightmans to find and lower natural drop count to 1-5 coins per mob
+- [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
+- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff (not yet possible)
+- [ ] Gateways to Eternity
+  - Add an absolute metric ton of gateways *cause thats going to be fun*
+  - Integration with lightmans for special purchases or Heart Canisters
+
+# Big Recipe Changers
+- [ ] Add loot tabes from other mods for lightmans to insert coins into
+- [ ] Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
@@ -50,23 +62,10 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
   - the entire Ore Block can double or triple this input/output
   - More complex ore processing will yield better results
   - Mekanism is a good example of this
-- [ ] I need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency and FLAN
-  - How does this factor into:
-    - Starting Cash? 5i
-    - Mob Cash Drops? deep dive to find and lower natural drop count
-    - Chest Loot? need to add loot tabes from other mods
-- [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
-- [ ] Philip's Ruins Needs Increased Distance Between Ruins
-- [ ] Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
-- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff (not yet possible)
-- [ ] Gateways to Eternity
-  - Add an absolute metric ton of gateways *cause thats going to be fun*
-  - Integration with lightmans for special purchases or Heart Canisters
 
 # Things to look into:
 ### QOL:
-- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu): Lots of work
-- [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Lots of work
+- [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
 
 ### Heavy Consideration:
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"

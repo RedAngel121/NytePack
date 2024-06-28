@@ -98,7 +98,7 @@ hash = "30c3bf0269badd9371ecd588d1b6455666ceeced976ddb93d61c4ff89d774051"
 
 [[files]]
 file = "config/philips-ruins-common-configs.toml"
-hash = "81b0cae0e4263bb9646702c4311158f73a96ac08dc468a6f09f188c7dd6bf032"
+hash = "da7f15f4470bc811eb9440c3d72fa3791b9c536d1c547c43eaef370a238f0306"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
