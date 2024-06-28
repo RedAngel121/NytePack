@@ -1394,7 +1394,7 @@ hash = "42bb5dca7fa82a0b23adce556ef2bab704b718db185ea72b94c56f1997e271c7"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/crimson_iron_ore.json"
-hash = "30879adb5c6d0597c126b5138126e58d46c4ff532b9d7717b5a6df6d94ab2f51"
+hash = "031c2aa1cd2d9cdd8ed6befa76158601586682818b9e26be6fc1c6ef9a7a2b0a"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/azure_silver_ore.json"

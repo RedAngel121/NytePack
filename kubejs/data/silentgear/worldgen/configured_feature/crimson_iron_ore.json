@@ -10,17 +10,7 @@
         },
         "target": {
           "predicate_type": "minecraft:tag_match",
-          "tag": "forge:netherrack"
-        }
-      },
-      {
-        "target": {
-          "predicate_type": "minecraft:random_block_match",
-          "tag": "forge:netherrack",
-          "probability": 0.05
-        },
-        "state": {
-          "Name": "minecraft:raw_crimson_iron_block"
+          "tag": "minecraft:base_stone_nether"
         }
       },
       {
@@ -34,8 +24,8 @@
       },
       {
         "target": {
-          "predicate_type": "minecraft:random_block_match",
-          "block": "minecraft:blackstone",
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:base_stone_nether",
           "probability": 0.05
         },
         "state": {

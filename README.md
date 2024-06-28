@@ -40,8 +40,8 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 # More Immediate Settings and Changes
 - [x] Upgraded Terrain Generation
 - [x] Upgraded Ore Generation
-- [ ] Adapted Ore Generation from different mods and Dims - Started...
-- [ ] Vein Mining Enchant configs to determine its effects on hunger and durability
+- [ ] Adapted Ore Generation from different mods and Dims
+- [x] Vein Mining Enchant configs to determine its effects on hunger and durability
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial layout will be one raw chunk of ore in a furnace makes a nugget
   - 1 raw chunk in create mixer with water makes 1-3 nuggets
