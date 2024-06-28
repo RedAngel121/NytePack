@@ -12,6 +12,16 @@
           "predicate_type": "minecraft:tag_match",
           "tag": "forge:end_stones"
         }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "forge:end_stones",
+          "probability": 0.05
+        },
+        "state": {
+          "Name": "minecraft:raw_azure_silver_block"
+        }
       }
     ]
   }
