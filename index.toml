@@ -246,7 +246,7 @@ hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "5435ac9e143a8ed8dae72c04baa89f10fe8f87db317c95b4702168f8fdef5ab1"
+hash = "467aae3e90ec05dee88813c023ae50ea671345798d65e8dba560c12cc89c17d4"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/ferranium.json"
@@ -1434,7 +1434,7 @@ hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "c219fbd5fce9a53332f2e7cfc1482ce19c6277e55b8bc360d4a50d0d32f7b7aa"
+hash = "d832a8a271f0bfc867e7ca6b757ff3ccf171cc95735de4ceb94cedc1ed8ec97f"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -1639,6 +1639,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trees-pams-harvestcraft-2.pw.toml"
 hash = "d57e612098aa7e78a6ab0e2d6ddfca93236fa0244448bb5bc8460c84589960a8"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "ff49eb657884d2a28a9c8721af7dd1aa61413e5e1d259d41a121f1a74674f6d4"
 metafile = true
 
 [[files]]

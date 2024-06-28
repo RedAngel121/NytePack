@@ -38,10 +38,11 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items like jetpacks (apoth excluded)
 
 # More Immediate Settings and Changes
-- [x] Upgraded Terrain Generation
-- [x] Upgraded Ore Generation
-- [x] Adapted Ore Generation from different mods and Dims
+- [x] Upgraded Terrain Generation and Ore Generation
+- [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
+- [ ] Immersive Aircraft Recipe Integration with alternative tech mods
+- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial layout will be one raw chunk of ore in a furnace makes a nugget
   - 1 raw chunk in create mixer with water makes 1-3 nuggets
@@ -54,15 +55,10 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
     - Starting Cash? 5i
     - Mob Cash Drops? deep dive to find and lower natural drop count
     - Chest Loot? need to add loot tabes from other mods
-- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff (not yet possible)
-- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
-- [ ] Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
 - [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
-- [ ] Investigate Create: Steam and Rails for stuff I dont want
-- [ ] Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-- [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Philip's Ruins Needs Increased Distance Between Ruins
 - [ ] Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
+- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff (not yet possible)
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways *cause thats going to be fun*
   - Integration with lightmans for special purchases or Heart Canisters
