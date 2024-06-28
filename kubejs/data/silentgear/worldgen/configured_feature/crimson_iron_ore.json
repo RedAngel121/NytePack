@@ -6,8 +6,8 @@
     "targets": [
       {
         "target": {
-          "predicate_type": "minecraft:random_block_match",
-          "block": "minecraft:netherrack",
+          "predicate_type": "minecraft:tag_match",
+          "tag": "forge:nether_stones",
           "probability": 0.05
         },
         "state": {
@@ -20,7 +20,7 @@
         },
         "target": {
           "predicate_type": "minecraft:tag_match",
-          "tag": "minecraft:base_stone_nether"
+          "tag": "forge:nether_stones"
         }
       }
     ]

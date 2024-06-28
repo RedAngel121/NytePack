@@ -6,8 +6,8 @@
     "targets": [
       {
         "target": {
-          "predicate_type": "minecraft:random_block_match",
-          "block": "minecraft:end_stone",
+          "predicate_type": "minecraft:tag_match",
+          "tag": "forge:end_stones",
           "probability": 0.05
         },
         "state": {
