@@ -170,7 +170,7 @@ hash = "c42724bfdf7b019400dd5a33cf187b29e779da3bf11d83d310ff60e0acaacad6"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "92cc7c543ee8534128a473ffce2283ab98a115cde5a4d43e94b7dd9d14d6ef65"
+hash = "00c1d3c1671f452f6e245d1ddeef7ec1bd5bcf299825e5dd2f980b78f832a993"
 
 [[files]]
 file = "config/visualworkbench-client.toml"
