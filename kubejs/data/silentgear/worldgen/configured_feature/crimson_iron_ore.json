@@ -14,12 +14,32 @@
         }
       },
       {
+        "target": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "forge:netherrack",
+          "probability": 0.05
+        },
+        "state": {
+          "Name": "minecraft:raw_crimson_iron_block"
+        }
+      },
+      {
         "state": {
           "Name": "silentgear:blackstone_crimson_iron_ore"
         },
         "target": {
           "block": "minecraft:blackstone",
           "predicate_type": "minecraft:block_match"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:blackstone",
+          "probability": 0.05
+        },
+        "state": {
+          "Name": "minecraft:raw_crimson_iron_block"
         }
       }
     ]
