@@ -38,32 +38,32 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items like jetpacks (apoth excluded)
 
 # More Immediate Settings and Changes
-[x] Upgraded Terrain Generation
-[x] Upgraded Ore Generation
-[ ] Adapted Ore Generation from different mods and Dims - Started...
-[ ] Vein Mining Enchant configs to determine its effects on hunger and durability
-[ ] "Ore Factories" will have different ways of processing ore per type:
+- [x] Upgraded Terrain Generation
+- [x] Upgraded Ore Generation
+- [ ] Adapted Ore Generation from different mods and Dims - Started...
+- [ ] Vein Mining Enchant configs to determine its effects on hunger and durability
+- [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial layout will be one raw chunk of ore in a furnace makes a nugget
   - 1 raw chunk in create mixer with water makes 1-3 nuggets
   - 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for 2 nuggets each or washed for 3-5 nuggets
   - the entire Ore Block can double or triple this input/output
   - More complex ore processing will yield better results
   - Mekanism is a good example of this
-[ ] I need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency and FLAN
+- [ ] I need to hash out Currency and Proper Chunk Claiming and how to pay for it through/with Lightmans Currency and FLAN
   - How does this factor into:
     - Starting Cash? 5i
-    - Mob Cash Drops? deep dive
+    - Mob Cash Drops? deep dive to find and lower natural drop count
     - Chest Loot? need to add loot tabes from other mods
-[ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff (not yet possible)
-[ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
-[ ] Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
-[ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
-[ ] Investigate Create: Steam and Rails for stuff I dont want like phantom rails/bogies
-[ ] Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
-[ ] Immersive Aircraft Recipe Integration with alternative tech mods
-[ ] Philip's Ruins Needs Increased Distance Between Ruins
-[ ] Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
-[ ] Gateways to Eternity
+- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff (not yet possible)
+- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
+- [ ] Add [Quark DynTrees Compat](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark) when it's available
+- [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
+- [ ] Investigate Create: Steam and Rails for stuff I dont want like phantom rails/bogies
+- [ ] Agricraft: Test if mutated crops hold stats after gowing without crop sticks and replanting and replanting and replanting
+- [ ] Immersive Aircraft Recipe Integration with alternative tech mods
+- [ ] Philip's Ruins Needs Increased Distance Between Ruins
+- [ ] Create Mod Possible Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
+- [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways *cause thats going to be fun*
   - Integration with lightmans for special purchases or Heart Canisters
 
@@ -98,7 +98,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 
 # Additional Server World Changes:
 - Disable Portals to other Dims and use a Stargate instead (Add a mod to do this)
-  - Stargate will need to be **Pay $ to Enter** (lightmans currency) based on destination and have easy access to return
+  - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
   - **Nether** payment will be Iron coins and a diamond
   - **End** payment will be Gold coins and netherite ingot
   - **Abydos** payment will be Emerald coins and block of azure silver?
