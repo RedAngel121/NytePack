@@ -1,6 +1,6 @@
 # NytePack
 **Welcome to NytePack where innovation is productivity!**
-- [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
+- Join The [![GameNytes Discord](https://img.shields.io/discord/790631506313478155?color=0a48c4&label=discord)](https://discord.gg/kkjwfuz)!
 
 # WARNING:
 Single player worlds will break repeatedly as the pack is still under heavy development!
@@ -46,7 +46,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
 - [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
 - [ ] Gateways to Eternity
-  - Add an absolute metric ton of gateways with all types of mobs (add new mob mods?) *cause thats going to be fun*
+  - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause thats going to be fun*
   - Find out what rewards should be allowed
 
 # Big Changers
