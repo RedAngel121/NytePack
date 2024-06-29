@@ -1,7 +1,6 @@
 # NytePack
 **Welcome to NytePack where innovation is productivity!**
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
-- [![D](https://img.shields.io/discord/386638254105165836?logoColor=AA0D1B&label=Gamenytes%20Discord)](https://discord.gg/kkjwfuz)
 
 # WARNING:
 Single player worlds will break repeatedly as the pack is still under heavy development!
