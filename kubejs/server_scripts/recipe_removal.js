@@ -38,6 +38,14 @@ ServerEvents.recipes(event => {
         { id: "createdeco:pressing/coins/zinc_coin" },
         { id: "createdeco:zinc_coinstack" },
 
+        { id: "gateways:basic/blaze" },
+        { id: "gateways:basic/enderman" },
+        { id: "gateways:basic/slime" },
+        { id: "gateways:endless/blaze" },
+        { id: "gateways:emerald_grove" },
+        { id: "gateways:hellish_fortress" },
+        { id: "gateways:overworldian_nights" },
+
         { id: "lightmanscurrency:coinmint" },
         { id: "lightmanscurrency:gem_terminal" },
         { id: "lightmanscurrency:portable_gem_terminal" },

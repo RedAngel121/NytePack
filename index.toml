@@ -265,6 +265,78 @@ file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
 hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
 
 [[files]]
+file = "kubejs/data/gateways/gateways/basic/blaze.json"
+hash = "a4a4768a9336452dbeae8df9013fd853950ca7cb3f08d2e2fe0638e80a1b8e52"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/basic/enderman.json"
+hash = "a4cd400e266f994dc43a665650f4b46da71126869c3ac0ed79038299ef4b2705"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/basic/slime.json"
+hash = "ef4ebfb4e32d86fbf5ee42b5a798663baec97dbefa52b909aeffe4fb6a630a6a"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/emerald_grove.json"
+hash = "819d6f6e416058576f4824d83642bf1d46e04693ab5fb0d68afa3ef0f46e08bd"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/endless/blaze.json"
+hash = "a4cf9bd6d83d6093ed627e349e89a2fadead8ef37529174d1827aaeada63f239"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/hellish_fortress.json"
+hash = "acf0a2b1d67846838b5b7f0f24b1a834e91b37aa77ba8ba38d04d0e6c68c46bc"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/overworldian_nights.json"
+hash = "f1b8863e9c18990b24d87e593a130d6553e82b5d5310178ea48d0c1995fba6d6"
+
+[[files]]
+file = "kubejs/data/gateways/gear_sets/chain_with_bow.json"
+hash = "ed849a863e3faf1a7a7cb5e336023d3ed2b63fc5cf3ab4a825e476aefd7f5ad2"
+
+[[files]]
+file = "kubejs/data/gateways/gear_sets/gold_with_axe.json"
+hash = "e78a021da776b246caf449442e9e642066bea86c9e11c99f777c5f4deb5805e0"
+
+[[files]]
+file = "kubejs/data/gateways/gear_sets/iron.json"
+hash = "1af23c52602c4d62210f6fe418132fee51a17f1a1c3b489615526f1521ef0041"
+
+[[files]]
+file = "kubejs/data/gateways/gear_sets/iron_with_diamond.json"
+hash = "a1290dd6d7c7da12c2eaf5d8b81dbce79d628299659c5fd859c1f6208069cecf"
+
+[[files]]
+file = "kubejs/data/gateways/recipes/basic/blaze.json"
+hash = "60f661be921ef9ea2d37a8d1bca0b820bf174f828b035eebf700f8fe8900c074"
+
+[[files]]
+file = "kubejs/data/gateways/recipes/basic/enderman.json"
+hash = "a3ecaad9cbb8c181e9eca987c1d4750ad4d0547748591cff491995cba37af9a7"
+
+[[files]]
+file = "kubejs/data/gateways/recipes/basic/slime.json"
+hash = "b11914a9ba6941a28a46b441c74e19a951e73228dba7df6b4715a1f0160feb80"
+
+[[files]]
+file = "kubejs/data/gateways/recipes/emerald_grove.json"
+hash = "d1e865486954192bb494deb658d21045e56337d7ff08711aeb1c9125b81299aa"
+
+[[files]]
+file = "kubejs/data/gateways/recipes/endless/blaze.json"
+hash = "4a948c2ee57ff84a95563eda02a5ee1559d11ed22e9bacda83875fbd40a6b5bf"
+
+[[files]]
+file = "kubejs/data/gateways/recipes/hellish_fortress.json"
+hash = "144ecc9319509ebdc800ff937ff032e612430a5b465d5b0bd61b7cc561220d5e"
+
+[[files]]
+file = "kubejs/data/gateways/recipes/overworldian_nights.json"
+hash = "7b500031f96a347e1ea5d4c1a4a5b91990814bfdf4a832a01cb03bd84933c9aa"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
 hash = "6592597b0e4767ef37925ad1b33c2ce22175ace1c0ed17dc44fcd711d23b90a2"
 
@@ -1434,7 +1506,7 @@ hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "d832a8a271f0bfc867e7ca6b757ff3ccf171cc95735de4ceb94cedc1ed8ec97f"
+hash = "2b12da19d360f92d398ed9263d63bc9f3e3c955f1589b43c7cd0686a1223a157"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -1653,7 +1725,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "e4a5d71ffd925290804ba8f74fb831c078fe58af47d68f54283f6bb073d33f96"
+hash = "2b6e8ea47bf3f05c6a48d57605bcdc40483e6a8059df816aff1bb44a1a567813"
 metafile = true
 
 [[files]]
