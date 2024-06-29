@@ -309,34 +309,6 @@ file = "kubejs/data/gateways/gear_sets/iron_with_diamond.json"
 hash = "a1290dd6d7c7da12c2eaf5d8b81dbce79d628299659c5fd859c1f6208069cecf"
 
 [[files]]
-file = "kubejs/data/gateways/recipes/basic/blaze.json"
-hash = "60f661be921ef9ea2d37a8d1bca0b820bf174f828b035eebf700f8fe8900c074"
-
-[[files]]
-file = "kubejs/data/gateways/recipes/basic/enderman.json"
-hash = "a3ecaad9cbb8c181e9eca987c1d4750ad4d0547748591cff491995cba37af9a7"
-
-[[files]]
-file = "kubejs/data/gateways/recipes/basic/slime.json"
-hash = "b11914a9ba6941a28a46b441c74e19a951e73228dba7df6b4715a1f0160feb80"
-
-[[files]]
-file = "kubejs/data/gateways/recipes/emerald_grove.json"
-hash = "d1e865486954192bb494deb658d21045e56337d7ff08711aeb1c9125b81299aa"
-
-[[files]]
-file = "kubejs/data/gateways/recipes/endless/blaze.json"
-hash = "4a948c2ee57ff84a95563eda02a5ee1559d11ed22e9bacda83875fbd40a6b5bf"
-
-[[files]]
-file = "kubejs/data/gateways/recipes/hellish_fortress.json"
-hash = "144ecc9319509ebdc800ff937ff032e612430a5b465d5b0bd61b7cc561220d5e"
-
-[[files]]
-file = "kubejs/data/gateways/recipes/overworldian_nights.json"
-hash = "7b500031f96a347e1ea5d4c1a4a5b91990814bfdf4a832a01cb03bd84933c9aa"
-
-[[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
 hash = "6592597b0e4767ef37925ad1b33c2ce22175ace1c0ed17dc44fcd711d23b90a2"
 
