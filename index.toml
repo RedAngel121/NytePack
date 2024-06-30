@@ -246,7 +246,7 @@ hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "164f695f18475721b02c2442d42e74e57fd169abf0f1d93f597dd463c846dbbd"
+hash = "66f25b194c8cf8771c86048756f072c455af9e980a0d49777bc579207b342353"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
