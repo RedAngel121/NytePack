@@ -1,4 +1,23 @@
 JEIEvents.hideItems(event => {
+    event.hide("agricraft:amathyllis")
+    event.hide("agricraft:aurigold")
+    event.hide("agricraft:carbonation")
+    event.hide("agricraft:cuprosia")
+    event.hide("agricraft:diamahlia")
+    event.hide("agricraft:emeryllis")
+    event.hide("agricraft:ferranium")
+    event.hide("agricraft:jaslumine")
+    event.hide("agricraft:lapender")
+    event.hide("agricraft:nethereed")
+    event.hide("agricraft:niccissus")
+    event.hide("agricraft:nitor_wart")
+    event.hide("agricraft:osmonium")
+    event.hide("agricraft:petinia")
+    event.hide("agricraft:platiolus")
+    event.hide("agricraft:plombean")
+    event.hide("agricraft:quartzanthemum")
+    event.hide("agricraft:redstodendron")
+
     event.hide("bhc:canister")
     event.hide("bhc:relic_apple")
 
