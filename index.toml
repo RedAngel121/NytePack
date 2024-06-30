@@ -85,6 +85,10 @@ file = "config/incontrol/spawn.json"
 hash = "93f3d72e9231145579075180b816d5f4aa6e5ce473b5f4157f7f610b9992ae4b"
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "07155fbf3aae320fa10909607f5a2f88bb019d0fd0d2086f8534f440e8a32acf"
+
+[[files]]
 file = "config/lightmanscurrency-common.lcconfig"
 hash = "da23f40be56c05d5ad201fef6fc2ff2b06c708794a2f2e86855ff268fb018a81"
 
@@ -246,7 +250,7 @@ hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "a3817a9fcf5db68ef0eb40736a8a4e1842c8577faea9ef17cf94cebfa94909fb"
+hash = "66f25b194c8cf8771c86048756f072c455af9e980a0d49777bc579207b342353"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
