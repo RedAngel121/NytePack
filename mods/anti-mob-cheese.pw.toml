@@ -1,0 +1,13 @@
+name = "Anti Mob Farm"
+filename = "Anti_Mob_Farm-1.20.1-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d905e2f4a864335e8e9598bb4b69900d1216d750"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4996386
+project-id = 398782

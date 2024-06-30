@@ -1501,8 +1501,13 @@ hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
 
 [[files]]
+file = "mods/anti-mob-cheese.pw.toml"
+hash = "a1ae07f397f20a79867bbdc488479f8105d0a8520e316b7830ccd551b12b59e5"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "06d29ca8dea48bbd487bbcdafb03d07d0d70cbde76d826f064543402a284d16c"
+hash = "bfff4a8be74c7d02e62cc7ba3b75183dbbff98e550dfc648d49f9f721688e730"
 metafile = true
 
 [[files]]
@@ -1727,7 +1732,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "c7457239576d51a1eb220ec83ee336a4f3b49ab54c2823a0fc01318d67b0fd2a"
+hash = "1e66f32d6a6ac8956d6543b3fc7d4a4a6acd470f48a169bbd87b619189e28a9e"
 metafile = true
 
 [[files]]
@@ -1843,6 +1848,11 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "07b988cf27e9fc69a41dd5850f693bc73647ea48b4f8ed5f2e176d26c0e25f76"
+metafile = true
+
+[[files]]
+file = "mods/library-of-exile.pw.toml"
+hash = "fb7f3d5909958d6df4fc39ef5273802bfcd640fca32d154a05ae47d3fc02fde5"
 metafile = true
 
 [[files]]
