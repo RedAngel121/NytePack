@@ -77,6 +77,10 @@ file = "config/davespotioneering-client.toml"
 hash = "951d7b2b2c832999c517491423f6d0c507c19885400eb3e960b0d9f25587f278"
 
 [[files]]
+file = "config/flan/flan_config.json"
+hash = "e2b126952cf2019ba60537e61f7353d958a256b2319c93d3bfc01e09a9b42b0c"
+
+[[files]]
 file = "config/immersive_aircraft.json"
 hash = "d62b68882c06aa471ed93f1ff3504a92499ecc0996b8730e408a707c96861cfb"
 
