@@ -73,7 +73,7 @@
     "mekanism:creative_bin-flan:open_container"
   ],
   "dropTicks": 100,
-  "inactivityTimeDays": 30,
+  "inactivityTimeDays": 90,
   "inactivityBlocksMax": 2000000000,
   "deletePlayerFile": false,
   "bannedDeletionTime": 30,
