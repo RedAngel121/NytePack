@@ -26,11 +26,11 @@
   "gomlReservedCheck": true,
   "mineColoniesCheck": true,
   "buySellHandler": {
-    "buyType": "MONEY",
-    "sellType": "MONEY",
+    "buyType": "ITEM",
+    "sellType": "ITEM",
     "buyValue": 1,
     "sellValue": 1,
-    "ingredient": []
+    "ingredient": ["lightmanscurrency:coin_copper"]
   },
   "maxBuyBlocks": -1,
   "lenientBlockEntityCheck": false,
@@ -72,7 +72,7 @@
     "mekanism:ultimate_bin-flan:open_container",
     "mekanism:creative_bin-flan:open_container"
   ],
-  "dropTicks": 6000,
+  "dropTicks": 100,
   "inactivityTimeDays": 30,
   "inactivityBlocksMax": 2000,
   "deletePlayerFile": false,
@@ -111,7 +111,6 @@
       "flan:endcrystal_place": true,
       "flan:drop": true,
       "flan:claim_message": true,
-      "flan:teleport": true,
       "flan:interact_sign": true,
       "flan:fence_gate": true,
       "flan:chorus_fruit": true,
@@ -166,7 +165,7 @@
       "flan:mob_spawn": "ALLFALSE",
       "flan:teleport": "ALLFALSE",
       "flan:no_hunger": "ALLFALSE",
-      "flan:lock_items": "ALLTRUE",
+      "flan:lock_items": "ALLFALSE",
       "flan:flight": "ALLTRUE",
       "flan:edit_potions": "ALLFALSE"
     }

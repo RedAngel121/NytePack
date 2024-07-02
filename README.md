@@ -3,12 +3,22 @@
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
 
 # WARNING:
-Single player worlds will break repeatedly as the pack is still under heavy development!
+### Single player worlds will break repeatedly as the pack is still under heavy development!
 - If you still want to play it then expect your stuff to be reset/borked a lot
 - No, I'm not helping you if something breaks, I'm probably working that problem anyway
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
 - Requires Prism Launcher or AT Launcher to play, ***CurseForge and Microsoft are not compatable.***
 - Once a public server is ready I will be making an announcement in the Discord
+
+### Multiplayer Server Rules and things to know:
+- Spawn is a Safe Haven; Protected and Defended. Do not find a way to destroy it lest your life be forefit.
+- Food and XP grow your health, both are reset on death. Find a way to make better foods and earn more XP to stay alive.
+- PVP is enabled but not encouraged, unsecured items can be stolen if left out... so dont do that.
+- After a Players death, the items will be locked in the corpse for 7 days, after which they become lootable.
+- You can Claim Land by purchasing the amount you want, Claims will be deleted after 30 days of inactivity.
+- Enemies grow stronger with distance from spawn, do not stray far without preparing yourself for that.
+- Different dimensions empower enemies greatly, steel yourself for the fights of your life.
+- more info to come when i need to share it
 
 # Important Mods List:
 - Agricraft
@@ -67,6 +77,7 @@ Single player worlds will break repeatedly as the pack is still under heavy deve
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
 
 ### Heavy Consideration:
+- waiting for [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) to update and include the Undergarden portal
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [Lit it Up](https://www.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces a bit more realistic
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)

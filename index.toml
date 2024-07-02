@@ -78,7 +78,7 @@ hash = "951d7b2b2c832999c517491423f6d0c507c19885400eb3e960b0d9f25587f278"
 
 [[files]]
 file = "config/flan/flan_config.json"
-hash = "6d0c9cd47d194b1674a33f4bf5a34e32c44e5379ded525e8fd545af8794618f8"
+hash = "5a08ceb08cac4a60e53dad9f52d9502613c2b3e606f15a6e0bafafed378d29a5"
 
 [[files]]
 file = "config/immersive_aircraft.json"
@@ -86,7 +86,7 @@ hash = "d62b68882c06aa471ed93f1ff3504a92499ecc0996b8730e408a707c96861cfb"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "93f3d72e9231145579075180b816d5f4aa6e5ce473b5f4157f7f610b9992ae4b"
+hash = "c756a46cb20207cd58081f3936eaccf7da127e235351a3f377321290e3810a6a"
 
 [[files]]
 file = "config/jei/jei-client.ini"

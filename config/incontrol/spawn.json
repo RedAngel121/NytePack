@@ -1,5 +1,25 @@
 [
     {
+        "mod": "endermanoverhaul",
+        "spawner": false,
+        "mincount": {
+            "amount": 5,
+            "mod": "endermanoverhaul",
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "mod": "creeperoverhaul",
+        "spawner": false,
+        "mincount": {
+            "amount": 5,
+            "mod": "creeperoverhaul",
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
         "mob": "minecraft:pillager",
         "mincount": {
             "amount": 15,
