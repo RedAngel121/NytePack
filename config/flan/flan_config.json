@@ -74,7 +74,7 @@
   ],
   "dropTicks": 100,
   "inactivityTimeDays": 30,
-  "inactivityBlocksMax": 2000,
+  "inactivityBlocksMax": 2000000000,
   "deletePlayerFile": false,
   "bannedDeletionTime": 30,
   "offlineProtectActivation": -1,
