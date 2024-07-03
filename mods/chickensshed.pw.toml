@@ -1,0 +1,13 @@
+name = "ChickensShed"
+filename = "chickensshed-forge-1.6.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf4c10a6bc7270543ecf5301b4021612a92c5582"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5294511
+project-id = 282684

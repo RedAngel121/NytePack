@@ -1642,6 +1642,11 @@ hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
 metafile = true
 
 [[files]]
+file = "mods/chickensshed.pw.toml"
+hash = "aa1d21a567216e1175fa6798671b51d6151cdb4cf35080be280825bc8050398c"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "4337eaad4e8c07a6faed08a344c088aefa38b3e8e41e5a07611195aa2560e939"
 metafile = true
