@@ -13,8 +13,8 @@
 ### Multiplayer Server Rules and things to know:
 - Spawn is a Safe Haven; Protected and Defended. Do not find a way to destroy it lest your life be forefit.
 - Food and XP grow your health, both are reset on death. Find a way to make better foods and earn more XP to stay alive.
-- PVP is enabled but not encouraged, unsecured items can be stolen if left out... so dont do that.
-- After a Players death, the items will be locked in the corpse for 7 days, after which they become lootable.
+- PVP is enabled but not encouraged, unsecured items can be stolen if you left out... so maybe dont do that.
+- After a Players death, the items will be locked in the corpse for 7 days, after which corpses become lootable.
 - You can Claim Land by purchasing the amount you want, Claims will be deleted after 90 days of inactivity.
 - Enemies grow stronger with distance from spawn, do not stray far without preparing yourself for that.
 - Different dimensions empower enemies greatly, steel yourself for the fights of your life.

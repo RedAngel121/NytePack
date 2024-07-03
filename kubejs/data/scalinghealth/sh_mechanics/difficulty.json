@@ -7,7 +7,7 @@
     "type" : "distance",
     "distanceFactor" : 0.1,
     "fromOrigin" : true,
-    "min" : 128
+    "min" : 256
   },
   "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
   "groupBonusRadius" : 64,

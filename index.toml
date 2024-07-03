@@ -1378,7 +1378,7 @@ hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "da344320b46aa5dc4bd2dc2260736e0593ab0881427c26cc15e239623b433387"
+hash = "671600bea4671e40e36f3af4e97b9731084d21bd3e0bd9190909ad39ddc0f420"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
@@ -2023,7 +2023,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "d9540584ede9a6258b54ee7edd452913656b36d6292c53d176d5548a038345a7"
+hash = "27389f0066ee6f400debc1faa656a6763485374cfff79fb4aca2b78c10281a33"
 metafile = true
 
 [[files]]
