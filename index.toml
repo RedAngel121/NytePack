@@ -2261,6 +2261,11 @@ hash = "0d1a0a24a2d759c48bb1daa4b1bf27df514c91a4ff9a2c87df20ed5ce9ae809a"
 metafile = true
 
 [[files]]
+file = "mods/village-nullifier.pw.toml"
+hash = "bfd48ed78e0d553446d5d6323fe1818cd51377ea58b9521e2c57a6aa43b863e3"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
 metafile = true

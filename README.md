@@ -18,7 +18,7 @@
 - You can Claim Land by purchasing the amount you want, Claims will be deleted after 90 days of inactivity.
 - Enemies grow stronger with distance from spawn, do not stray far without preparing yourself for that.
 - Different dimensions empower enemies greatly, steel yourself for the fights of your life.
-- more info to come when i need to share it
+- More info to come when I need to share it
 
 # Important Mods List:
 - Agricraft
@@ -59,6 +59,7 @@
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause thats going to be fun*
   - Find out what rewards should be allowed
+- [ ] Chicken Shed Configs can allow other mobs to drop items once every 20 min
 
 # Big Changers
 - [ ] Add loot tabes from other mods for lightmans to insert coins into
