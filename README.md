@@ -51,6 +51,7 @@
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
+- [ ] Turn off Vanilla Village generation
 - [ ] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
 - [ ] Adjust Mob Cash Drops: deep dive into lightmans to find and lower natural drop count to 1-5 coins per mob
 - [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
