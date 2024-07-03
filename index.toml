@@ -1808,7 +1808,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "1e66f32d6a6ac8956d6543b3fc7d4a4a6acd470f48a169bbd87b619189e28a9e"
+hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
 metafile = true
 
 [[files]]
@@ -1894,6 +1894,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "c309e7c7ee8233136eca526d44d6c6b6a2411f11eb6fe0394e81df1dc6de355f"
+metafile = true
+
+[[files]]
+file = "mods/jaopca.pw.toml"
+hash = "62ab78a708cb3dfcde4d58e0ab1e3046bd93e31421177cef546ca07122ef7efe"
 metafile = true
 
 [[files]]
