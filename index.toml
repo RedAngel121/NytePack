@@ -53,6 +53,10 @@ file = "config/bhc/drops.json"
 hash = "9aaf1787a2a326408b31a8868d22e68cba65ece48b379886f6b204486248554b"
 
 [[files]]
+file = "config/chickensshed-common.toml"
+hash = "5e26f4573f26fe36f5fa7b64c7a033f29c959ca6d316f1cd48db52e828add001"
+
+[[files]]
 file = "config/chunksending.json"
 hash = "d5547fb66e56e6a5e7024c897afddb7084003c81112f2c913a5bdc717b386f4c"
 
@@ -86,7 +90,7 @@ hash = "d62b68882c06aa471ed93f1ff3504a92499ecc0996b8730e408a707c96861cfb"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "c756a46cb20207cd58081f3936eaccf7da127e235351a3f377321290e3810a6a"
+hash = "29f8da243d863207091a365809ffb2bb15b2ee31934585664d63e26108bdd381"
 
 [[files]]
 file = "config/jei/jei-client.ini"
