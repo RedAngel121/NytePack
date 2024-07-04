@@ -47,7 +47,7 @@
 5. Power storage, production, and transfer, will be handled in world and not by items on the player (to the best of ability)
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items like jetpacks (apoth excluded)
 
-# More Immediate Settings and Changes
+# Initial Changes
 - Add and Configure [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) After the v6 Update
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
@@ -57,10 +57,7 @@
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 
 # Big Changers
-- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
-- [ ] Gateways to Eternity
-  - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
-  - Find out what rewards should be allowed
+- [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Create Mod Possible Mining Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
@@ -71,6 +68,10 @@
   - the entire Ore Block can double or triple this input/output
   - More complex ore processing will yield better results
   - Mekanism is a good example of this
+- [ ] Gateways to Eternity
+  - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
+  - Find out what rewards should be allowed
+- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
 
 # Ongoing Changers
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
