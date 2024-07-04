@@ -56,7 +56,7 @@
 - [x] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 
-# Big Changers
+# Big Changes
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Create Mod Possible Mining Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
@@ -65,15 +65,20 @@
   - Initial layout will be one raw chunk of ore in a furnace makes a nugget
   - 1 raw chunk in create mixer with water makes 1-3 nuggets
   - 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for 2 nuggets each or washed for 3-5 nuggets
-  - the entire Ore Block can double or triple this input/output
+  - the actual Ore Block can double or triple this input/output
   - More complex ore processing will yield better results
   - Mekanism is a good example of this
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
 - [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
+- The Undergarden
+  - [ ] Ore Gen Adaptation
+  - [ ] Silent Gear Integration
+  - [x] Scaling Health Integration
+  - [x] Stargate Integration
 
-# Ongoing Changers
+# Ongoing Changes
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add loot tabes from other mods for lightmans to insert coins into
 
@@ -86,10 +91,8 @@
 - [Lit it Up](https://www.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces a bit more realistic
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
   - Heavily modified ore gen and recipes to counter its easy access, should not be accessable before visiting alternate dims for ore (lock behind Naq?)
-- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) is a large scale upgrade to include with scaling health mod
 
 ### Interesting Ideas:
-- Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff or adjust it
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):

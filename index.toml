@@ -585,6 +585,30 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
 hash = "a2aa50a613bbb6da4e89d9ffe2b5e502c5ae50283e02d6b06117d09564089984"
 
 [[files]]
+file = "kubejs/data/moregates/recipes/crystallizing/aether_variant_crystal.json"
+hash = "e884f9416cfddd1cbde2e37ac5718c7ed36d318f9682ce7c62bdc83bef415f1d"
+
+[[files]]
+file = "kubejs/data/moregates/recipes/crystallizing/quartz_variant_crystal.json"
+hash = "2e600af108cb634c7b2f925ac6803a22cacce90d319dfb20cbaddfcca238956a"
+
+[[files]]
+file = "kubejs/data/moregates/recipes/crystallizing/twilight_variant_crystal.json"
+hash = "9174e95d9c6c307c1789f6cff8604bbacc934c0e783cb4f1a22089429b6c4385"
+
+[[files]]
+file = "kubejs/data/moregates/sgjourney/stargate_variant/aether.json"
+hash = "8b3c5955a207153ee74311aa59dc1d641a23ae1aff81298463663ff19716db6d"
+
+[[files]]
+file = "kubejs/data/moregates/sgjourney/stargate_variant/quartz.json"
+hash = "8f477966119ea020f814b71701352e06e4a031eaa24d5a5e010344c5b7fbcfcd"
+
+[[files]]
+file = "kubejs/data/moregates/sgjourney/stargate_variant/twilight.json"
+hash = "11072a555e0963b2c7d14668695143ccc1d659448dbb2976bc87bfddb83931ac"
+
+[[files]]
 file = "kubejs/data/moreminecarts/tags/worldgen/biome/has_vegetation/glass_cactus.json"
 hash = "f74498097708215ee46031db7467ce3abed880ed8188eff156e81993d9787e31"
 
@@ -1533,6 +1557,10 @@ file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/terra_stargate_b
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/structure/milky_way_stargate_pedestal.json"
+hash = "a7606c70fc0f8dd6ff8f7b68c508f79c975269fd8f080e808698dc587a3933c7"
+
+[[files]]
 file = "kubejs/data/sgjourney/worldgen/configured_feature/ore_naquadah_large.json"
 hash = "57c5618848ba367a9c9148254c18b37ec3ba9e52b8229f462b6bff6e6349eee7"
 
@@ -1579,6 +1607,26 @@ hash = "1aed57fba16ebb97ed04d6090134411109197713a7ce8da78928e341158ccd79"
 [[files]]
 file = "kubejs/data/terralith/worldgen/biome/cave/underground_jungle.json"
 hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
+
+[[files]]
+file = "kubejs/data/undergarden_gate/structures/stargate/milky_way/pedestal/milky_way_stargate_pedestal_undergarden_1.nbt"
+hash = "73c50098489990581c40d91d961409321c17b877a786246c3903c56fb2f80359"
+
+[[files]]
+file = "kubejs/data/undergarden_gate/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_undergarden_biomes.json"
+hash = "07a68d1b2c298e958673d07559496bc360af9b73e34e8351e13771399c0aa5d3"
+
+[[files]]
+file = "kubejs/data/undergarden_gate/worldgen/structure/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
+hash = "367b30b083045c376b005d9df1a2da03149f7437657362e5ab0fe8b95ddc0da4"
+
+[[files]]
+file = "kubejs/data/undergarden_gate/worldgen/structure_set/stargate_pedestal.json"
+hash = "538bc6b2e47d474fa022f28a02ff5bad6f9688c65c5e6876921a22935d949055"
+
+[[files]]
+file = "kubejs/data/undergarden_gate/worldgen/template_pool/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
+hash = "91c8eb031fdd6820389107b7ae8b2b86a53e168b9fb0a662be076022d0b1a491"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
@@ -1746,7 +1794,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "efb9cf070be73bc4fe9458a553fd2e470009bb98d44d66c7681fe06c93aee8d7"
+hash = "f620c1aa6c9c9d1614aecb95b3663aa4ebb261292587b7bc9c4dfd8d875b3335"
 metafile = true
 
 [[files]]
@@ -1801,7 +1849,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
-hash = "ff49eb657884d2a28a9c8721af7dd1aa61413e5e1d259d41a121f1a74674f6d4"
+hash = "cea033f4656ca8ee4dd95f4c9f96df85471699830aa15235bc7d170296faf144"
 metafile = true
 
 [[files]]
@@ -2201,7 +2249,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0bf0f8bc9560f90faf19b3528777be0e810b2d1d568c3dad8bdebbb9cd29342b"
+hash = "4a997cac9a71b05a4ffb06bb27849b49a5e4df9cbb90045ac8cc06874b8feffa"
 metafile = true
 
 [[files]]
@@ -2247,6 +2295,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "4a51e5a0f11ba9b7599dcea129862829bfd028c57bf9997f9513b38defbc7e51"
 metafile = true
 
 [[files]]
