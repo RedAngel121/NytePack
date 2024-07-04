@@ -389,6 +389,30 @@ file = "kubejs/data/gateways/gear_sets/iron_with_diamond.json"
 hash = "a1290dd6d7c7da12c2eaf5d8b81dbce79d628299659c5fd859c1f6208069cecf"
 
 [[files]]
+file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier1.json"
+hash = "67a0b6016e344baaeb437fce1eeec806509b48fcb92d3745e53ee85f48296c0e"
+
+[[files]]
+file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier2.json"
+hash = "bfecf364de844f97cb2aa24dbbe919f06be38263dd491abc3402815e1ca3b8d1"
+
+[[files]]
+file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier3.json"
+hash = "251b7a7261ad0d131fd979b4e4c98775ec1c334473d97adc77391af423826498"
+
+[[files]]
+file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier4.json"
+hash = "3ffb1664b54204daea566a4cddf9e021ad91a1f9e81554c523cd2d0210ed2add"
+
+[[files]]
+file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier5.json"
+hash = "52931e2b921b8a69149c35efda23d3b56fc04aa0de44f188b876821acb095f93"
+
+[[files]]
+file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier6.json"
+hash = "f879248a18d6fa6998624b891ecb5ce7540d7b6b6b847384506038eacbf420f9"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
 hash = "6592597b0e4767ef37925ad1b33c2ce22175ace1c0ed17dc44fcd711d23b90a2"
 

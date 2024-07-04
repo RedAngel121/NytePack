@@ -48,21 +48,19 @@
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items like jetpacks (apoth excluded)
 
 # More Immediate Settings and Changes
+- Add and Configure [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) After the v6 Update
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
-- [ ] Turn off Vanilla Village generation
-- [ ] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
-- [ ] Adjust Mob Cash Drops: deep dive into lightmans to find and lower natural drop count to 1-5 coins per mob
-- [ ] Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
-- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
-- [ ] Gateways to Eternity
-  - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause thats going to be fun*
-  - Find out what rewards should be allowed
-- [ ] Chicken Shed Configs can allow other mobs to drop items once every 20 min
+- [x] Turn off Vanilla Village generation
+- [x] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
+- [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 
 # Big Changers
-- [ ] Add loot tabes from other mods for lightmans to insert coins into
+- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
+- [ ] Gateways to Eternity
+  - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
+  - Find out what rewards should be allowed
 - [ ] Create Mod Possible Mining Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
@@ -74,12 +72,15 @@
   - More complex ore processing will yield better results
   - Mekanism is a good example of this
 
+# Ongoing Changers
+- Chicken Shed Configs can allow other mobs to drop items once every 20 min
+- Add loot tabes from other mods for lightmans to insert coins into
+
 # Things to look into:
 ### QOL:
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
 
 ### Heavy Consideration:
-- waiting for [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) to update and include the Undergarden portal
 - Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [Lit it Up](https://www.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces a bit more realistic
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
@@ -87,6 +88,7 @@
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) is a large scale upgrade to include with scaling health mod
 
 ### Interesting Ideas:
+- Mechano? (Unreleased Mod Still Under Heavy Development / Might need to consider New Age in the meantime)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff or adjust it
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
@@ -94,7 +96,7 @@
   - Awating 7.0 update and maybe even avoiding depeding on whats included (July 2024?)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): Possibly incompatable with pack direction due to tools
-- [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) small mod but could be fun (disable wireless chest access?)
+- [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice): will need mob controls / possible starter book for sale / Ore Generation changes
 - [Natures Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura): possible server overhead issues because of the chunk aura updates
 - [Nightmare Epic Siege](https://www.curseforge.com/minecraft/mc-mods/nightmareesm): Disable 90% of the mod: Most things are not ok but more intelligent mobs could be interesting
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) And [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
@@ -108,16 +110,22 @@
   - **End** payment will be Gold coins and netherite ingot
   - **Abydos** payment will be Emerald coins and block of azure silver?
   - **Undergarden** payment will be Diamond coins and a stargate base block
-- Starting town either built by hand or built with a mod (minecolonies fortress maybe?)
+- Starting town built by hand or built with minecolonies fortress and more stuff
   - Will need seperate buildings for different styles of gameplay
-  - Server Owned Vending machines as money sinks: Starter Gear, Armors, Weapons, Basic Food, Simple Items, ETC
+  - Server Owned Vending machines as money sinks: Starter Gear, Armors, Weapons, Basic Food, Wallet, and other Simple Items
+- Add items to spawn that are common for players to use:
+  - Multiple Crafting Tables
+  - Anvil and Smith Table
+  - Apotheosis Tables
+  - Basic Enchanting
+  - Vending Machines
 - Baubley Heart Canisters need to be added to purchasable items from server vending machines
-  - Amulet can be purchased (find good price) maybe Earned with Easy Gateways?
+  - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
   - bones can be earned with gateways and natural mob spawns
-  - red can = 9 wither bones
-  - yellow can = 9 red cans and an iron coin
-  - green can = 9 yellow cans and a gold coin
-  - blue can = 9 green cans and an emerald coin
+  - red can = 5 wither bones
+  - yellow can = 5 red cans and an iron coin
+  - green can = 5 yellow cans and a gold coin
+  - blue can = 5 green cans and an emerald coin
 
 # Lastly,
 - Change Client keybind config and upload to the Nytepack_Installer.Zip
