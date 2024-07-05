@@ -686,7 +686,7 @@ hash = "3f212a8b7333eea8fa4599de1fdc36190aff53c9d23ad03260f4362b54b3ccdc"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold.json"
-hash = "381e823cdc18e770ddb1a3ad5f74e61845a7fa8d84c4e40d26e65a6c62875b09"
+hash = "d7e640276fcc6ab4280005796c994eb9c9d22f1b8effdb7ab82b97576fa2458b"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold_buried.json"
@@ -702,7 +702,7 @@ hash = "db31d518b9c8db6eec9986216861ba7dbcace9454b96f8fe96fdb257cce6b64d"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_iron_small.json"
-hash = "36899b2dae0482f858efcc84dcde8ccc71c382192baf28b5e3139fc6ba4cfab5"
+hash = "52b10ba779c793c46385a545abaeeee53fe2ef50ce1ddca82a853b624e993fbb"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_lapis.json"
@@ -774,7 +774,7 @@ hash = "5cc95a93c2f899e34db260864d9699f14bbba0c1cbe30e9087571e4c2eca4f51"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
-hash = "9b7fafcbcdd20e636bf7e21dbd06cff1fa7564dd66a75e0d817be03dc828fa24"
+hash = "0bd553677253bb884bf8315e57efc61cdf9dc3e27aeab17093de27d73f7a92f2"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
@@ -790,7 +790,7 @@ hash = "7ba3e92d8e48ce1e400cc428d88130f96f33551027d56f944e3f3e6e3a5914d9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "1e767e3997ee22ae0bc3b7f9f12a95a969c6fc6f23428c89f4ab92eb0375246e"
+hash = "5a1f8df4ca51edbb709e0f40c86f7e080b08079fee71ff03bd227a7b7acf1f27"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
