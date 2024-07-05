@@ -1,0 +1,78 @@
+{
+    "healthMode": {
+        "operation": "MULTIPLY_BASE",
+        "scaling_reduction": 0.5
+    },
+    "general": {
+        "passiveMultiplier": 0.0375,
+        "hostileMultiplier": 0.375,
+        "hostilePotionChance": 0.03,
+        "peacefulPotionChance": 0.0,
+        "damageBoostScale": 0.1,
+        "maxDamageBoost": 10,
+        "spawnerModifier": 0.3,
+        "xpBoost": 0.03
+    },
+    "effects": [
+        {
+            "effect": "minecraft:speed",
+            "level": 1,
+            "minDifficulty": 150,
+            "durationInMinutes": 5.0
+        },
+        {
+            "effect": "minecraft:speed",
+            "level": 2,
+            "minDifficulty": 500,
+            "durationInMinutes": 5.0
+        },
+        {
+            "effect": "minecraft:strength",
+            "level": 1,
+            "minDifficulty": 300,
+            "durationInMinutes": 5.0
+        },
+        {
+            "effect": "minecraft:fire_resistance",
+            "level": 1,
+            "minDifficulty": 100,
+            "durationInMinutes": 5.0
+        },
+        {
+            "effect": "minecraft:water_breathing",
+            "level": 1,
+            "minDifficulty": 100,
+            "durationInMinutes": 5.0
+        },
+        {
+            "effect": "minecraft:resistance",
+            "level": 1,
+            "minDifficulty": 400,
+            "durationInMinutes": 5.0
+        },
+        {
+            "effect": "minecraft:regeneration",
+            "level": 1,
+            "minDifficulty": 950,
+            "durationInMinutes": 5.0
+        }
+    ],
+    "blights": {
+        "blightChance": 0.01,
+        "blightXpBoost": 5,
+        "notifyBlightDeath": false,
+        "blightDifficultyModifier": 2,
+        "effects": [
+            {
+                "effect": "minecraft:resistance",
+                "level": 2,
+                "minDifficulty": 100,
+                "durationInMinutes": 10.0
+            }
+        ]
+    },
+    "pets": {
+        "petsRegenDelay": 30,
+        "petsHealthCrystalGain": 5
+    }
+}

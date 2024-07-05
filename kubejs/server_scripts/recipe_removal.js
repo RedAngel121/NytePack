@@ -1,5 +1,12 @@
 ServerEvents.recipes(event => {
     event.remove([
+        { id: "agricraft:coal" },
+        { id: "agricraft:diamond" },
+        { id: "agricraft:emerald" },
+        { id: "agricraft:quartz" },
+        { id: "agricraft:netherite_scrap" },
+        { id: "agricraft:amethyst_shard" },
+
         { id: "bhc:red_heart_canister" },
         { id: "bhc:yellow_heart_canister" },
         { id: "bhc:green_heart_canister" },
@@ -15,6 +22,8 @@ ServerEvents.recipes(event => {
         { id: "computercraft:turtle_advanced_upgrade" },
         { id: "computercraft:turtle_advanced_overlays/turtle_trans_overlay" },
         { id: "computercraft:turtle_advanced_overlays/turtle_rainbow_overlay" },
+
+        { id: "create:crafting/kinetics/mechanical_drill" },
 
         { id: "createdeco:gold_coin" },
         { id: "createdeco:pressing/coins/gold_coin" },

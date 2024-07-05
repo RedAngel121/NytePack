@@ -1,6 +1,6 @@
 {
-  "chance": 0,
-  "child": "agricraft:diamahlia",
-  "parent1": "minecraft:empty",
-  "parent2": "minecraft:empty"
+    "chance": 0,
+    "child": "agricraft:diamahlia",
+    "parent1": "minecraft:empty",
+    "parent2": "minecraft:empty"
 }

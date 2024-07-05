@@ -1,0 +1,110 @@
+{
+    "type": "silentgear:standard",
+    "simple": true,
+    "availability": {
+        "tier": 2,
+        "categories": [
+            "metal"
+        ],
+        "visible": true,
+        "gear_blacklist": [],
+        "can_salvage": true
+    },
+    "crafting_items": {
+        "main": {
+            "tag": "forge:ingots/froststeel"
+        }
+    },
+    "name": {
+        "text": "Froststeel Ingot"
+    },
+    "stats": {
+        "main": {
+            "durability": 575.0,
+            "armor_durability": 22.0,
+            "repair_value": 0.15,
+            "enchantability": 11.0,
+            "harvest_level": 3.0,
+            "harvest_speed": 8.0,
+            "melee_damage": 4.0,
+            "magic_damage": 1.0,
+            "attack_speed": -0.2,
+            "armor": 20.0,
+            "armor/helmet": 3.0,
+            "armor/chestplate": 7.0,
+            "armor/leggings": 6.0,
+            "armor/boots": 2.0,
+            "armor_toughness": 16.0,
+            "knockback_resistance": 0.5,
+            "magic_armor": 6.0,
+            "ranged_damage": 3.0,
+            "ranged_speed": 0.0,
+            "rarity": 40.0,
+            "chargeability": 0.8
+        },
+        "rod": {
+            "durability": {
+                "mul2": 0.25
+            },
+            "rarity": 40.0,
+            "ranged_damage": {
+                "add": 0.8
+            }
+        }
+    },
+    "traits": {
+        "main": [
+            {
+                "name": "silentgear:malleable",
+                "level": 5
+            },
+            {
+                "name": "silentgear:heavy",
+                "level": 5
+            },
+            {
+                "name": "silentgear:chilled",
+                "level": 5
+            }
+        ],
+        "rod": [
+            {
+                "name": "silentgear:malleable",
+                "level": 5
+            },
+            {
+                "name": "silentgear:chilled",
+                "level": 3
+            }
+        ]
+    },
+    "model": {
+        "main/all": [
+            {
+                "texture": "silentgear:main_generic_hc",
+                "color": "#B3CCFF"
+            },
+            {
+                "texture": "silentgear:_highlight"
+            }
+        ],
+        "main/fragment": [
+            {
+                "texture": "silentgear:metal",
+                "color": "#B3CCFF"
+            }
+        ],
+        "rod/all": [
+            {
+                "texture": "silentgear:rod_generic_hc",
+                "color": "#B3CCFF"
+            }
+        ],
+        "rod/part": [
+            {
+                "texture": "silentgear:rod",
+                "color": "#B3CCFF"
+            }
+        ]
+    }
+}

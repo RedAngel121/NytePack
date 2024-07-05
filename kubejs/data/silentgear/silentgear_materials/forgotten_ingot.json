@@ -1,0 +1,110 @@
+{
+    "type": "silentgear:standard",
+    "simple": true,
+    "availability": {
+        "tier": 4,
+        "categories": [
+            "metal"
+        ],
+        "visible": true,
+        "gear_blacklist": [],
+        "can_salvage": true
+    },
+    "crafting_items": {
+        "main": {
+            "tag": "forge:ingots/forgotten_metal"
+        }
+    },
+    "name": {
+        "text": "Forgotten Ingot"
+    },
+    "stats": {
+        "coating": {
+            "durability": [
+                {
+                    "mul2": 0.2
+                },
+                {
+                    "add": 20.0
+                }
+            ],
+            "armor_durability": {
+                "mul2": 0.121212125
+            },
+            "harvest_speed": {
+                "mul2": 0.125
+            },
+            "harvest_level": {
+                "max": 4.0
+            },
+            "melee_damage": {
+                "mul2": 0.13333334
+            },
+            "magic_damage": {
+                "mul2": 0.13333334
+            },
+            "ranged_damage": {
+                "mul2": 0.13333334
+            },
+            "ranged_speed": {
+                "mul2": 0.1
+            },
+            "armor_toughness": {
+                "add": 4.0
+            },
+            "knockback_resistance": {
+                "add": 1.0
+            },
+            "enchantability": {
+                "add": 5.0
+            }
+        }
+    },
+    "traits": {
+        "coating": [
+            {
+                "name": "silentgear:ancient",
+                "level": 4
+            },
+            {
+                "name": "silentgear:accelerate",
+                "level": 3
+            }
+        ]
+    },
+    "model": {
+        "main/all": [
+            {
+                "texture": "silentgear:main_generic_hc",
+                "color": "#13CD9C"
+            },
+            {
+                "texture": "silentgear:_highlight"
+            }
+        ],
+        "coating/all": [
+            {
+                "texture": "silentgear:main_generic_hc",
+                "color": "#13CD9C"
+            },
+            {
+                "texture": "silentgear:_highlight"
+            }
+        ],
+        "coating/part": [
+            {
+                "texture": "silentgear:coating_material",
+                "color": "#13CD9C"
+            },
+            {
+                "texture": "silentgear:coating_jar"
+            }
+        ],
+        "main/fragment": [
+            {
+                "texture": "silentgear:dust",
+                "color": "#13CD9C"
+            }
+        ]
+    }
+}

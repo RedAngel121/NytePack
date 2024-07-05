@@ -1,6 +1,0 @@
-{
-  "chance": 0.5,
-  "child": "pamhc2crops:lentil",
-  "parent1": "pamhc2crops:rice",
-  "parent2": "pamhc2crops:quinoa"
-}

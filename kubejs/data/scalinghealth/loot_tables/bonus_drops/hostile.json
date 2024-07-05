@@ -1,28 +1,28 @@
 {
-  "type": "minecraft:entity",
-  "pools": [
-    {
-      "name": "difficulty_mutators",
-      "rolls": 0,
-      "entries": [
+    "type": "minecraft:entity",
+    "pools": [
         {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 0
-            }
-          ],
-          "name": "scalinghealth:cursed_heart"
+            "name": "difficulty_mutators",
+            "rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 0
+                        }
+                    ],
+                    "name": "scalinghealth:cursed_heart"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:random_chance_with_looting",
+                    "chance": 0,
+                    "looting_multiplier": 0
+                }
+            ]
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:random_chance_with_looting",
-          "chance": 0,
-          "looting_multiplier": 0
-        }
-      ]
-    }
-  ]
+    ]
 }

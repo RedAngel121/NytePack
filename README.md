@@ -26,7 +26,7 @@
 - Cataclysm
 - Chipped
 - Cooking for Blockheads
-- Create
+- Create + TFMG
 - Dynamic Trees
 - FLAN
 - Immersive Aircraft
@@ -55,10 +55,16 @@
 - [x] Turn off Vanilla Village generation
 - [x] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
+- [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
+- [x] Create Mechanical Drill Disabled
+- [x] The Undergarden
+  - [x] Ore Gen Adaptation (check validity)
+  - [x] Silent Gear Integration
+  - [x] Scaling Health Integration
+  - [x] Stargate Integration
 
 # Big Changes
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
-- [ ] Create Mod Possible Mining Issues - Mechanical Drill makes things too easy, slow down or disable ore drilling?
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
@@ -72,11 +78,6 @@
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
 - [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
-- The Undergarden
-  - [ ] Ore Gen Adaptation
-  - [ ] Silent Gear Integration
-  - [x] Scaling Health Integration
-  - [x] Stargate Integration
 
 # Ongoing Changes
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min

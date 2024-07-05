@@ -1,0 +1,23 @@
+{
+    "type": "silentgear:wielder_effect",
+    "max_level": 5,
+    "name": {
+        "text": "Featherweight"
+    },
+    "description": {
+        "text": "Reduces fall damage"
+    },
+    "potion_effects": {
+        "curio": [
+            {
+                "type": "piece_count",
+                "effect": "undergarden:featherweight",
+                "level": [
+                    3,
+                    4,
+                    5
+                ]
+            }
+        ]
+    }
+}

@@ -1,6 +1,0 @@
-{
-  "chance": 0.5,
-  "child": "pamhc2crops:arrowroot",
-  "parent1": "pamhc2crops:cassava",
-  "parent2": "pamhc2crops:taro"
-}

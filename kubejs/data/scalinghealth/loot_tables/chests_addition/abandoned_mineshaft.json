@@ -1,90 +1,90 @@
 {
-  "pools": [
-    {
-      "rolls": 0,
-      "entries": [
+    "pools": [
         {
-          "type": "minecraft:item",
-          "weight": 0,
-          "quality": 0,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ],
-          "name": "scalinghealth:heart_crystal"
-        },
-        {
-          "type": "minecraft:item",
-          "quality": 0,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ],
-          "name": "scalinghealth:cursed_heart"
-        },
-        {
-          "type": "minecraft:item",
-          "quality": 0,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ],
-          "name": "scalinghealth:enchanted_heart"
-        },
-        {
-          "type": "minecraft:item",
-          "quality": 0,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ],
-          "name": "scalinghealth:chance_heart"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 0,
-          "quality": 0,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ],
-          "name": "scalinghealth:power_crystal"
-        },
-        {
-          "type": "minecraft:empty",
-          "weight": 0
+            "rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 0,
+                    "quality": 0,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 0,
+                                "type": "minecraft:uniform"
+                            }
+                        }
+                    ],
+                    "name": "scalinghealth:heart_crystal"
+                },
+                {
+                    "type": "minecraft:item",
+                    "quality": 0,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 0,
+                                "type": "minecraft:uniform"
+                            }
+                        }
+                    ],
+                    "name": "scalinghealth:cursed_heart"
+                },
+                {
+                    "type": "minecraft:item",
+                    "quality": 0,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 0,
+                                "type": "minecraft:uniform"
+                            }
+                        }
+                    ],
+                    "name": "scalinghealth:enchanted_heart"
+                },
+                {
+                    "type": "minecraft:item",
+                    "quality": 0,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 0,
+                                "type": "minecraft:uniform"
+                            }
+                        }
+                    ],
+                    "name": "scalinghealth:chance_heart"
+                },
+                {
+                    "type": "minecraft:item",
+                    "weight": 0,
+                    "quality": 0,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 0,
+                                "type": "minecraft:uniform"
+                            }
+                        }
+                    ],
+                    "name": "scalinghealth:power_crystal"
+                },
+                {
+                    "type": "minecraft:empty",
+                    "weight": 0
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

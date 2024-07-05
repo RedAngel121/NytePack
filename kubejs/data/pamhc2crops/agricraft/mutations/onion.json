@@ -1,6 +1,0 @@
-{
-  "chance": 0.5,
-  "child": "pamhc2crops:onion",
-  "parent1": "pamhc2crops:celery",
-  "parent2": "pamhc2crops:brusselsprout"
-}

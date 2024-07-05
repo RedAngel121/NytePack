@@ -126,7 +126,7 @@ hash = "2d45215493cae8e09e29e8b82c519f5ed148bf5cd2b67c8d33d454cc8762deb9"
 
 [[files]]
 file = "config/scalinghealth-client.toml"
-hash = "492b7125dc6ef0901fca805310a18431d05720debd8e2af399b48ceeeb002aec"
+hash = "d40ad864ed19c96527a4d72599dbc483819af598643a11091b408b14643e292b"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -257,88 +257,300 @@ file = "instance.png"
 hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
 [[files]]
+file = "kubejs/assets/jajasgates/sounds.json"
+hash = "4b56009f6c93eeebc948c6b94598f9e082d5cf440b65081d1b7ba157e39ab63b"
+
+[[files]]
+file = "kubejs/assets/jajasgates/sounds/mw_nether_disconnect.ogg"
+hash = "002f4a87b004465b27d7d6509db68843e9de2856cef8f8799b9a8e658c98fa32"
+
+[[files]]
+file = "kubejs/assets/jajasgates/sounds/mw_nether_idle.ogg"
+hash = "c49b876ff0476a4e2a072dd85d050f2c4d25e2c3d185723ac948c2f81a3a875d"
+
+[[files]]
+file = "kubejs/assets/jajasgates/sounds/mw_nether_open.ogg"
+hash = "b55798edb01141501872819f04ce1f16368458f8afe60d73749488cc2122913f"
+
+[[files]]
+file = "kubejs/assets/jajasgates/sounds/universe_wormhole_open.ogg"
+hash = "eee53a0700ebc3775fde9a03eba4d71731905dfedfec09714864ad19cf343d1e"
+
+[[files]]
+file = "kubejs/assets/jajasgates/sounds/wormhole_idle.ogg"
+hash = "77861ec3c41d77aa4ff260f0bea64f4945c40cdde76b3d961658b1420db8829f"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/event_horizon.png"
+hash = "40e52f7dbbebca15acb4d12d5d71216849eda4beb3f44a93e047f3ac6189a984"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/event_horizon.xcf"
+hash = "27e55875655bc6a981c039c13ebe173931626c30d176cdd720f057ac0e28d4d0"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/event_horizon_shiny.png"
+hash = "b5eaae3e4c7c6a758b743b9372f872572f3457f2526e380491268ec7a8299f7e"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/nether_portal.gif"
+hash = "d31b62f9837bd81b5a6955fd4ece31d98944f93fd560f65a8dae0b6f1bc922a3"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/nether_portal.png"
+hash = "7ba1a700dbb3cd62285b3085bce5f042c744f2a1d47cd984656f8bf1bcb661db"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/stargate.png"
+hash = "ea2f7abe65dae515465d6f833ecc442465afc1f2b2613c76f8e8f341ef576639"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/stargate_engaged.png"
+hash = "a7ff604e7723780d3d47997bc09d164f9dc25d1c024708f52d115c5850ab97b0"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/event_horizon.png"
+hash = "b6de32390040edaa36266c70cb7e306646357800ca822625047a2f448ac9a9b5"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/event_horizon_shiny.png"
+hash = "e4fd65f25810e5a0924fa3f51be522e448a701082a4241efed90925d91249e99"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/stargate.aseprite"
+hash = "7a9d41d1f965fe10fca67cf6127a407e4c7a545ae41714fad01add831778a223"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/stargate.png"
+hash = "8a73b785d6b023499e4f0dcdd362f3d2c87e0b4ae0e949ee293cfaa1a3ba600e"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/stargate_alternate.png"
+hash = "92fd4454531677fcab8f8ef6cdf80ef7ea7aa3024d89650fae114832337c44ed"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/stargate_alternate_engaged.png"
+hash = "47c1dfc63990351836cd63227bff623b4c60575f5e891bb9bc511f8444957fbc"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/stargate_engaged.png"
+hash = "8fcc531f6fce4434daa0900007146e7c5a9b392aeafcc131fbaa1f83fe30dd07"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/event_horizon.png"
+hash = "cce0199042a7f2231f09698d513fe51da52cf88028ed3b012179345d99ec6005"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/event_horizon_shiny.png"
+hash = "aa256979e7b63c706ad11c3f41be56ebb6d1396121290f4968083d5e5a027e6c"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/lava_horizon.png"
+hash = "0321467a9edd6fb488769c6040d34222ee60c86a1cb9787da832ae145a126b96"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/lava_horizon.xcf"
+hash = "235fd3bd83061224e993942f842b27881f4ed6d726b651436223a3f829471ab3"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/lava_horizon_shiny.png"
+hash = "ebbac6766d0431786eb15011658610faf98b924e2b8219294012a00866e41768"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/lava_horizon_shiny.xcf"
+hash = "7049068c42be374fb28eff61f5325c15bd5e86f1cca1a5314421598ba0d4c7b3"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/layer_a_and_c.png"
+hash = "9527d7df6199d4ab834100c8791459d2333eafc0e7f03cff2709d4da96647013"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/layer_b.png"
+hash = "59eb4c37465569f5bb6b00b2f66d6406160db6c56e4e1128e3a57496ca719d5f"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate.aseprite"
+hash = "2eeddc3b379c5fb039d5b1ccb0d7b3af2328f4cdf58bf0bf2e380bf18dba93f6"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate.png"
+hash = "de4c92be40b007bcd066769af032b5137cddeeb0e5e096aee733b52bb4c20a35"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate_alternate.png"
+hash = "92fd4454531677fcab8f8ef6cdf80ef7ea7aa3024d89650fae114832337c44ed"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate_alternate_engaged.png"
+hash = "47c1dfc63990351836cd63227bff623b4c60575f5e891bb9bc511f8444957fbc"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate_engaged.png"
+hash = "8fcc531f6fce4434daa0900007146e7c5a9b392aeafcc131fbaa1f83fe30dd07"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_event_horizon.png"
+hash = "fb13851379059c42ed58ab97c709d69e781ed11f186cfe250a675a7cd88ab7ba"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_event_horizon_shiny.png"
+hash = "d43c9b478970c188f6e6cf411f9ba69d6a4ca1612589740034e53ea8fbd3592c"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_stargate.png"
+hash = "9b8dcd0cc2c2d37e2c779a5fa23cdd72610499662a6b0997602e31e100a185da"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_stargate_alternate.png"
+hash = "a16cb6f9d0114e640b532dee95aa1f90216975ad93e2122152a66f12f0a67380"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_stargate_alternate_engaged.png"
+hash = "a618bf8e3b47ec291e1df920817fdab4f13e4e8f61809f12885b019503cfe145"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_stargate_engaged.png"
+hash = "25ff19b5ddc6572fa2c85d8dc58b809f599615aec2f4bd0749c9f69dc831eaaf"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/aether/aether_event_horizon.png"
+hash = "4be9847feb1e0502082d250e16ce4a785da765e29b33fbd4c536b8fd8796f7bc"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/aether/aether_event_horizon_shiny.png"
+hash = "63cc1b705cdace88e1eb247596a9790c0a364e80afca51da48f7ce87c3a62f6c"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/aether/aether_stargate.png"
+hash = "a79ca0aa81ffef6beaa66831c9d52eb6fe76f7b1b07d169b43b78dc9af437442"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/aether/aether_stargate_engaged.png"
+hash = "0a4f304d4fed78e647f9f5e1293bdd46ff2c83e08fa30c753a5be720c8f1172c"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/quartz/quartz_event_horizon.png"
+hash = "17557c61b4a34d162821b9b8435d0a746e369be472cfa7eaed7491be5b13ed9f"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/quartz/quartz_event_horizon_shiny.png"
+hash = "e35b3f087e37db21b8305fc9e1f96a330acb16adc2d009c5edd51c6dff3b914d"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/quartz/quartz_event_horizon_shinyalt.png"
+hash = "62d41066519872349c51d90d70dfae3a9450f518b6e92eeda0395d27eaae91ec"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/quartz/quartz_stargate.png"
+hash = "917412779857e67f6d94f4a9d0d9df4bab6d47e577dce573e79bf745efb46e1d"
+
+[[files]]
+file = "kubejs/assets/moregates/textures/entity/stargate/universe/quartz/quartz_stargate_engaged.png"
+hash = "9fce9c6d0827b6fd929cf36b3c39e4ae383e3db2ac1b55b00fe6fd6700781a4c"
+
+[[files]]
+file = "kubejs/assets/silentgear/textures/item/cloggrum_ingot/cloggrum_ingot.png"
+hash = "b163aabd18e37c36fa65ba5a726793a23efedf81caf54d28fbfb7eda01e73da5"
+
+[[files]]
+file = "kubejs/assets/silentgear/textures/item/forgotten_ingot/forgotten_ingot.png"
+hash = "e5b1c8306fbdb4d1d9ff8340daa81b9faf904232b521d3aa777bd71c33888510"
+
+[[files]]
+file = "kubejs/assets/silentgear/textures/item/froststeel_ingot/froststeel_ingot.png"
+hash = "ca818bd9058a5c4beb71447182ecf12aa14b2a62d7179d24d5a79c68289a456b"
+
+[[files]]
+file = "kubejs/assets/silentgear/textures/item/masticator_scales/masticator_scales.png"
+hash = "6b18c0b90480212f868968e4aee2616e6afb75e96cbcec4f9cbdf0d2c85cc6bb"
+
+[[files]]
+file = "kubejs/assets/silentgear/textures/item/utherium_crystal/utherium_crystal.png"
+hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
+
+[[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "66f25b194c8cf8771c86048756f072c455af9e980a0d49777bc579207b342353"
+hash = "a27126a3377c200ec55b9a2a601aeb00028370478e56910b6e2dff8420ce7a1f"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
-hash = "876233a8b5dbd0974b299b3d780b461c3d1cd290c68fe185aac60b62058c9bdc"
+hash = "1532ebdacbb03378a24ae8085326f3367035029879f8184c6784ebb9b2caeaba"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/aurigold.json"
-hash = "281ed43f7390d44091eaf18141ca932b346ce46dc0dfaed26105c313078e87ee"
+hash = "fb6c4ba734a8d6b9e852de0ea873272c0492994a439144610bc2346468395f01"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/carbonation.json"
-hash = "12ec5c83c0ee95afb15ecb46bb8bbb725161c15f2c8fe68e001151c53332d153"
+hash = "27f69b378a3c5cb3e2e0f62afb04070dae0169c9351d24db85b17cec5fc4fc52"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/cuprosia.json"
-hash = "4ecc88d69ec1be0a737c12343cee1e81476ddae5c2cf155debb982d490f27dce"
+hash = "1e631a46bac7fb7a165bc3bfa0d22a0247668de3ebef950b1114ad180ef88c94"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/diamahlia.json"
-hash = "187e1a5a06a7ad1a17428355ae1e32f9083e0a81d682dc7ecaba4fb6a03fe67e"
+hash = "bcdf0979e2c945d9183ab443438795680a9defc1e24f9a6453b24a536136c658"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/emeryllis.json"
-hash = "5bf6fc830d3dddc5936333bbb479fab65238122fa454216e672c79c6b156e3eb"
+hash = "9dd892c8143723d914cc1f27bfc8cc1cd1d5dfe1314761d912a96f45188058d8"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/ferranium.json"
-hash = "6350421d1182d44242ed17a43d765ec3513928a2ef411cf6b272c31cd689a1da"
+hash = "4fc18e7b0764152d2a18ba76c622b324e26c1372c5e2b8b7b2393e678c3bd230"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/jaslumine.json"
-hash = "27b7625b137299545d4335efb4a7c2e71bc30e43c74882de09bd9d4df7cf10b5"
+hash = "330e70bf563fb55e18889783a6438a9e2f37ed957dad5ed59a1b6496b4018558"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/lapender.json"
-hash = "9443cd8b82fdf3869747e986b599c6e1cbaaf74c184cd5d77daf1dcac0e642e5"
+hash = "eeefad3d00287fb149f09753525ac7113cf2fb3f10835ca937af37d5d6351968"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/nethereed.json"
-hash = "d61485a31e95230b2013f3c977ee5b6833dec51bb041a0b3b49bc8687fabceca"
+hash = "b3adf4890c4fccfdffcb526b817c969517510268e754a02d9c014e24fe8a4bf4"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/niccissus.json"
-hash = "f87fc9c855e9698d22ab798bfb3c5bef717375d1d33bc31d32c3bc397acf32b0"
+hash = "15ee9165eb663afe139c5c5981633da0e038a60017fb11b3cc5a5531e4bc53ed"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/nitor_wart.json"
-hash = "f04f80b6f6e9e14e79a217834cc998c363b033a3113a025345065e041f322b89"
+hash = "179796c099acf2cd85ba6dd47e37aba0279e76272f3d695801b2286f2d533eb6"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/osmonium.json"
-hash = "499d644a235013f3446b84b566f9aa544d81e1fe253337a877e68328fff7882b"
+hash = "55a67e9d963573e4669c0df6e3e37520418681bb7963230e1f659c2762e743ba"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/petinia.json"
-hash = "31e845d5ee46fddb956a4c8cd794b029720cafc652943580f31069fa1e1c8b24"
+hash = "0c6b31de3dda244ef19e099670cb3bb43ae2bca800099964bcb3397441d728da"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/platiolus.json"
-hash = "27653b685dd22a49f99dc217117cc20539e33c24945fce09a4998486fd555d1f"
+hash = "fe866becf27e0c4bb615da5fa8c47ad4ddc950dc85de1e548935bbe03a5fd5b9"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/plombean.json"
-hash = "9e5656124f0bb27cadf3f59e2668973554be67801b61b54db6faedc5c1d81fa1"
+hash = "dcf6bab6552ac9bfee8e8ce1d37cce65ad6911edc347a0a8931f8cdbd5008256"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/quartzanthemum.json"
-hash = "09eff8cba23305d7b0d514437e5f3430eb60531fb54df95e273019271e2caed5"
+hash = "197cda8622818d81bb18b0ba7d9af92609059d8dae90acc1895533ab9aba0405"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/redstodendron.json"
-hash = "b7bcf2f939df1cc23d1e227cf3c400e7ed7b8f527b302eb8fbf4e447353cfde5"
+hash = "0772304e930eb3af089915eb5a149241c5d0d75de139a79fa10e7ddf91e20c70"
 
 [[files]]
 file = "kubejs/data/create/worldgen/configured_feature/zinc_ore.json"
-hash = "6c2af5bf3db36808849de81f329ac05f160e87672c2bc26c7d41effa49ccc429"
+hash = "b567c51fb201528b7908b4714f24c2ea170a01ae86d499d6aa715b03ad76140a"
 
 [[files]]
 file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
-hash = "bbd438c4143213a2ef3bd71c2f162c8237a443c23eeb4a89fe6140ad41be0410"
+hash = "82a8db1b96d9c609981fe32d2f4d9c89c9695ffc6c8439de92e54ae9d8fad399"
 
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
@@ -346,151 +558,175 @@ hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/blaze.json"
-hash = "a4a4768a9336452dbeae8df9013fd853950ca7cb3f08d2e2fe0638e80a1b8e52"
+hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/enderman.json"
-hash = "a4cd400e266f994dc43a665650f4b46da71126869c3ac0ed79038299ef4b2705"
+hash = "678921b988cf60a28fc9271cda4e6fe996af8a9ff1c0ee6760060b7315a7e687"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/slime.json"
-hash = "ef4ebfb4e32d86fbf5ee42b5a798663baec97dbefa52b909aeffe4fb6a630a6a"
+hash = "fdf0dda1d5d552bc88914e216cb09b4abdf3c3628e6ff8e930ba7db112ebb23d"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/emerald_grove.json"
-hash = "819d6f6e416058576f4824d83642bf1d46e04693ab5fb0d68afa3ef0f46e08bd"
+hash = "1b4dfdb22f224c125ba37b8d5f2f684c37216ad90c47cae8afa3d41f30dc34c5"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/endless/blaze.json"
-hash = "a4cf9bd6d83d6093ed627e349e89a2fadead8ef37529174d1827aaeada63f239"
+hash = "63c86201f73b7d24bbc746b6057ebe1b6fde32a3d73f695bb7e7bba6a8d56908"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/hellish_fortress.json"
-hash = "acf0a2b1d67846838b5b7f0f24b1a834e91b37aa77ba8ba38d04d0e6c68c46bc"
+hash = "7a60b56caeb61c642a56c9a65282b9a4756459e1f2285cc7cfcef17682cfdc15"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/overworldian_nights.json"
-hash = "f1b8863e9c18990b24d87e593a130d6553e82b5d5310178ea48d0c1995fba6d6"
+hash = "1bb5e8aab4a14962e87e79ce930116d53194973001f2034a601948e3e840b898"
 
 [[files]]
 file = "kubejs/data/gateways/gear_sets/chain_with_bow.json"
-hash = "ed849a863e3faf1a7a7cb5e336023d3ed2b63fc5cf3ab4a825e476aefd7f5ad2"
+hash = "19f56f88d29d39a0c60489063c8fc759c25f6bf014ff867d8e939a1e2e3d1ca0"
 
 [[files]]
 file = "kubejs/data/gateways/gear_sets/gold_with_axe.json"
-hash = "e78a021da776b246caf449442e9e642066bea86c9e11c99f777c5f4deb5805e0"
+hash = "8c2fe2661f866918781c5cc29fdf69b35fa51d681a227bd0559ed442f60ae25a"
 
 [[files]]
 file = "kubejs/data/gateways/gear_sets/iron.json"
-hash = "1af23c52602c4d62210f6fe418132fee51a17f1a1c3b489615526f1521ef0041"
+hash = "a0b0dabfe1b3d5263c609dfcc5e6807198f48c9bbf94f09272a71fd16f4c77a5"
 
 [[files]]
 file = "kubejs/data/gateways/gear_sets/iron_with_diamond.json"
-hash = "a1290dd6d7c7da12c2eaf5d8b81dbce79d628299659c5fd859c1f6208069cecf"
+hash = "337b642662db798b8c2892a3fe5678aebbd159b437ba9298acd06653f6fc87a9"
+
+[[files]]
+file = "kubejs/data/jajasgates/recipes/crystallizing/mw_nether_variant_crystal.json"
+hash = "847c4f3af82cec2a83cd7de5d14177d7f9c6c26d0e73decb57ca5da670e3dc5d"
+
+[[files]]
+file = "kubejs/data/jajasgates/recipes/crystallizing/mw_oak_variant_crystal.json"
+hash = "a15f09ca270c1577c0cd0a7ad59cf5cdd58fe601d1d519a54430d5d52b30639a"
+
+[[files]]
+file = "kubejs/data/jajasgates/recipes/crystallizing/mw_stone_variant_crystal.json"
+hash = "de9f7c218265f1dfe17872cd493c10ce3bd9228a75f88968bccbd03c612cc36d"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/stargate_variant/mw_nether.json"
+hash = "f9544e9868d99c18dab815ae6b319f51ba16d623c3dc8f71c3080145180ad4d1"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/stargate_variant/mw_oak.json"
+hash = "5437b24acabcce7086f2c5eb09dfd4c8b7811beeab0f31fbedfcbdad369b83cf"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/stargate_variant/mw_stone.json"
+hash = "fc9d447221f38327677f6514f8c6243658436523dc47bc1794e6f0d9f0dac708"
 
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier1.json"
-hash = "67a0b6016e344baaeb437fce1eeec806509b48fcb92d3745e53ee85f48296c0e"
+hash = "2083a10759a1ccf6f466c4fa32194e76917a92744bf0e9451132c3681faa0452"
 
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier2.json"
-hash = "bfecf364de844f97cb2aa24dbbe919f06be38263dd491abc3402815e1ca3b8d1"
+hash = "74b6c7cec8adb81c7fbc818a196ace357b16c5cd78e35246bbb39005dd431ac1"
 
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier3.json"
-hash = "251b7a7261ad0d131fd979b4e4c98775ec1c334473d97adc77391af423826498"
+hash = "aa923b93f2d058f652ea0af8dd0bfe265f38b6e55c57b3a337794e23834aff72"
 
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier4.json"
-hash = "3ffb1664b54204daea566a4cddf9e021ad91a1f9e81554c523cd2d0210ed2add"
+hash = "ea400bdc551822fb9f630fae8d88d68c7d5ee1f4618da47c06eff31a91c17c19"
 
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier5.json"
-hash = "52931e2b921b8a69149c35efda23d3b56fc04aa0de44f188b876821acb095f93"
+hash = "225e1430a0d5363e59443167737dcd15087b6b6023f8aa5a8d1ecd888d46225a"
 
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier6.json"
-hash = "f879248a18d6fa6998624b891ecb5ce7540d7b6b6b847384506038eacbf420f9"
+hash = "1ea3f95a5a0af7077168d6db5910f08a43735f59eac8558d8959072a69dc9ed0"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
-hash = "6592597b0e4767ef37925ad1b33c2ce22175ace1c0ed17dc44fcd711d23b90a2"
+hash = "d4ea6fd0ac0f757d5d24dc2a6983cb7f8231f3121c47b8698dcab4edeaf6775f"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_small.json"
-hash = "d31d5ffa1fd8ecda6a0aa438219059f6000eb8385f0b0fc4704493921e5b8283"
+hash = "390e276fe713b97357b11b0c61c66d219ade5657abb1a53c0d97f27df8721cf5"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_coal.json"
-hash = "38b04019334dc5cfc255290364dbba057da899d010a90ee77c59d21cc61ef3ce"
+hash = "151ba64839d513bce1e8355c20870772b49095991877ccbb4ec732261c7fad6f"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_coal_buried.json"
-hash = "6a85b481011dfc33bd25136a61d8c50ca3b0379f87c7227d95d1de195f28079e"
+hash = "111be8447f0fe534643d462a8447eaef82317061126dbfae90e0d0d7b2290eb6"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_copper_large.json"
-hash = "3b5263a64860d27a903f9f7887d1ff1a27f6c54390fef661d12b2b2056eb8338"
+hash = "b1c16968c6319a5933c8cfe8de2446783aeb332fd04db4fb3d476963686a6406"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
-hash = "7588d46a5c5e144ebf49274afd94b91aa930de4749879a9d9cdb5d955b434cc5"
+hash = "38851bba0ad629840753e5599a4236cf05fd3d3f05dd86a04c56ffe203a1bdc0"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_large.json"
-hash = "a0dd80c98bd6b5af95eb68e9d5f81dd646f7a32c93138cb4ea02ceb6daca12f5"
+hash = "4976e07f5d382753793e4f8929fe43ab6bea294a2fed1252dc23f32054cdd114"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_medium.json"
-hash = "2c071e81592e9728437247573c3daecb5ab9bc8a509c1c9d86615431b8e55c51"
+hash = "6f71b215cc51e8cba2e657c3a8293aa29c7628f3753271dacb1f3eaf850e2d06"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_small.json"
-hash = "f077f13db0a7a5960d549b91bdfb755c50b42f89c03df7655f5b0aaef46879f5"
+hash = "3f212a8b7333eea8fa4599de1fdc36190aff53c9d23ad03260f4362b54b3ccdc"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold.json"
-hash = "ba5ab2d1a72748d575eba95a73e1a5a77bce4fe3382919a907763d984e9c27b3"
+hash = "381e823cdc18e770ddb1a3ad5f74e61845a7fa8d84c4e40d26e65a6c62875b09"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold_buried.json"
-hash = "b9a078d70dd5d53d8b01bfb5c69621d693fb648e0f492be2ef9ac67b92beb859"
+hash = "1bee9b30a4b1d5efd54bbe9b98e2ab18b82bb9e3af1a68c9dc7cd9a62389c3a1"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_iron.json"
-hash = "66be40db6b0f13eb086f99cec637fcba077b49713ebaf670c0c2e182f3711bde"
+hash = "f47c2ee0f23a9b71f4dc158959e367c6d9176b526e0225b9aee0aae43c3bd1c2"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_iron_large.json"
-hash = "e66c0d6850051730b9c36f10e9eacbf38ef7860b3d4ff54f497fe6d2bbe437db"
+hash = "db31d518b9c8db6eec9986216861ba7dbcace9454b96f8fe96fdb257cce6b64d"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_iron_small.json"
-hash = "28e44a9bbe267e5bebdbb5910ab97e7e92131232383947870e9d7475e687c1c0"
+hash = "36899b2dae0482f858efcc84dcde8ccc71c382192baf28b5e3139fc6ba4cfab5"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_lapis.json"
-hash = "5abe05ff535da563ef07a877231a2e2b94cb3362d80d233c93a4fa69635bbae0"
+hash = "09f93bbe25097c91fb3bcd036f36c2b9dc5bb2c23e1bbd390f3c5c97827e8157"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_lapis_buried.json"
-hash = "3bf99ff022d2003c07468b43c3a8c131a96f44de48ef4536d45d894ba4a2bd29"
+hash = "a247d6bac5cf86bab72196b71e2ed589f0033b44293ab46d4df8786099d1f38f"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_nether_gold.json"
-hash = "b1f59cf2c95059209a943237e219413f323fd3637a08076daae78c51e55d2928"
+hash = "cba62f9d470e980dc3f7f26100ffb3e60d92a2ce2d164bc538c416be9eabd505"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_quartz.json"
-hash = "4fd7b3fdd99f707268347a67e8fd0c289b289aed743caf3755b83cab76ef7577"
+hash = "a28ea53d091a23140cf1428c920fb6740562df5e58959aa86d9bb49d784222a5"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_redstone.json"
-hash = "267a529d21a81f08cdf54c03e18e9c10ab3e4bc71099e2f630e850282168ab7f"
+hash = "f396a2b1f5873e273f1a107ad312f4b3c0269c39da4475adca2edea4ccc39265"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_ancient_debris_large.json"
-hash = "fd5c8cb6cb2ba6db04905ab04458bf7e4850ceb8603c236c079e00e254bef43e"
+hash = "51757897bcbbdf95982a8ae6ab75d2a72dbc367fd40412eb2cdda61bac9146ec"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
@@ -502,51 +738,51 @@ hash = "3d5d46db29463715ed5e3ceb8520e09b768eddf2d74cc4df812f14c8d6c6d6cb"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper.json"
-hash = "563233d5e8adc774a8b2ac3a1def1bd1b757261fd6af2241f9403b628e14a8ab"
+hash = "87ae09fbcbe160e62c120a563c1e50efa2b60fc180c3b3d09a9d2f3df3b1854a"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper_large.json"
-hash = "563233d5e8adc774a8b2ac3a1def1bd1b757261fd6af2241f9403b628e14a8ab"
+hash = "87ae09fbcbe160e62c120a563c1e50efa2b60fc180c3b3d09a9d2f3df3b1854a"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_debris_small.json"
-hash = "b47562bc6372934bacb1fdab1f4b4b149674f66496529375c6c594c644b4b18f"
+hash = "934bc3dbcb9a4dd30b00832dee5abb3f510c76c091b962304f9c572ca37a065a"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond.json"
-hash = "8c95da0a2d1114859f4e4678930014eefd01d2cb20fd54fa4d92adecf6983303"
+hash = "0bbbc85b3f20b05de3492eaa0de3d9b058018a9528f319a755fe71694abe66c3"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
-hash = "259ee481ac64428a74dcc38280332d02683b402a078ec3328c313e8605eddbca"
+hash = "5a938707dda2bf8aab5026182f352048a57860c29677bfda98732fed25b9858e"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
-hash = "2b64abc392e83326dcb7eb175d237a00fa57243dac602ddda312b1283fbf6bf6"
+hash = "c7f318b25fe7779b5a7112ef6d0b15a0c28e25cdcae6ada279057cd3e81ed69b"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
-hash = "72cb29cb6cb82a7040e9e23e0113448daefb22c8a86842bdd443eee086d8b818"
+hash = "09e172a06a0c46330bfb3a173b33898823cd9f1f9339be9746b8fbdb5d4c8097"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
-hash = "f7987fc0cba773eb0a629ba576b9217cc0f7954e206ffb37f01b672041f3cae8"
+hash = "1c550c0582727668dde870c1900f8f8ec5c8429fa3657728f3d4c239a049ddd8"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
-hash = "99b0e9ac8ee21bf604a63e04a3f5d726de39bfe10f413460c71606888c73eaf0"
+hash = "5cc95a93c2f899e34db260864d9699f14bbba0c1cbe30e9087571e4c2eca4f51"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
-hash = "15c7ed94e6de0b4861f684707ae154801fd27a5d51147813865401652dcfda4f"
+hash = "9b7fafcbcdd20e636bf7e21dbd06cff1fa7564dd66a75e0d817be03dc828fa24"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
-hash = "bf991866d4b083528819e97aaa945b0fbe0027004577013300d7864847bf2013"
+hash = "7d342a0fb9930d2f60448334c5d2dd6533e60fa47950d942425552227604e072"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
-hash = "2dc32e01eff2269a0b72b20dffeb42326ce0b104e251fe0dd6f38244becfb24e"
+hash = "0e343b9094c6431f3c9bd08bedd16edef4c04613a44ca6e801bbc5d55e9e2495"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
@@ -554,47 +790,47 @@ hash = "7ba3e92d8e48ce1e400cc428d88130f96f33551027d56f944e3f3e6e3a5914d9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "0b1a3df44d4e9bbf0920610f8aeb38b129fcd89b3f7f474f07ac9a9dc3d3b9bd"
+hash = "d3c1d38a22c8df7215063ed400e8d54f76b7ca2b3792e7ed6c2f20c543a7ccf1"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
-hash = "87c2d5ddc791eece3fdc02de9a75b6c2a08fba72e3acf9602c59a3cb66866a5d"
+hash = "3b3b98fdcd78b99fc21ba4c6c94578c6b686a5fe39217d3764e6c9c1b09a32d6"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis.json"
-hash = "66da3eba1013d96cb0ff08edab4da95e0a7f793b7e5ced50a737eed8e3051395"
+hash = "1312dda4686ea166a0b064cea381fefd820ee2f0624159f10cd783b9659c2403"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
-hash = "0147e8bc52580c46b5d4d5ca4ef4cc1a535a2a6426cc9cf8d78919223949de19"
+hash = "709dbea4bdb883cef60776e34266ff9f52af63b2486027e75b753c9faf70f761"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_deltas.json"
-hash = "442b484da79c89ba5b5e0a2a8ac86707257bfd595095a7fb5b0ccdb32fba5ee7"
+hash = "3597f91ff7654ed1e39162b196d2e89af493d1e80ebbd55b14b9cbc7659bc037"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_quartz_nether.json"
-hash = "442b484da79c89ba5b5e0a2a8ac86707257bfd595095a7fb5b0ccdb32fba5ee7"
+hash = "3597f91ff7654ed1e39162b196d2e89af493d1e80ebbd55b14b9cbc7659bc037"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone.json"
-hash = "2314f5cf02c65733a1bc0257f70e518d378729ef6c779d76a9d2c46486bb77d6"
+hash = "672180db82465279649d37db1d2d39009e0fe163243cef0cc2f53254c6470661"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
-hash = "a2aa50a613bbb6da4e89d9ffe2b5e502c5ae50283e02d6b06117d09564089984"
+hash = "d8490ec75756f51fb2ad89b3ef089fcc06bc0ef696fc2c66b9aae14da6aa0651"
 
 [[files]]
 file = "kubejs/data/moregates/recipes/crystallizing/aether_variant_crystal.json"
-hash = "e884f9416cfddd1cbde2e37ac5718c7ed36d318f9682ce7c62bdc83bef415f1d"
+hash = "daee9bbfdc9a19096a76232cb7c28936b6868d8efc653711b8af49389e8dd377"
 
 [[files]]
 file = "kubejs/data/moregates/recipes/crystallizing/quartz_variant_crystal.json"
-hash = "2e600af108cb634c7b2f925ac6803a22cacce90d319dfb20cbaddfcca238956a"
+hash = "9feed097f2265adc18d6f8becd84ae2574376c65719931a8bbcc0f174eed4f6e"
 
 [[files]]
 file = "kubejs/data/moregates/recipes/crystallizing/twilight_variant_crystal.json"
-hash = "9174e95d9c6c307c1789f6cff8604bbacc934c0e783cb4f1a22089429b6c4385"
+hash = "72a3fde5d80749d33c42a8a4d17c3a00c7def787435b3157eeb2a1f4b928ff55"
 
 [[files]]
 file = "kubejs/data/moregates/sgjourney/stargate_variant/aether.json"
@@ -610,783 +846,7 @@ hash = "11072a555e0963b2c7d14668695143ccc1d659448dbb2976bc87bfddb83931ac"
 
 [[files]]
 file = "kubejs/data/moreminecarts/tags/worldgen/biome/has_vegetation/glass_cactus.json"
-hash = "f74498097708215ee46031db7467ce3abed880ed8188eff156e81993d9787e31"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/agave.json"
-hash = "0f3670bf804f9a0ff7df22afccd74e503441005c1c2a056980991dbd5d54d8d1"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/alfalfa.json"
-hash = "6d48f84df00fb422d4ee3b9f31250c6fea210e62fc7119ab90924d4bf5194916"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/aloe.json"
-hash = "fd9e7c053981f7c0517c0690b9429adbca58952f1bca196bbbaf0c49c6eda2e5"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/amaranth.json"
-hash = "2342cd5aa9a84635f8bfb9bffb4db288c7c7bab44ddd4e09d0e371f0c559f6c8"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/arrowroot.json"
-hash = "19ca600b08e98ebdf9a73df2b905c05e01b30cbb90e6ba4c0fee0405e452d1e4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/artichoke.json"
-hash = "b2d618362decd7217e9b8aced708614e8ac06843575426444b6a30f4baeb561d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/asparagus.json"
-hash = "668aa9e8b5b77296046bf04dcd031941dd1ceb58f73ad2579559b74920745312"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/barley.json"
-hash = "6d7fa7e132eee798b9ab0eeaa09325177f0940d8c2635e970a01cba0acd081f1"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/barrelcactus.json"
-hash = "423ac3933e689715aaea34d16c8e7fa52d728b99eb26e68fd63334a53f7c16ed"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/bean.json"
-hash = "9db8cb9380bc4c1d577b93ea2440e89c24229fa9b6e7006e3b4155a0240daecd"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/bellpepper.json"
-hash = "32180880f0bb4d75c993c580c15c4486ff49519148a9b419775376be51b0c71e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/blackberry.json"
-hash = "eb28ceafc3e1ba379f329b4d47a4cc6fe88d7150f3380cd75d2c61a07da46264"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/blueberry.json"
-hash = "44d5dc51898cb89c410513f88fdd8c3e4811fccd73501b89a1c60697365f8bfa"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/bokchoy.json"
-hash = "c79f8de3f75ae645dbf15662579a403307ea0f032d5e50e2658958667b6302d1"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/broccoli.json"
-hash = "8ef0ca9c8688095bebed06b34bdb205758c794cd9c431df01d66924ed44919f7"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/brusselsprout.json"
-hash = "162e3eb24be0def3d4b651aa13446515aaab92c1eae8283614cac972a533554e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cabbage.json"
-hash = "11c210aab92ae309ca4f59f2ab200fe39a822d5d080e6302301710d824d29866"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cactusfruit.json"
-hash = "62cd9867a8caacbc0376ee2adba87d74d10c646942cf3d297b1783637447c775"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/calabash.json"
-hash = "61ebe3c72074882e113d9b04df3bc81dc97a20f6aa508ff286002f7a930f9f6e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/candleberry.json"
-hash = "f32328bc3a4b58b06c60028f23eda5b15630c0515267a67176d9495431d69991"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/canola.json"
-hash = "7e56356a78cf8b0430a0f9114c585d109e81b014e8b8e8192974771d8b7f64fb"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cantaloupe.json"
-hash = "e07bda662bc43dd819e1c30c4fcaf6a81eb975121fffdd33ec6ebe8bc4561895"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cassava.json"
-hash = "6103721e9f5750f6402ff4eeea0385269245e81478b80c28c5aef37630536560"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cattail.json"
-hash = "808137a7b1aa7c0fc3a5dd5780697bb60134be1c6228bdf6fdd03f09b8c04b90"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cauliflower.json"
-hash = "3532d30aec75bbf28e7b68916038c29ae71520e0d48552eccfce5a0590487e72"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/celery.json"
-hash = "aaecfa051eb79e5af07956072fd9da3e8a920426fae2b9c5955116086588344e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/chia.json"
-hash = "a9d5d7d08e46f7c6c9af5c87ed0464fb6990921a179c1950ad0a669e3cafbcbf"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/chickpea.json"
-hash = "ba500c57c442020b3243782b8e4056c5fbd05767d8b4b498df56150d0e8c0a6b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/chilipepper.json"
-hash = "71a837810ca29a393b90ad2e8328333de285b586801db705a6551b93abdeb375"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cloudberry.json"
-hash = "190f6b60f9557c143b833baeb47ec728eb19ab5e34fb8624df254aeecff71f9b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cofeebean.json"
-hash = "1fe058770aa68ca1c2961753424f454e872cc4df124fb1b8e3bd752e2f45aeef"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/corn.json"
-hash = "385e6ff4c12c45a37ef9ade48faf5476014175817175ca3c4cc977c3c58f69e6"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cotton.json"
-hash = "679b92c8949c0ded81de07849f3e86f220da31d29486cce3793ba70a97a02329"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cranberry.json"
-hash = "52392a8f1a2cb7153ac7fbeddc7e2cc1107024e74c04a6d36825fb93e473389b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/cucumber.json"
-hash = "d60d518297cbe6e044cf49424e84fca52955f642b6af4a99adbbd3a8e0bd9894"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/eggplant.json"
-hash = "4fac1532367b889d0d1dba47eda9d58ead7b0e9dcec272add5f07c832a01b788"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/elderberry.json"
-hash = "bd11ff4e17919d1c84db6746dc7b5f8a86cf1b31bfca5d7f54ba03a0e034ebe0"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/flax.json"
-hash = "82922e3137d539a3ca0a9563b097ba498cd48c72c2ccb0e69237ec527785896a"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/garlic.json"
-hash = "9a5edaec41a05ada41a6f058cc55feddbd04b4d35a2317cae3d35bad26bb1313"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/ginger.json"
-hash = "dc6adf6900c99004f8ecb6f3596fadb6c5f58de55579daefcc0bffb6330420ac"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/grape.json"
-hash = "ed1dbf1ffbd997144567f8ce1abd81ca4e332b0bfba96650d5ff12d331ee745b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/greengrape.json"
-hash = "58a5f70c633d1299fa064a75b288b96288f42c5b3967459d1853b66c69065293"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/guarana.json"
-hash = "48420101813d0c76c6d75036d3dbd8db7bcc52d61f8c08bc774007c373a46511"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/huckleberry.json"
-hash = "fd65736003036474e60c43a494e909ef57be8e205f9c52be1e12b450f798540d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/jicama.json"
-hash = "af61f1a4f597d519ad0f60c338a753cd596d0eeecdf964fcd0f49a352adc6edc"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/juniperberry.json"
-hash = "14ee9dda889dae61e4bfac6c361953bcee500639ab48238131f49f95dca791a4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/jute.json"
-hash = "749f62203c69b6758e6c1d9e15ef91df1b74a643acbb85c803f33c8050113d3d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/kale.json"
-hash = "b753ac38dd5382803f570d55aa892841a1e1cc88d77df45f5237539cd8ab297d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/kenaf.json"
-hash = "e384675b90b5368e9980aa6015fabcc5eff0756a223a41dfb52b03c92f41e5f8"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/kiwi.json"
-hash = "6211a189b06f9567bcd883bde09f52d563d1045fc76757b98d33582f798a9737"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/kohlrabi.json"
-hash = "10539c6a92211f0ead3546bb625f851cda3d2d18792e687fa845d2337757db19"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/leek.json"
-hash = "2a400f4eb7b85c532ad12ca5a5a2939a4adb4375e91b2f8240fcbfcb984be12a"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/lentil.json"
-hash = "f998c7ad2a49b174a1f0f2000c8e75b3c2523669b3f27925a990b494fbff8e6a"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/letuce.json"
-hash = "dafef7d8ad6a8e8f93bbf055804c53ddc1ff63c2f40d2e2576fe1396dff335ef"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/lotus.json"
-hash = "3b0d23e683b2b482c0d6a6b0ff00b958c26d59a3bb76fed9c75aac23ec579d3a"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/millet.json"
-hash = "bcb8daebb96d0e93cc142c07a2d03c71e31f945db5dbee842727ad46c56b3e67"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/mulberry.json"
-hash = "8a97e942f9d666806ae26c854caa3b72ae89d1a2040796f4feb29c12b522785c"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/mustardseeds.json"
-hash = "fc4f9f7f161df4756267aeb5533c40729222c10693b8cd4b905b650ece15d99f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/nettles.json"
-hash = "d3ac3eb6eafb22364a318277d30bdbc033828899726d4ddf00d308138e68cddb"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/nopales.json"
-hash = "932ce870fdbf21a3c92c9a876001cca2ae90ae58b717f93589fb331d1d0320b8"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/oats.json"
-hash = "dabdf0758a86d71781440a15b0b6ac7ee1a313ce1ed5bed86c9b0edcc75801bc"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/okra.json"
-hash = "26cbd6f19695c77e4aef2544238aa2f892dd800f2a4db96f3f6a1d39495fb8ac"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/onion.json"
-hash = "738bedaaf6a50d5ade3fee285919cd2181a44c3d83d95d5ab274a28932fdaab6"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/papyrus.json"
-hash = "6b16360c2a4e82e62518d78f1bac320dd2a52cc3936ddc4df44b43be13856404"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/parsnip.json"
-hash = "e48dac6a1739f15266e4ce8eefe58a66811bda2859d46ed36fa7b6332991e5b7"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/peanut.json"
-hash = "500c07ec43b57f2a63e9ba4cc7ad7ebd071841f9c95ac88d6e47a7caa71941d2"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/peas.json"
-hash = "9ae4f3188c39e2b18eabe8ef7f065dc0fe396ea361fc959d43973ac55614873d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/pineapple.json"
-hash = "89d6c06a7c6a0d7c5fb56d661e5bb655680d1617fdde6e8e758043597a5419b8"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/quinoa.json"
-hash = "033e0b6e6c8063e8ea84fb78705317f7e81a2121b659cc2e044a2ba60c1fbe5f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/radish.json"
-hash = "a67acee71cfc0fa507803d85402265d115d687542739cd47102c6196d71ccbbe"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/raspberry.json"
-hash = "a326c3c86aa4ac5d5fd0eb8be2872b4db7b06c853287c34a3fcd0e8c79963794"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/rhubarb.json"
-hash = "915dd7fd178f26e1086d88d209dc5e3bd50af5e3e4c9bdea6bc79f3d0f3abcf5"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/rice.json"
-hash = "8dfde81193ca5deadc7213d993d3c3d969b4664e8facf4b3c0c4c8a03c65987f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/rutabaga.json"
-hash = "466b938ef131c2ae081e67963abc47aefb2b075523f423d476f10a9413b2b178"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/rye.json"
-hash = "2ba201e52abfcd652d401e890c12236be0be29fcbc72cac01dcb11575b33d0d0"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/scallion.json"
-hash = "bcd239d4c2259e8195c9faf6e712f78684c5bf993ff034017ad25078159651f4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/sesameseeds.json"
-hash = "acfefc754f54f23650495eef0b04ac168e4f2b4ec42831c85b2c5d619ec7e62f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/sisal.json"
-hash = "7acc8127808aee1233e7a1874643ed27d362f6c53e133535d178cfbd82659c2f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/sorghum.json"
-hash = "1a57e8f33d126518a544419e807d6c7c9d3a69ebafc77593d8574e30a2235a69"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/soybean.json"
-hash = "ea121c8ab0dfb5f2388e54eac1ff927ac0b1a72fa439550336547284f8680a13"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/spiceleaf.json"
-hash = "3bde49b166a8e8ebe789e769f072bfb18edb937eefb2a3d23279c49c601020b6"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/spinach.json"
-hash = "8dfa9ee5c5243501880a51681d4aa74cc9f438d36e268c778b60925ba64c81fb"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/strawberry.json"
-hash = "1dce6c14d3be7262d714ab584c849ffe3834dc6245499948ed2a784490e34893"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/sunchoke.json"
-hash = "f190d6db4f1f5f799fb0bc9f61330aebf62096380032c5518ab32e377d8708fd"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/sweetpotato.json"
-hash = "0a76b20288ef939e4d9c3eebc65cc571a46395322837fabd92c74a02700be7ad"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/taro.json"
-hash = "0929812f46b1b37f16fef39275b6ff857a2bb02f2643bb2329a629216b67e5b8"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/tealeaf.json"
-hash = "fcdf300041250ab3e740da6756da56e3a7bd1fdba3e0113a9de0858489cd65b2"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/tomatillo.json"
-hash = "11611ddacf389937d1e807cc046e19106ae9f6c472307f8db12f7f851c44a150"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/tomato.json"
-hash = "0cb59104c7c0c8b57b808b609edc9566cbd42136f24158db23cdf5d6657bf55a"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/truffle.json"
-hash = "63fff978c7a015b6239698e18212475a641b089e1d43de52fb0d3816c76db762"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/turnip.json"
-hash = "94a648227f92e6acdbf953dd2c3f5b51b7b9d4a5c8d0f9107a47baf0980f5824"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/waterchestnut.json"
-hash = "de9504a52cbdf0b7f7575bff62617b365e74670f4c328fca283e46294d73259e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/whitemushroom.json"
-hash = "5b15d67ea9fbfb34e305b912d24078671bb478c1ae5221fa8353b36b81b58ef4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/wintersquach.json"
-hash = "5ddbe609c9de9f982890891f7c0e76ceb593844f1b3eb5ab3553468903736a30"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/wolfberry.json"
-hash = "84073bd1091f65ccbac26db7ab2453791dea1ed80fd3db6b05f85b473386fcd3"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/yucca.json"
-hash = "aacd01b2c6700fb015712d1623735416e12e11864421eec056851147a8f6f796"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/mutations/zucchini.json"
-hash = "94ed355975bf3e0a34ff32bffdab48ad9b9109a779ab00d8b5ef54f4be371358"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/agave.json"
-hash = "d804afa1ac51c8bc21cdcb2e5edea4c9ef334f21013364af0d1c0388af8e616f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/alfalfa.json"
-hash = "59771ad7ef64caee6f9566c3bd96c66c4c76105ece1aec42c56814374d33b7a6"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/aloe.json"
-hash = "5386aea86ff8aed30ab8145c28f9a71cc248ad249f275171ed00599abb5b8018"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/amaranth.json"
-hash = "28a107e9495b0fa4d467d88cee9adbdd4251322ec46ebfad885a45814ef21e54"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/arrowroot.json"
-hash = "7d9f12adc0ccb4425262a267e283cc8b34bfe868a3d1cf33582167c4323bf40b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/artichoke.json"
-hash = "0ce018436abab3cce6c25541f265536eb254a8083a19bdaf70ec54a95b228913"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/asparagus.json"
-hash = "194a6cc8d8210daaa99b9d29bbec91cc735671a837119780ea2ab62a54ab2210"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/barley.json"
-hash = "57e868db171633f233e4a905e49bdb8f79fcc476d7496fbf50314b0a94e91b11"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/barrelcactus.json"
-hash = "de30381ff69b8929dcfe081ed84028b16588db5765a998dc2064b2ec3cf48286"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/bean.json"
-hash = "85d0b895e46667d38c534a3dd5e1d76ac30acf57166558fe7b8c2fda57f41bf7"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/bellpepper.json"
-hash = "ded8192fa83ae12eb963159d63d7e0a3be0278c27706a44dda297b72d3ee06d8"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/blackberry.json"
-hash = "92f41cce13f6f22138583759266a0ce3582413453852c2748754e8fdd610088c"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/blueberry.json"
-hash = "bce753de93f770909f8c4f10747e3d60b8d70954183c8f99c7a4fc8143e382d7"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/bokchoy.json"
-hash = "4f0056333c99912d32a3f7129263419370953a1c40e82754e508c91d736e48f4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/broccoli.json"
-hash = "b6bc5c8e146446f0c73b7a1b87465773f88696abd3b64fbd44016732295e2460"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/brusselsprout.json"
-hash = "97060ddc69799efea59ca7f7944d1cf82facd82e010c1f0f17771bb231df31c6"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cabbage.json"
-hash = "0da2eae9058ac5a5daa44cd65f7db128b296bb21d5d6b798d02af7ba8ca9e1f0"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cactusfruit.json"
-hash = "f78bf743af666ae1d24e2d93f8ed53fc504f61abd3bd79cdc98524dd45caaa10"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/calabash.json"
-hash = "c9424030f72c98496a0178414784d6325da8cc1a761dc9af16e37de27de39dd0"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/candleberry.json"
-hash = "f970f5c9c9a5aa57774a5755e8259ca470c318de26371097199f4814443d8688"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/canola.json"
-hash = "071bf6e3afc325702a7da9a56ddb764003ecafccd92c379330eaf6a5005672b7"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cantaloupe.json"
-hash = "772fa595550f0b22b287817ac9ed645e5adf37b0a7d8f474c1ffc25c7d05f8bf"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cassava.json"
-hash = "1f458dd5dd148035d7f3acb94a9d57986e40189001299f34f502fc8777733fcf"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cattail.json"
-hash = "9df1f67477e20056f351ad86b92c5b3d9efa49bb9dea53d973f570633f486a1b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cauliflower.json"
-hash = "e1034fd2c75fc23179101bf0278d4c512a7ee10bed79f9a55202255c9b02a918"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/celery.json"
-hash = "4fb610fcb03ebb795f39e307de5429e1e08a221206767eb66a04da3a89269909"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/chia.json"
-hash = "ed39c12f3d9a1ddbda90f087b525157d6437c7c79d95450a0999feaafb5a241c"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/chickpea.json"
-hash = "addd2657fb6714b3bbd4b6e9a6f5e76815447d819e03ef384177c3fc16dc175a"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/chilipepper.json"
-hash = "6b6cbd156e79f19d5df37e6ea8fdd28930167eb8f4bdcd9497d306342adcd47f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cloudberry.json"
-hash = "c9cd661a558eea2914a8852abe9a33efbc0eba26715aec5fd6e6a476c03cada3"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/coffeebean.json"
-hash = "c72eecca53b1b6783e3c19d0ac311d3abe6565e1323581fc56a688d2bfff054d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/corn.json"
-hash = "90a649dd83b6e31d6083d46aa15af103db6e1f871a78be2a24887957550c36ba"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cotton.json"
-hash = "b68e2674029d1a5db8dc0db057900c22997f5fe72da3a0323e066a0dd43d38f7"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cranberry.json"
-hash = "48d0ca285b68d4415c0fb4d956f82962c1425b13b6e92463820411f6f820f747"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/cucumber.json"
-hash = "859a319825b8ebc5504df208797d450c222563db9df80c1cb23e0d2bcf483c7c"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/eggplant.json"
-hash = "44b3a98d0cda05c5946075aeeaecc181d86954d18ff123a83421723cba9b51ab"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/elderberry.json"
-hash = "1c8f9944d4f0e647aa01ed3711fbec0ff99a3d9df2a024b3efb79bd58fceda6f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/flax.json"
-hash = "328d247e3bcde8353d764aa94c311ae4533588367d5f6e35c10dc7dc1d55ff72"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/garlic.json"
-hash = "0ceb52a40349dd9312a04e3979149f001a37bb1a243232ba587e4f81154cb999"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/ginger.json"
-hash = "da23e8bf1cf2a938dc6c1870639a4e34e4358ad69b9972713a2b93fd711e0375"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/grape.json"
-hash = "333ce28201749c12036d2c1f4cdb5f81beba2480deaac52a96de387fa2c55db2"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/greengrape.json"
-hash = "ddf919da738bf0059c42102a1e440c52f556c756c03b1a33118c57f00f5098b6"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/guarana.json"
-hash = "19f65a027636f362a0f27257bfb9911e0ed03840edb51c039f1074d4beba8ecd"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/huckleberry.json"
-hash = "80604c5c9bfd031216e33ed1015bbe5e9ec11d8054f10ccfe454cadb6b26b656"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/jicama.json"
-hash = "e7266ef39f1b63e11b937b32117802a0e432501b3c23b6beefe6735d48215624"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/juniperberry.json"
-hash = "deabbca7a96cc9256ebf7742f72fb5b7111f9dba1f6286ad65a4f148997534f5"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/jute.json"
-hash = "dc74a4c7891e26394dc95dd6612b0bc6dca93eff8d200b7ecb4ec4e5ff7c668c"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/kale.json"
-hash = "ecb2ad11fdb92cecc339b04a54819b9bed3002af7986eeb186f6f8320a4d3925"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/kenaf.json"
-hash = "3e1450f1cf574236a0403c9caedc2f9f15dbf556014369991fd0531d6fc2d282"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/kiwi.json"
-hash = "38abc98cb08198859f346fddce35a1f570695a50a7bdacf44c53b352d6aace68"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/kohlrabi.json"
-hash = "e93d5f517a1d7fff4c29e1f5dde1b06a16547583ab9014678809dd705afbdf7e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/leek.json"
-hash = "92cdc968301d6184fc0b40d2af1f7caf09c03b1c3d55d9f74bed552ce6c408d5"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/lentil.json"
-hash = "ed1d19b1277e230274e2db53942d2c973dc7a42c1b8c1b2c99a02794aaae5163"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/lettuce.json"
-hash = "a04b1f61f1a3d974b2e260d821f79ee8baf927c13c5302dac4e36ffe6177b0fd"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/lotus.json"
-hash = "c3616c62cb1806d536e12de8b51e37b6232bba98c24b86a4e670f1af10d2d3c2"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/millet.json"
-hash = "3a4f346730d8e0e50e98c40bc32ddbf77f4a4605fbc397192cfa28cf27872a84"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/mulberry.json"
-hash = "1b284d604b6b607aaf107b91f5bdc1750be4412162e143729ea855123f3510f4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/mustardseeds.json"
-hash = "9a232a49fbc632c86739942ee61e30e82b6f5f0130db16aa1e374480c92c399c"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/nettles.json"
-hash = "4ea0070625d669e4e8539cddf2ced36532ecb2cfa9dea734bce4327360f173bb"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/nopales.json"
-hash = "e46c518c941ebec879438441cb8399aeb4a0d8f3cee7adc33854d0488f335b91"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/oats.json"
-hash = "be2572460bf23f3cc09b395901c41c564572991f181fe282324d0f4555fa46cc"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/okra.json"
-hash = "ca3e9ceb89468a94ccf82aa399b88fc4b0dae4a455746629456f6c1c9d7c2248"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/onion.json"
-hash = "0398f39c92b3ec748b9ce2990e81eb16145fead116bb9151e1b3e6fd5be26e3d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/papyrus.json"
-hash = "1b7aac5096b153ac1032cd729a78d1c9571ab3509e4c0b20d9ba7b4048652bf4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/parsnip.json"
-hash = "8dbd328d31ed081dd1438e06111218cbb9f75caca1bdfc0675edd35fb7f281ff"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/peanut.json"
-hash = "ec5cd0270dba403ba9c4cb81543bb99f48b83fd154ed955d68a6ab3bc716b1a2"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/peas.json"
-hash = "c24b4dd13dadb962697a4621d21e1fab78820da4328a80a2c65d119e30ef9979"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/pineapple.json"
-hash = "241024813cdeebcf5f0c739af1ab80595d0be8642f05892f66d0a940e31488c0"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/quinoa.json"
-hash = "7f26b3b04081e66a9a505cca87bb9036e97e774103dd78b2dc0abb248d7b0529"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/radish.json"
-hash = "5fd13673a406bcbfef1d7fdf13fde6c60539e5c0d6ea53c98bd4e02a3a142754"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/raspberry.json"
-hash = "4edf9b246d7cb1e9dcf9a83b17289d4a1043bbd1c7444c7697a93ad5e05c29cd"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/rhubarb.json"
-hash = "f8b550c4ec403c9a25203420416ebb7d13103a18358a4ef8cb444239ba5715bc"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/rice.json"
-hash = "0b90a60d275c716df4699d4dea85e10e0578f7784b86bd59b790ba1644bc026e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/rutabaga.json"
-hash = "c071f6c09f8c3e7214d0df7f703b9c0857614c90fa9c2768800508cd799b8a58"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/rye.json"
-hash = "72b20c3653daaf6d961c63ffe7ed8de6cb84e862b171fbb6301e98e0ca2a040e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/scallion.json"
-hash = "156d5051e1a9376f9630985e952d68431fdfb1738efd4c4437ef1db566a44997"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/sesameseeds.json"
-hash = "e3cdaca8be4043e474941476e483e69805c2674d1654024922d90fdd7d79641d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/sisal.json"
-hash = "5746ace88dcf3a0857e86410c0592c3c73c3e62e62ad0630f83b30a8c9666a05"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/sorghum.json"
-hash = "4c77a132d0a19b860444614788241a036c5e75334656b37e51151260b93c5d7f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/soybean.json"
-hash = "47412c735363743cee006def703b7cd42cf7575088c8f9cb1919defebf6a77d4"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/spiceleaf.json"
-hash = "cc3c4302b50b3d1781b691eb6633d8d390a83efafa8def56d286eac347879fea"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/spinach.json"
-hash = "86bdd8534131e9cf66f4f9dd32478606b4a64b3651b10284ae575fdee0388b06"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/strawberry.json"
-hash = "cd99d9fb225328a0f913a62dcfebd3df866b4c8cc3324d94a5b69cbc5069f788"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/sunchoke.json"
-hash = "81475ea9cdec7c07280f4e81e1691a7004f7db8e0bd455b0cf24d981cb38356b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/sweetpotato.json"
-hash = "e8da63b20460487847535b158cb297a8f2bca6eb4cdaee098c79f9d0cbbd58bb"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/taro.json"
-hash = "ca41934af96073d612750eb0102144ef6bde7cbc47d9cb71b752c629a0221b6e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/tealeaf.json"
-hash = "c5271ffa9b493c2e5ac78ce2bb3cafd3196ae01c33f1a7b9f2a58b384adcee09"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/tomatillo.json"
-hash = "79e1c4ce35c18e081608a3359f236d354238b18de8c958c07641c995a736967e"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/tomato.json"
-hash = "ec5b5032b5dd90551e2e6a5c3f5a2e756bf72bd032d1541456d19ac2e56ee73f"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/truffle.json"
-hash = "0bcbdca26a9e2eeafcafe95a7340ee17191ed23c1264e2096a7d657601316333"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/turnip.json"
-hash = "ec52dc920ce843d210a5455f6d1f99801aad61f08adafe7250dd69c4f84d8bac"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/waterchestnut.json"
-hash = "ee85ba6d6595d5407e629b0e1980d41aab5d6ded5e59347bb355c887453d16c3"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/whitemushroom.json"
-hash = "552132235911f3cfbcdcb98d9130536e06853bc49d5e150123950b4a91fbfb3d"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/wintersquash.json"
-hash = "3c4db80d461d708b150c2e7780756eacc7c4004d8986b1652a4f91c1bd320053"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/wolfberry.json"
-hash = "abd0e4920f41da710b8c0052b0ab045f846727ba6dd8433309f93c1e18784f33"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/yucca.json"
-hash = "5cbc9f308d5cc414bf66b23a88bf06ade081f74c2122b456df2523665a09dc4b"
-
-[[files]]
-file = "kubejs/data/pamhc2crops/agricraft/plants/zucchini.json"
-hash = "e2e1d26c326f9da4652d289626bfff19e1cd97c6151228c315bd80845390d1c9"
+hash = "11035ca54045cd7f178f1579d5ba532e1428c3e7a606e66459f3176880cdd7d7"
 
 [[files]]
 file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
@@ -1394,47 +854,55 @@ hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"
-hash = "3859bfbf73958802548025bf6b93302020bb475a98a83cce66341d947f69b113"
+hash = "e4b8800c3b567467a324c7c3e03087c1913eba20416507d970434cbfdb5d56ce"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/peaceful.json"
-hash = "1e6219e83183c338ffc789d9354f6e1fa58e8b7fb5643e21e9a29425c971d408"
+hash = "e4b8800c3b567467a324c7c3e03087c1913eba20416507d970434cbfdb5d56ce"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/abandoned_mineshaft.json"
-hash = "98620fb29903733c18b605017502d21a353a728834a6d1843349f0990a4fde61"
+hash = "46ef677566eef83a8fde72e30046586aecebc72b6db6ec93791c519c6f75af89"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/buried_treasure.json"
-hash = "98620fb29903733c18b605017502d21a353a728834a6d1843349f0990a4fde61"
+hash = "46ef677566eef83a8fde72e30046586aecebc72b6db6ec93791c519c6f75af89"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/nether_bridge.json"
-hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/simple_dungeon.json"
-hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/stronghold_library.json"
-hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/underwater_ruin_big.json"
-hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/chests_addition/woodland_mansion.json"
-hash = "bfa18034cd391900eb2f0006b340a1516d6fbc26372700cc3a3d902fb81b49ef"
+hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "8e051e8178ef60cecaa078c16cdf8963d6417bbc554dda5e3631b4aa578f74f1"
+hash = "485d1fe668a6bc2b80d3967ad04753d57060a252135f6118dd1044974e2dffbe"
+
+[[files]]
+file = "kubejs/data/scalinghealth/sh_mechanics/mobs.json"
+hash = "95f63ec8b6d2c0cf9d19319bf1f75023568518994b5cf1755d2452861a7f8045"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/player.json"
-hash = "5ebdc4f3999e71ff5da9cb5a88eafcc53eb4ef1613171bebb9626bc5a34a66ae"
+hash = "629d4b1128ce0d38d6f3fd542a5163094f2b3d32014297af271d4e3f07cac9b2"
+
+[[files]]
+file = "kubejs/data/scalinghealth/tags/entity_types/blight_exempt.json"
+hash = "b374d36c9b710337a097d26368e18f67973f85e2b4b7d316782257bf015c426a"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_biomes.json"
@@ -1562,19 +1030,43 @@ hash = "a7606c70fc0f8dd6ff8f7b68c508f79c975269fd8f080e808698dc587a3933c7"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/configured_feature/ore_naquadah_large.json"
-hash = "57c5618848ba367a9c9148254c18b37ec3ba9e52b8229f462b6bff6e6349eee7"
+hash = "abb67224a02e2ec0e43a2369b61e788b675793c8ff157f2494f57cee4deea7dd"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/configured_feature/ore_naquadah_medium.json"
-hash = "02a41679a080b4d6a52c4caab184f31995004d9a528d0b667cead9526c114777"
+hash = "bed0c5f438825f001a3652e9671f7572ecaeefa04fa37e15997d474c8ea16c1e"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah.json"
-hash = "dfdced54ffc539dfb3e17d92fd0923d62bde9fdd974c17b14163250acfc85518"
+hash = "4f86e536de00a74ad618f40f5bf9a86c48bf2774eb8fe078f5ccaef4cf86503f"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah_extra.json"
-hash = "89ffedd8d0590a11a0e8e762f6137d2576140772ee03f776f452c88d389ece07"
+hash = "914b438179544797f19680db5991f59278ce1bcf8a3140b3748e80b8ef9e53be"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
+hash = "e1a546e58b1452a2ec4536f71d7b4755f11dbf6aff55bf57a15ce1a91e4c1064"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/forgotten_ingot.json"
+hash = "a42aa8cf1a6cf0111adfe20a4294e0bc3a5559557eac4dadd1d224e8186d744b"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/froststeel_ingot.json"
+hash = "92821fdf84591454554597154460c65f4a848093cb929836fa3fdba0593f6105"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/masticator_scales.json"
+hash = "3ca771284e5aee77c011523c2ca5c680c321cf3920219a53495e2f2f44a03b8e"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/utherium_crystal.json"
+hash = "2effe2bb8b064890ed62f3b86896ce0f6d9760d715f9f55c71b6362df5f2f20c"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_traits/featherweight.json"
+hash = "2809ef57e859edd1e6cd41da4d165d6f2ebe13f42e67b2bff9d222298d3d3ca1"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
@@ -1609,6 +1101,98 @@ file = "kubejs/data/terralith/worldgen/biome/cave/underground_jungle.json"
 hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
 
 [[files]]
+file = "kubejs/data/tfmg/worldgen/configured_feature/lead_ore.json"
+hash = "75c83c25577f8f5611133dbdc7bc78e60a122df71331e5acd2306c2a36c66a31"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/configured_feature/lithium_ore.json"
+hash = "4478166758ae7cf34dfcc219e6b2616490d8ff4f27616e71f93bc4e0d12eafd2"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/configured_feature/nickel_ore.json"
+hash = "f55f2f24839af450486e2ddb8b552f0eb8632619a7982157b12093fbc8b22dbf"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/placed_feature/lead_ore.json"
+hash = "06f8c212d56796d8b6f67d7800c4c49d04b16800e6bf936f6a7d1ac3c90851af"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/placed_feature/lithium_ore.json"
+hash = "5e688b16cd5c7a7c7dab8157e0d6aa3de6a5d8516acb2cdeb14183158b75d9c3"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/placed_feature/nickel_ore.json"
+hash = "8f8aca215c6b1272c04c6af2a2bcfc32306e430d658c2f18dfce661064d8c055"
+
+[[files]]
+file = "kubejs/data/tfmg/worldgen/placed_feature/oil_deposit.json"
+hash = "c13d43afe8bc9b44f43878f342c366ec540851472a989e93ac9466ac6960f5c9"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/cloggrum_ore.json"
+hash = "0f3dbfda2ffffcc5ad7d7d2585fc3b03e342915d43e328a425fe0f801c787e60"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/coal_ore.json"
+hash = "599481617b05a59d4c072f44497748b07c62ddf524fb77cabfaa2c9a55f3b2ba"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/diamond_ore.json"
+hash = "60bcf7acbd9dd7804deb6cef5601cc786dd120b68cd52f540e966322d7178a94"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/froststeel_ore.json"
+hash = "4f2139ec73fb5cabfb283a1f999c2c4e1eb35a887f43f4fe80dfe90577cd278f"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/gold_ore.json"
+hash = "01a69ea18b2d7515403a63d594f0a1e1e2de07bf50e0e882ba8cd97107beb09d"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/iron_ore.json"
+hash = "62b91f080cbad345ee9039c226dc4389a1c96fb77c9e520e5c781eeab9edb534"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/regalium_ore.json"
+hash = "3eb84fcf82115e85eeea879b0b3dd4921f55c0721574fa9d518fddff07b6b4b9"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/configured_feature/utherium_ore.json"
+hash = "ecc71f4e45074234222a7abc08c22f8838f5fa006bbff260d82f563b66d33b5b"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/cloggrum_ore.json"
+hash = "ade3af9d4f4430c34ecbb416a4de5810b701b4436c86266457d73ab2f7f9aa62"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/coal_ore.json"
+hash = "a448c20dd554e1fc47dc9345978457e7a86f21a1e931c6768b0d62ae8567a28b"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/diamond_ore.json"
+hash = "4217fbfef73498239d9ab8a802f697aa5791ed4bd5a81294dd46e8f92f1110cd"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/froststeel_ore.json"
+hash = "94346b3bd8da8d8f9841595568bae0ef91f4eefb8d600bb154177b074bb7ddac"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/gold_ore.json"
+hash = "446f909440c2438b6d458b2b8de1cf07e31f8a4baff1c056b8836ad6ca8b3c9d"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/iron_ore.json"
+hash = "d4df62c1941e824f3afc5d09c7857d74c322ead5f1d9bc5ee0663d3e5489ad59"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/regalium_ore.json"
+hash = "9b1dace5ec37ba4f082b3acc6a075481e6ad15bb551e0e246b957ad191ae77eb"
+
+[[files]]
+file = "kubejs/data/undergarden/worldgen/placed_feature/utherium_ore.json"
+hash = "2b3504951a02c516b5cba32c3748fdf688fb61d2faaa8f0e7656ea66a9f71a0b"
+
+[[files]]
 file = "kubejs/data/undergarden_gate/structures/stargate/milky_way/pedestal/milky_way_stargate_pedestal_undergarden_1.nbt"
 hash = "73c50098489990581c40d91d961409321c17b877a786246c3903c56fb2f80359"
 
@@ -1618,19 +1202,19 @@ hash = "07a68d1b2c298e958673d07559496bc360af9b73e34e8351e13771399c0aa5d3"
 
 [[files]]
 file = "kubejs/data/undergarden_gate/worldgen/structure/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
-hash = "367b30b083045c376b005d9df1a2da03149f7437657362e5ab0fe8b95ddc0da4"
+hash = "b38c80b79bcbdb9beedd88550aa6af98b4e6299c9d49d795a485da7cab181f62"
 
 [[files]]
 file = "kubejs/data/undergarden_gate/worldgen/structure_set/stargate_pedestal.json"
-hash = "538bc6b2e47d474fa022f28a02ff5bad6f9688c65c5e6876921a22935d949055"
+hash = "db13eae29aafd91e299982de6e02d0a110c57565027152ca2b8056284c1e762a"
 
 [[files]]
 file = "kubejs/data/undergarden_gate/worldgen/template_pool/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
-hash = "91c8eb031fdd6820389107b7ae8b2b86a53e168b9fb0a662be076022d0b1a491"
+hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "2b12da19d360f92d398ed9263d63bc9f3e3c955f1589b43c7cd0686a1223a157"
+hash = "ebfee0b47a5f480e778a15d5a7103e8e9932e14a09fa3a976ae935c119e6f844"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -1794,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "f620c1aa6c9c9d1614aecb95b3663aa4ebb261292587b7bc9c4dfd8d875b3335"
+hash = "301a8a009904d21bbf025d47c07e50e70275b96b46ad82578a9786e8bf5d3754"
 metafile = true
 
 [[files]]
@@ -1805,11 +1389,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "2f27bc6b84433eb0bec1338dadba55037635ab7eb7209bc4609f539c89c4c65d"
 metafile = true
 
 [[files]]
@@ -1859,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "81bf0c4a89865ac108afe183e2abca92d6e88ce6f9653050c8cb654c977a00ee"
+hash = "10a81fd84cad1cb331edaea1de0d3179097bb0dca07df6c2e743b17b83154f5c"
 metafile = true
 
 [[files]]
@@ -2025,11 +1604,6 @@ metafile = true
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
 hash = "794b109fc30847fe5823a4863c42c36fcddf334c2efae2491800332e4a0d7770"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-discord-integration.pw.toml"
-hash = "eb95f88d3e81b807100d0564d09fa68c32a9bafcc0019568bff008e1d8a919bd"
 metafile = true
 
 [[files]]
@@ -2329,7 +1903,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitix.pw.toml"
-hash = "cc68dc647e4d6865be36b0b38599c24b1a57fe0fffe793e739a1ae054e216bff"
+hash = "04fd8c73e97f33a74c02e08b153dd2b073c02404cbf109d8658bcd46df8d40a7"
 metafile = true
 
 [[files]]
