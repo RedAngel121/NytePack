@@ -550,7 +550,7 @@ hash = "b567c51fb201528b7908b4714f24c2ea170a01ae86d499d6aa715b03ad76140a"
 
 [[files]]
 file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
-hash = "82a8db1b96d9c609981fe32d2f4d9c89c9695ffc6c8439de92e54ae9d8fad399"
+hash = "a506b788be848b600e07472068259c8f4c938c3d6aae0b6d869ebe04b95b3230"
 
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
@@ -730,11 +730,11 @@ hash = "51757897bcbbdf95982a8ae6ab75d2a72dbc367fd40412eb2cdda61bac9146ec"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
-hash = "f515014277c8c45f84bdcb9cf1d046e264def6c34afcc161223de1c8572c1208"
+hash = "bffff6b9cbd039ed3df152f4b06d0d853393fa9d6f836d8d180881810b74de70"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
-hash = "3d5d46db29463715ed5e3ceb8520e09b768eddf2d74cc4df812f14c8d6c6d6cb"
+hash = "0ffce7ac457b2fdd0c21f3c6666572e19d8b4f6107bc1560284e5055de2a0471"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper.json"
@@ -766,7 +766,7 @@ hash = "09e172a06a0c46330bfb3a173b33898823cd9f1f9339be9746b8fbdb5d4c8097"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
-hash = "1c550c0582727668dde870c1900f8f8ec5c8429fa3657728f3d4c239a049ddd8"
+hash = "a9b3e76337125ebed704d812d7f8fc354dd3ae2197a04a5d95ed361974fc1b39"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
@@ -1102,31 +1102,31 @@ hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/lead_ore.json"
-hash = "75c83c25577f8f5611133dbdc7bc78e60a122df71331e5acd2306c2a36c66a31"
+hash = "6166ef967e935f3ce8806c256b473cb40466d14c3631fd8786f85a4a7fcd20c5"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/lithium_ore.json"
-hash = "4478166758ae7cf34dfcc219e6b2616490d8ff4f27616e71f93bc4e0d12eafd2"
+hash = "8a3b35a4461a94319cbda0289ac595e7c586da155a72ff3a850267234db6bebb"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/nickel_ore.json"
-hash = "f55f2f24839af450486e2ddb8b552f0eb8632619a7982157b12093fbc8b22dbf"
+hash = "1d461dbad7ce0dd11637fe5875476b25ff6dcffdb2d4735d8b888feb97d6b489"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/placed_feature/lead_ore.json"
-hash = "06f8c212d56796d8b6f67d7800c4c49d04b16800e6bf936f6a7d1ac3c90851af"
+hash = "4f491badcc15f0b7f43213ab7fd57d1a95f1260864000fbea7591bb8e1a35bd0"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/placed_feature/lithium_ore.json"
-hash = "5e688b16cd5c7a7c7dab8157e0d6aa3de6a5d8516acb2cdeb14183158b75d9c3"
+hash = "54587be7ba71dfe7fa609e0c0236193448883a21984f5e16d24981db3bf4a7fc"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/placed_feature/nickel_ore.json"
-hash = "8f8aca215c6b1272c04c6af2a2bcfc32306e430d658c2f18dfce661064d8c055"
+hash = "a06ada20863293e55a57c9eea2d4e720401e4569bd92cf7dda3a323b2a4d37cc"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/placed_feature/oil_deposit.json"
-hash = "c13d43afe8bc9b44f43878f342c366ec540851472a989e93ac9466ac6960f5c9"
+hash = "f1cfb4432e0e2cf966bcb817a5b5a4ed788843f276f04917f0cce11f463022e9"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/configured_feature/cloggrum_ore.json"
@@ -1174,7 +1174,7 @@ hash = "4217fbfef73498239d9ab8a802f697aa5791ed4bd5a81294dd46e8f92f1110cd"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/froststeel_ore.json"
-hash = "94346b3bd8da8d8f9841595568bae0ef91f4eefb8d600bb154177b074bb7ddac"
+hash = "57945a5ac92ff07114f7d4abe20317cfb20167b4e64893d7bf666ae68d3585dc"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/gold_ore.json"
