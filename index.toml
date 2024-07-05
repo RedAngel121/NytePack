@@ -766,7 +766,7 @@ hash = "09e172a06a0c46330bfb3a173b33898823cd9f1f9339be9746b8fbdb5d4c8097"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
-hash = "a9b3e76337125ebed704d812d7f8fc354dd3ae2197a04a5d95ed361974fc1b39"
+hash = "6907f563bbd92cdc8bfa3e01f3667457ee2a879b5a51c7cba874f1be6732e12d"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
@@ -790,7 +790,7 @@ hash = "7ba3e92d8e48ce1e400cc428d88130f96f33551027d56f944e3f3e6e3a5914d9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "d3c1d38a22c8df7215063ed400e8d54f76b7ca2b3792e7ed6c2f20c543a7ccf1"
+hash = "1e767e3997ee22ae0bc3b7f9f12a95a969c6fc6f23428c89f4ab92eb0375246e"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
