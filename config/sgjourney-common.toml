@@ -176,16 +176,16 @@
 			stargate_generation_center_z_chunk_offset = 0
 			#X chunk bounds within which a Structure containing a Stargate may generate
 			#Range: 0 ~ 64
-			stargate_generation_x_bound = 64
+			stargate_generation_x_bound = 0
 			#Z chunk bounds within which a Structure containing a Stargate may generate
 			#Range: 0 ~ 64
-			stargate_generation_z_bound = 64
+			stargate_generation_z_bound = 0
 			#X chunk bounds within which a Buried Stargate may generate
 			#Range: 0 ~ 64
-			buried_stargate_generation_x_bound = 64
+			buried_stargate_generation_x_bound = 0
 			#Z chunk bounds within which a Buried Stargate may generate
 			#Range: 0 ~ 64
-			buried_stargate_generation_z_bound = 64
+			buried_stargate_generation_z_bound = 0
 
 	["Stargate Journey Common Config"."Tech Config"]
 
