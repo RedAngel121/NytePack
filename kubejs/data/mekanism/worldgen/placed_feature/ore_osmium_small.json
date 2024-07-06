@@ -1,12 +1,12 @@
 {
-    "feature": "create:zinc_ore",
+    "feature": "mekanism:ore_osmium_small",
     "placement": [
         {
             "count": {
                 "type": "minecraft:weighted_list",
                 "distribution": [
                     {
-                        "weight": 6,
+                        "weight": 9,
                         "data": 0
                     },
                     {
@@ -21,19 +21,19 @@
             "type": "minecraft:in_square"
         },
         {
-            "type": "minecraft:height_range",
             "height": {
-                "type": "minecraft:uniform",
-                "max_inclusive": {
-                    "absolute": 70
-                },
                 "min_inclusive": {
-                    "absolute": -63
-                }
-            }
+                    "absolute": -16
+                },
+                "max_inclusive": {
+                    "absolute": 112
+                },
+                "type": "minecraft:trapezoid"
+            },
+            "type": "minecraft:height_range"
         },
         {
-            "type": "create:config_filter"
+            "type": "minecraft:biome"
         }
     ]
 }

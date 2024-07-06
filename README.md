@@ -58,8 +58,14 @@
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
 - [x] Added The Undergarden
+- [x] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+  - [ ] standardize ore gen and drops
+  - [ ] recipe changes to include Naq as base material (steel_casing and metallurgic_infuser)
+  - [ ] disable teleportation stuff
+  - [ ] adjust machines as needed
 
 # Big Changes
+- [ ] Modify Brone Ingot recipe to include create
 - [ ] Add Naquadah to silent gear better than Netherite
 - [ ] Improve Undergarden mats for silent gear to be better than Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
@@ -78,11 +84,6 @@
   - Find out what rewards should be allowed
 - [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- [ ] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-  - Heavily modify ore gen and drops
-  - recipe changes to include Naq as base material
-  - disable teleportation stuff
-  - adjust machines as needed
 
 # Ongoing Changes
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
