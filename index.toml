@@ -93,6 +93,14 @@ file = "config/incontrol/spawn.json"
 hash = "29f8da243d863207091a365809ffb2bb15b2ee31934585664d63e26108bdd381"
 
 [[files]]
+file = "config/jaopca/main.toml"
+hash = "ce58624e3f615065181ce9c2abf9a43c9f39da6a8cfedb68e7cf3c683d3e4e6b"
+
+[[files]]
+file = "config/jaopca/modules/storage_blocks.toml"
+hash = "d36ac45acd576978950d22e3b3c6f217c11d29b3e0c87dfeaf093f1db9067f81"
+
+[[files]]
 file = "config/jei/jei-client.ini"
 hash = "07155fbf3aae320fa10909607f5a2f88bb019d0fd0d2086f8534f440e8a32acf"
 
@@ -550,7 +558,7 @@ hash = "b567c51fb201528b7908b4714f24c2ea170a01ae86d499d6aa715b03ad76140a"
 
 [[files]]
 file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
-hash = "a506b788be848b600e07472068259c8f4c938c3d6aae0b6d869ebe04b95b3230"
+hash = "1ae3ffbc206fa25a25ab0bfd75f18af7e1298135d652f42b3b106739f163514c"
 
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
@@ -649,6 +657,134 @@ file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier6.json"
 hash = "1ea3f95a5a0af7077168d6db5910f08a43735f59eac8558d8959072a69dc9ed0"
 
 [[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/deepslate_fluorite_ore.json"
+hash = "128eea68231570cf0ee204395eb344cca97ed638f296206974efd37fe067ba7b"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/deepslate_lead_ore.json"
+hash = "40f2ff194c6859cb6cee3bb089088e748961438a112acb231f02a79182133c24"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/deepslate_osmium_ore.json"
+hash = "2af627f43b1523e5f694cbd671acb1f810623d8368846310796141bde3f7af4f"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/deepslate_tin_ore.json"
+hash = "e81364090be0a7d2a173c5eafb53a90fd1d4c4e7cb20e13261995b3dac581086"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/deepslate_uranium_ore.json"
+hash = "268883b1bc1ca62dcf64b091d87f5bea4ad73849247218b95c85f6ff10384bff"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/fluorite_ore.json"
+hash = "cc37241e13f577f7ee10d5dcf3040fe9674b89416c867351352864eb6ef5a08c"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/lead_ore.json"
+hash = "045920d9be1d0dc8b5ef35fcb91389bff1f72ab4b42732389a4c4791f28ec181"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/osmium_ore.json"
+hash = "d5b47d519fbf1570c6a4769b5d59197e15a759f2ae1c72e5185e1a6e4d912e80"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/tin_ore.json"
+hash = "66a6845be6aef62a16cfb43819ad0c1fc33e292cf241c992fe6df3fdae752756"
+
+[[files]]
+file = "kubejs/data/mekanism/loot_tables/blocks/uranium_ore.json"
+hash = "794020833d7d21d138c318dba637c467fa6e04596d45a4237ee9e30b73132305"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infuser.json"
+hash = "e65564f3751ae261d0d6d876108ec5feae931a3bc97dfcad7d3a434be929ef14"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/steel_casing.json"
+hash = "afafecbcedd403b4d9b7215276bb124699d31146d44c00ba94f60d70b7d2842e"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_fluorite_buried.json"
+hash = "dfa8c30389e2edbafab923d8aea50e69b7e5070e85ca64e8a5f78ba78b26e474"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_fluorite_normal.json"
+hash = "dfa8c30389e2edbafab923d8aea50e69b7e5070e85ca64e8a5f78ba78b26e474"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_lead_normal.json"
+hash = "2eb2440223fc32ed97a4c38894b8455c6332a78944680c1f15c6db112cd188bc"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_osmium_middle.json"
+hash = "73576cac6710246e8e8e7e04aec45aeaf7add0c83acf4681be4d8cad80494909"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_osmium_small.json"
+hash = "7f06260d75a0e55d14fdc517be73a6cdbf6e572208259c495193120140f9c8ba"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_osmium_upper.json"
+hash = "73576cac6710246e8e8e7e04aec45aeaf7add0c83acf4681be4d8cad80494909"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_large.json"
+hash = "c2497ce06ea4037a32a3589ade50ec8be1eedfbf5d078a9cf775245364a36763"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_tin_small.json"
+hash = "59c5e4927990395ffc4b01626792bc1aeef87b326420219d76c07de3d792f860"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_uranium_buried.json"
+hash = "0bb87bb342eebfec3f296074941d766322b8ba4c833764553b40e6b17418d829"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/configured_feature/ore_uranium_small.json"
+hash = "c0a434a9ff9d84dc9d02b891ea48129ca96e28a6a7b49a2709094a3f477ba273"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_fluorite_buried.json"
+hash = "1f32b926e4331bdb4795212b8d84b7e365cbbffc9201956058571c9820a41ed8"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_fluorite_normal.json"
+hash = "236119c5d72099559a1ac4be4370047183e7161c6e5dc4ea34a77042159a1399"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_lead_normal.json"
+hash = "dc9dc1802e17f824ffadcd4659ae2b384ce8149a08266551fffb26b56339575f"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_osmium_middle.json"
+hash = "9eee51f817e18297ac05d73714efe16b9d200685ac8f504ef7f8984b029ba552"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_osmium_small.json"
+hash = "a9c7a3847c14b409cc5687d6e88d3804c74750e5b103885ce1d68ea815012c85"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_osmium_upper.json"
+hash = "c1b836c78076847693e3b343eb5bf711e0cb5efa9a4932de4cf8c07eda38db76"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_tin_large.json"
+hash = "fa7b411ea418ad22bfcbf6312fc3ca2fca4ede711728b1228f07158261d096e8"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_tin_small.json"
+hash = "4ca0045b64cae18a1d1b33a57d1fbab07bc08dd7418818b29e73d5756a9c1a14"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_uranium_buried.json"
+hash = "67588a0d0dc27f599f398e3c15ec841c934cb0cd906e5b3df2219aacb0f0748f"
+
+[[files]]
+file = "kubejs/data/mekanism/worldgen/placed_feature/ore_uranium_small.json"
+hash = "90965f46983b3dc1314be67134d800fce7c91de53df7f33eba749e9bf43b8952"
+
+[[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/coal_ore.json"
 hash = "2e58242661879cd9ae89a053d3a5f9857be1b05079be413bc19b164219379cb1"
 
@@ -658,11 +794,11 @@ hash = "22ed11c4a08915ddc09f90d81d771250c07dc5a5abdf86ae8c0c1b7c1c886d35"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_coal_ore.json"
-hash = "9b4d448127bfc90ea9da04028129d2a90b857f8b48d17c472f9790be511312e1"
+hash = "ae8eeffe4adbecd9f94d1879cd2ab7ac6ebfc7d9443ae982b869cb885dea958a"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_copper_ore.json"
-hash = "ecfda867eb4e112641bb505b9034c5e489ecdc180173c22ccc7241019afe7e64"
+hash = "49515a16e40a28f362f92ac88625cfbfca3a9627fc43e1f0e079ef6200206536"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_diamond_ore.json"
@@ -674,19 +810,19 @@ hash = "fc6486d52f9cffe5c36385a1b14b7e1cfaff0f4bfae1ca73c067286692d522e1"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_gold_ore.json"
-hash = "010e83f6d3a3d820aa2d3493a9398faec7b6da1b2c4a60688e99af24d65d2fd2"
+hash = "08d311a8f67241d72320ccd2f50403206b7075c519b677cb42b3df61ddc5111f"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_iron_ore.json"
-hash = "2625a6ad2d56a7743d394d2bc6900870a8de8aeeeeabf74184b673da0bd05a43"
+hash = "4b75fed8dfe97bb0fe2df9b32ec27bcbeef923dc1200e3f3b83d5ed78992402b"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json"
-hash = "1e56d0bec3c471868af4f149e450a82380a3c45c958e4c6a54c2b05dcbf2a4cc"
+hash = "5d6514f476fc19eb4e57c87b7d77e6afaa8c3e0b8c9156c6389ced649d972359"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_redstone_ore.json"
-hash = "d24ab0a8305f01670b31e1f77087920c150346e4d4cd2a3d97a196ab75dc6309"
+hash = "c47f29a9e9d10e48551f343518edc9af4f9f34413e2e00686edc30c70c4ba08f"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/diamond_ore.json"
@@ -846,7 +982,7 @@ hash = "5cc95a93c2f899e34db260864d9699f14bbba0c1cbe30e9087571e4c2eca4f51"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
-hash = "0bd553677253bb884bf8315e57efc61cdf9dc3e27aeab17093de27d73f7a92f2"
+hash = "9b7fafcbcdd20e636bf7e21dbd06cff1fa7564dd66a75e0d817be03dc828fa24"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
