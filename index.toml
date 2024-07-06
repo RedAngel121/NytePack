@@ -649,6 +649,74 @@ file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier6.json"
 hash = "1ea3f95a5a0af7077168d6db5910f08a43735f59eac8558d8959072a69dc9ed0"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/coal_ore.json"
+hash = "2e58242661879cd9ae89a053d3a5f9857be1b05079be413bc19b164219379cb1"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/copper_ore.json"
+hash = "22ed11c4a08915ddc09f90d81d771250c07dc5a5abdf86ae8c0c1b7c1c886d35"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_coal_ore.json"
+hash = "9b4d448127bfc90ea9da04028129d2a90b857f8b48d17c472f9790be511312e1"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_copper_ore.json"
+hash = "ecfda867eb4e112641bb505b9034c5e489ecdc180173c22ccc7241019afe7e64"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_diamond_ore.json"
+hash = "e284f265f2a99c08b67abb837d62008caafd79a8074db7b35611374f371f9940"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_emerald_ore.json"
+hash = "fc6486d52f9cffe5c36385a1b14b7e1cfaff0f4bfae1ca73c067286692d522e1"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_gold_ore.json"
+hash = "010e83f6d3a3d820aa2d3493a9398faec7b6da1b2c4a60688e99af24d65d2fd2"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_iron_ore.json"
+hash = "2625a6ad2d56a7743d394d2bc6900870a8de8aeeeeabf74184b673da0bd05a43"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json"
+hash = "1e56d0bec3c471868af4f149e450a82380a3c45c958e4c6a54c2b05dcbf2a4cc"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/deepslate_redstone_ore.json"
+hash = "d24ab0a8305f01670b31e1f77087920c150346e4d4cd2a3d97a196ab75dc6309"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/diamond_ore.json"
+hash = "ad2edc75c48801b3b7d208e4b0133dc86f10e344d2644431c5d11ab8111c8788"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/emerald_ore.json"
+hash = "8bf38c13a422fcc475ef6b20f244136d3545cddb817b0c75706590a47565a7cc"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/gold_ore.json"
+hash = "58c2db8f906f6689f5eb7df6447758c789c6a5b13f7d48d998b69d0b8829d940"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/iron_ore.json"
+hash = "a86374757fc90c9a74c711738c7ecfb7ae85f3f7dea6fe87eda2915f6bec6ba7"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/lapis_ore.json"
+hash = "5cbb1d956c0516c498f1cf81c5dcf004806ed8eeb2222ee2586f6a38f5808eab"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/nether_quartz_ore.json"
+hash = "5f1bc45e92f283d8b45470d99e2d50f4dbcfe64d5dcc1d69dac117e19c86a765"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/redstone_ore.json"
+hash = "80c5fa58f4a4dc5a5745c3ce958b7c02ffef684643e35a7a84dc7b22783bead7"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
 hash = "d4ea6fd0ac0f757d5d24dc2a6983cb7f8231f3121c47b8698dcab4edeaf6775f"
 
@@ -683,6 +751,10 @@ hash = "6f71b215cc51e8cba2e657c3a8293aa29c7628f3753271dacb1f3eaf850e2d06"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_diamond_small.json"
 hash = "3f212a8b7333eea8fa4599de1fdc36190aff53c9d23ad03260f4362b54b3ccdc"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore_emerald.json"
+hash = "0e76c6c4cd20f8ea3e6320d6af2aa71174f1c0f9c88cd5b0bd07e15793dfad16"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_gold.json"
@@ -790,7 +862,7 @@ hash = "7ba3e92d8e48ce1e400cc428d88130f96f33551027d56f944e3f3e6e3a5914d9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "5a1f8df4ca51edbb709e0f40c86f7e080b08079fee71ff03bd227a7b7acf1f27"
+hash = "6df2596d1d56f4dd2d20b0aeb85fc4d671828463c355384c4e1bd9a485cb5607"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
@@ -903,6 +975,18 @@ hash = "629d4b1128ce0d38d6f3fd542a5163094f2b3d32014297af271d4e3f07cac9b2"
 [[files]]
 file = "kubejs/data/scalinghealth/tags/entity_types/blight_exempt.json"
 hash = "b374d36c9b710337a097d26368e18f67973f85e2b4b7d316782257bf015c426a"
+
+[[files]]
+file = "kubejs/data/sgjourney/loot_tables/blocks/deepslate_naquadah_ore.json"
+hash = "f9034094ef2fc6c8166a45c213ad6cbfe4e35ce92333471dd69bd1a84a3149ae"
+
+[[files]]
+file = "kubejs/data/sgjourney/loot_tables/blocks/naquadah_ore.json"
+hash = "d8078fca0b17d3c15c87d7ab7cd24c9819bd8bb40f98ff0f6d1430f69236d6e0"
+
+[[files]]
+file = "kubejs/data/sgjourney/loot_tables/blocks/nether_naquadah_ore.json"
+hash = "6d7ff3412f055e055cbced2033074d15da3f954b1354ee2d191e0703d5c16501"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_biomes.json"
@@ -1045,6 +1129,26 @@ file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah_extra.json"
 hash = "914b438179544797f19680db5991f59278ce1bcf8a3140b3748e80b8ef9e53be"
 
 [[files]]
+file = "kubejs/data/silentgear/loot_tables/blocks/azure_silver_ore.json"
+hash = "6465e65bb270e6dfa903ac8d5d3398e842d21c21bdfe454a1837e660478fddfd"
+
+[[files]]
+file = "kubejs/data/silentgear/loot_tables/blocks/blackstone_crimson_iron_ore.json"
+hash = "e719d097d0c896bf316b65905e3e64419600f8e0c96a6e8158849f81650c6716"
+
+[[files]]
+file = "kubejs/data/silentgear/loot_tables/blocks/bort_ore.json"
+hash = "9db717a367c57050a0e04a05ba7e50b9c6b3db61a699ee5cf319e97db60bdd01"
+
+[[files]]
+file = "kubejs/data/silentgear/loot_tables/blocks/crimson_iron_ore.json"
+hash = "a121eda69d5ac3d453469ff5b36bc493a8adeb101caceee62272fa67ecfd6a63"
+
+[[files]]
+file = "kubejs/data/silentgear/loot_tables/blocks/deepslate_bort_ore.json"
+hash = "57df64c942b24e9566607ff0b2853c1ef026d629e11515586318fb0c072b05a0"
+
+[[files]]
 file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
 hash = "e1a546e58b1452a2ec4536f71d7b4755f11dbf6aff55bf57a15ce1a91e4c1064"
 
@@ -1101,6 +1205,30 @@ file = "kubejs/data/terralith/worldgen/biome/cave/underground_jungle.json"
 hash = "c1ca526bece5488b0b295b87814610d50a48cb7fd132e9d65d303ebcc386ca72"
 
 [[files]]
+file = "kubejs/data/tfmg/loot_tables/blocks/deepslate_lead_ore.json"
+hash = "03c086c962d0a2a00e3ca62770595ecfbbf60eb993cd13a937fefc98d6196147"
+
+[[files]]
+file = "kubejs/data/tfmg/loot_tables/blocks/deepslate_lithium_ore.json"
+hash = "639cd9b5af521a302d794300857c386eb54d0a5bbbb45736b348a8f58e50a340"
+
+[[files]]
+file = "kubejs/data/tfmg/loot_tables/blocks/deepslate_nickel_ore.json"
+hash = "e5f75f593b4cbee79202b86e5180e28dbb7f8aa9d0a012942642ed678d48d21a"
+
+[[files]]
+file = "kubejs/data/tfmg/loot_tables/blocks/lead_ore.json"
+hash = "42f862f024da6442b90367fc74fd6e158191a3e3a72ce68a2f295cec45c15d5f"
+
+[[files]]
+file = "kubejs/data/tfmg/loot_tables/blocks/lithium_ore.json"
+hash = "4a9785088563a49fdcdf2194b9357531ab89e292647eac330ab1f40dffaf81d3"
+
+[[files]]
+file = "kubejs/data/tfmg/loot_tables/blocks/nickel_ore.json"
+hash = "2176b2ab9e9df2fe3505f9b8b323c60e6b133bbfbedc86db5813589a6d775bde"
+
+[[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/lead_ore.json"
 hash = "6166ef967e935f3ce8806c256b473cb40466d14c3631fd8786f85a4a7fcd20c5"
 
@@ -1129,12 +1257,48 @@ file = "kubejs/data/tfmg/worldgen/placed_feature/oil_deposit.json"
 hash = "f1cfb4432e0e2cf966bcb817a5b5a4ed788843f276f04917f0cce11f463022e9"
 
 [[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/depthrock_cloggrum_ore.json"
+hash = "502695b81777d36b91df43998f2f948f6dbed584e417d2472d0f6031bb92365a"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/depthrock_coal_ore.json"
+hash = "d4f4deda7628326ceec8ef6cb2b5143c7e58eee9920adb62dccb428725470da8"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/depthrock_regalium_ore.json"
+hash = "e81cc7f11a19408f0442dd44789cf45b80e9a73c2c0b1dd8f4d0b681a6505c9f"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/depthrock_utherium_ore.json"
+hash = "311f791e8768d63b552bfa39a1225649543e4d54f4735fc8f1c1563c661b8aa7"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/shiverstone_cloggrum_ore.json"
+hash = "f6b2bf4ce275cba1498ed92924e1114c15d59d7b95d41339297c64c395e9caa9"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/shiverstone_coal_ore.json"
+hash = "9006e6043f8cc0c29f1cdbe0e50ec7283f816c1ba1c6aa07e7503a5fc05aeab4"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/shiverstone_froststeel_ore.json"
+hash = "a7e82921dece08ac7253e522865f94fc8e2032fda037f94497ca897094510c9f"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/shiverstone_regalium_ore.json"
+hash = "397633af4adc9d6a3b46d5b724754b909cf3cbd9d5b8d640fc9fa0d26886f12e"
+
+[[files]]
+file = "kubejs/data/undergarden/loot_tables/blocks/shiverstone_utherium_ore.json"
+hash = "180a7c27c60e5825e896d429d5a1e539d5e3573be6c8d60843a763408be958c0"
+
+[[files]]
 file = "kubejs/data/undergarden/worldgen/configured_feature/cloggrum_ore.json"
-hash = "0f3dbfda2ffffcc5ad7d7d2585fc3b03e342915d43e328a425fe0f801c787e60"
+hash = "6b06e313f1169d9c8f3881a65f8055c27e85aef2afe300e31d96565b256c609b"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/configured_feature/coal_ore.json"
-hash = "599481617b05a59d4c072f44497748b07c62ddf524fb77cabfaa2c9a55f3b2ba"
+hash = "d18aa4849d270ee2251efa5b37e7aabb1eaeb2b4922153bbaf7cc20849ad7306"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/configured_feature/diamond_ore.json"
@@ -1162,35 +1326,35 @@ hash = "ecc71f4e45074234222a7abc08c22f8838f5fa006bbff260d82f563b66d33b5b"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/cloggrum_ore.json"
-hash = "ade3af9d4f4430c34ecbb416a4de5810b701b4436c86266457d73ab2f7f9aa62"
+hash = "757c053c21e6be5463a87ee5eb80e3b1451c0917ca99b157765e2e40f8971bd1"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/coal_ore.json"
-hash = "a448c20dd554e1fc47dc9345978457e7a86f21a1e931c6768b0d62ae8567a28b"
+hash = "31d7d9f9d62e0e7e850100265613916f8cee154f756eb5b8e59dc84717cfaf31"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/diamond_ore.json"
-hash = "4217fbfef73498239d9ab8a802f697aa5791ed4bd5a81294dd46e8f92f1110cd"
+hash = "b2c35143d972247ef1780a7ebc21b4ba2a33251b2f18fa5833fd78a1e9b4622e"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/froststeel_ore.json"
-hash = "57945a5ac92ff07114f7d4abe20317cfb20167b4e64893d7bf666ae68d3585dc"
+hash = "38d11f137232989c7921520ec1c4ecd22b8a0dc33633b871a83140021ddb7685"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/gold_ore.json"
-hash = "446f909440c2438b6d458b2b8de1cf07e31f8a4baff1c056b8836ad6ca8b3c9d"
+hash = "1d48dcc3ce5819d747db68e0b81e58981a15584e782f5d1a2fffe0e28c687866"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/iron_ore.json"
-hash = "d4df62c1941e824f3afc5d09c7857d74c322ead5f1d9bc5ee0663d3e5489ad59"
+hash = "537fec825c9514fa29e18d90c64651647ac012a4b87515a880b4f99dd2558654"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/regalium_ore.json"
-hash = "9b1dace5ec37ba4f082b3acc6a075481e6ad15bb551e0e246b957ad191ae77eb"
+hash = "44393947b8b1b7ef526c564367ed85fb56c66da0c8f85f254a4112e40c0e68d3"
 
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/utherium_ore.json"
-hash = "2b3504951a02c516b5cba32c3748fdf688fb61d2faaa8f0e7656ea66a9f71a0b"
+hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/data/undergarden_gate/structures/stargate/milky_way/pedestal/milky_way_stargate_pedestal_undergarden_1.nbt"

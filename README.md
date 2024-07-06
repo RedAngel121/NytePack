@@ -57,43 +57,43 @@
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
-- [x] The Undergarden
-  - [x] Ore Gen Adaptation (check validity)
-  - [x] Silent Gear Integration
-  - [x] Scaling Health Integration
-  - [x] Stargate Integration
+- [x] Added The Undergarden
+  - Ore Gen Adaptation (check validity)
+  - Silent Gear Integration
+  - Scaling Health Integration
+  - Stargate Integration
 
 # Big Changes
+- [ ] Add Naquadah to silent gear better than Netherite
+- [ ] Improve Undergarden mats for silent gear to be better than Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
-  - Initial layout will be one raw chunk of ore in a furnace makes a nugget
-  - 1 raw chunk in create mixer with water makes 1-3 nuggets
-  - 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for 2 nuggets each or washed for 3-5 nuggets
-  - the actual Ore Block can double or triple this input/output
-  - More complex ore processing will yield better results
-  - Mekanism is a good example of this
+  - [x] Standard Ore Block drops the same rate as raw copper
+  - [ ] Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
+  - [ ] 1 raw chunk in create mixer with water makes 2-4 nuggets
+  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for 3 nuggets each or washed for 3-5 nuggets
+  - [ ] the actual Ore Block can double or triple this input/output
+  - [ ] More complex ore processing will yield better results
+  - [ ] Mekanism is a good example of this
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
 - [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
+- [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
+- [ ] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+  - Heavily modify ore gen and drops
+  - recipe changes to include Naq as base material
+  - disable teleportation stuff
+  - adjust machines as needed
 
 # Ongoing Changes
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add loot tabes from other mods for lightmans to insert coins into
 
-# Things to look into:
-### QOL:
+# Interesting Ideas:
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
-
-### Heavy Consideration:
-- Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- [Lit it Up](https://www.curseforge.com/minecraft/mc-mods/lit-it-up): making furnaces a bit more realistic
-- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-  - Heavily modified ore gen and recipes to counter its easy access, should not be accessable before visiting alternate dims for ore (lock behind Naq?)
-
-### Interesting Ideas:
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium stuff or adjust it
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
