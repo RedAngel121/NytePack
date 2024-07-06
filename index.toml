@@ -134,7 +134,7 @@ hash = "2d45215493cae8e09e29e8b82c519f5ed148bf5cd2b67c8d33d454cc8762deb9"
 
 [[files]]
 file = "config/scalinghealth-client.toml"
-hash = "d40ad864ed19c96527a4d72599dbc483819af598643a11091b408b14643e292b"
+hash = "492b7125dc6ef0901fca805310a18431d05720debd8e2af399b48ceeeb002aec"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -1102,7 +1102,7 @@ hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "485d1fe668a6bc2b80d3967ad04753d57060a252135f6118dd1044974e2dffbe"
+hash = "bf29a37369f90b510786ca2a7bda7ab2177eb4384bd10d92ceb5ef03c52abeca"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/mobs.json"

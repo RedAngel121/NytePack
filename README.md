@@ -61,7 +61,7 @@
 - [x] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
   - [x] standardize ore gen and drops
   - [x] recipe changes to include Naq as base material (steel_casing and metallurgic_infuser)
-  - [ ] disable teleportation stuff
+  - [ ] disable teleportation stuff?
 
 # Big Changes
 - [ ] Modify Bronze Ingot recipe to include create machines
