@@ -58,10 +58,6 @@
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
 - [x] Added The Undergarden
-  - Ore Gen Adaptation (check validity)
-  - Silent Gear Integration
-  - Scaling Health Integration
-  - Stargate Integration
 
 # Big Changes
 - [ ] Add Naquadah to silent gear better than Netherite

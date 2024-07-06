@@ -1093,10 +1093,6 @@ file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedesta
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
-file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_nether_biomes.json"
-hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
-
-[[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_snow_biomes.json"
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
@@ -1542,7 +1538,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "301a8a009904d21bbf025d47c07e50e70275b96b46ad82578a9786e8bf5d3754"
+hash = "abc87586c5f25e831edcb9e510c9965e288adc22eb89f98f93c99bbb57547ef9"
 metafile = true
 
 [[files]]
@@ -1767,7 +1763,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "794b109fc30847fe5823a4863c42c36fcddf334c2efae2491800332e4a0d7770"
+hash = "d51c80061dd882fc8c7e2b96ab76ae5728995f085a2e7a6d3b050b2cf8e2e0c4"
 metafile = true
 
 [[files]]
@@ -1813,6 +1809,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "7b8870d6f9a778577787a1028775a3738ce78d33b69bedb681cb9b3b9bc62678"
 metafile = true
 
 [[files]]
