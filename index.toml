@@ -397,6 +397,10 @@ file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate_enga
 hash = "8fcc531f6fce4434daa0900007146e7c5a9b392aeafcc131fbaa1f83fe30dd07"
 
 [[files]]
+file = "kubejs/assets/minecraft/texts/splashes.txt"
+hash = "e62bee626008e2ed5758015cb7e1d912845c3945c76941840c798c25fc7266ae"
+
+[[files]]
 file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_event_horizon.png"
 hash = "fb13851379059c42ed58ab97c709d69e781ed11f186cfe250a675a7cd88ab7ba"
 

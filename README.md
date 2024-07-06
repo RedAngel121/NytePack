@@ -59,13 +59,12 @@
 - [x] Create Mechanical Drill Disabled
 - [x] Added The Undergarden
 - [x] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-  - [ ] standardize ore gen and drops
-  - [ ] recipe changes to include Naq as base material (steel_casing and metallurgic_infuser)
+  - [x] standardize ore gen and drops
+  - [x] recipe changes to include Naq as base material (steel_casing and metallurgic_infuser)
   - [ ] disable teleportation stuff
-  - [ ] adjust machines as needed
 
 # Big Changes
-- [ ] Modify Brone Ingot recipe to include create
+- [ ] Modify Bronze Ingot recipe to include create machines
 - [ ] Add Naquadah to silent gear better than Netherite
 - [ ] Improve Undergarden mats for silent gear to be better than Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
@@ -73,12 +72,10 @@
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - [x] Standard Ore Block drops the same rate as raw copper
-  - [ ] Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
-  - [ ] 1 raw chunk in create mixer with water makes 2-4 nuggets
-  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for 3 nuggets each or washed for 3-5 nuggets
-  - [ ] the actual Ore Block can double or triple this input/output
+  - [ ] Initial smelting layout will be one raw ore in a furnace makes {X} nuggets
+  - [ ] 1 raw chunk in create mixer with water makes {2X} nuggets
+  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for {1.5X} nuggets each or washed for {2.5X} nuggets
   - [ ] More complex ore processing will yield better results
-  - [ ] Mekanism is a good example of this
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
