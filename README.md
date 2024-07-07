@@ -74,7 +74,7 @@
   - [x] Standard Ore Block drops the same rate as raw copper
   - [ ] Initial smelting layout will be one raw ore in a furnace makes {X} nuggets
   - [ ] 1 raw chunk in create mixer with water makes {2X} nuggets
-  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, smelted for {1.5X} nuggets each or washed for {2.5X} nuggets
+  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, each smelted for {1.5X} nuggets or washed for {3X} nuggets
   - [ ] More complex ore processing will yield better results
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
