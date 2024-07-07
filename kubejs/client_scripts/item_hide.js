@@ -24,6 +24,10 @@ JEIEvents.hideItems(event => {
     event.hide("agricraft:netherite_sliver")
     event.hide("agricraft:amathyllis_petal")
 
+    event.hide("bhc:red_heart_patch")
+    event.hide("bhc:yellow_heart_patch")
+    event.hide("bhc:green_heart_patch")
+    event.hide("bhc:blue_heart_patch")
     event.hide("bhc:canister")
     event.hide("bhc:relic_apple")
 

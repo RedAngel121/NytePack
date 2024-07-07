@@ -1,28 +1,28 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " D ",
-    " G ",
-    " C "
-  ],
-  "key": {
-    "D": [
-      {
-        "item": "minecraft:dispenser"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " D ",
+        " G ",
+        " C "
     ],
-    "G": [
-      {
-        "item": "immersive_aircraft:industrial_gears"
-      }
-    ],
-    "C": [
-      {
-        "item": "minecraft:copper_ingot"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:rotary_cannon"
-  }
+    "key": {
+        "D": [
+            {
+                "item": "immersive_aircraft:heavy_crossbow"
+            }
+        ],
+        "G": [
+            {
+                "item": "immersive_aircraft:industrial_gears"
+            }
+        ],
+        "C": [
+            {
+                "item": "minecraft:copper_ingot"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:rotary_cannon"
+    }
 }

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "E",
-    "C"
+    "ESE",
+    " C "
   ],
   "key": {
     "C": [
@@ -13,6 +13,11 @@
     "E": [
       {
         "item": "create:electron_tube"
+      }
+    ],
+    "S": [
+      {
+        "item": "create:iron_sheet"
       }
     ]
   },

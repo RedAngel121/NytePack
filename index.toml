@@ -265,6 +265,142 @@ file = "instance.png"
 hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
 [[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/airship.png"
+hash = "94b70f55eab970d39926d58cf79fbb559a13586f6692e16a70d18cacd2bcfece"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/biplane.png"
+hash = "bada74da85d0f39e383030324ec2c900b09748647b24333cdea595bab686b9cb"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/bullet.png"
+hash = "fcda762f881ba486e3c5998fe232446493dc89721c1313a69eb498d463d00dc5"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/cargo_airship.png"
+hash = "860034d6a20d51657adaa67052becec58b6fd84a657b3f4818688b51e74ceab8"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/gyrodyne.png"
+hash = "713a68a64bb04fc855f916afa46073d6eb2d549d5f945f101b5f8ac70ac3a7ac"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/heavy_crossbow.png"
+hash = "8dda8c6789d6aca37c5a6ce7a9aa591c542d8d9756fcb9370c434a419a5b6145"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/quadrocopter.png"
+hash = "b06292a431ddf17103ffc8934dec21446280e60b4d33564b2f8f51a900baa045"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/rotary_cannon.png"
+hash = "ccec6a6456c3ae52ade258c63e6df9bd3bb5d1292a55a053052493a98be94ed3"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/telescope.png"
+hash = "50abb58c9fae0ce87aa9e521fcfb874a7265b2444863f93f697e0b737f80dc23"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/gui/container/inventory.png"
+hash = "3c1178b00657e70dedf2120deffe8662eab29f314178b58e51cc9b4e567cfae5"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/gui/icons.png"
+hash = "14d9cff3e1d52bbb7d791e74f775f6ddadd2162ea9d9dae25b008ee53f99e223"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/airship.png"
+hash = "18d339274fdce24b27e1402df67864b3020b03055680ee1ef558ae71985c3616"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/biplane.png"
+hash = "a9cf8780266cb7b50296eb1df6a98d7e9af8bfbc37bfffc7a50416772b4916f7"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/boiler.png"
+hash = "6ec8944466d7b8b69fa01df2e72274a55dba687192667fecf21cb9cf1991f3b9"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/bomb_bay.png"
+hash = "b6861223faac1642a81c25a957942ed5267f772682eb23d7e63be2104c8e3b2b"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/cargo_airship.png"
+hash = "bc5841cac4ace1817c51711a75f37f65f510dea57cde5b1ec0b39ca09a2e1770"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/eco_engine.png"
+hash = "323dd424479a0b525ed66ee14c60d1f50634dd8cd3ac9b1dd12312e376658d3b"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/engine.png"
+hash = "60c844e660ec2d08fb0faf2f231aee7cd949da63e68ce58ffd5780b778410245"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/enhanced_propeller.png"
+hash = "ea0c595e8db2a50421312f26a7c26416004714f6b7215af7553135f5ef06940b"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/gyrodyne.png"
+hash = "2eba188490c7357b4e491ef91aa1b996e90536e284c7cd81e76f310d9ad588ae"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/gyroscope.png"
+hash = "7cfc44dc1e286dbf5883763aea1d068f78ecdf4c709816f683e5e4cf05908985"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/heavy_crossbow.png"
+hash = "47a6cc03a548990bcc4f182dcd00f64a416cef5393ea4011984a1fc638690e19"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/hull.png"
+hash = "b5671fbfe8ac02345a7891f09f5edb931a0524b91f512099d36675d2de2bc846"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/hull_reinforcement.png"
+hash = "8a71302d3792f217fa02b99bab7a0bedf5609ab33b53780ec68165a161498693"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/improved_landing_gear.png"
+hash = "7ebdd7329ec0b45fa3f055302a405289b8d98f84a2e29b82a6f40269c3db6c41"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/industrial_gears.png"
+hash = "924e188e82bd2a7fa4ed90afb5fd3ed55ab92cd1bad7dbbcd20b863b63e4f47c"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/nether_engine.png"
+hash = "71a3adc736bed3800558ad5c65c0e3d94ac217102a74258f99fe4514e67707a3"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/propeller.png"
+hash = "f18fc74417ffc3d49423a01c7c2a45beea321f5ccca4cc0dc8bc20bb6ec2f051"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/quadrocopter.png"
+hash = "cc96343aea4d5ad066f2bbf2cb113cba0be0e21c90757d000e9b527a2f57f596"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/rotary_cannon.png"
+hash = "06b64f123e12400e49e07e50020af7f2300a9d8cd655402c63746e0dd0a7d503"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/sail.png"
+hash = "3d71ab1d8f27ad6ce5ab1363dbba0876cd61e80b4250dbd8772349aa4d938bea"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/steel_boiler.png"
+hash = "5160df8f52b6d9f03d30f8d9b04a1235b70453e9ee77b361958816d2ffb9a25d"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/sturdy_pipes.png"
+hash = "5012c2cba91837d9b2e12d8a7b4c3322b6573cbd3467bd6e6f7c0c4d06b6dabf"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/telescope.png"
+hash = "85be9245b96617a50bb1178a24082eaddfb0113b398e5adc547e4629b49a4a6e"
+
+[[files]]
 file = "kubejs/assets/jajasgates/sounds.json"
 hash = "4b56009f6c93eeebc948c6b94598f9e082d5cf440b65081d1b7ba157e39ab63b"
 
@@ -482,7 +618,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "a27126a3377c200ec55b9a2a601aeb00028370478e56910b6e2dff8420ce7a1f"
+hash = "db64fa7567d7e665ba5c6e6ba5cee17a8adff62c0a9eb38c685e84695b63a438"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -613,6 +749,102 @@ file = "kubejs/data/gateways/gear_sets/iron_with_diamond.json"
 hash = "337b642662db798b8c2892a3fe5678aebbd159b437ba9298acd06653f6fc87a9"
 
 [[files]]
+file = "kubejs/data/immersive_aircraft/recipes/airship.json"
+hash = "8d1836f93f0891a8fde244636ce83058d78317188edb7c04c8540a0cb41ed5d8"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/biplane.json"
+hash = "fb6689d68ca85b8928d9896651983a9adfe5827e2d014a47ad1fb9dedbea4a60"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/boiler.json"
+hash = "61f950aee1acc40edd057230ea733f4241425d17457eea241825894a2cb1346b"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/bomb_bay.json"
+hash = "813adb4bb2578eefbaf25e03ea847efb8f16011bbc7bc31cae37a5e7d4ebf69d"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/cargo_airship.json"
+hash = "81bb277233141c04ee0aa050dd83cb28df0663084d5064b93e6c39ff55a3b591"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/eco_engine.json"
+hash = "cd4c8d5ee9dd6ea04a99dff5657c49d323107cf3710de8e7ea66df5b9f5004c9"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/engine.json"
+hash = "e4e7a1ea5ae9638a0824c7cbe7bfeda19c74dcdfbd53da42b84a69d35666fe74"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/enhanced_propeller.json"
+hash = "1d475b3bd5b60712cef03f4bfdadf1bc8266b4b67c2019449d3efc571991c70d"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/gyrodyne.json"
+hash = "358cb747631697295ebfe59248fb105ab7aefc9250760d85eafc0e13528e7758"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/gyroscope.json"
+hash = "5838873401629c4271e07b28322ce9a19144ecf5ff8092cf9058bd1e3b6af272"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/heavy_crossbow.json"
+hash = "d3d9816bfa9f0973904d39b680923325b07aacf0285828aeaf46376340f07e76"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/hull.json"
+hash = "5736f8228b065c78aea515f9f53478b7e97e7947ffd1d94bed50ca8436a48c38"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/hull_reinforcement.json"
+hash = "7f760421ba1dd01e2598eee5d333e6205271a70a2f9a4cecd63eae50ab9a276d"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/improved_landing_gear.json"
+hash = "3eebe225535bd4ecde7975ae23ba1e9d0dfdf250173bb80ae4be8d43078a8ef2"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/industrial_gears.json"
+hash = "0eb2b758fa2d65e7281f8d3e33810b768c7881658ea9365c1d63c7d24f563aa6"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/nether_engine.json"
+hash = "68e0fb14b874ac36dd7023347677baa7c11faa12b8874634cc67f2ce8668cad2"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/propeller.json"
+hash = "0f83e8aa5bc33269ee0a297267c5951db34ed15bb9872317c6f9adfb127e8921"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/quadrocopter.json"
+hash = "81a409097b3bff1b5a09c9721905be163f599dc5f83312eb17ca4a602c83a252"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/rotary_cannon.json"
+hash = "a923877c9e9f86f24cff366e99dc622fb65eef0fd65e748d9e10d8058747b5d3"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/sail.json"
+hash = "cf8111cd0402f7fb39ed7488d45de11ed110501ce7c8b2d7cb5a34cf1ade95ad"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/steel_boiler.json"
+hash = "b9d67c4fe3d7bc97f472ca8e81e6975f5b245719f629966c4e3b5b9e54620064"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/sturdy_pipes.json"
+hash = "a8e60170da416225c8101c101b4fd0ce413896def234d65e51d52d9c69a9c4b4"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/telescope.json"
+hash = "178419fd5e31fea399657b2c5f9c2f795bd7386cf7938cfd24811152bbc2d35c"
+
+[[files]]
+file = "kubejs/data/immersive_aircraft/recipes/warship.json"
+hash = "ecaf246bcb86663eac5db9c7995ba60987cd7cdcc252991cf38aada051da16f7"
+
+[[files]]
 file = "kubejs/data/jajasgates/recipes/crystallizing/mw_nether_variant_crystal.json"
 hash = "847c4f3af82cec2a83cd7de5d14177d7f9c6c26d0e73decb57ca5da670e3dc5d"
 
@@ -659,6 +891,14 @@ hash = "225e1430a0d5363e59443167737dcd15087b6b6023f8aa5a8d1ecd888d46225a"
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier6.json"
 hash = "1ea3f95a5a0af7077168d6db5910f08a43735f59eac8558d8959072a69dc9ed0"
+
+[[files]]
+file = "kubejs/data/man_of_many_planes/recipes/economy_plane.json"
+hash = "cb89f5a8c9135cbab0603c8a09ef93311b88ff443848de0059b0397d156b800b"
+
+[[files]]
+file = "kubejs/data/man_of_many_planes/recipes/scarlet_biplane.json"
+hash = "d6f564bf03a8d49771eb08fd95a60df5490f48a2c0ff66ec00482c9413ee0b39"
 
 [[files]]
 file = "kubejs/data/mekanism/loot_tables/blocks/deepslate_fluorite_ore.json"
@@ -1514,7 +1754,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "ebfee0b47a5f480e778a15d5a7103e8e9932e14a09fa3a976ae935c119e6f844"
+hash = "b383be862a947d978344a6cdea14e438ffb94622f3f5ef231063a73fd45b9ee7"
 
 [[files]]
 file = "mods/agricraft.pw.toml"

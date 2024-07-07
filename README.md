@@ -64,6 +64,7 @@
   - [ ] disable teleportation stuff?
 
 # Big Changes
+- [ ] setup `create:mechanical_crafting` recipes for Immersive Warship, Economy Plane, and Scarlet Biplane
 - [ ] Modify Bronze Ingot recipe to include create machines
 - [ ] Add Naquadah to silent gear better than Netherite
 - [ ] Improve Undergarden mats for silent gear to be better than Naquadah

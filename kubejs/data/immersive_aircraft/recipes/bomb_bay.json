@@ -1,24 +1,23 @@
-
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "ITI",
-    "I I",
-    "   "
-  ],
-  "key": {
-    "T": [
-      {
-        "item": "minecraft:tnt"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ITI",
+        "III",
+        "   "
     ],
-    "I": [
-      {
-        "item": "minecraft:iron_ingot"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:bomb_bay"
-  }
+    "key": {
+        "T": [
+            {
+                "item": "minecraft:tnt"
+            }
+        ],
+        "I": [
+            {
+                "item": "create:iron_sheet"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:bomb_bay"
+    }
 }

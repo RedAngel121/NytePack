@@ -7,6 +7,10 @@ ServerEvents.recipes(event => {
         { id: "agricraft:netherite_scrap" },
         { id: "agricraft:amethyst_shard" },
 
+        { id: "bhc:red_heart_patch" },
+        { id: "bhc:yellow_heart_patch" },
+        { id: "bhc:green_heart_patch" },
+        { id: "bhc:blue_heart_patch" },
         { id: "bhc:red_heart_canister" },
         { id: "bhc:yellow_heart_canister" },
         { id: "bhc:green_heart_canister" },

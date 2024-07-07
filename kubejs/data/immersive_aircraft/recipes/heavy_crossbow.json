@@ -1,28 +1,38 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CH ",
-    "W  ",
-    "   "
-  ],
-  "key": {
-    "C": [
-      {
-        "item": "minecraft:crossbow"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HP ",
+        "ACP",
+        "WAH"
     ],
-    "H": [
-      {
-        "item": "minecraft:tripwire_hook"
-      }
-    ],
-    "W": [
-      {
-        "tag": "minecraft:logs"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:heavy_crossbow"
-  }
+    "key": {
+        "C": [
+            {
+                "item": "minecraft:crossbow"
+            }
+        ],
+        "H": [
+            {
+                "item": "minecraft:tripwire_hook"
+            }
+        ],
+        "W": [
+            {
+                "tag": "minecraft:logs"
+            }
+        ],
+        "P": [
+            {
+                "tag": "minecraft:planks"
+            }
+        ],
+        "A": [
+            {
+                "item": "tfmg:aluminum_wire"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:heavy_crossbow"
+    }
 }

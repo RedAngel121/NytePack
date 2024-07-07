@@ -1,21 +1,26 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "ICI"
-  ],
-  "key": {
-    "C": [
-      {
-        "item": "create:cogwheel"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ICB"
     ],
-    "I": [
-      {
-        "item": "create:iron_sheet"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:industrial_gears"
-  }
+    "key": {
+        "C": [
+            {
+                "item": "create:cogwheel"
+            }
+        ],
+        "B": [
+            {
+                "item": "create:brass_sheet"
+            }
+        ],
+        "I": [
+            {
+                "item": "create:iron_sheet"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:industrial_gears"
+    }
 }

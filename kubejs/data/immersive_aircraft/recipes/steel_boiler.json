@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "IFI"
-  ],
-  "key": {
-    "I": [
-      {
-        "item": "create:iron_sheet"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IFI"
     ],
-    "F": [
-      {
-        "item": "create:fluid_tank"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:steel_boiler"
-  }
+    "key": {
+        "I": [
+            {
+                "item": "create:iron_sheet"
+            }
+        ],
+        "F": [
+            {
+                "item": "tfmg:steel_fluid_tank"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:steel_boiler"
+    }
 }
