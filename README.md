@@ -57,6 +57,8 @@
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
+- [x] Immersive Aircraft Recipe Integration with alternative tech mods
+  - [ ] setup `create:mechanical_crafting` recipes for Immersive Warship, Economy Plane, and Scarlet Biplane
 - [x] Added The Undergarden
 - [x] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
   - [x] standardize ore gen and drops
@@ -64,12 +66,10 @@
   - [ ] disable teleportation stuff?
 
 # Big Changes
-- [ ] setup `create:mechanical_crafting` recipes for Immersive Warship, Economy Plane, and Scarlet Biplane
 - [ ] Modify Bronze Ingot recipe to include create machines
 - [ ] Add Naquadah to silent gear better than Netherite
 - [ ] Improve Undergarden mats for silent gear to be better than Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
-- [ ] Immersive Aircraft Recipe Integration with alternative tech mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - [x] Standard Ore Block drops the same rate as raw copper
