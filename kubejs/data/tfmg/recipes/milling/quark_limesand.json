@@ -1,0 +1,17 @@
+
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "quark:limestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfmg:limesand"
+
+    }
+  ],
+  "processingTime": 130
+
+}

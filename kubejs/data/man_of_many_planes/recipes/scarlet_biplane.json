@@ -1,33 +1,41 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "IHI",
-    "PBH",
-    "IHI"
-  ],
-  "key": {
-    "H": [
-      {
-        "item": "immersive_aircraft:hull"
-      }
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "   S ",
+        "S  S ",
+        "HH_EP",
+        "S  S ",
+        "   S "
     ],
-    "B": [
-      {
-        "item": "immersive_aircraft:biplane"
-      }
-    ],
-    "P": [
-      {
-        "item": "immersive_aircraft:propeller"
-      }
-    ],
-    "I": [
-      {
-        "item": "minecraft:iron_ingot"
-      }
-    ]
-  },
-  "result": {
-    "item": "man_of_many_planes:scarlet_biplane"
-  }
+    "key": {
+        "H": [
+            {
+                "item": "silentgear:crimson_steel_block"
+            }
+        ],
+        "E": [
+            {
+                "item": "tfmg:radial_engine"
+            }
+        ],
+        "P": [
+            {
+                "item": "immersive_aircraft:propeller"
+            }
+        ],
+        "S": [
+            {
+                "item": "immersive_aircraft:hull"
+            }
+        ],
+        "_": [
+            {
+                "tag": "immersive_aircraft:biplane"
+            }
+        ]
+    },
+    "result": {
+        "item": "man_of_many_planes:scarlet_biplane"
+    },
+    "acceptMirrored": true
 }

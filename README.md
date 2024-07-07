@@ -57,8 +57,7 @@
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
-- [x] Immersive Aircraft Recipe Integration with alternative tech mods
-  - [ ] setup `create:mechanical_crafting` recipes for Immersive Warship, Economy Plane, and Scarlet Biplane
+- [x] Immersive Aircraft Recipe Integration with alternative tech mods (engines made from steel)
 - [x] Added The Undergarden
 - [x] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
   - [x] standardize ore gen and drops
@@ -67,13 +66,13 @@
 
 # Big Changes
 - [ ] Modify Bronze Ingot recipe to include create machines
-- [ ] Add Naquadah to silent gear better than Netherite
+- [ ] Add Naquadah to silent gear improve over Netherite
 - [ ] Improve Undergarden mats for silent gear to be better than Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - [x] Standard Ore Block drops the same rate as raw copper
-  - [ ] Initial smelting layout will be one raw ore in a furnace makes {X} nuggets
+  - [ ] Initial smelting layout will be one raw ore in a furnace makes {X = 2 or 3?} nuggets
   - [ ] 1 raw chunk in create mixer with water makes {2X} nuggets
   - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, each smelted for {1.5X} nuggets or washed for {3X} nuggets
   - [ ] More complex ore processing will yield better results
@@ -108,7 +107,7 @@
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
   - **Nether** payment will be Iron coins and a diamond
   - **End** payment will be Gold coins and netherite ingot
-  - **Abydos** payment will be Emerald coins and block of azure silver?
+  - **Abydos** payment will be Emerald coins and chorus bud?
   - **Undergarden** payment will be Diamond coins and a stargate base block
 - Starting town built by hand or built with minecolonies fortress and more stuff
   - Will need seperate buildings for different styles of gameplay

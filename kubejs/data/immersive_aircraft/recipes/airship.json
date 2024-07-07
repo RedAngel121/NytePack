@@ -14,7 +14,7 @@
         ],
         "E": [
             {
-                "item": "immersive_aircraft:engine"
+                "item": "tfmg:low_grade_fuel_engine"
             }
         ],
         "P": [
@@ -29,7 +29,7 @@
         ],
         "~": [
             {
-                "item": "minecraft:string"
+                "item": "quark:rope"
             }
         ],
         "_": [

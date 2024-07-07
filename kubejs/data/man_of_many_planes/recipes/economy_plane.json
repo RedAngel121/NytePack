@@ -1,38 +1,51 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "PHS",
-    "GEH",
-    "PHS"
-  ],
-  "key": {
-    "H": [
-      {
-        "item": "immersive_aircraft:hull"
-      }
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "  PS ",
+        "SSBS ",
+        "FFE_I",
+        "SSBS ",
+        "  PS "
     ],
-    "G": [
-      {
-        "item": "immersive_aircraft:industrial_gears"
-      }
-    ],
-    "E": [
-      {
-        "item": "immersive_aircraft:engine"
-      }
-    ],
-    "P": [
-      {
-        "item": "immersive_aircraft:propeller"
-      }
-    ],
-    "S": [
-      {
-        "item": "immersive_aircraft:sail"
-      }
-    ]
-  },
-  "result": {
-    "item": "man_of_many_planes:economy_plane"
-  }
+    "key": {
+        "F": [
+            {
+                "item": "framedblocks:framed_cube"
+            }
+        ],
+        "E": [
+            {
+                "item": "tfmg:low_grade_fuel_engine"
+            }
+        ],
+        "I": [
+            {
+                "item": "minecraft:iron_bars"
+            }
+        ],
+        "P": [
+            {
+                "item": "immersive_aircraft:propeller"
+            }
+        ],
+        "S": [
+            {
+                "item": "immersive_aircraft:sail"
+            }
+        ],
+        "B": [
+            {
+                "item": "create:belt_connector"
+            }
+        ],
+        "_": [
+            {
+                "tag": "create:seats"
+            }
+        ]
+    },
+    "result": {
+        "item": "man_of_many_planes:economy_plane"
+    },
+    "acceptMirrored": true
 }

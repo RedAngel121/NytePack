@@ -1,38 +1,61 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SHS",
-    "EAE",
-    "HGH"
-  ],
-  "key": {
-    "S": [
-      {
-        "item": "immersive_aircraft:sail"
-      }
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "SSSSP",
+        "SSSSP",
+        "I~I~I",
+        "H_A_E",
+        "CHHHP"
     ],
-    "H": [
-      {
-        "item": "immersive_aircraft:hull"
-      }
-    ],
-    "E": [
-      {
-        "item": "immersive_aircraft:engine"
-      }
-    ],
-    "G": [
-      {
-        "item": "immersive_aircraft:industrial_gears"
-      }
-    ],
-    "A": [
-      {
-        "item": "immersive_aircraft:cargo_airship"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:warship"
-  }
+    "key": {
+        "H": [
+            {
+                "item": "immersive_aircraft:hull"
+            }
+        ],
+        "E": [
+            {
+                "item": "tfmg:compact_engine"
+            }
+        ],
+        "P": [
+            {
+                "item": "immersive_aircraft:propeller"
+            }
+        ],
+        "S": [
+            {
+                "item": "immersive_aircraft:sail"
+            }
+        ],
+        "I": [
+            {
+                "item": "silentgear:iron_rod"
+            }
+        ],
+        "A": [
+            {
+                "item": "immersive_aircraft:airship"
+            }
+        ],
+        "C": [
+            {
+                "item": "immersive_aircraft:heavy_crossbow"
+            }
+        ],
+        "~": [
+            {
+                "item": "quark:rope"
+            }
+        ],
+        "_": [
+            {
+                "tag": "create:seats"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:warship"
+    },
+    "acceptMirrored": true
 }

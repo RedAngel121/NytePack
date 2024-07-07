@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
+        "PEP",
         "CAC",
         "CHC",
         "   "
@@ -19,6 +20,16 @@
         "H": [
             {
                 "item": "immersive_aircraft:hull"
+            }
+        ],
+        "P": [
+            {
+                "item": "create:propeller"
+            }
+        ],
+        "E": [
+            {
+                "item": "immersive_aircraft:engine"
             }
         ]
     },
