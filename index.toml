@@ -618,7 +618,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "db64fa7567d7e665ba5c6e6ba5cee17a8adff62c0a9eb38c685e84695b63a438"
+hash = "d31611e62bcedbb52e92a2e6be6859c048ab71d4744d71ecf846f7de1433cb53"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -1762,7 +1762,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "b383be862a947d978344a6cdea14e438ffb94622f3f5ef231063a73fd45b9ee7"
+hash = "1b0391bef5fa44d4ccdafe30a8c63af05dd630d26ccae43697d2eca491af361e"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -1976,7 +1976,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
-hash = "cea033f4656ca8ee4dd95f4c9f96df85471699830aa15235bc7d170296faf144"
+hash = "0dcda06d4bddbd8c19e894f92d9c90529a35979a4c19062dc9fa02166c223177"
 metafile = true
 
 [[files]]
@@ -2461,7 +2461,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitix.pw.toml"
-hash = "ffd1fd847ed4d1e644ced91c328c94a476f9454ed36cdc4959aa39f5fc4d0072"
+hash = "0b3bc84cc3b9d8d477bc4c9db4587b976207072f1f09c4bf62bd3783d0cb2a15"
 metafile = true
 
 [[files]]

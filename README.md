@@ -57,12 +57,11 @@
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
-- [x] Immersive Aircraft Recipe Integration with alternative tech mods (engines made from steel)
+- [x] Immersive Aircraft Recipe Integration with tech mods
 - [x] Added The Undergarden
-- [x] ADD [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
-  - [x] standardize ore gen and drops
-  - [x] recipe changes to include Naq as base material (steel_casing and metallurgic_infuser)
+- [x] Added Mekanism
   - [ ] disable teleportation stuff?
+- [x] Standard Ore Block drops the same rate as raw copper
 
 # Big Changes
 - [ ] Modify Bronze Ingot recipe to include create machines
@@ -71,10 +70,9 @@
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
-  - [x] Standard Ore Block drops the same rate as raw copper
-  - [ ] Initial smelting layout will be one raw ore in a furnace makes {X = 2 or 3?} nuggets
-  - [ ] 1 raw chunk in create mixer with water makes {2X} nuggets
-  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, each smelted for {1.5X} nuggets or washed for {3X} nuggets
+  - [ ] Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
+  - [ ] 1 raw chunk in create mixer with water makes 4 nuggets
+  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, each smelted for 3 nuggets or washed for 6 nuggets
   - [ ] More complex ore processing will yield better results
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*

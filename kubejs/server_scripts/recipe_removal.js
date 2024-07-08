@@ -85,6 +85,14 @@ ServerEvents.recipes(event => {
         { id: "lightmanscurrency:coinpile_chocolate_netherite" },
         { id: "lightmanscurrency:coinblock_chocolate_netherite" },
 
+        { id: "mekanism:teleporter" },
+        { id: "mekanism:teleportation_core" },
+        { id: "mekanism:portable_teleporter" },
+        { id: "mekanism:module_teleportation_unit" },
+        { id: "mekanism:teleporter_frame" },
+        { id: "mekanism:upgrade_anchor" },
+        { id: "mekanism:dimensional_stabilizer" },
+
         { id: "moreminecarts:minecart_with_chunk_loader" },
 
         { id: "railways:sequenced_assembly/track_phantom" },

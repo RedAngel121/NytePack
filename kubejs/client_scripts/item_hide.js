@@ -70,6 +70,14 @@ JEIEvents.hideItems(event => {
     event.hide("lightmanscurrency:coinpile_chocolate_netherite")
     event.hide("lightmanscurrency:coinblock_chocolate_netherite")
 
+    event.hide("mekanism:teleporter")
+    event.hide("mekanism:teleportation_core")
+    event.hide("mekanism:portable_teleporter")
+    event.hide("mekanism:module_teleportation_unit")
+    event.hide("mekanism:teleporter_frame")
+    event.hide("mekanism:upgrade_anchor")
+    event.hide("mekanism:dimensional_stabilizer")
+    
     event.hide("moreminecarts:minecart_with_chunk_loader")
 
     event.hide("railways:track_phantom")

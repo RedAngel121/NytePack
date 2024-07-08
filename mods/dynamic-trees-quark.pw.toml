@@ -1,13 +1,13 @@
 name = "Dynamic Trees - Quark"
-filename = "DynamicTreesQuark-1.20.1-2.5.2.jar"
+filename = "DynamicTreesQuark-1.20.1-2.5.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8e3a2ab175a6bfc8a0ef34c27a457f3d003f384a"
+hash = "0568879dc700c325d9377439b3ab2006069b9dfd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5500452
+file-id = 5511673
 project-id = 386753
