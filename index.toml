@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/agricraft.jsonc"
-hash = "42c79a89f375967d0765a0e4506dc9ee5bf4604ccdd3cb79aef73d889ff99a53"
+hash = "72759c75bcb8c57ea58c4d93a5495da5ef73490848488b7994c1e4d9ff3d2cab"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -758,7 +758,7 @@ hash = "85a86edcc7de455ccd5816e1e871af39b7965706f64741fc8afa013b6e9b5c8a"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/boiler.json"
-hash = "61f950aee1acc40edd057230ea733f4241425d17457eea241825894a2cb1346b"
+hash = "82819d8f4b478b6225fea57613bc8c48ef9dd96d38ecb45d6b35b75075c38ad0"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/bomb_bay.json"
@@ -838,7 +838,7 @@ hash = "a8e60170da416225c8101c101b4fd0ce413896def234d65e51d52d9c69a9c4b4"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/telescope.json"
-hash = "178419fd5e31fea399657b2c5f9c2f795bd7386cf7938cfd24811152bbc2d35c"
+hash = "b1e0224d3c4e3b2f90a2ac5bc4dac623105875e8acb41c47874891c61d0f476c"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/warship.json"
@@ -898,7 +898,7 @@ hash = "ec896e8684d70672bf40e62954722ab208121381dc4ec89530ce809fcaa41b73"
 
 [[files]]
 file = "kubejs/data/man_of_many_planes/recipes/scarlet_biplane.json"
-hash = "f0cceffbe32d9ea2abef20199d51adae6db3c8d51ff5da7c42193d3c611ae229"
+hash = "571fd359351afa16cd01a888f29f8a65fa19ca1f5fe3fde036ff1bbc6749c1fe"
 
 [[files]]
 file = "kubejs/data/mekanism/loot_tables/blocks/deepslate_fluorite_ore.json"
@@ -1526,11 +1526,11 @@ hash = "57df64c942b24e9566607ff0b2853c1ef026d629e11515586318fb0c072b05a0"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
-hash = "e1a546e58b1452a2ec4536f71d7b4755f11dbf6aff55bf57a15ce1a91e4c1064"
+hash = "f20dadbf6de8530344a458097bace0c6509e063ddaaa0fa0495383ecc41e90e3"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/forgotten_ingot.json"
-hash = "a42aa8cf1a6cf0111adfe20a4294e0bc3a5559557eac4dadd1d224e8186d744b"
+hash = "d31a90473792ec8cf6360ebed3a03ebfcdb4fe83778e58d4f840ffc61560b352"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/froststeel_ingot.json"
@@ -1539,6 +1539,10 @@ hash = "92821fdf84591454554597154460c65f4a848093cb929836fa3fdba0593f6105"
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/masticator_scales.json"
 hash = "3ca771284e5aee77c011523c2ca5c680c321cf3920219a53495e2f2f44a03b8e"
+
+[[files]]
+file = "kubejs/data/silentgear/silentgear_materials/naquadah.json"
+hash = "e61d9065d362834476965709559488e52e9d5a556b6ec738f4f99255bd9ec7dd"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/utherium_crystal.json"
@@ -2211,7 +2215,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
+hash = "a57bc1e770ea4c0caae72f0de43960ebfc446b2d3b75744111e4bc75298b208b"
 metafile = true
 
 [[files]]
@@ -2256,7 +2260,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "d836f2b46a92aa1e0308672072c761a58b5186d6f5c2c39499b8b7f6aeaa0945"
+hash = "e75703f02c61dc12d85d23ad2e3aa7a435e377190a90ffcdb9af0eb1e2927210"
 metafile = true
 
 [[files]]
@@ -2426,7 +2430,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]

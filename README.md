@@ -60,13 +60,13 @@
 - [x] Immersive Aircraft Recipe Integration with tech mods
 - [x] Added The Undergarden
 - [x] Added Mekanism
-  - [ ] disable teleportation stuff?
 - [x] Standard Ore Block drops the same rate as raw copper
 
 # Big Changes
 - [ ] Modify Bronze Ingot recipe to include create machines
-- [ ] Add Naquadah to silent gear improve over Netherite
-- [ ] Improve Undergarden mats for silent gear to be better than Naquadah
+- [ ] SilentGear Additions
+  - [ ] Add Naquadah to silent gear improve over Netherite
+  - [ ] Improve Undergarden mats for silent gear to be better than standard ores and Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:

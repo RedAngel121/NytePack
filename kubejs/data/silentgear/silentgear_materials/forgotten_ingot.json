@@ -22,14 +22,14 @@
         "coating": {
             "durability": [
                 {
-                    "mul2": 0.2
+                    "mul2": 0.4
                 },
                 {
                     "add": 20.0
                 }
             ],
             "armor_durability": {
-                "mul2": 0.121212125
+                "mul2": 0.2
             },
             "harvest_speed": {
                 "mul2": 0.125
@@ -50,7 +50,7 @@
                 "mul2": 0.1
             },
             "armor_toughness": {
-                "add": 4.0
+                "add": 6.0
             },
             "knockback_resistance": {
                 "add": 1.0
@@ -65,6 +65,10 @@
             {
                 "name": "silentgear:ancient",
                 "level": 4
+            },
+            {
+                "name": "silentgear:fireproof",
+                "level": 1
             },
             {
                 "name": "silentgear:accelerate",

@@ -1,13 +1,13 @@
 name = "Nullscape"
-filename = "Nullscape_1.20.x_v1.2.6.jar"
+filename = "Nullscape_1.20.x_v1.2.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0325db45575e26394bb01ea25870242b60ac23d0"
+hash = "7084e5730522809e7f4005d2c287a9ffccf42acd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5424721
+file-id = 5512052
 project-id = 570354
