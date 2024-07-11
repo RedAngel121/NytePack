@@ -597,6 +597,106 @@ file = "kubejs/assets/moregates/textures/entity/stargate/universe/quartz/quartz_
 hash = "9fce9c6d0827b6fd929cf36b3c39e4ae383e3db2ac1b55b00fe6fd6700781a4c"
 
 [[files]]
+file = "kubejs/assets/sgjourney/models/block/milky_way_dhd.json"
+hash = "a70141c4c89889bc33c8db2250960ba1ec0e107147dbd98701b16ca0e2afa452"
+
+[[files]]
+file = "kubejs/assets/sgjourney/models/block/pegasus_dhd.json"
+hash = "fa5b9fe48d6a5c4e82c10e02db29f4469420252396eb61bbc34833b5d90c57c7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/block/milky_way_dhd_pad.png"
+hash = "67e916638223224f5418027eaf852d9c0490861658ec0282330c0963e318ce54"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/block/milky_way_dhd_stand.png"
+hash = "ca4aab339b8ab3c831cfa75eb1b5ac7a5837b285290f3b082138310abcd32711"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/block/pegasus_dhd_pad.png"
+hash = "486918cbbdaeba03a79199fe59698ca39d3dc0464c2cd69f27dbaf7636c34112"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/block/pegasus_dhd_stand.png"
+hash = "ca4aab339b8ab3c831cfa75eb1b5ac7a5837b285290f3b082138310abcd32711"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate.png"
+hash = "a1f7f2a4bd5e87d28fad54b3a4d858d05d3cda2cdc96ed0857bfd17bb8ff6c1e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_alternate.png"
+hash = "7557df34c9a9d73d6e9177823c68bdcc829843175eb14674563df8c4a61efb1c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_alternate_engaged.png"
+hash = "3c15f7264ec443a490e2b130ae4c932b2ed279e1f16dbc9e2f19d794a0a4df89"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_engaged.png"
+hash = "57f1a90c21422ea90870985b0923a5adb0f7f219b8468ae22fff35dd3a7ac99f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/movie/movie_stargate.png"
+hash = "8865c3db0c4f95a2d4effc537821ee05b0917ffa6f17667f3b2379a7af0b5fab"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/promo/promo_stargate.png"
+hash = "909e7f19d32ab2ddc1eb0ae4a06791d82eaf05b9d1df3210d12fb3065b3835c8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/promo/promo_stargate_engaged.png"
+hash = "b7e6b16c908534fa969e4a0b5ecdb786400021274514fe7a56d229883128e786"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/sg-1/sg-1_stargate.png"
+hash = "f4b96435a46d95c61bb691732082b06ead0b4df54ff00609a8fa7a58993b923a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/sg-1/sg-1_stargate_engaged.png"
+hash = "db72cea563131de839cab0e574d3804d0a5096b72b1e914ae491f3c331bc73d7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/atlantis/atlantis_stargate.png"
+hash = "2aa55348095ab4b2dcf3503e5c5259025473ef44bd33418bab45d81dca537e96"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/atlantis/atlantis_stargate_engaged.png"
+hash = "193ad9d997bc84a2c1a1a06b17723c434701fe28e271c07720b4732b67178fc4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate.png"
+hash = "9b0042e3cb16a799f5c0d06689d1f39a8ca0bee9c45f7e782749880adc252092"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_alternate.png"
+hash = "42c1ef19b5621243cee906283e63e715459cef00eb6816cff4927f1aefda05f2"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_alternate_engaged.png"
+hash = "993d22f433e0197a2d486a77ac074065b4c7d9cce3b15eeda0c6023328e9c2e1"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_engaged.png"
+hash = "8a8564c82e8f8fd6a634e989619a050a506dbfb5e02b38118b73074cf01aee8c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/universe/universe_stargate.png"
+hash = "121ae1cfbf07742ac8fe46f538de322e5ffcb668efc7e813a69c77674ee1b27b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/entity/stargate/universe/universe_stargate_engaged.png"
+hash = "e7ff64cc55a9f7f165b52c82c8064e2d4b8904259159410e8f41746c5a5a2e3a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/item/milky_way_dhd.png"
+hash = "5aa690aa29a5a2c33e351ebad12c9fc45901827c91d5659b7191a77739e5d9c9"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/item/pegasus_dhd.png"
+hash = "8fa2a825e8f04c408c9e9ce8093c08e822e778105e917189316019a90e256b88"
+
+[[files]]
 file = "kubejs/assets/silentgear/textures/item/cloggrum_ingot/cloggrum_ingot.png"
 hash = "b163aabd18e37c36fa65ba5a726793a23efedf81caf54d28fbfb7eda01e73da5"
 
@@ -1780,7 +1880,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "eca74eb8bebd821fc4c0bf9688c9f067c1cc5be4581365727cf2a828eabf19f5"
+hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
 metafile = true
 
 [[files]]
@@ -2135,7 +2235,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "ffbeec33ab162c318aab18d8a18bde65e7f190c5058ecf7545e353fec47907a4"
+hash = "8dbf3f5de40a451461af1ca3527e928a6c4755b6e9514ea12081da32e183723a"
 metafile = true
 
 [[files]]
@@ -2340,7 +2440,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "c0ecfde73ccdb404136f50c44266cbdb0805d4c7786ae2a67c16a4dd0f13ca04"
+hash = "dda893045b5f65afd17a7be59862b52122f50352e89f73d127c462a21b8d5a18"
 metafile = true
 
 [[files]]
@@ -2385,7 +2485,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4a997cac9a71b05a4ffb06bb27849b49a5e4df9cbb90045ac8cc06874b8feffa"
+hash = "8be59d4bd5e7aada4edc43d17aabd1efd87a6837f89033e8f68193c4958fddc4"
 metafile = true
 
 [[files]]

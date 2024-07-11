@@ -98,6 +98,7 @@
 - [Nightmare Epic Siege](https://www.curseforge.com/minecraft/mc-mods/nightmareesm): Disable 90% of the mod: Most things are not ok but more intelligent mobs could be interesting
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) And [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries): lots of problems with this that im not super intersted in fine tuning yet
+- [Armourer's Workshop](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop) Cosmetics
 
 # Additional Server World Changes:
 - Find out how much Starting Cash will be needed to play on the server
