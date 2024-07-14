@@ -1,13 +1,13 @@
 name = "Dynamic Trees"
-filename = "DynamicTrees-1.20.1-1.3.0-BETA10.jar"
+filename = "DynamicTrees-1.20.1-1.3.0-BETA11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf1286662bab8728c8b481c16656b4ae00315f79"
+hash = "cd127b8328b639b88f2e61f6880f7919a98e7619"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5509635
+file-id = 5527670
 project-id = 252818
