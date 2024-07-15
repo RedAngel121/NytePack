@@ -2279,7 +2279,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8d79a6643baf11625fea72bf94e68716ef33bc693073afc9002803160722a125"
+hash = "7f9da493908feb4d10813dc79e7ca3f53f99f028ce49ffcb1049f818f3f9266a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
