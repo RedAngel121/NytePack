@@ -2634,7 +2634,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitix.pw.toml"
-hash = "0b3bc84cc3b9d8d477bc4c9db4587b976207072f1f09c4bf62bd3783d0cb2a15"
+hash = "c09e60400b06538d9b33aa138a5f33fd1e5fb562407de38805a0264a769d5c3a"
 metafile = true
 
 [[files]]

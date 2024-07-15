@@ -34,7 +34,7 @@
 - Pams Harvestcraft 2
 - Silent Gear
 - Sophisticated Storage
-- Toms Storage
+- Tom's Storage
 - Tool Belt
 - And More!
 
