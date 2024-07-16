@@ -2159,7 +2159,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
-hash = "db0a985ddef4be1e9d0af782243d7cee46ca0301e06d0b52a2a3178ab9ecffbb"
+hash = "66a33b2b8b0554be94fd4bc562ef84956b94ea0fb7edc2d6b6571e2ea0827fda"
 metafile = true
 
 [[files]]
@@ -2279,7 +2279,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7f9da493908feb4d10813dc79e7ca3f53f99f028ce49ffcb1049f818f3f9266a"
+hash = "8d79a6643baf11625fea72bf94e68716ef33bc693073afc9002803160722a125"
 metafile = true
 
 [[files]]
