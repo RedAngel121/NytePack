@@ -64,6 +64,8 @@
 
 # Big Changes
 - [ ] Modify Bronze Ingot recipe to include create machines
+- [ ] Modify Apoth Wizard Towers to spawn less or not at all
+- [ ] Compass that points to spawn
 - [ ] SilentGear Additions
   - [ ] Add Naquadah to silent gear improve over Netherite
   - [ ] Improve Undergarden mats for silent gear to be better than standard ores and Naquadah
@@ -137,3 +139,70 @@
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
 - For use on servers, add the `-g` flag to disable the GUI and `-s server` to download only server-side mods
 - Then start the minecraft dedicated server using the premade server script
+
+# Mods that Oramgecat thought were OK to install...
+Biomes O' Plenty                    Yea not happening
+BOP Create Mod Rose Quartz          Unnecessary
+Chunk Loaders                       probably not going to use it
+CoFH Core                           Required by Thermal series so not happening
+Corail Tombstone                    Already have corpse mod and dont want the extra utility
+Deeper and Darker                   Useless mod
+Ding                                Wont be needed if you didnt add in all these extra mods
+Elevator Mod                        Useful but Not in the spirit of the pack
+Ender Crop                          - Investigate
+Ender IO                            Alpha stages of dev so nope
+EnderChests                         Not in the spirit of the pack
+EnderTanks                          Not in the spirit of the pack
+Explorer's Compass                  wont be easily useful
+Fast Leaf Decay                     not needed with DynTrees
+Flywheel                            - Investigate
+Forbidden & Arcanus
+Industrial Foregoing
+Just Enough Mekanism Multiblocks    - Broken Mod
+KumaAPI
+Light Overlay                       Cheats LOL
+Mana and Artifice                   will be added back in later
+McJtyLib
+Mekanism: More Solar Panels         I need to look into the rest of Mek and see whats worth using
+Mekanism: Additions
+Mekanism: Generators
+Mekanism: Tools
+Mekanism: Weapons
+MixinExtras                         - Investigate
+MixinSquared                        - Investigate
+Mob Grinding Utils                  NOT HAPPENING
+More Mekanism Processing            doesnt jaopca cover everything?
+Nature's Compass                    meh may not be needed
+Nebulus' Cherryblossom Tree         NOPE NOT HAPPENING
+Nebulus' Jungle Tree
+Nebulus' Oak Tree
+Nebulus' Spruce Tree
+OAuth Account Manager               Maybe for client side
+Open Parties and Claims             use FLAN
+Polymorph                           - Investigate
+Refined Storage                     Nope, not until I get Mek up to speed
+Regions Unexplored                  - Investigate
+RFToolsBase                         RFTOOLS IS NOT HAPPENING
+RFToolsBuilder
+RFToolsControl
+RFToolsPower
+RFToolsStorage
+RFToolsUtility
+ShetiPhian-Core
+Sophisticated Backpacks             dont want backpacks right now... not sure if that will change later
+SpectreLib
+Super Factory Manager               Not in the spirit of the pack
+TerraBlender                        not needed cause no BoP
+Thermal Cultivation                 THERMAL ISNT HAPPENING
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Thermal Integration
+Thermal Locomotion
+Thermal Series
+Titanium                            Req by Industrial Foregoing
+Torchmaster                         ONLY FOR ADMIN USE
+U Team Core
+Valhelsia Core
+Waystones                           NEVER

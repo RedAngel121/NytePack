@@ -782,7 +782,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "d31611e62bcedbb52e92a2e6be6859c048ab71d4744d71ecf846f7de1433cb53"
+hash = "914b705beaace02a9088c29be55d5df2204d808af3f36ef93b32e301e7ca8bb9"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -1781,6 +1781,18 @@ file = "kubejs/data/tfmg/recipes/milling/quark_limesand.json"
 hash = "b7f29633cf78b3b0c318a5e26f705b1f880e4fe651cde3cc38c601605ae2eca2"
 
 [[files]]
+file = "kubejs/data/tfmg/recipes/mixing/copper_sulfate.json"
+hash = "1ab949dd9f82e20011226d369ef9c3e5635fcbdaf01605d747bbc63ef89c896e"
+
+[[files]]
+file = "kubejs/data/tfmg/recipes/mixing/sulfuric_acid.json"
+hash = "164630ee6f8b899b942128d52bcc3ce9214a11af045e4c33b92fb843a8cf3de2"
+
+[[files]]
+file = "kubejs/data/tfmg/recipes/mixing/zinc_sulfate.json"
+hash = "32da60b7fa7f559d2b353714badb8c8a9d8dd05e64b7c14306314899509b5487"
+
+[[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/lead_ore.json"
 hash = "6166ef967e935f3ce8806c256b473cb40466d14c3631fd8786f85a4a7fcd20c5"
 
@@ -1930,7 +1942,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "1b0391bef5fa44d4ccdafe30a8c63af05dd630d26ccae43697d2eca491af361e"
+hash = "176e65c2a19f7cb281fde6183f90f62e38b2da1b3a7d75ec615821c7c2f0192c"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -2078,6 +2090,11 @@ hash = "b612a6b66dc537d6f151c23a96f9049bbe3910d675c599baf852e6b72289f09f"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "2cc22ef9b2976725a1ffeb3d046dc5a69faa320b836ed67312e9242eff0149f5"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "1834c0180f9f41dd3ec57776cc9ee30cf93ddcb1adf16c04aed46eab677378ea"
 metafile = true
@@ -2088,8 +2105,8 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
-file = "mods/create-extended-cogs.pw.toml"
-hash = "7e6876962011caf0c25468af7727632855d8f1ef8e67c82bfb3e326f7e3f8ea1"
+file = "mods/create-extended-cogwheels-unofficial.pw.toml"
+hash = "8c704699ed774ae64ee1a76eb5fdf5588dc81a0e03064bb13b8c12f4dfdc1042"
 metafile = true
 
 [[files]]
@@ -2304,7 +2321,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "8dbf3f5de40a451461af1ca3527e928a6c4755b6e9514ea12081da32e183723a"
+hash = "7656d1dc82146e7cbd309be49ad8585cad8e296cccc2697c236f2d02e68e23c5"
 metafile = true
 
 [[files]]
@@ -2324,7 +2341,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "d51c80061dd882fc8c7e2b96ab76ae5728995f085a2e7a6d3b050b2cf8e2e0c4"
+hash = "308c3567df9aad016bcc47687d8cf91885426302cceb1c2d7bf4657c4091c610"
 metafile = true
 
 [[files]]
@@ -2480,6 +2497,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
 
 [[files]]

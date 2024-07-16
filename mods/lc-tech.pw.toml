@@ -1,13 +1,13 @@
 name = "LC Tech"
-filename = "lctech-1.20.1-0.2.1.7.jar"
+filename = "lctech-1.20.1-0.2.1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8b708bba19882fdb02390bf05689d2618f260792"
+hash = "76bb3333ef13d45f00dbce4f720b1fea3e4d4053"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5517297
+file-id = 5536592
 project-id = 548152

@@ -96,4 +96,6 @@ JEIEvents.hideItems(event => {
     event.hide("scalinghealth:cursed_heart")
     event.hide("scalinghealth:enchanted_heart")
     event.hide("scalinghealth:chance_heart")
+
+    event.hide("tfmg:bottle_of_battery_acid")
 })
