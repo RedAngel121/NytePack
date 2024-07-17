@@ -48,7 +48,6 @@
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items like jetpacks (apoth excluded)
 
 # Initial Changes
-- Add and Configure [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) After the v6 Update
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
@@ -63,6 +62,7 @@
 - [x] Standard Ore Block drops the same rate as raw copper
 
 # Big Changes
+- [ ] Add and Configure [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) After the v6 Update
 - [ ] Modify Bronze Ingot recipe to include create machines
 - [ ] Modify Apoth Wizard Towers to spawn less or not at all
 - [ ] Compass that points to spawn
@@ -141,68 +141,21 @@
 - Then start the minecraft dedicated server using the premade server script
 
 # Mods that Oramgecat thought were OK to install...
-Biomes O' Plenty                    Yea not happening
-BOP Create Mod Rose Quartz          Unnecessary
-Chunk Loaders                       probably not going to use it
-CoFH Core                           Required by Thermal series so not happening
-Corail Tombstone                    Already have corpse mod and dont want the extra utility
-Deeper and Darker                   Useless mod
-Ding                                Wont be needed if you didnt add in all these extra mods
-Elevator Mod                        Useful but Not in the spirit of the pack
-Ender Crop                          - Investigate
-Ender IO                            Alpha stages of dev so nope
-EnderChests                         Not in the spirit of the pack
-EnderTanks                          Not in the spirit of the pack
-Explorer's Compass                  wont be easily useful
-Fast Leaf Decay                     not needed with DynTrees
-Flywheel                            - Investigate
-Forbidden & Arcanus
-Industrial Foregoing
-Just Enough Mekanism Multiblocks    - Broken Mod
-KumaAPI
-Light Overlay                       Cheats LOL
-Mana and Artifice                   will be added back in later
-McJtyLib
-Mekanism: More Solar Panels         I need to look into the rest of Mek and see whats worth using
-Mekanism: Additions
-Mekanism: Generators
-Mekanism: Tools
-Mekanism: Weapons
-MixinExtras                         - Investigate
-MixinSquared                        - Investigate
-Mob Grinding Utils                  NOT HAPPENING
-More Mekanism Processing            doesnt jaopca cover everything?
-Nature's Compass                    meh may not be needed
-Nebulus' Cherryblossom Tree         NOPE NOT HAPPENING
-Nebulus' Jungle Tree
-Nebulus' Oak Tree
-Nebulus' Spruce Tree
-OAuth Account Manager               Maybe for client side
-Open Parties and Claims             use FLAN
-Polymorph                           - Investigate
-Refined Storage                     Nope, not until I get Mek up to speed
-Regions Unexplored                  - Investigate
-RFToolsBase                         RFTOOLS IS NOT HAPPENING
-RFToolsBuilder
-RFToolsControl
-RFToolsPower
-RFToolsStorage
-RFToolsUtility
-ShetiPhian-Core
-Sophisticated Backpacks             dont want backpacks right now... not sure if that will change later
-SpectreLib
-Super Factory Manager               Not in the spirit of the pack
-TerraBlender                        not needed cause no BoP
-Thermal Cultivation                 THERMAL ISNT HAPPENING
-Thermal Dynamics
-Thermal Expansion
-Thermal Foundation
-Thermal Innovation
-Thermal Integration
-Thermal Locomotion
-Thermal Series
-Titanium                            Req by Industrial Foregoing
-Torchmaster                         ONLY FOR ADMIN USE
-U Team Core
-Valhelsia Core
-Waystones                           NEVER
+OAuth Account Manager - Maybe for client side
+Torchmaster - ADMIN ONLY
+Mana and Artifice - will be added back in later
+
+Chunk Loaders - probably not going to use it unless moreminecarts never updates
+Sophisticated Backpacks - dont want backpacks right now... not sure if that will change later
+
+Mekanism: More Solar Panels - I need to look into the rest of Mek and see whats worth using
+Mekanism: Additions - I need to look into the rest of Mek and see whats worth using
+Mekanism: Generators - I need to look into the rest of Mek and see whats worth using
+Mekanism: Tools - I need to look into the rest of Mek and see whats worth using
+Mekanism: Weapons - I need to look into the rest of Mek and see whats worth using
+Refined Storage - Nope, not until I get Mek up to speed
+
+Biomes O' Plenty - Yea not happening yet (or at all?)
+BOP Create Mod Rose Quartz - Unnecessary, can be tagged
+TerraBlender - not needed cause no BoP
+Regions Unexplored - more biomes? really?
