@@ -141,21 +141,21 @@
 - Then start the minecraft dedicated server using the premade server script
 
 # Mods that Oramgecat thought were OK to install...
-OAuth Account Manager - Maybe for client side
-Torchmaster - ADMIN ONLY
-Mana and Artifice - will be added back in later
+- OAuth Account Manager - Maybe for client side
+- Torchmaster - ADMIN ONLY
+- Mana and Artifice - will be added back in later
 
-Chunk Loaders - probably not going to use it unless moreminecarts never updates
-Sophisticated Backpacks - dont want backpacks right now... not sure if that will change later
+- Chunk Loaders - probably not going to use it unless moreminecarts never updates
+- Sophisticated Backpacks - dont want backpacks right now... not sure if that will change later
 
-Mekanism: More Solar Panels - I need to look into the rest of Mek and see whats worth using
-Mekanism: Additions - I need to look into the rest of Mek and see whats worth using
-Mekanism: Generators - I need to look into the rest of Mek and see whats worth using
-Mekanism: Tools - I need to look into the rest of Mek and see whats worth using
-Mekanism: Weapons - I need to look into the rest of Mek and see whats worth using
-Refined Storage - Nope, not until I get Mek up to speed
+- Mekanism: More Solar Panels - I need to look into the rest of Mek and see whats worth using
+- Mekanism: Additions - I need to look into the rest of Mek and see whats worth using
+- Mekanism: Generators - I need to look into the rest of Mek and see whats worth using
+- Mekanism: Tools - I need to look into the rest of Mek and see whats worth using
+- Mekanism: Weapons - I need to look into the rest of Mek and see whats worth using
+- Refined Storage - Nope, not until I get Mek up to speed
 
-Biomes O' Plenty - Yea not happening yet (or at all?)
-BOP Create Mod Rose Quartz - Unnecessary, can be tagged
-TerraBlender - not needed cause no BoP
-Regions Unexplored - more biomes? really?
+- Biomes O' Plenty - Yea not happening yet (or at all?)
+- BOP Create Mod Rose Quartz - Unnecessary, can be tagged
+- TerraBlender - not needed cause no BoP
+- Regions Unexplored - more biomes? really?
