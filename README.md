@@ -60,16 +60,13 @@
 - [x] Added The Undergarden
 - [x] Added Mekanism
 - [x] Standard Ore Block drops the same rate as raw copper
+- [x] SilentGear: Added Naquadah and Improved Undergarden mats for silent gear to be better than standard ores
+- [x] Modify Apoth Wizard Towers to spawn less or not at all
+- [x] Added [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals)
 
 # Big Changes
-- [ ] Add and Configure [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) After the v6 Update
-- [ ] Modify Bronze Ingot recipe to include create machines
 - [ ] modify recipes containing obsidian to use Create Sturdy Sheets where it makes sense
-- [ ] Modify Apoth Wizard Towers to spawn less or not at all
 - [ ] Compass that points to spawn
-- [ ] SilentGear Additions
-  - Add Naquadah to silent gear improve over Netherite
-  - Improve Undergarden mats for silent gear to be better than standard ores and Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:

@@ -2,7 +2,7 @@
     "type": "silentgear:standard",
     "simple": true,
     "availability": {
-        "tier": 4,
+        "tier": 5,
         "categories": [
             "metal"
         ],
@@ -22,14 +22,14 @@
         "coating": {
             "durability": [
                 {
-                    "mul2": 0.4
+                    "mul2": 0.5
                 },
                 {
-                    "add": 20.0
+                    "add": 200.0
                 }
             ],
             "armor_durability": {
-                "mul2": 0.2
+                "mul2": 0.5
             },
             "harvest_speed": {
                 "mul2": 0.125
@@ -38,22 +38,22 @@
                 "max": 4.0
             },
             "melee_damage": {
-                "mul2": 0.13333334
+                "mul2": 0.2
             },
             "magic_damage": {
-                "mul2": 0.13333334
+                "mul2": 0.2
             },
             "ranged_damage": {
-                "mul2": 0.13333334
+                "mul2": 0.2
             },
             "ranged_speed": {
-                "mul2": 0.1
+                "mul2": 0.2
             },
             "armor_toughness": {
-                "add": 6.0
+                "add": 8.0
             },
             "knockback_resistance": {
-                "add": 1.0
+                "add": 2.0
             },
             "enchantability": {
                 "add": 5.0

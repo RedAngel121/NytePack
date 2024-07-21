@@ -26,14 +26,14 @@
         "coating": {
             "durability": [
                 {
-                    "mul2": 0.3
+                    "mul2": 0.25
                 },
                 {
-                    "add": 5.0
+                    "add": 50.0
                 }
             ],
             "armor_durability": {
-                "mul2": 0.15
+                "mul2": 0.25
             },
             "harvest_speed": {
                 "mul2": 0.125

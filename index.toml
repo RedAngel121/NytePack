@@ -1937,6 +1937,22 @@ file = "kubejs/data/agricraft/agricraft/mutations/redstodendron.json"
 hash = "0772304e930eb3af089915eb5a149241c5d0d75de139a79fa10e7ddf91e20c70"
 
 [[files]]
+file = "kubejs/data/apotheosis/worldgen/structure_set/tower_leaf.json"
+hash = "0bacaaf7c06c45d8a3b30c9935a29ad1cbbf8603f3446b576c5ae98a3ad577f6"
+
+[[files]]
+file = "kubejs/data/apotheosis/worldgen/structure_set/tower_main.json"
+hash = "23b1d1ddd0542dc7b3b9d4d869a1522a6d83dd8bd37acfec48635987e473edf3"
+
+[[files]]
+file = "kubejs/data/apotheosis/worldgen/structure_set/tower_sand.json"
+hash = "7d7d455bc9481dfb3dc288076f90b6a34da6a8d99e8859924e72b915814fd6aa"
+
+[[files]]
+file = "kubejs/data/apotheosis/worldgen/structure_set/tower_spruce.json"
+hash = "c93028e4a47239c877b66673aa456dfcdfae85d283a55df8e26545b5e67d05c2"
+
+[[files]]
 file = "kubejs/data/create/worldgen/configured_feature/zinc_ore.json"
 hash = "b567c51fb201528b7908b4714f24c2ea170a01ae86d499d6aa715b03ad76140a"
 
@@ -2770,27 +2786,23 @@ hash = "57df64c942b24e9566607ff0b2853c1ef026d629e11515586318fb0c072b05a0"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
-hash = "f20dadbf6de8530344a458097bace0c6509e063ddaaa0fa0495383ecc41e90e3"
+hash = "1e359499f5fcad22cf113b78edec72447133b471800bf32bd728a634d35ed389"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/forgotten_ingot.json"
-hash = "d31a90473792ec8cf6360ebed3a03ebfcdb4fe83778e58d4f840ffc61560b352"
+hash = "27c4af01a261a8ce9b1c2548d0c2d19cc12543fe715674c56b29a5c9db0407e9"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/froststeel_ingot.json"
-hash = "92821fdf84591454554597154460c65f4a848093cb929836fa3fdba0593f6105"
-
-[[files]]
-file = "kubejs/data/silentgear/silentgear_materials/masticator_scales.json"
-hash = "3ca771284e5aee77c011523c2ca5c680c321cf3920219a53495e2f2f44a03b8e"
+hash = "278a9ebc767fbe9cdeade12ca79d5031e595d485765d563f0ca0b12c25a1519a"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/naquadah.json"
-hash = "e61d9065d362834476965709559488e52e9d5a556b6ec738f4f99255bd9ec7dd"
+hash = "abca5a5568c429fffe36c1a8caa6b86c62fb3563104217e352bf9f1e6ee4aba0"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/utherium_crystal.json"
-hash = "2effe2bb8b064890ed62f3b86896ce0f6d9760d715f9f55c71b6362df5f2f20c"
+hash = "fd92c516c500139a0fa38eca6eeba54fb68782979cca3838e8b38433866dc075"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_traits/featherweight.json"
@@ -3151,7 +3163,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "c9c55d8e896ce781be86d340d221574ea560f9a36bcef4571012aece122d5bcd"
+hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
 metafile = true
 
 [[files]]
@@ -3520,6 +3532,11 @@ hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
+file = "mods/no-mo-portals.pw.toml"
+hash = "14770ed905c50a6f84e0ab6adf699612720bd204aa3c0b2d3085c0c0f8d61f29"
+metafile = true
+
+[[files]]
 file = "mods/no-more-piglin-portal-spawning.pw.toml"
 hash = "a3f429de0784d4d3918d80d38ae5d3e13410d1dc635c61f1a69705d80b951f71"
 metafile = true
@@ -3771,7 +3788,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "fe18869afc6fa839cbfd61d4b287792c04d78204a94662be97a2c0a2114854be"
+hash = "5484f52f5055b1bc42a21508214caf4a3a2c89353a49765b4be6cd24f7d5514e"
 metafile = true
 
 [[files]]
