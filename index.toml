@@ -2071,7 +2071,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ecde06eae0428afe6d44435db3030d7073668e18427daa7b1e2930d4f33445fa"
+hash = "c9c55d8e896ce781be86d340d221574ea560f9a36bcef4571012aece122d5bcd"
 metafile = true
 
 [[files]]
@@ -2181,7 +2181,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "3dfbf226e9b5e0f4277c48e545533e9427af919c2a1f9c2d77dcb36d6619d86e"
+hash = "3596795f8df47c5d72f12f34eafcc6d50ebaac681becdc79d97a20a587a7ecef"
 metafile = true
 
 [[files]]
@@ -2296,7 +2296,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8d79a6643baf11625fea72bf94e68716ef33bc693073afc9002803160722a125"
+hash = "3adf8ad51adec86387a7243f518d3a33f412c2bb46508351ac724f496768ac2a"
 metafile = true
 
 [[files]]
@@ -2401,7 +2401,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c71d9477dd90e1aadf7910127c1ab302b65d8c9a7c8f428bdd097977069d21c7"
+hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
 metafile = true
 
 [[files]]
@@ -2641,7 +2641,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
+hash = "5a7cbd5bc7dd5ac36cdb21f225e746d67bfb76523ca570afe78a5e421839040a"
 metafile = true
 
 [[files]]
