@@ -64,6 +64,7 @@
 # Big Changes
 - [ ] Add and Configure [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) After the v6 Update
 - [ ] Modify Bronze Ingot recipe to include create machines
+- [ ] modify recipes containing obsidian to include Create Sturdy Sheets
 - [ ] Modify Apoth Wizard Towers to spawn less or not at all
 - [ ] Compass that points to spawn
 - [ ] SilentGear Additions

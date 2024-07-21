@@ -93,6 +93,8 @@ ServerEvents.recipes(event => {
         { id: "mekanism:upgrade_anchor" },
         { id: "mekanism:dimensional_stabilizer" },
 
+        { id: "minecraft:ender_chest" },
+
         { id: "moreminecarts:minecart_with_chunk_loader" },
 
         { id: "railways:sequenced_assembly/track_phantom" },
