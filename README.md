@@ -64,19 +64,19 @@
 # Big Changes
 - [ ] Add and Configure [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals) After the v6 Update
 - [ ] Modify Bronze Ingot recipe to include create machines
-- [ ] modify recipes containing obsidian to include Create Sturdy Sheets
+- [ ] modify recipes containing obsidian to use Create Sturdy Sheets where it makes sense
 - [ ] Modify Apoth Wizard Towers to spawn less or not at all
 - [ ] Compass that points to spawn
 - [ ] SilentGear Additions
-  - [ ] Add Naquadah to silent gear improve over Netherite
-  - [ ] Improve Undergarden mats for silent gear to be better than standard ores and Naquadah
+  - Add Naquadah to silent gear improve over Netherite
+  - Improve Undergarden mats for silent gear to be better than standard ores and Naquadah
 - [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] "Ore Factories" will have different ways of processing ore per type:
-  - [ ] Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
-  - [ ] 1 raw chunk in create mixer with water makes 4 nuggets
-  - [ ] 1 raw chunk in a grind mill makes 1-2 crushed ore, each smelted for 3 nuggets or washed for 6 nuggets
-  - [ ] More complex ore processing will yield better results
+  - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
+  - 1 raw chunk in create mixer with water makes 4 nuggets
+  - 1 raw chunk in a grind mill makes 1-2 crushed ore, each smelted for 3 nuggets or washed for 6 nuggets
+  - More complex ore processing will yield better results
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed

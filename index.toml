@@ -3022,7 +3022,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "9dfdb27eeb1fb3182d32b1a8f9a8765e2f7be3c28dd9f9a60c40ad46c1ed813e"
+hash = "ba1c8514e20558058beba9138d2a7bcee9e147e4b9f680f1f098d4763b0c5ec1"
 
 [[files]]
 file = "mods/agricraft.pw.toml"

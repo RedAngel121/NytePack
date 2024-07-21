@@ -104,6 +104,8 @@ ServerEvents.recipes(event => {
         { id: "scalinghealth:power_crystal" },
         { id: "scalinghealth:bandages" },
         { id: "scalinghealth:medkit" },
+
+        { id: "silentgear:bronze_ingot" },
         
         { id: "tfmg:filling/bottle_of_battery_acid" },
 
