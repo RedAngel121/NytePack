@@ -142,7 +142,6 @@
 
 # Mods that Oramgecat thought were OK to install...
 - OAuth Account Manager - Maybe for client side
-- Torchmaster - ADMIN ONLY
 - Mana and Artifice - will be added back in later
 
 - Chunk Loaders - probably not going to use it unless moreminecarts never updates

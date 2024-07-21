@@ -650,11 +650,11 @@ hash = "d7011c4e72876aef2b0ad1da83c238e8837174b263a7fdcc455f370a2b150e7f"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate.png"
-hash = "fb38459e3f588898a00e00bf70e31b4921417f131eebb93896ecfe93b255a477"
+hash = "e24a3d7c06273092101a27dcec6782c28f1135229dd0fd985b44c92abaf0586b"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_alternate.png"
-hash = "8ec4e8b478be72c138f652b218262242292de40ab7042cb9a79c7e672600a035"
+hash = "653bc2f8adaeced7d5a3a85e0af37e9f96d0dbd7733ac3637778b296f765f3d1"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_alternate_engaged.png"
@@ -666,11 +666,11 @@ hash = "57f1a90c21422ea90870985b0923a5adb0f7f219b8468ae22fff35dd3a7ac99f"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/movie/movie_stargate.png"
-hash = "8865c3db0c4f95a2d4effc537821ee05b0917ffa6f17667f3b2379a7af0b5fab"
+hash = "d3390866c9b6e0fb78d9e57241aa5b42a09360ce7077ee078a978bb81f0bb85b"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/promo/promo_stargate.png"
-hash = "528ed5447928b095205edff00d51f05cf0bd15f1f2319c204760951d5722656d"
+hash = "93a488062bab86945c9695287c65a4671fb9ec76829baac1176606eee5889f28"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/promo/promo_stargate_engaged.png"
@@ -678,7 +678,7 @@ hash = "b7e6b16c908534fa969e4a0b5ecdb786400021274514fe7a56d229883128e786"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/sg-1/sg-1_stargate.png"
-hash = "12893af192a81aebb15044f1712c1c63fae647bc7ab6f6c8be414f99846d94ed"
+hash = "915a1bb59d39701ea9c90b28cde5fb97817a196195b25733e3d57e34bed143b1"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/sg-1/sg-1_stargate_engaged.png"
@@ -686,7 +686,7 @@ hash = "db72cea563131de839cab0e574d3804d0a5096b72b1e914ae491f3c331bc73d7"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/atlantis/atlantis_stargate.png"
-hash = "2aa55348095ab4b2dcf3503e5c5259025473ef44bd33418bab45d81dca537e96"
+hash = "8f2c94467d46a67f44b7f8f8b93249fd1bba05aa71de7159b315ecc16229dbbc"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/atlantis/atlantis_stargate_engaged.png"
@@ -694,11 +694,11 @@ hash = "193ad9d997bc84a2c1a1a06b17723c434701fe28e271c07720b4732b67178fc4"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate.png"
-hash = "9b0042e3cb16a799f5c0d06689d1f39a8ca0bee9c45f7e782749880adc252092"
+hash = "1d98f2ce82ab13dad06496aafa70e7c7a14c19acbe7798e84049be8e9c0605dc"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_alternate.png"
-hash = "42c1ef19b5621243cee906283e63e715459cef00eb6816cff4927f1aefda05f2"
+hash = "861fa1ee6d1c324c9e0a48460e24ad286df5e35df34783652a805803a3a8210c"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_alternate_engaged.png"
@@ -718,7 +718,7 @@ hash = "2d7faca731073248cd9f8a1be1dde388dadf9482d9c1023ad0b4f0b5a025c8f6"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/universe/universe_stargate.png"
-hash = "121ae1cfbf07742ac8fe46f538de322e5ffcb668efc7e813a69c77674ee1b27b"
+hash = "cff11f43becd16943c70d32f278541405106eaf967971269fb0da15d534243ed"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/universe/universe_stargate_engaged.png"
@@ -759,6 +759,1086 @@ hash = "dc6ef00bad83d6b316cb62107d6542534bfa1ce32169247527abf0528bd0cf34"
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/universe_stargate_chevron_engaged.png"
 hash = "974e759e2885677b2bcf0c9c07a6471378adc1bd2dcb9f5897ed795b45b9d57f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/kaliem/galaxy_kaliem.png"
+hash = "1510b1a9c2841465e0c2b74596c0f72faf5c209bee379a2d645cd791ae6e02bd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/abydos.png"
+hash = "c201776ab7b0d4b88f461b3104b53e74d08d7c1e3d880c26ae8a52198a703696"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/cavum_tenebrae.png"
+hash = "232dacdd1a820f306d8de8bbc65487a0a5294356ef409ea5a749d1f17ad544a3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/centauri.png"
+hash = "d1d78ae07531d93ce9aa6901246a72d7d6ab383ca2326ee8d5d79c08ae0c389c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/chulak.png"
+hash = "ca841295e8fe7b271f9693428829877162b1490ca46ef000c8812040b3dddcc2"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/galaxy_milky_way.png"
+hash = "c9e93a6916491e8dcd3b9c06d0faf799adeb40354c78e719820f4ab0a19aaa4c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_10.png"
+hash = "00a3d66409cd788caaa7cecbc40f8fc0569a2d2344ca8af4bf297bbfe43e8bd9"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_11.png"
+hash = "ab1d8e9cf0e2a6e710b4d06386b068d2c81603c818ee2c66b908904d80401aba"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_12.png"
+hash = "676e0f0ef2b66a97893ed7ee324e5b5d1ea661212a863e366a1a495b10c443f4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_13.png"
+hash = "de2b40582af6a40cabdf049ffc3683c17cfaa630dc2b497f400934aff63aa7c4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_14.png"
+hash = "64eb6a14abc041b05e38c7d819ebbab3fe7dd18dc3b2eb8b8788a28be50c564c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_15.png"
+hash = "9b2330205962de75a107fe8ec25c6107b5b932f8711742155fd2d8388fbe9bca"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_16_c.png"
+hash = "82a3053e6d1e242b5a05aa6f8bcc992ca288af3674b2d6988fe5bfa1e2800cac"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_17.png"
+hash = "3f5bf0fe6f60ce757489aefb4c757b052450430f298c0dff78bb3680934962c0"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_18_c.png"
+hash = "71775631806c3d7030497ad36e3c5e559ab417e69ea9d19a3308cb4cd02aca10"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_19.png"
+hash = "889cb4603d72375b952061c402fba60e0147ac67258b196f996fd731f8f71616"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_1_c.png"
+hash = "96b6ba641163de6741d50851261440379e1a5d7ebb91db840eae8fef3a005f8a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_20_c.png"
+hash = "cecd7e779e56ff8f06bc00f3e912c22df3494eeaa8bd3843fc1a85383ef166a9"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_21_c.png"
+hash = "3e3d6fa895ed20465bfe880f8af036c12e7443ac11c47dadf311bb2a64b910f4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_22_c.png"
+hash = "2e59913d1eedb0e6306ca893fb3f2ef7760051175ec54d9ba0dfaaed7bf63535"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_23_c.png"
+hash = "2679a0780b229e9e82adfc62c015ded4e8450aa94df029681563f0476f5c826b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_24_c.png"
+hash = "c04245c1c717599c013569fe316f1d1a5d50ed68c21dd24fa46d23522a667359"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_25_c.png"
+hash = "e33bfe49c4e9a12dfab3095f140672426ad343137f300f5d72cc3e0d9cbb5d2e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_26_c.png"
+hash = "0a0f376e66b9d77c11ab6d9742ce180a8521782aa519e22d4f710a54d8504eb7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_27_c.png"
+hash = "fe99d1d175a47b54da18fa0d57fbfa6857d8aff2e04d7bd064ab47dfc071485e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_28_c.png"
+hash = "64cc0a719317df4f38c3c9128df7c95ff210b97191b9487be0cc8629b77b5319"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_29_c.png"
+hash = "30490a76db82d504b1558e32dcddba8aa4f04f9dbd76375725af757b8433cce8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_2_c.png"
+hash = "6e23336d7ae5e4aec0329e31478f70f904aa05cbd9cb2afb5eb13a16c11e3464"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_30_c.png"
+hash = "959356393202a69619dba339b41678261a35bb4e86737f0b0663341cb6e1e937"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_31_c.png"
+hash = "d075274e0f43fb27df3a7623d19af748443b9790e3e77bdf9cd7a1350a40ab41"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_32.png"
+hash = "6430f8214d6f29722f83951a854f7864293d47be13f0dfb4e3b29123dd8cdc8f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_33.png"
+hash = "53a3df16aa710a27d24622292aed03079013877d0c863332fb11a7a5a6e950f6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_34.png"
+hash = "35a9963b850bb45435616cc3ae36b7c87a546ae440686e1442170872a6ab9a9f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_35.png"
+hash = "c42b9aaf89cbaad9b0e59820ddec8856a896b4aa35218ec3b63eb670187d4194"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_36.png"
+hash = "ef603c78e48f901d7c80809da0cba2f433c9c8fd9a99cde47b2d53c33fe1a82f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_37.png"
+hash = "88bb3f7cfe699b69a870c5ce52926ab75e0c864a64fc7cc85123576c1ee4e4c3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_38.png"
+hash = "35775c9db1aac92c637429affa66533432dbe207bef1a6d719be9a589554dd5d"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_3_c.png"
+hash = "440c286fd741375e05e0b16cf8fbf4a8f48ca9c1a0a843c9454f2ae76d0e64cd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_4_c.png"
+hash = "83f114cd55637fa96d215b4933990357b4b310d881061272e2ccd0874a68014c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_5.png"
+hash = "2995bcbb337b1037d279a5d1627327cb1d927623a2e7a1946d5c58fc6503a864"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_6.png"
+hash = "211b25aa99910e46c298f180b80f57514f795ed180f58e4af33dfab78de57f07"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_7.png"
+hash = "bcc471125374bcb769897562fe25bde79e6fff05c2243b49575ffb71ebade4e5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_8.png"
+hash = "030885b4de01fa7e5d084f0aa8f0baef67d272fdebfc71a4a89ec936b78d0aea"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/kaliem/kaliem_9.png"
+hash = "64998a9ba6cbcc2281aa86fad18e1cd7774872f0208bb7b7d61da664d751d35f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/andromeda.png"
+hash = "71dfe2bcc5084fa21f218d3152ab2770bf54c290e5804f4f3bb1aa8bf4ee39dd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/aquarius.png"
+hash = "93487663a6cb791e504f74674b2b17a0ac0077d271944d3bdecb2f27f206efda"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/aquila.png"
+hash = "2feecbf4dca7c05b14e739973039cbd1747e556b774262c111549c401ffdb825"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/aries.png"
+hash = "94a4a84f4f8e5d6b3978d47af90124b75da49773e092a2ec4700fe6c92eaab7b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/auriga.png"
+hash = "37a1b0bb9a4a7a14f75e37b5da907ecdc338c3f6c8dd3d7696a2585d6aed8cf4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/bootes.png"
+hash = "93eb66448094a73effc4d707903df7d99b2b60dabdf645b2789f4dbd33e797e4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/cancer.png"
+hash = "80eb72130c7e6885fa6e1e45433a8fea76a48d8a8448fd2b933899306aac4a5c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/canis_minor.png"
+hash = "db0d3d33bd60213af02a01703dc3684e88fa875f2c65e35cc944b5b624eb584c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/capricorn.png"
+hash = "4542f38c41408ea52f471ed731bc1cfd5f9368b67cba0cebb0bb305240770c51"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/centaurus.png"
+hash = "bce133718d9eff4b183591565a7adc338f3377d7691dbe63c4115e2c3e398d3e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/cetus.png"
+hash = "00a2201a6ec666d8c19011df5fc4817744171df75e1f1bd47c55fa288dee9714"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/cra.png"
+hash = "7bfecf0cc01207eba0a7079b06d6c0bd0f4e0b962bd55207f82664103829a67a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/crater.png"
+hash = "b57426e1d049777f2141788ae61baa1f9856bc78b571d035bf44dbb4e10493e4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/equuleus.png"
+hash = "7b2d5760ac604b0acbf30bd3de0a53a7cdbde667aad0f23183809183e8f9f93d"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/eridanus.png"
+hash = "d36e2c6f90f84b520f3a2c175e9ff2745732ce92213f30bd70f999de51835ad8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/gemini.png"
+hash = "03f99c0f13222b15f4655298516fab3bed45f87c4501707b34be8336057bf32a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/hydra.png"
+hash = "42cee8d7da389869654e282d9138def6988bd7ca31df46adb49a8917a1be3b63"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/leo.png"
+hash = "68d1426d5a09216cbbe98c2e7a1924204e6d32897a198d85aa324f16babec081"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/leo_minor.png"
+hash = "576cdab06d57c56d83b5852dda51600ce10a50030af444aaa532d141bd028874"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/libra.png"
+hash = "e19098184a0794006a81ded90c96da87e0b4cf91bb277848762065adfa085644"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/lynx.png"
+hash = "ebb355f913bd15317321c3b5e792c77d5e130a12267b0c11c48d77fa6ba1f9b7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/mic.png"
+hash = "340a35cbd9c47b8396b87b4307e099906dafafe155bd4808c2e10a1e9272c835"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/monoceros.png"
+hash = "a0d7ccbd5a1e9f3fc3b02b3b1fa6ba83ef8894c056092e8873953c7fa1b4c29f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/norma.png"
+hash = "a6bc872b860d3cf5e0402371947de66e24e8a9e0a76fd221d3d09d2528fee1b8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/orion.png"
+hash = "40e522fd7e2670a8fe0375b62a219bbda8e3de20112010f2cd40a6650f34847b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/pegasus.png"
+hash = "f04466a0a75fe1e391eb6030766b6d59b20ab263ccf881d8e6c0d692ce83dcd8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/perseus.png"
+hash = "431438f2b09f01e53146bcae984024cf3e15dd6d7f68c3c1511cb2e45669a431"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/pisces.png"
+hash = "66dac3bce284f76801cd7de2a8b06a9997d3abaa9f32d30e6fe4ba0e69b7c2a3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/pisces_austrinus.png"
+hash = "ad597e0707abe262080cd951fa9a2bbde62fef3a1372718d0e20ebd2125314b6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/sagittarius.png"
+hash = "d3b49fbdd9f1d13fcb9ff6ced45a6a738c71036ff8169d7be82caf14ec65c00b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/scorpio.png"
+hash = "a4d53a4b60097447e8069a1b0c57c8f46ed6debbaee8f180186b99327cac67ec"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/sculptor.png"
+hash = "d59b6a41102278b81d0af3d57b0474aad1c355bac3cfd44067dc0ff66b922df0"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/scutum.png"
+hash = "fbaf4dc051bbb5685633ff65e6ec9c939a65623464fd231ae44c96c9975c853b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/serpens_caput.png"
+hash = "0219a610ba0356031509988d501e77319e4ed995498c1a5f2273259cef1ae3e5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/sextans.png"
+hash = "4ac447a163cc43f7dd0014d11359f5e6435d2d5d6de1715f0c86a8b7b070842a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/taurus.png"
+hash = "28d414c6c0879f6376ef100ddc159d4b43c5427a87b5899a21d2333b6cbac825"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/triangulum.png"
+hash = "85e50a113cd71265c69a0e1ca31a606f0c4c5d72280cb8b29d51f2bec0719abd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/milky_way/virgo.png"
+hash = "4ba28268535dd49bbd5a21305dcd28059f93b735f1741984ffb66a9b83301b90"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/minecraft/creeper.png"
+hash = "5c22bbda74591a09822908582b380f4ad27f91d81379a1a70dcde049742acbb5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/minecraft/ender_eye.png"
+hash = "c9e9f0fcfcc7dd7341d270cbf4507d1931f77c3cbed7ffa184c7a5233f56ae5c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/minecraft/wither.png"
+hash = "a5a37deb581422f96d0dd25a30c20c81a673c9f7fb4cf9cd10afd115f887707c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/nether.png"
+hash = "e5b290cf3a8aeb7d6b1f1660454cbae43161d1f9001972cd7551e85fbfc70ae5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/abydos.png"
+hash = "24e21cb7fb214d267b1d3ffc21e4f9e22c01f660186b864b831cc9df18a9a2dd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/apophis.png"
+hash = "38bc50619582846889b4d62a551a720d0cb7cb24705e08491dbff11039362c04"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/centauri.png"
+hash = "4637a2063e40b78c9ade80436337fdf9f5e728733e8625451c614ffc3e7278b6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/chulak.png"
+hash = "80ff13523b665ec0f67d1ca464b54fca47dc439c83190e9858b720d9f9733d6c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/coatepec.png"
+hash = "cd214b3408f63b6fc3afdaf599cbc0d6523f4c1ed10aa13ad061ff96a24dbeb4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/dark_star.png"
+hash = "b32350c603a6b5c7eeb1dc843e1a9aad665330967644fdb5a4c5522b54a79306"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/destiny.png"
+hash = "a5aa01e8cc6ae60f02402a0c803ba899d397aea46b259afe2b9700e3b75d7d81"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/eye_of_horus.png"
+hash = "2129d4ebf4a81af4ad1d5ab7c6a1cb4fd8c5ad2f412a27c2eb6202e02be1e36b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/eye_of_ra.png"
+hash = "1699e5c911909c3035daf7d6e188ea55b8ead8d70015540b1f65eca9411119f6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/gamekeeper.png"
+hash = "824e7e5f94125ce31a2f2e87504190cde22f0472d5506d0c3722fe124a166cc4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/giza.png"
+hash = "2ec04b05b0b5f04d1b7347f6756b1b5e5a2aea7b75d1ce39587624ff673134c5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/hammer.png"
+hash = "f005938a7b86429c23e301f7ae82b67a45164c8825a2e97772e38d813bea8941"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/icarus.png"
+hash = "c03c13a1ba4c9eb89fcde68a0deef1e4354fba1f0b8b0480b01fc49e46456d3f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/kaliem.png"
+hash = "c1454af43e1516b86389b4cedc902334c726c171490ac92618e8968f0f479178"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/mjolnir.png"
+hash = "c9a2dd1b1f7b66f1aeb2cdfb6d2e324f964e7f4fdbfb3931df9c6740aab49048"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/phoenix.png"
+hash = "17ac42a19b3ed62b3c914b1f009b2c2f98d05c2df6f3c77a22f03372e5b3aa8a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/pyramid.png"
+hash = "481081dd7b0e7f37a15ce2fc9b59f46afc94a820cd4b1612f1dd902ac58b70ae"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/serpent.png"
+hash = "37843735f2aa4679a62869fd87e24712dc7d6e8cbe41d74786f094473220d390"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/submitted/ankh.png"
+hash = "2f0213b02ab2fd472b1913f5c09b1e588e45922b912551709079d27ff9ab9837"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/submitted/aurum.png"
+hash = "1d48bca205ed156d2aaf5b62e76ca274d294143c25bb50f93b5f9837e258af86"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/submitted/reflection.png"
+hash = "e44ea25498e907627070b4e353d68634d6bf74e844fb3c951aa3061ed8cb3538"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/submitted/triforce.png"
+hash = "b81088196711b43633860899adf7ccbad6a7db53c1539ce73c7731292c7cfefd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/submitted/wheel.png"
+hash = "11be2b35bcb078c26b15db108dea82104f43fc41de300e0b48cb1b42eea29860"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/tauri.png"
+hash = "470763e1a04c934a9a42c85bbb8fc1d4cb6cac7494ca569d19d579cd157076e4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/points_of_origin/terra.png"
+hash = "f703b04b213bda8041c7c9f9a2e8bbc854f223768d56833263111829a8e785ca"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri.png"
+hash = "79c085f79bab9146416b0871c92a90b28b3acfe5653873697ba4e3d958482e69"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/andromeda.png"
+hash = "9c02266eb72030cb876b307a55b0de3e53e8d0c5ef6d9cd25e1ca79325d87315"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/aquarius.png"
+hash = "4c837dc5476df361540649bcc798675fafd9cba387719b9c2e5ea8567b947595"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/aquila.png"
+hash = "85c238c8c826337e9c716685f273763ce444dbb3197d37c700afd39ab92e378a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/aries.png"
+hash = "80d2d8347b7a75c951c76ea29fe7df4fb0459161660979d49d2ee96ea68cdc2e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/auriga.png"
+hash = "bcb84bef40b0fef0428a0f11c9bbeea60b3ce471ac64508a73cb1a19612d8055"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/bootes.png"
+hash = "6782f67211a2635d38c5633a30a6040c766ab05e89b3178804da40c6e1196ac6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/cancer.png"
+hash = "e3842426aa92310c90b4f5280eb895ced7a81f7618297f9b1b9fa1d4bda469ea"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/canis_minor.png"
+hash = "280a77a0e054d50d8290aa451e65ea3928e6ac79b28476f9b4b331ff6e34032e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/capricorn.png"
+hash = "195e9826473345133a70a5efc94d0da3b6eface8cf6ac00ae806a3e121eb0cf4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/centaurus.png"
+hash = "13e63d1ffb4e82c35d5a9acdebc50ca97493fe5a718d7d9a1013e256c68e0861"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/cetus.png"
+hash = "50239d00d4fec5ab1eed65e00ceeebfdf0f03b517403a47d95e57057456050f6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/cra.png"
+hash = "8cf69e06bc409e01cd834f0bab46ca34c5ae0e03696c44166948879d0bb351c0"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/crater.png"
+hash = "5fc6fac309924cfad4b3991f6857a1a9963a27b21bb8af02f3dca26e72930be8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/equuleus.png"
+hash = "68fbdabe504aea57cfd2a9e1f111a9112a793728d6c5f18fb08484bc90ceb992"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/eridanus.png"
+hash = "5aae66fc6de5919986cf7992be3142a49bda340ccccefa58ef132e9da1471dce"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/gemini.png"
+hash = "fe36e1a8563764c4ec031cae643b096ac03b9e9962be337c70d627147a4b345a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/hydra.png"
+hash = "b7e1a99512e120e11c3ade0de57f9b73fc906792e1590020f44b30084fc57e1d"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/leo.png"
+hash = "56a027ae0b5d06dce19732378e4dd1902d240b92a0aa129e8279f22fae67f972"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/leo_minor.png"
+hash = "4e97471fe727bbff7c99f75804dd3adbb8f9111913767fcc89fe38155f81f7b1"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/libra.png"
+hash = "9d9bcfd0a41df4e4fb8fbdafc3ad01d15becedc1224c368dbfedc1f1562ad22c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/lynx.png"
+hash = "11f8dda9871911091698bb106b216f2a2c6f47e5f74ed3a6cdc7dfa7566f1b23"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/mic.png"
+hash = "c7d5cdd02d6d81938cf5fa8edad621f2db7ed825295bd57065dab4129ef98519"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/monoceros.png"
+hash = "4f08e30d2360e330cbd83001c3cda5cc1b90bc2ce0b4a9f1ee99586cf66d95ed"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/norma.png"
+hash = "54a1670246c2a9a33782c2da7226d37545b82da66896499268502d14b32483a2"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/orion.png"
+hash = "09779fe4c186f1bdec15a6475deb7051d5333be4554bba49694a86a37bc1c536"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/pegasus.png"
+hash = "9a373338a90ea4218d17df9b1037bb44baea8956d4842f972b94bd2240bc742e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/perseus.png"
+hash = "85a31e7f7df3001657aed25adb3383eedc8b8e6a38147b2aca159bf3d92b5148"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/pisces.png"
+hash = "5f9540bfa638d17ef5cff2c47eda2dffd75edfc5d140d7e34d2a6df18ea3a1f8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/pisces_austrinus.png"
+hash = "31f100b0a9e9777cc6ac21783202853049bc86f9709ec36801e98cce155c1468"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/sagittarius.png"
+hash = "44f02c574d960c972f99311be4c6de27feaf9446c9b22df23ca464f68c0d72f7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/scorpio.png"
+hash = "cc6ef9c1a4f501e2b2cec07121d7991ec1762fc2e79eb5d79bb8d0ab450e91ba"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/sculptor.png"
+hash = "3e693cd5b70c7d2f5e10146006d4b5105cb885cf854a8a076ebf8ff53f2cd241"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/scutum.png"
+hash = "0eda6cbdc20fa5a1e2e3de30e43d2ae3ff5c4098ffb810461be809cd8f00bf38"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/serpens_caput.png"
+hash = "771f0c938365a0579e310ce0e18097f7a1700b3f5ce84d9ade71f63757f9d26f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/sextans.png"
+hash = "d43b0ed4f54b89cb6f10bde619691cb4c51e9e6162bcf6636e0b6daa64945abf"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/taurus.png"
+hash = "ad6b57db6d75c29178b5aaa5979373724d8f5bd4d510b2200407a3955696c0e8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/triangulum.png"
+hash = "343bc90d92c2a4b9cb5ce49ed6d0e566145cb4a17ed13c63a170a71471c935b1"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/tauri/virgo.png"
+hash = "2651d1af65088f0c8db022a4843a8eba9b25b0970c7581d2d8b6bfcadec44b20"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra.png"
+hash = "d7b10cdc2c09a821b5133d98f4514432ae9173be0cb8ee28622806304dc950ed"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/andromeda.png"
+hash = "71dfe2bcc5084fa21f218d3152ab2770bf54c290e5804f4f3bb1aa8bf4ee39dd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/aquarius.png"
+hash = "93487663a6cb791e504f74674b2b17a0ac0077d271944d3bdecb2f27f206efda"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/aquila.png"
+hash = "2feecbf4dca7c05b14e739973039cbd1747e556b774262c111549c401ffdb825"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/aries.png"
+hash = "94a4a84f4f8e5d6b3978d47af90124b75da49773e092a2ec4700fe6c92eaab7b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/auriga.png"
+hash = "37a1b0bb9a4a7a14f75e37b5da907ecdc338c3f6c8dd3d7696a2585d6aed8cf4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/bootes.png"
+hash = "93eb66448094a73effc4d707903df7d99b2b60dabdf645b2789f4dbd33e797e4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/cancer.png"
+hash = "80eb72130c7e6885fa6e1e45433a8fea76a48d8a8448fd2b933899306aac4a5c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/canis_minor.png"
+hash = "db0d3d33bd60213af02a01703dc3684e88fa875f2c65e35cc944b5b624eb584c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/capricorn.png"
+hash = "4542f38c41408ea52f471ed731bc1cfd5f9368b67cba0cebb0bb305240770c51"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/centaurus.png"
+hash = "bce133718d9eff4b183591565a7adc338f3377d7691dbe63c4115e2c3e398d3e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/cetus.png"
+hash = "00a2201a6ec666d8c19011df5fc4817744171df75e1f1bd47c55fa288dee9714"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/cra.png"
+hash = "7bfecf0cc01207eba0a7079b06d6c0bd0f4e0b962bd55207f82664103829a67a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/crater.png"
+hash = "b57426e1d049777f2141788ae61baa1f9856bc78b571d035bf44dbb4e10493e4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/equuleus.png"
+hash = "7b2d5760ac604b0acbf30bd3de0a53a7cdbde667aad0f23183809183e8f9f93d"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/eridanus.png"
+hash = "d36e2c6f90f84b520f3a2c175e9ff2745732ce92213f30bd70f999de51835ad8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/gemini.png"
+hash = "03f99c0f13222b15f4655298516fab3bed45f87c4501707b34be8336057bf32a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/hydra.png"
+hash = "42cee8d7da389869654e282d9138def6988bd7ca31df46adb49a8917a1be3b63"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/leo.png"
+hash = "68d1426d5a09216cbbe98c2e7a1924204e6d32897a198d85aa324f16babec081"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/leo_minor.png"
+hash = "576cdab06d57c56d83b5852dda51600ce10a50030af444aaa532d141bd028874"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/libra.png"
+hash = "e19098184a0794006a81ded90c96da87e0b4cf91bb277848762065adfa085644"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/lynx.png"
+hash = "ebb355f913bd15317321c3b5e792c77d5e130a12267b0c11c48d77fa6ba1f9b7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/mic.png"
+hash = "340a35cbd9c47b8396b87b4307e099906dafafe155bd4808c2e10a1e9272c835"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/monoceros.png"
+hash = "a0d7ccbd5a1e9f3fc3b02b3b1fa6ba83ef8894c056092e8873953c7fa1b4c29f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/norma.png"
+hash = "a6bc872b860d3cf5e0402371947de66e24e8a9e0a76fd221d3d09d2528fee1b8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/orion.png"
+hash = "40e522fd7e2670a8fe0375b62a219bbda8e3de20112010f2cd40a6650f34847b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/pegasus.png"
+hash = "f04466a0a75fe1e391eb6030766b6d59b20ab263ccf881d8e6c0d692ce83dcd8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/perseus.png"
+hash = "431438f2b09f01e53146bcae984024cf3e15dd6d7f68c3c1511cb2e45669a431"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/pisces.png"
+hash = "66dac3bce284f76801cd7de2a8b06a9997d3abaa9f32d30e6fe4ba0e69b7c2a3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/pisces_austrinus.png"
+hash = "ad597e0707abe262080cd951fa9a2bbde62fef3a1372718d0e20ebd2125314b6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/sagittarius.png"
+hash = "d3b49fbdd9f1d13fcb9ff6ced45a6a738c71036ff8169d7be82caf14ec65c00b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/scorpio.png"
+hash = "a4d53a4b60097447e8069a1b0c57c8f46ed6debbaee8f180186b99327cac67ec"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/sculptor.png"
+hash = "d59b6a41102278b81d0af3d57b0474aad1c355bac3cfd44067dc0ff66b922df0"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/scutum.png"
+hash = "fbaf4dc051bbb5685633ff65e6ec9c939a65623464fd231ae44c96c9975c853b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/serpens_caput.png"
+hash = "0219a610ba0356031509988d501e77319e4ed995498c1a5f2273259cef1ae3e5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/sextans.png"
+hash = "4ac447a163cc43f7dd0014d11359f5e6435d2d5d6de1715f0c86a8b7b070842a"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/taurus.png"
+hash = "28d414c6c0879f6376ef100ddc159d4b43c5427a87b5899a21d2333b6cbac825"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/triangulum.png"
+hash = "85e50a113cd71265c69a0e1ca31a606f0c4c5d72280cb8b29d51f2bec0719abd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/milky_way/terra/virgo.png"
+hash = "4ba28268535dd49bbd5a21305dcd28059f93b735f1741984ffb66a9b83301b90"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/athos.png"
+hash = "9baedc608c1e01201c8f1bab63ba29ee29e426ec3c7c289fd82ecae09bf462bd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/end.png"
+hash = "9baedc608c1e01201c8f1bab63ba29ee29e426ec3c7c289fd82ecae09bf462bd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/galaxy_pegasus.png"
+hash = "9baedc608c1e01201c8f1bab63ba29ee29e426ec3c7c289fd82ecae09bf462bd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/lantea.png"
+hash = "9baedc608c1e01201c8f1bab63ba29ee29e426ec3c7c289fd82ecae09bf462bd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/aaxel.png"
+hash = "787f0bf312f48978fd69a8d947fb47492f7bb60aca15751fa710249217c6bf61"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/abrin.png"
+hash = "d73a9097a50d86e1a82964ee229ea8b660df2a5cc4563ff3b62b1ad974bed51b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/acjesis.png"
+hash = "47b40ed26c3f89a81023a86db77942e27df3b5a06018aaea828ba4e11dedb819"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/aldeni.png"
+hash = "c2fec3bced197c4a5cad8690b6a3df637a93c81375802945a3d78b4c6629ceba"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/alura.png"
+hash = "705fa8bb041b8e8a018b048ffe9250e57fd3c015e1224a64f47cef080eb03397"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/amiwill.png"
+hash = "76f9ee205b68d9392b71c75465d1fe23dcb151b888698dc8a09db5123a8e5a52"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/arami.png"
+hash = "8991618d669501ae48fb9ade5147f3bc7de03b7a0d4e3ff292f01853c933ec80"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/avoniv.png"
+hash = "b6d4bf2978db35180b8e50e2bb9ea0340be4716dd1cbf44b9e0624a7a3b52b8f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/bydo.png"
+hash = "665192274b5e8583c49b5b4ae0bb825450db52a49cdf9da917ff503a7d84bf9b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/ca_po.png"
+hash = "44a5ae7474dfa6011ec9ce887103e39f4ad2da2af5cadb4a1a51147d716322cc"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/danami.png"
+hash = "ddf1e9f0ec1be2d1c1c19001af6a54d58dbceabcb52b00d8a3366cd7a1a63ea4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/dawnre.png"
+hash = "02e932267b52786ce53ec1bd624243c5caa86898306870218b4251cd2bbc3f0f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/earth.png"
+hash = "fc5bf416c6a2a40020b8ef36700ce6fd0c9056a8ec7e9a5226d721e2172f1a54"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/ecrumig.png"
+hash = "2f0fd6e4e0d35dd4cd7a30e0e152717bd944435410d04fe82c762cc1847ace03"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/elenami.png"
+hash = "fbdd949db9710daec643b9128993756c92eef98a6147901c7515b575b098dcc3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/gilltin.png"
+hash = "3d27a126f2fc86e85b354c46d834f2e40151868039426e27a562db557a50409f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/hacemill.png"
+hash = "b564f6c2336f7da482bb523fbbc5698c8e92366fe21a402d893a03298246697b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/hamlinto.png"
+hash = "b86b74c4a38b432b87c5d71f24c8c461332d0bf506e04b6fc2c390585ee45542"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/illume.png"
+hash = "d8ea76606f31769d044f9a1aa868cea979576b136103fc64751925985994ef45"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/laylox.png"
+hash = "72795d3ce9d847a5b1822b222c698600c889e14467c55db869e53ff119ede463"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/lenchan.png"
+hash = "9c57fcdce0c4998ca9c6c1247939db3da8b5d1305f39d4a3ca286babf7a589cd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/olavii.png"
+hash = "ee19b038f06b8b1f2024496d8319a5bead1589c9272bdff312bc1798c9611903"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/once_el.png"
+hash = "77aef36cf37afc768aff775f02a19309fcf66ed3d98352552c6fd418d18aec10"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/poco_re.png"
+hash = "88ce450fb165b5b9729fdc6d204dfebd9db4fd1a9218e536abcb3aa280f544ad"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/ramnon.png"
+hash = "bb84066c99900acc9c7c08e5c717c910b6b7316ea1b19fe954ffced428dc5c60"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/recktic.png"
+hash = "ff8a35043a4ae0e90ae57c2a31b74dd8767475c46047972ea3113ca6dff0d45f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/robandus.png"
+hash = "9dbb1618432b3353e250d3734037ddf7fcaa58900b27679525d2ea509b5a4c4c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/roehi.png"
+hash = "a352d84a07cb6b8e25ea83059a5b207281dddd16d0c27781c4489f205f8d57d0"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/salma.png"
+hash = "222ffd0a5401cd2b01e6576b75996e132ee74571f7ad193d36b69e45a694c005"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/sandovi.png"
+hash = "0ddc56c0ef488a13fa3882d969b3356755cee0295f07e6d4e2f02d796dbf8292"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/setas.png"
+hash = "a9eb03e7e060a0303ac3a67a71334b0a77ea21b0099b72f53e7c972127c10867"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/sibbron.png"
+hash = "3475da490316352c668bf23faa23eb5d647875c0db2fad50eb2397f16eee6a8f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/tahnan.png"
+hash = "b5ac5ca14b52b0363032d151101151efbc9c64821e04d6efa7263df6b5b89c5c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/unknown_1.png"
+hash = "a35f64528a3c17756108aac0615cf79c1da2548bd1e832ac6a26e96756540438"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/unknown_2.png"
+hash = "f6767f999909a2a405c1f81a5e144d7a3e2dc6b34ee535b55d5c76df4689f3cf"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/zamilloz.png"
+hash = "36dfa3fab16735259211af4d910cbb10a08935eeaf636178ce99cbca7fa0c1c9"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/pegasus/zeo.png"
+hash = "a43b3a5f02e09d59903a73c45810ae4ccd3678491fd600956ff4c0ba654ef3b1"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/points_of_origin/athos.png"
+hash = "2aa587cb461ce4bb87bc315d4a6f78eca87143fb1b1135cd6d44307ad9c69295"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/points_of_origin/pontem.png"
+hash = "df989b0bf6fbd43fa3ad45eee3ce690a49aff81074ab4858ae358157621cede2"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/pegasus/points_of_origin/subido.png"
+hash = "f674b0622c4e22e46c00e3886dfd70da4a6a7d50a3fd51b58e1d7b8e59dc972e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal.png"
+hash = "a4b98ad929a3bc6fcc00bea7e82e3b5adc036580dcce23a5488ba5b88af974e4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_0.png"
+hash = "052b5c441a2f1043e484cc38cf8ec2266452b68395178198492d55bf546b313e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_1.png"
+hash = "d4c165faa5ef94b2b21c5334067cb99f93bcbcd495c0184906c2b614481c7d09"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_10.png"
+hash = "c5f1b2b46c7cabbe065fcda5267857919625eb95fa15f40e5785eb0bc163f195"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_11.png"
+hash = "80ee614170d9e8c8985c31a170c44e96cee173541af7601560b554e9f3f833b7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_12.png"
+hash = "696d7526b49b5bdc59e7112443f2fa475d28caf841d187f081ab967a61972c7b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_13.png"
+hash = "188d2bc6ff73dd806461c5785ec46447effbeeeab3cdd32331ddd62b9602fa29"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_14.png"
+hash = "8ce739f16214b2cb953ba3c208c0fe51d9568221ac298d3805d34524e74a5af2"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_15.png"
+hash = "4b6af5ffc96ce3894382505ffd133bae7e011b7a0c46e26577e4fcdcbf27cc3b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_16.png"
+hash = "e50719b7dc6c7e587634a3969878700614fb3bbf476b7e0805e1214940120bab"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_17.png"
+hash = "779559458032155bd335ab3d018de262f273f6c2dcf347290fc6bc0e14c8e961"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_18.png"
+hash = "a4d59150e75c94525cec9cc47a5046e56d5ef364262bc5f6bb75e7f1a237d495"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_19.png"
+hash = "c268b29d3c058eb732e15023420f3bb20be14feeb8633c08d9cadfb39eb24874"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_2.png"
+hash = "409f15032095118b63b510b56e2db58af454cd91641c495164162ed819cd9f96"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_20.png"
+hash = "f43c0fff7d494a562b95c810f087daddd3e0cb26ceae10d4869dacafc2de3e1f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_21.png"
+hash = "1f1df7fa73083019a9bd442d9ea899ef1e88299c99bd9833f6ebccbeaab7bc26"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_22.png"
+hash = "4f94b7413665205de5a3b83d166927085054621688c78caca91951e24750dc90"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_23.png"
+hash = "c1f8e40a387106077fe3a20ee72686fec80d673665f3d087b4488a6d07849201"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_24.png"
+hash = "a217941605d7ef6d11df26e745c4a1da6fa9f9d1cb8f64c8cbec0c9ed665009b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_25.png"
+hash = "24e54e108fda1455cd17937419ab97ad425dd12b7cb20e57ff979f3469f0429d"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_26.png"
+hash = "512b38c5a194e228e012809b14daf58a647da1f7e44648f69669ca80489c17d0"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_27.png"
+hash = "a117314218474fee61d1a27674533ebffe9538f85cbfa17526f60fd4f088d217"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_28.png"
+hash = "ebb0a61b0ce8146bd4f6214acf4d64e46fad6ee7b4f99269a7eca5675587eb1f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_29.png"
+hash = "1d4cb995bafc3d980c8f4784f34a83858f2cce33f0b8f728ce23adebb4c8e4b4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_3.png"
+hash = "d32c352fd8f0221588b2b0a711461ae5e95791701c22395b815816e80772239b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_30.png"
+hash = "3b535e2a3592a99ef21e61abd8df33e1c96f26c85772fd4592c717630bd62723"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_31.png"
+hash = "e6a5ef794368264f30376be3b041a94b0b8d8bb75472f7608fd5fa5cc53da85c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_32.png"
+hash = "ff5b8d20449dd5411275db2d748a8797a51282bdc7581d578e5a164937c70edc"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_33.png"
+hash = "19102098b570e6b19566b8a7a98cd97ee415f13332a0a4c42f4c0977e3f0c6d3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_34.png"
+hash = "afae122ab2d3f70773d0378b9eef65625416117ba5572401d08b0d1183d23a61"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_35.png"
+hash = "ce9b73d28320e7d5e9984c9b372c5889c84117a27022d510bd85fed3e1f4dcbc"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_4.png"
+hash = "c30bfcf0efb902fdc6be577bdd48f951864eeb3f4724f93164015e5fd656080b"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_5.png"
+hash = "e971339c73eb096828394fd6c82c2440661f7cae1eca9efcb4e9f3576ca9fe03"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_6.png"
+hash = "d8c47e031e5fef1096f3632c2c9bbb0ba8ab4ee2a62c9c4ddf1d3fb33ab48b06"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_7.png"
+hash = "793dd1193c967faa7a6aff91a1956cb663d7a0bbbb3c49e8fe74779373251f77"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_8.png"
+hash = "dd8968f799c5aee53df06a4bf0c98ce5ec40493f8181f5088aa12cc3a5149b23"
+
+[[files]]
+file = "kubejs/assets/sgjourney/textures/symbols/universal/universal_9.png"
+hash = "9bfdbbb000d54f2b90088962c59c4a9e31f04e422d822912638dc73b93611f4a"
 
 [[files]]
 file = "kubejs/assets/silentgear/textures/item/cloggrum_ingot/cloggrum_ingot.png"
@@ -1942,7 +3022,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "176e65c2a19f7cb281fde6183f90f62e38b2da1b3a7d75ec615821c7c2f0192c"
+hash = "addcab877af8f7730aa5c270fea78999031bf8729f9ab53531fe8b422e378a3a"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -2652,6 +3732,11 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
 metafile = true
 
 [[files]]

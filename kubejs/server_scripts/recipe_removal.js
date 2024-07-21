@@ -104,5 +104,10 @@ ServerEvents.recipes(event => {
         { id: "scalinghealth:medkit" },
         
         { id: "tfmg:filling/bottle_of_battery_acid" },
+
+        { id: "torchmaster:dreadlamp" },
+        { id: "torchmaster:feral_flare_lantern" },
+        { id: "torchmaster:frozen_pearl" },
+        { id: "torchmaster:megatorch" },
     ]);
 })
