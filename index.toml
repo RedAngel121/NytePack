@@ -3203,7 +3203,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "abc87586c5f25e831edcb9e510c9965e288adc22eb89f98f93c99bbb57547ef9"
+hash = "59c04a49e43960ce483ec5572490c1badbda2f35db87199958cdefad92a4e7ea"
 metafile = true
 
 [[files]]
