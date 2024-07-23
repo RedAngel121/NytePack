@@ -82,6 +82,7 @@
 # Ongoing Changes
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add loot tabes from other mods for lightmans to insert coins into
+- Naq and Und mats need balancing
 
 # Interesting Ideas:
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
