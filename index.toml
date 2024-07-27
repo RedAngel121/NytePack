@@ -3143,7 +3143,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ff6e9aa6f8ec35a78cb456729d189e16775b7b11e02e1cef2f1fcc0e20d08f6e"
+hash = "af29422273bf324fb3fbfb2f03c84931f50f06359e61ae0eb6832ee655a73c3d"
 metafile = true
 
 [[files]]
@@ -3203,7 +3203,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "59c04a49e43960ce483ec5572490c1badbda2f35db87199958cdefad92a4e7ea"
+hash = "7feed787d4d317c47cce351b61d36121c7edfa3bd477b0a0fa20ad5c20f2c005"
 metafile = true
 
 [[files]]
@@ -3263,7 +3263,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "d700d452861bd8c2c4fe4aa6c2d5da787f17558a2f2c231fea5821d2a3e7b88f"
+hash = "9b033a566650a4701ac24f10d43319096183ac02a4d5f90ed4b111e00eb49c3f"
 metafile = true
 
 [[files]]
@@ -3273,7 +3273,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "3596795f8df47c5d72f12f34eafcc6d50ebaac681becdc79d97a20a587a7ecef"
+hash = "9565551f7919f385360c08dbc215c78ba3bb2af825bd596cd531a9abc08d35ed"
 metafile = true
 
 [[files]]
@@ -3383,12 +3383,12 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "62ab78a708cb3dfcde4d58e0ab1e3046bd93e31421177cef546ca07122ef7efe"
+hash = "f1d759e1d227e87c51115d74c0da78990730d913a40a0b34146fca2952cdc065"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3adf8ad51adec86387a7243f518d3a33f412c2bb46508351ac724f496768ac2a"
+hash = "cc33d58e581cfa7d9b651d8e5143e568faa2c61b6640f73706f0489863fb76f4"
 metafile = true
 
 [[files]]
@@ -3413,7 +3413,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "7656d1dc82146e7cbd309be49ad8585cad8e296cccc2697c236f2d02e68e23c5"
+hash = "40923274bca2b69aa3364e5773e784df8ab301cc62e6fadf0f81891b1fedadee"
 metafile = true
 
 [[files]]
@@ -3433,7 +3433,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "308c3567df9aad016bcc47687d8cf91885426302cceb1c2d7bf4657c4091c610"
+hash = "3d6a7287e714a85cd2c512fee4b168326c7088d01df45e808aaaf7924827a4d2"
 metafile = true
 
 [[files]]
@@ -3443,7 +3443,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "988c14c1f21cd9bb29463da59a3ea67b8307bc88cc2bbaac35000acb6a2bb8c5"
+hash = "9dd77e0e4b8cfd147b1c2d9ae6ec26cde0333b2998b861d9ddad39a3f191054d"
 metafile = true
 
 [[files]]
@@ -3493,7 +3493,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
+hash = "200dc9d52925894d95675e92cb306f0982a3af0cb0376722c4422bd530685b24"
 metafile = true
 
 [[files]]
@@ -3533,7 +3533,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mo-portals.pw.toml"
-hash = "14770ed905c50a6f84e0ab6adf699612720bd204aa3c0b2d3085c0c0f8d61f29"
+hash = "2d564e14ae64db662102bb693c3cceb8502eac13981d7712faf575f731d749ed"
 metafile = true
 
 [[files]]
@@ -3623,7 +3623,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
+hash = "73f52912d24a121d62ea8c8f7ed00ac8e6ac7cec1a7253ca0cecb24d7cb9f61a"
 metafile = true
 
 [[files]]
@@ -3633,7 +3633,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "dda893045b5f65afd17a7be59862b52122f50352e89f73d127c462a21b8d5a18"
+hash = "e32b401dcf4734c146c04e47125d14f9f39a6c998bc4ec6a7377532647fe60cf"
 metafile = true
 
 [[files]]
