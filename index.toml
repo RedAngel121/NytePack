@@ -3143,7 +3143,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "af29422273bf324fb3fbfb2f03c84931f50f06359e61ae0eb6832ee655a73c3d"
+hash = "7974e66b2677eae99179bbc124f6ac990acf2e01294ed0997b3a15a828f03017"
 metafile = true
 
 [[files]]
@@ -3433,7 +3433,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "77fc923e0eaef0b65ff9e481b7983e37d9a54cd8b82b0eed00649dff9afb321a"
+hash = "ab41c485ff3d86eeb1cf9bca0698af5a2883def2a6edd32968c38519756d8e01"
 metafile = true
 
 [[files]]

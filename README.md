@@ -39,7 +39,7 @@
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage/production/transfer will be handled in world, not by held items (to the best of ability)
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items ie jetpacks
-
+dd
 # Initial Changes
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
