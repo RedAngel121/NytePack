@@ -26,25 +26,25 @@
         ],
         "locationMultipliers": [
             {
-                "scale": 1.5,
+                "scale": 2,
                 "dimensions": [
                     "minecraft:the_nether"
                 ]
             },
             {
-                "scale": 2,
+                "scale": 3,
                 "dimensions": [
                     "minecraft:the_end"
                 ]
             },
             {
-                "scale": 3,
+                "scale": 4,
                 "dimensions": [
                     "sgjourney:abydos"
                 ]
             },
             {
-                "scale": 4,
+                "scale": 5,
                 "dimensions": [
                     "undergarden:undergarden"
                 ]

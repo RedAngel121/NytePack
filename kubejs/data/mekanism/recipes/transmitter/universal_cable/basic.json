@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "tag": "forge:circuits/basic"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        },
+        "S": {
+            "tag": "forge:ingots/steel"
+        }
+    },
+    "pattern": [
+        " # ",
+        "SRS",
+        " # "
+    ],
+    "result": {
+        "count": 8,
+        "item": "mekanism:basic_universal_cable"
+    }
+}

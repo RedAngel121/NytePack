@@ -106,7 +106,7 @@ hash = "07155fbf3aae320fa10909607f5a2f88bb019d0fd0d2086f8534f440e8a32acf"
 
 [[files]]
 file = "config/lightmanscurrency-common.lcconfig"
-hash = "da23f40be56c05d5ad201fef6fc2ff2b06c708794a2f2e86855ff268fb018a81"
+hash = "33ecf656c53e1f7943f36100a3fc7b6e1e0628b0c44af46e2c8c32c5e3b42935"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
@@ -533,8 +533,268 @@ file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate_enga
 hash = "8fcc531f6fce4434daa0900007146e7c5a9b392aeafcc131fbaa1f83fe30dd07"
 
 [[files]]
+file = "kubejs/assets/lightmanscurrency/models/block/large_vending_machine/base_bottom_right.json"
+hash = "9b335369a615221600022cbf3229523606c9c28695c91e45e65973a12df73bd7"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/black_exterior.png"
+hash = "b84d69899cede142a5a1044677fd62ec12ebd323d9f41836dc475a3711db6905"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/black_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/blue_exterior.png"
+hash = "26a3061b9bdbc957daf289a1ef7edd2d23ffa888fea3570144eba61eebed03ad"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/blue_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/brown_exterior.png"
+hash = "9ea07f7cf8740c5c9ababf4ebb52adedf30646a1b735d735ec5a477b28cc98a4"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/brown_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/cyan_exterior.png"
+hash = "44cd8e36a51a0f685f5c4339122d376ca02c9b9dba3bae01a0033da7174df431"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/cyan_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/gray_exterior.png"
+hash = "c2a05e3f53e45cf376a9f7ea49c3bf224759b98821127f5d11adb7a6c47be4b7"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/gray_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/green_exterior.png"
+hash = "ee4ec022adfe1ce111e4a127eb079bed4f2cce93fc78180ffffe192abad827b8"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/green_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/light_blue_exterior.png"
+hash = "69d456a5a695efbc825ffd031544a97c18c9f85a475d6d88fa979743dd01a695"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/light_blue_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/light_gray_exterior.png"
+hash = "22c07a2bb8a9730b45fa7c13b4485deec144562780439029924e954625c297a8"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/light_gray_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/lime_exterior.png"
+hash = "428915e74c04163326011c52f351be4af30dfcde7cd4aa1d49e81015e1b4fcfd"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/lime_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/magenta_exterior.png"
+hash = "5917667d754f8dd5e390cd383b95eca5cd5887800a43ff76b555716f0885cb16"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/magenta_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/orange_exterior.png"
+hash = "549d58fe4b09c150030f1aefa8d19ded3156102dcd3c74dc15f0fd37e3dcd319"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/orange_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/pink_exterior.png"
+hash = "1ed460e3178e40807de65e168f0f3b3ff02faac0eb8105037723dd5f49dfac29"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/pink_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/purple_exterior.png"
+hash = "85fcacd6b1fc129ae3c0d0108d19b536c3e9c09d983dd337190ea061306e0aa2"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/purple_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/red_exterior.png"
+hash = "22bba533649f74951369b5bf4be054866db952fa9bba73725ee8990091fb60d0"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/red_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/white_exterior.png"
+hash = "c816598975f9e4c8040814470b8a41f2ea09f1a4e84168507c07ead786f9be4c"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/white_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/yellow_exterior.png"
+hash = "ad20e98d586195c49658e8795aaa3333fd84deb4374106d327fae5c3c42aa4ab"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/large_vending_machine/yellow_interior.png"
+hash = "8312224ce7e65035cea0f8cf9802a5e1bce30d453d9b8c3baf956c272b664bb1"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/black_exterior.png"
+hash = "265b075a1145d254592616a5586b4394605cf325e1241232784ff1cb01f79dd7"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/black_interior.png"
+hash = "1a9be847a819f132a39858abec041e7147683c3d8168bf88e452e6a41f1bc411"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/blue_exterior.png"
+hash = "c8073ec53d54ffccd87edfa4db482552638a583944ef850662991436c2281ad8"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/blue_interior.png"
+hash = "caf502ddcf20804146c423bb417c0777246fa19151ab229189581951d4b73f09"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/brown_exterior.png"
+hash = "f1d98a1c50aa3ea5f742cbc83302d0c2b9357fc93b04e19a59f1aa9af14e7662"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/brown_interior.png"
+hash = "17086f5d28dcda750c8bdd8f49b5a52f808c659022d76700ce22268fb8f0f031"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/cyan_exterior.png"
+hash = "050d83b145d92d4a97b10b6b17096d09815333fd5be6f1375da67c0ed8e222e3"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/cyan_interior.png"
+hash = "9e8f723fd94d464dfabc35927585514197123b3acc4980a7b76778ec19edb986"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/gray_exterior.png"
+hash = "19a232f3bde583aa43606c44f19a8757ed5128aaeb7ed2a98f6ee3d9aa2e508c"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/gray_interior.png"
+hash = "4a42d20f9f43457adcb4b61537b7c51e3aff2dee7fa3d6eb7cfe0cec4db12e39"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/green_exterior.png"
+hash = "2472635df33d6485a71b42ccc348d4421c7c6ac3aecc7d7b4dab31ddf433617a"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/green_interior.png"
+hash = "70979bfe0f682fd13b39cd2a9afd1c53a4caf9b6596210599865da8bf3cdfa53"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/light_blue_exterior.png"
+hash = "4cc9ff91a423407cd1d8e6dc1a6069b0c50ea6b0f677ecd77cf771ffa0755e4f"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/light_blue_interior.png"
+hash = "e24f7e7d20187e152f77167e9b460bc1f2adec7427a687e577fb290edb560d01"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/light_gray_exterior.png"
+hash = "7cbb58eacf946331cb4862ed9c8460edb7dd24ca178bc34574ad3f8a037d5062"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/light_gray_interior.png"
+hash = "11ee3cd4b215cfae070a0861beda616dee57922a8676e942bea3359872935a90"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/lime_exterior.png"
+hash = "76a68ef8d6db2adf8f31ae06ad1e787793bb8c861f5742a480aa23da368b4d18"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/lime_interior.png"
+hash = "a8dbe31ea76ba89bf18ec622e963d92d74bf253578364cc26188b99c171fe67e"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/magenta_exterior.png"
+hash = "ef63a031dde9836476c7f60d0aa8c4cdf498a0eeefb68871c31fe61be2a2ac7c"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/magenta_interior.png"
+hash = "54aff05c376cbf4c5cbd871ee7a67999073f656f35aa042e85474853569e7853"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/orange_exterior.png"
+hash = "d8510181d71254a11b885a1345eff62c104f3f59534b6c54686ccf03953f3fa2"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/orange_interior.png"
+hash = "003754666ec015bd76a84a33942bccfbce19291d85b9ce9289b5505148c8988c"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/pink_exterior.png"
+hash = "c6f1822d66166d0d11e34fd924580934582806d214175bf87e329bbba64ada1e"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/pink_interior.png"
+hash = "fb9bac2fecd5d7bab11168168201f30e13d80688a73fd42441dd5b8538402035"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/purple_exterior.png"
+hash = "c89e9dd5be4f4f033713519d655c9ed44e51f8423e079ba2bf4eec616d03031c"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/purple_interior.png"
+hash = "ed11c46488cdbf2c9e23a69295176c6bbefaee9edfc0e9960c4d14bad4af2385"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/red_exterior.png"
+hash = "8f43932b94821c65ab72026a4966e042758882b80f671a2ab30a6374fc6a2d0d"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/red_interior.png"
+hash = "dd84a4b376174392f4622c0e9159b0d5aee2ebf9b2734fe584e2818273080eb7"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/white_exterior.png"
+hash = "cb72fc0d2dabb3d8197572a5a2c2d79c3a480421d81784c13ae6efb8b09d732c"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/white_interior.png"
+hash = "1a9be847a819f132a39858abec041e7147683c3d8168bf88e452e6a41f1bc411"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/yellow_exterior.png"
+hash = "7c3e2af42462482e035ff3b5dfbd7fec8edda84ec61707dc0d10489f6a8e964a"
+
+[[files]]
+file = "kubejs/assets/lightmanscurrency/textures/block/vending_machine/yellow_interior.png"
+hash = "0dbc95a18b2e5ac7b12dd9fb22c1caa120b71563b7104613d4405146856c5c18"
+
+[[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "e62bee626008e2ed5758015cb7e1d912845c3945c76941840c798c25fc7266ae"
+hash = "3ed91358db8e9e00151bbadec84179a33833bec38afad1bf717aaf62e9735ae3"
 
 [[files]]
 file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_event_horizon.png"
@@ -634,7 +894,7 @@ hash = "ca4aab339b8ab3c831cfa75eb1b5ac7a5837b285290f3b082138310abcd32711"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/block/universe_stargate_chevron.png"
-hash = "e10d42fb7fcddd3aac7daacc6a98e4b8ad66a25c86a92286a3306aa6b41d7ca4"
+hash = "00f28f2c9c3ea1f1d00f6499d325f06745c21307cde7506aecfb486aeb98aaa9"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/block/universe_stargate_chevron_engaged.png"
@@ -642,75 +902,75 @@ hash = "369adac36046f80f0e30a14d32c414cef1b9e25cba16a21ea656b27228d2ca38"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/classic/classic_stargate.png"
-hash = "b023722d4b6e3590d0913362f9620b2f0edcc379b94103bdd284978d39b3ac17"
+hash = "e421570e3da3d52f359d9d638d88c55a992d96014dce18c32ddd060bc5cbd3aa"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/classic/classic_stargate_engaged.png"
-hash = "d7011c4e72876aef2b0ad1da83c238e8837174b263a7fdcc455f370a2b150e7f"
+hash = "f5487ea5d85f7b336b1ff09c48c2816c883e5a00a719b0625d89233319c8a1f9"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate.png"
-hash = "e24a3d7c06273092101a27dcec6782c28f1135229dd0fd985b44c92abaf0586b"
+hash = "72ed459856c2dc1d4a823fb2b3ecae907b0be2126200926cf77ad3072430550f"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_alternate.png"
-hash = "653bc2f8adaeced7d5a3a85e0af37e9f96d0dbd7733ac3637778b296f765f3d1"
+hash = "9880c16e2d2bb9bc134bb0599fefc7103e81bc3b7a209444ea25d6fcfeedd3b8"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_alternate_engaged.png"
-hash = "3c15f7264ec443a490e2b130ae4c932b2ed279e1f16dbc9e2f19d794a0a4df89"
+hash = "c31e56eb9ed165b736a69e66df2932f1932294dc241ba74974386764af272f5b"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/milky_way_stargate_engaged.png"
-hash = "57f1a90c21422ea90870985b0923a5adb0f7f219b8468ae22fff35dd3a7ac99f"
+hash = "3f8c3169bac739d3d481a5ad630596d14e378b727a93acb703dfcc3bd53e4ec1"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/movie/movie_stargate.png"
-hash = "d3390866c9b6e0fb78d9e57241aa5b42a09360ce7077ee078a978bb81f0bb85b"
+hash = "a704e151023829a0a8212e03e89e3603bcbde7f23939242485e2ec58ccbd5aa4"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/promo/promo_stargate.png"
-hash = "93a488062bab86945c9695287c65a4671fb9ec76829baac1176606eee5889f28"
+hash = "80dde8ccb1954c5143c41e120f6925ed4d9a9b02e63adb2f7af35927691c76b8"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/promo/promo_stargate_engaged.png"
-hash = "b7e6b16c908534fa969e4a0b5ecdb786400021274514fe7a56d229883128e786"
+hash = "780a97f8005ce97a8c77b709068285af1fc451cc8891ac0cc72ca947667e1d25"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/sg-1/sg-1_stargate.png"
-hash = "915a1bb59d39701ea9c90b28cde5fb97817a196195b25733e3d57e34bed143b1"
+hash = "fa825701a3ce08beb9a993ad9275193d3be7fa2c3919c351e407a4d7bbdd5ee3"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/milky_way/sg-1/sg-1_stargate_engaged.png"
-hash = "db72cea563131de839cab0e574d3804d0a5096b72b1e914ae491f3c331bc73d7"
+hash = "8599b2d0a40d0311abc8d3698a6c9366c32ab2c1174b62f54a7daa291b433f62"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/atlantis/atlantis_stargate.png"
-hash = "8f2c94467d46a67f44b7f8f8b93249fd1bba05aa71de7159b315ecc16229dbbc"
+hash = "21b50b1841b9596bb101c7d7f9c2130d81bb53315a19940a558507ab3f052d4e"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/atlantis/atlantis_stargate_engaged.png"
-hash = "193ad9d997bc84a2c1a1a06b17723c434701fe28e271c07720b4732b67178fc4"
+hash = "499c7b2e36ede8cd1bdad5bd4ba6ee3c59dcb42b7a341b073fcca66a20c481fa"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate.png"
-hash = "1d98f2ce82ab13dad06496aafa70e7c7a14c19acbe7798e84049be8e9c0605dc"
+hash = "b95f9b5c1726cae70220f586fa04fc3cd660d5b49ac6cd1cb54da687c8a5b5ee"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_alternate.png"
-hash = "861fa1ee6d1c324c9e0a48460e24ad286df5e35df34783652a805803a3a8210c"
+hash = "b942b07f358f6158a0cf01433c7b7c2e7edd4ec0174eba20467bea043761d8b5"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_alternate_engaged.png"
-hash = "993d22f433e0197a2d486a77ac074065b4c7d9cce3b15eeda0c6023328e9c2e1"
+hash = "582e608749abdb2b9912a6994929d6d90f9cbb16a1cfb9bb2af7e32301f1b8c7"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/pegasus/pegasus_stargate_engaged.png"
-hash = "8a8564c82e8f8fd6a634e989619a050a506dbfb5e02b38118b73074cf01aee8c"
+hash = "5a960563e9639f85e34dce5796595690da04e0bebd6ea755d0edd530ad05087c"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/tollan/tollan_stargate.png"
-hash = "eee8578b55c5fba8397e92ec75759fff2b41687dfacba3c56d0445a110565534"
+hash = "e317e4945db03a0f9d7aba798aa560d1150f4a2b6695d7b91cedf81f0390dca0"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/tollan/tollan_stargate_engaged.png"
@@ -718,11 +978,11 @@ hash = "2d7faca731073248cd9f8a1be1dde388dadf9482d9c1023ad0b4f0b5a025c8f6"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/universe/universe_stargate.png"
-hash = "cff11f43becd16943c70d32f278541405106eaf967971269fb0da15d534243ed"
+hash = "2456030703910379800de51443ab809ffa1fbe5139b0e0e97b8baf1d012be12b"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/entity/stargate/universe/universe_stargate_engaged.png"
-hash = "e7ff64cc55a9f7f165b52c82c8064e2d4b8904259159410e8f41746c5a5a2e3a"
+hash = "b85147d87f919cdb90ef1683cfcae8a2561bee9b2136ae192929d777fcc88278"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/classic_stargate.png"
@@ -734,7 +994,7 @@ hash = "5aa690aa29a5a2c33e351ebad12c9fc45901827c91d5659b7191a77739e5d9c9"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/milky_way_stargate.png"
-hash = "59ac026a6bf50f911c54da90919a69584928f78ae1047d7412b9c0da28f68ca9"
+hash = "656b48e9c38d2810fc49470e017f24a90517155ff0583fa174f73c50c823ac7d"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/pegasus_dhd.png"
@@ -742,11 +1002,11 @@ hash = "8fa2a825e8f04c408c9e9ce8093c08e822e778105e917189316019a90e256b88"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/pegasus_stargate.png"
-hash = "78f2f76f915047263d79e5fa1d1b991fdc18e4b5728b5a56a984bcbff06f0970"
+hash = "ddb2a00efe170a814bf533f40f4796bea06536e3e63cf97691741e487ded9841"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/tollan_stargate.png"
-hash = "6938a517771c0cb83ffe3096a4c956c6995e6d54919b90ac9c635933071d3829"
+hash = "5dfc6e8006195e7d61b37cabb6ba7845e43d232609959bceccd5db732d372aab"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/universe_stargate.png"
@@ -754,7 +1014,7 @@ hash = "dce350d92cffab3f953d67c584f30581d13e88c1018fe68cbc78bbaa3757d05b"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/universe_stargate_chevron.png"
-hash = "dc6ef00bad83d6b316cb62107d6542534bfa1ce32169247527abf0528bd0cf34"
+hash = "a5fb9622f9ee1d3c523d562b7837f7866ed45e8bf7469c32027fe8be78debd0b"
 
 [[files]]
 file = "kubejs/assets/sgjourney/textures/item/universe_stargate_chevron_engaged.png"
@@ -1862,7 +2122,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "914b705beaace02a9088c29be55d5df2204d808af3f36ef93b32e301e7ca8bb9"
+hash = "8299ae838f9f0ccda1e9849bc1fcd059effe017003f1b96f2e0b6096f9f5a471"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -1963,6 +2223,10 @@ hash = "1ae3ffbc206fa25a25ab0bfd75f18af7e1298135d652f42b3b106739f163514c"
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
 hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
+
+[[files]]
+file = "kubejs/data/framedblocks/recipes/framed_reinforcement.json"
+hash = "94caf053c23f836c1de02ec810564f83b0c0f6e8cc596de5254f1ce2cfb17898"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/blaze.json"
@@ -2201,12 +2465,56 @@ file = "kubejs/data/mekanism/loot_tables/blocks/uranium_ore.json"
 hash = "794020833d7d21d138c318dba637c467fa6e04596d45a4237ee9e30b73132305"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/chemical_tank/basic.json"
+hash = "39771a40899bc5c0feb45d317f8c0a9b69950b3c9693fb995953fbfa343b1c9a"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/fluid_tank/basic.json"
+hash = "4b0b25f118ba81a596423b219583fc1af02f18ec3bbcfe20d0254ce6bde26ad0"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/metallurgic_infuser.json"
 hash = "e65564f3751ae261d0d6d876108ec5feae931a3bc97dfcad7d3a434be929ef14"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/module_gyroscopic_stabilization_unit.json"
+hash = "38738038b31ff1d105c33aa916ca56e74b0e44b3ff48a200db4a9347c3a6fef7"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/steel_casing.json"
 hash = "afafecbcedd403b4d9b7215276bb124699d31146d44c00ba94f60d70b7d2842e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/diversion_transporter.json"
+hash = "d0db88910f201eaf6d023ff39fce48aaf1a7ccd0204e1436a9996d1784665aee"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/logistical_transporter/basic.json"
+hash = "5c8c3edef1c7abb0be55953f2219c00666136100b219d5d4e9c24a72209a82a3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/mechanical_pipe/basic.json"
+hash = "a4bccb597ffc16fd254d29b7d62f7f0c32c16aecc5b5bf5f67ae3bc55c5d6e4e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/pressurized_tube/basic.json"
+hash = "eec698f42a24a844a64383c94670e9346129904f71c1ad07a5723b1c628a7c62"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/restrictive_transporter.json"
+hash = "c3773bf62cd0b507f84dd3ae7d366b15bfd76fea683b09e4d835cdda1a7a811e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/thermodynamic_conductor/basic.json"
+hash = "80f90b61e88ba16f17a5998c30c05391a15545dba66607478e0783d6ae6977d6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/universal_cable/basic.json"
+hash = "6d927ab5cd7b7e2972085fd245c148292c5cfc9bf24e5cc21c09ae40ceb1072b"
+
+[[files]]
+file = "kubejs/data/mekanism/tags/worldgen/biome/spawn_ores.json"
+hash = "eecbbc36cd731e4991d7f0c772d6334267889d8bac048307b94b281a056d1f5d"
 
 [[files]]
 file = "kubejs/data/mekanism/worldgen/configured_feature/ore_fluorite_buried.json"
@@ -2617,6 +2925,10 @@ file = "kubejs/data/scalinghealth/tags/entity_types/blight_exempt.json"
 hash = "b374d36c9b710337a097d26368e18f67973f85e2b4b7d316782257bf015c426a"
 
 [[files]]
+file = "kubejs/data/sgjourney/dimension_type/abydos.json"
+hash = "59cf7f8ba133c853b02952cbee56a1a23b41916d7768761e84bedc4acbc6574f"
+
+[[files]]
 file = "kubejs/data/sgjourney/loot_tables/blocks/deepslate_naquadah_ore.json"
 hash = "f9034094ef2fc6c8166a45c213ad6cbfe4e35ce92333471dd69bd1a84a3149ae"
 
@@ -2749,6 +3061,18 @@ file = "kubejs/data/sgjourney/tags/worldgen/structure/milky_way_stargate_pedesta
 hash = "a7606c70fc0f8dd6ff8f7b68c508f79c975269fd8f080e808698dc587a3933c7"
 
 [[files]]
+file = "kubejs/data/sgjourney/worldgen/biome/abydos_desert.json"
+hash = "ca48abd30cf18feaf386f08774f9c8857d2d1e12ddfd84bc44db8c958983e7ee"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/biome/abydos_oasis.json"
+hash = "e6629e3ffb0314fc6bc5d5859521310ef94561f48010a7c26d43fee90774cb7e"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/biome/abydos_spires.json"
+hash = "228caa5b8fac50aed9c16757cddb697e14007ebe5e5daf9e7b113220e75204bb"
+
+[[files]]
 file = "kubejs/data/sgjourney/worldgen/configured_feature/ore_naquadah_large.json"
 hash = "abb67224a02e2ec0e43a2369b61e788b675793c8ff157f2494f57cee4deea7dd"
 
@@ -2757,12 +3081,16 @@ file = "kubejs/data/sgjourney/worldgen/configured_feature/ore_naquadah_medium.js
 hash = "bed0c5f438825f001a3652e9671f7572ecaeefa04fa37e15997d474c8ea16c1e"
 
 [[files]]
+file = "kubejs/data/sgjourney/worldgen/noise_settings/abydos.json"
+hash = "7bbb6c3a279029b6a1364e203e5ad30e52e5c28c83badec9f3f43b92e2fe6c56"
+
+[[files]]
 file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah.json"
-hash = "4f86e536de00a74ad618f40f5bf9a86c48bf2774eb8fe078f5ccaef4cf86503f"
+hash = "c11af98e548e3755502cda62273e2507204feb165f0598b8c5b6ac83537e0b7c"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah_extra.json"
-hash = "914b438179544797f19680db5991f59278ce1bcf8a3140b3748e80b8ef9e53be"
+hash = "9424c5249be7cbd7ba1c4476589acf82a8fdd6f8129627f3b5f834a57db84774"
 
 [[files]]
 file = "kubejs/data/silentgear/loot_tables/blocks/azure_silver_ore.json"
@@ -2783,6 +3111,10 @@ hash = "a121eda69d5ac3d453469ff5b36bc493a8adeb101caceee62272fa67ecfd6a63"
 [[files]]
 file = "kubejs/data/silentgear/loot_tables/blocks/deepslate_bort_ore.json"
 hash = "57df64c942b24e9566607ff0b2853c1ef026d629e11515586318fb0c072b05a0"
+
+[[files]]
+file = "kubejs/data/silentgear/recipes/metal_press.json"
+hash = "630bb37e98c2624215d4433ba7fd3ee96b4fa83aa84605d4e7a1b4b2cc2109c2"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
@@ -2831,6 +3163,10 @@ hash = "466fc111eef46b2703a5645c64f781dbf63e9553ba74f75d73a6d80525c0dcb3"
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/crimson_iron_ore.json"
 hash = "2021288d201d14f32202a576f0a2c7ab859936f5b1dfe4245ffd5bf68baad57f"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/void_upgrade.json"
+hash = "b256501ba7e9d0c25e8da26ba6ea60439092036566aadbfb0ea6a665ebc1001c"
 
 [[files]]
 file = "kubejs/data/terralith/worldgen/biome/cave/fungal_caves.json"
@@ -3034,7 +3370,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "ba1c8514e20558058beba9138d2a7bcee9e147e4b9f680f1f098d4763b0c5ec1"
+hash = "9ca79bfde56a6f63b88041a4fde919fec5c3f5623263e86c382de5d785d9b139"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -3118,7 +3454,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
+hash = "df90aa10942d1d5cac3f10f46d471d92858ad99979efceed319486dda208490f"
 metafile = true
 
 [[files]]
@@ -3273,7 +3609,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "9565551f7919f385360c08dbc215c78ba3bb2af825bd596cd531a9abc08d35ed"
+hash = "f2ab69d3546c95bf14c09d98054b6588df80bb14dfc02799e38b8ac43e6e154e"
 metafile = true
 
 [[files]]
@@ -3368,7 +3704,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "d925d89ab420bc00b3c3c2b5db81a00b94ba309759f5c34fa308f681e5d02496"
+hash = "b51267866a64a65b36dc723145f65fa5ee9596977b943fcea36e787c716abab6"
 metafile = true
 
 [[files]]
@@ -3383,12 +3719,12 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "f1d759e1d227e87c51115d74c0da78990730d913a40a0b34146fca2952cdc065"
+hash = "51e9b01daf8aff6f037944101d6cf30ebf1d077c3f5bba9ee043203297955694"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cc33d58e581cfa7d9b651d8e5143e568faa2c61b6640f73706f0489863fb76f4"
+hash = "9a3dc151c77f3c20c1ac0021a60c4e1af8874f1ab7127593c16300636e5ccebc"
 metafile = true
 
 [[files]]
@@ -3502,11 +3838,6 @@ hash = "f7b8831896aa050498a4533c0e93bdc1de133c2f29fae7b6fd9a4d0fd130f1a4"
 metafile = true
 
 [[files]]
-file = "mods/more-minecarts.pw.toml"
-hash = "6f8dbef0437c81d94f883fc1077d07c6c6784710ec693daec98202788f4e3098"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -3523,7 +3854,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "27389f0066ee6f400debc1faa656a6763485374cfff79fb4aca2b78c10281a33"
+hash = "4082c2800e973ce5957a73f29af1b88aba3b63449e8fa9c189c0f6d4a1c4f374"
 metafile = true
 
 [[files]]
@@ -3534,11 +3865,6 @@ metafile = true
 [[files]]
 file = "mods/no-mo-portals.pw.toml"
 hash = "2d564e14ae64db662102bb693c3cceb8502eac13981d7712faf575f731d749ed"
-metafile = true
-
-[[files]]
-file = "mods/no-more-piglin-portal-spawning.pw.toml"
-hash = "a3f429de0784d4d3918d80d38ae5d3e13410d1dc635c61f1a69705d80b951f71"
 metafile = true
 
 [[files]]
@@ -3603,7 +3929,7 @@ metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
-hash = "3101da4864003d709770fd9c1cf7afa86554736f44862781b693a9865357b309"
+hash = "fe0e6f4b66452fd5f289f6271d9760431765cbd32161faf7b1cd59e147394dfe"
 metafile = true
 
 [[files]]
@@ -3763,17 +4089,12 @@ metafile = true
 
 [[files]]
 file = "mods/utilitix.pw.toml"
-hash = "c09e60400b06538d9b33aa138a5f33fd1e5fb562407de38805a0264a769d5c3a"
+hash = "997df747d9cdaadc0d76f39ca2579548d2752ce02bc61832d4f6edf473ef7cb7"
 metafile = true
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "0d1a0a24a2d759c48bb1daa4b1bf27df514c91a4ff9a2c87df20ed5ce9ae809a"
-metafile = true
-
-[[files]]
-file = "mods/village-nullifier.pw.toml"
-hash = "bfd48ed78e0d553446d5d6323fe1818cd51377ea58b9521e2c57a6aa43b863e3"
 metafile = true
 
 [[files]]

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "create:sturdy_sheet"
+    },
+    "/": {
+      "tag": "forge:rods/iron"
+    },
+    "t": {
+      "tag": "forge:ingots/tyrian_steel"
+    }
+  },
+  "pattern": [
+    "#t#",
+    "/ /",
+    "#t#"
+  ],
+  "result": {
+    "item": "silentgear:metal_press"
+  }
+}

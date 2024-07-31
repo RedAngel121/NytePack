@@ -85,18 +85,6 @@ ServerEvents.recipes(event => {
         { id: "lightmanscurrency:coinpile_chocolate_netherite" },
         { id: "lightmanscurrency:coinblock_chocolate_netherite" },
 
-        { id: "mekanism:teleporter" },
-        { id: "mekanism:teleportation_core" },
-        { id: "mekanism:portable_teleporter" },
-        { id: "mekanism:module_teleportation_unit" },
-        { id: "mekanism:teleporter_frame" },
-        { id: "mekanism:upgrade_anchor" },
-        { id: "mekanism:dimensional_stabilizer" },
-
-        { id: "minecraft:ender_chest" },
-
-        { id: "moreminecarts:minecart_with_chunk_loader" },
-
         { id: "railways:sequenced_assembly/track_phantom" },
 
         { id: "scalinghealth:heart_crystal" },
@@ -106,7 +94,7 @@ ServerEvents.recipes(event => {
         { id: "scalinghealth:medkit" },
 
         { id: "silentgear:bronze_ingot" },
-        
+
         { id: "tfmg:filling/bottle_of_battery_acid" },
 
         { id: "torchmaster:dreadlamp" },

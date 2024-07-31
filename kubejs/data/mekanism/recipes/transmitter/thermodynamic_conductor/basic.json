@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": {
+            "tag": "forge:circuits/basic"
+        },
+        "C": {
+            "tag": "forge:ingots/copper"
+        },
+        "S": {
+            "tag": "forge:ingots/steel"
+        }
+    },
+    "pattern": [
+        " # ",
+        "SCS",
+        " # "
+    ],
+    "result": {
+        "count": 8,
+        "item": "mekanism:basic_thermodynamic_conductor"
+    }
+}

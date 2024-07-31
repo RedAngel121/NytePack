@@ -35,7 +35,7 @@ Survive!
 Dungeon!
 Exclusive!
 The bee's knees!
-Closed source!
+Open source!
 Classy!
 Wow!
 Not on steam!
@@ -53,7 +53,6 @@ Fat free!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
-Minors welcome!
 Cloud computing!
 Legal in Finland!
 Hard to label!
@@ -72,7 +71,6 @@ Played by cowboys!
 Now on OpenGL 3.2 core profile!
 Thousands of colors!
 Try it!
-Age of Wonders is better!
 Try the mushroom stew!
 Sensational!
 Hot tamale, hot hot tamale!
@@ -90,7 +88,6 @@ You've got a brand new key!
 Water proof!
 Uninflammable!
 Whoa, dude!
-All inclusive!
 Tell your friends!
 NP is not in P!
 Music by C418!
@@ -98,7 +95,6 @@ Livestreamed!
 Haunted!
 Polynomial!
 Terrestrial!
-All is full of love!
 Full of stars!
 Scientific!
 Not as cool as Spock!
@@ -118,7 +114,7 @@ Falling off cliffs!
 1% sugar!
 150% hyperbole!
 Synecdoche!
-Let's danec!
+Let's dance!
 Seecret Friday update!
 Reference implementation!
 Kiss the sky!
@@ -130,7 +126,6 @@ Cogito ergo sum!
 4815162342 lines of code!
 A skeleton popped out!
 The sum of its parts!
-BTAF used to be good!
 I miss ADOM!
 umop-apisdn!
 OICU812!
@@ -161,19 +156,12 @@ Fantasy!
 DRR! DRR! DRR!
 Kick it root down!
 Regional resources!
-Woo, facepunch!
-Woo, somethingawful!
-Woo, tigsource!
-Woo, worldofminecraft!
-Woo, reddit!
-Woo, 2pp!
 Google anlyticsed!
 Now supports åäö!
 Give us Gordon!
 Tip your waiter!
 Very fun!
 12345 is a bad password!
-Vote for net neutrality!
 Lives in a pineapple under the sea!
 MAP11 has two names!
 Omnipotent!
@@ -197,7 +185,6 @@ Scary!
 Play Minecraft, Watch Topgear, Get Pig!
 Twittered about!
 Jump up, jump up, and get down!
-Joel is neat!
 A riddle, wrapped in a mystery!
 This parrot is no more! It has ceased to be!
 Welcome to your Doom!
@@ -225,15 +212,6 @@ DungeonQuest is unfair!
 90210!
 Check out the far lands!
 Tyrion would love it!
-Also try VVVVVV!
-Also try Super Meat Boy!
-Also try Terraria!
-Also try Mount And Blade!
-Also try Project Zomboid!
-Also try World of Goo!
-Also try Limbo!
-Also try Pixeljunk Shooter!
-Also try Braid!
 That's super!
 Bread is pain!
 Read more books!
@@ -261,10 +239,7 @@ Does barrel rolls!
 Meeting expectations!
 PC gaming since 1873!
 Ghoughpteighbteau tchoghs!
-Déjà vu!
-Déjà vu!
 Got your nose!
-Haley loves Elan!
 Afraid of the big, black bat!
 Doesn't use the U-word!
 Child's play!
@@ -273,17 +248,11 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
-日本ハロー！
-한국 안녕하세요!
-Helo Cymru!
-Cześć Polsko!
-你好中国！
-Γεια σου Ελλάδα!
 My life for Aiur!
 Lennart lennart = new Lennart();
 I see your vocabulary has improved!
 Who put it there?
+Who put that there?
 You can't explain that!
 if not ok then return end
 §1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
@@ -302,7 +271,6 @@ I have a suggestion.
 Now with extra hugs!
 Java 16 + 1 + 4 = 21!
 Woah.
-HURNERJSGER?
 What's up, Doc?
 Now contains 32 random daily cats!
 That's Numberwang!
@@ -319,7 +287,7 @@ Very influential in its circle!
 Now With Multiplayer!
 Rise from your grave!
 Warning! A huge battleship "STEVE" is approaching fast!
-Blue warrior shot the food!
+Warrior shot the food!
 Run, coward! I hunger!
 Flavor with no seasoning!
 Strange, but not a stranger!
@@ -337,12 +305,15 @@ Do it all, everything!
 Where there is not light, there can spider!
 GNU Terry Pratchett
 More Digital!
-doot doot
+doot doot!
+Noot Noot!
 Falling with style!
 There's no stopping the Trollmaso
 Throw yourself at the ground and miss
 Rule #1: it's never my fault
 Replaced molten cheese with blood?
+Not my fault! Tucker did it!
+Time is not made of lines, it is made of circles, thats why clocks are round!
 Absolutely fixed relatively broken coordinates
 Boats FTW
 Javalicious edition
@@ -368,7 +339,6 @@ What do you expect?
 Look mom, I'm in a splash!
 It came from space.
 Awesome game design right there!
-Ph1lza had a good run!
 10 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
@@ -376,32 +346,22 @@ Buzzy Bees!
 Minecraft Java Edition presents: Disgusting Bugs
 Wash your hands!
 Soap and water!
-Support local businesses!
-Stay home and play games!
-Stay safe!
-Stay strong!
-Cough or sneeze into your elbow!
-Don’t touch your face!
-Support elderly relatives and friends!
-Prepare, but don’t hoard!
+Support Mom and Pop Shops!
 Gamers unite – separately in your own homes!
-Save the world – stay inside!
-Shop for your elders!
-Hang out with your friends online!
 Honey, I grew the bees!
 Find your claw!
 Everybody do the Leif!
-<3 Max & 99 & Ducky!
 Bushy eyebrows!
 Edit is a name!
 From free range developers!
 Music by Lena Raine!
 Aww man!
 #minecraftfarms
-And my pickaxe!
-Envision! Create! Share!
+You have my Sword!
+You have my Shield!
+You have my Shovel!
+You have my Pickaxe!
 Fabulous graphics!
-Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
@@ -418,9 +378,8 @@ Contains simulated goats!
 Home-made!
 There's <<a cat on ,my keyboard!~
 The cutest predator you'll ever meet!
-Now you are thinking with pistons!
+Now you're thinking with pistons!
 Get to the coppah!
-Board game version also available!
 Honey, I waxed the copper!
 Plant-based light sources!
 Made by "real" people!
@@ -443,4 +402,158 @@ Remember to brush your... ...teeth
 Has working bookshelves!
 Sniff sniff...
 Place hanging sign here
-Joule is neat too!
+Envision! Create! Share!
+To infinity, and beyond!
+The first rule of Fight Club is?
+Hasta la vista, baby!
+Houston, we have a game.
+Alllllllllrighty Then!
+Your scientists were so preoccupied with whether they could!
+They didn’t stop to think if they should!
+Fear is the path to the dark side!
+My mama always said, life is like a box of chocolates!
+Keep the change, ya filthy animal!
+Run, Steve, run!
+Run, Alex, run!
+Oh, look. Another glorious morning!
+I'm the King of the World!
+Excuse me, I believe you have my cobblestone...
+I see Zombies!
+That'll do, pig. That'll do.
+You can’t handle the End!
+There's no crying in Minecraft!
+Do you understand the words that are coming out of my mouth?
+Bye, Felicia!
+Do you want to build a Snowman?
+Just when I thought I was out, they pull me back in!
+I'm not a smart man...
+You're killin' me, Smalls!
+Well, what if there is no tomorrow? There wasn't one today!
+As if!
+How do you like them apples?
+Show me the money!
+They may take our lives, but they'll never take our freedom!
+Schwing!
+Can you ever just be whelmed?
+May the force be with you!
+I'll be back!
+Never tell me the odds!
+Frankly, my dear, I don't give a hoot
+We're gonna need a bigger boat!
+I've Fallen And I Can't Get Up
+I Pity The Fool!
+Say Hello To My Little Friend
+Whatchu Talkin' 'Bout, Willis?
+You Wouldn't Like Me When I'm Hangry.
+Heeey You Guyyys!
+Clap On! Clap Off!
+I'd Buy That For A Dollar!
+Now you know and knowing is half the battle.
+This message will self destruct in...
+Cowabunga Dudes!
+Good grief...
+Never feed them after midnight!
+Nobody puts baby in the corner!
+Not the mama!
+Oh, bother!
+Scooby-dooby-doo!
+Transform and roll out!
+Turtle power!
+Who ya gonna call? Ghostbusters!
+Hello... Newman!
+Did I do that?
+It's noht a toomah!
+Hold on to your butts!
+No soup for you!
+It's the leaning tower of Cheezah!
+You had me at "Play"!
+Groovy Baby!
+They killed Kenny!
+This one time at band camp...
+Release the Kraken!
+I know who I am. So who are you?
+Happy people don't kill other people!
+Nobody makes me bleed my own blood. Nobody!
+I could do this all day!
+What a lovely day!
+You are Kind!
+You are Strong!
+You are Loved!
+You are Smart!
+You are Missed!
+You are Important!
+You are losing the Game!
+What is this? A Learning Center for ants?
+Look at me. I'm the minecraft now!
+I am Groot!
+My precious!
+Get off my claim!
+With great power comes great responsiblity!
+This is not Sparta!
+That's so fetch!
+You shall not pass!
+DO NOT HACK!
+I LOVE LAMP!
+Are you not entertained?
+May the odds ever be in your favor!
+Why so serious?
+I have are a very particular set of skills!
+Just keep swimming!
+You merely adopted the cave! I was born in it, molded by it!
+Look at me. I’m the Player now!
+A friend is a gift you give yourself!
+I can overthink everything!
+Apes together strong!
+All of humanity’s problems stem from man’s inability to sit quietly in a room alone!
+A man becomes a critic when he cannot be an artist!
+Crazy is building your Ark after the flood has already come!
+Look at my shirt!
+Life doesn’t give you bumpers!
+I volunteer as tribute!
+Just pretend it’s a video game!
+How did we end up here?
+This place smells like onions!
+Ogres are like onions!
+Manners maketh man!
+Shine your shoes! Wipe your... Face!
+Stop looking at the world through a screen!
+I want you to be the very best version of yourself!
+I’m Mary Poppins, y’all!
+We build our legacy piece by piece!
+You guys are getting paid?
+The best thing about now, is that there’s another one tomorrow!
+If you get killed just walk it off!
+Airplanes are beautiful!
+Pain reminds you the joy you felt was real!
+Sure, I guess I pay attention...
+No harm, no foul!
+Nothing goes over my head! My reflexes are too fast, I would catch it!
+Your mother was a Hampster!
+Your Father Smelt of Elderberries!
+Go away or I shall Taunt you a second time!
+Big things have small beginnings!
+Nothing good happens in the world by being happy and cosy!
+I’m letting life hit me until it gets tired!
+You have part of my attention, the minimum amount!
+A wise man can learn more from his enemies than a fool from his friends!
+I remember everything!
+I know what you did last weekend!
+I know what you did last Summer!
+I know what you did in there!
+I know who you are, but who am I?!
+You’re kind of a great mess!
+The only thing worse than being incompetent, unkind, or evil, is being indecisive!
+In the face of overwhelming odds, I’m left with only one option!
+2000 years since what?
+You look like a badger!
+Know your place! Be a Shoe!
+Know your place! Be a Pancake!
+Know your place! Be a Crystal!
+Anybody want a peanut?
+You don’t by any chance happen to have six fingers on your right hand?
+I don’t even exercise!
+Have you ever heard of Plato, Aristotle, Socrates? Morons!
+Never go in against a Sicilian when death is on the line!
+Get back, witch!
+Have fun storming the castle!
+Have you ever considered piracy? You’d make a wonderful Pirate!

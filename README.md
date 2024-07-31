@@ -3,7 +3,8 @@
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
 
 # WARNING:
-### Single player worlds will break repeatedly as the pack is still under heavy development!
+### This pack is not designed to work in a single player enviroment, community server will be designed around this pack
+### You are allowed but single player worlds will break repeatedly as the pack is still under heavy development!
 - If you still want to play it then expect your stuff to be reset/borked a lot
 - No, I'm not helping you if something breaks, I'm probably working that problem anyway
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
@@ -20,7 +21,7 @@
 - Different dimensions empower enemies greatly, steel yourself for the fights of your life.
 - More info to come when I fell the need to share it...
 
-# Important Changes List:
+# Important Changes:
 - Expanded Crops and Growth Overhaul
 - Enchantment Overhaul
 - Expanded Bosses and Dungeons
@@ -33,49 +34,54 @@
 
 # ~ PACK BUILD NOTES ~
 ## Rules are as follows:
-1. No Teleporting items or players (Stargates Exception because power limitations)
-2. No Backpacks or On-Person Inventory Storage (Minor exception to item specific inv spaces)
+1. No Early Game Teleporting items or players (Stargates Exception because power limitations)
+2. No Early Game Backpacks or On-Person Inventory Storage (Minor exception to item specific inv spaces)
 3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Travel/Stargates/?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage/production/transfer will be handled in world, not by held items (to the best of ability)
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items ie jetpacks
-dd
+
 # Initial Changes
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
 - [x] Turn off Vanilla Village generation
-- [x] I need to hash out Proper Chunk Claiming (FLAN) and how to pay for it with Lightmans Currency
+- [x] Proper Chunk Claiming (FLAN) Paying for it with Lightmans Currency
 - [x] Standardize Mob Cash Drops: lowered natural drop count to 1-5 coins per mob
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
-- [x] Immersive Aircraft Recipe Integration with tech mods
+- [x] Immersive Aircraft Recipe Integration
 - [x] Added The Undergarden
 - [x] Added Mekanism
 - [x] Standard Ore Block drops the same rate as raw copper
 - [x] SilentGear: Added Naquadah and Improved Undergarden mats
 - [x] Modify Apoth Wizard Towers to spawn less or not at all
 - [x] Added [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals)
+- [x] Move Mek ores to Abydos Only
+- [x] Manage Mek stuff and make sure that its not accessable early game
+- [x] Modify recipes containing obsidian to use Create Sturdy Sheets where it makes sense
+- [x] Updated Lightmans vending machine textures
+- [x] Add mobs from other mods to lightmans coin drops
+- [x] Add loot_tables\chests from other mods to lightmans
 
 # Big Changes
-- [ ] modify recipes containing obsidian to use Create Sturdy Sheets where it makes sense
-- [ ] Rearrange all the mobs in lightmans configs to basic 1-6 tier instead of starting with 2nd tier :facepalm: then add the mobs from other mods
-- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
+- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
   - 1 raw chunk in create mixer with water makes 4 nuggets
-  - 1 raw chunk in a grind mill makes 1-2 crushed ore, each smelted for 3 nuggets or washed for 6 nuggets
+  - 1 raw chunk in a mill makes 1-2 crushed ore, each smelted for 3 nuggets or washed for 6 nuggets
   - More complex ore processing will yield better results
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
 - [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
+  - I think im just going to remove it... or learn java enough to be able to rip it out myself
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add FTB Quests and FTB Backups
 
 # Ongoing Changes
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
-- Add loot tabes from other mods for lightmans to insert coins into
+- Add structure loot tabes from other mods for lightmans to insert coins into
 - Naquadah and UnderGarden mats need balancing
 
 # Interesting Ideas:
@@ -110,7 +116,7 @@ dd
   - Anvil and Smith Table
   - Apotheosis Tables
   - Basic Enchanting
-  - Vending Machines
+  - Vending Machines + ATM
 - Baubley Heart Canisters need to be added to purchasable items from server vending machines:
   - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
   - bones can be earned with gateways and natural mob spawns
