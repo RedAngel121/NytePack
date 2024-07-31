@@ -106,7 +106,7 @@ hash = "07155fbf3aae320fa10909607f5a2f88bb019d0fd0d2086f8534f440e8a32acf"
 
 [[files]]
 file = "config/lightmanscurrency-common.lcconfig"
-hash = "33ecf656c53e1f7943f36100a3fc7b6e1e0628b0c44af46e2c8c32c5e3b42935"
+hash = "62b3d21871993585af0577688582c81dcde31204d4913777e8f5a7d1c466a467"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
@@ -2122,7 +2122,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "8299ae838f9f0ccda1e9849bc1fcd059effe017003f1b96f2e0b6096f9f5a471"
+hash = "2409199229cb60d82f607bb7a49465ac2c675fbf71b8491a31b0f956d68baaf1"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -2665,6 +2665,26 @@ file = "kubejs/data/minecraft/loot_tables/blocks/redstone_ore.json"
 hash = "80c5fa58f4a4dc5a5745c3ce958b7c02ffef684643e35a7a84dc7b22783bead7"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_desert.json"
+hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_plains.json"
+hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_savanna.json"
+hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_snowy.json"
+hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_taiga.json"
+hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
 hash = "d4ea6fd0ac0f757d5d24dc2a6983cb7f8231f3121c47b8698dcab4edeaf6775f"
 
@@ -2841,6 +2861,26 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
 hash = "d8490ec75756f51fb2ad89b3ef089fcc06bc0ef696fc2c66b9aae14da6aa0651"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/structure/village_desert.json"
+hash = "e70a11b280fd8341075a8c090ff4017dea6a8bc470ef14c40ed353c559518a80"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure/village_plains.json"
+hash = "12d77fe6a704f87a0c41f9c2c8ac3402665019f5651b69928cf1ed947ac4ca45"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure/village_savanna.json"
+hash = "086e5f2cebd0ec15eda93996e0568afdf8241dda02429b607b2658f11c540b63"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure/village_snowy.json"
+hash = "1c227298f60054a68bcf6c8ed5929219b0b8e19cbad1194c51f7ed9e2d3e7866"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure/village_taiga.json"
+hash = "228b11e7bb59ebcd17597ae8bdc30877ed65c35ade9405a21243b34c865c5911"
+
+[[files]]
 file = "kubejs/data/moregates/recipes/crystallizing/aether_variant_crystal.json"
 hash = "daee9bbfdc9a19096a76232cb7c28936b6868d8efc653711b8af49389e8dd377"
 
@@ -2863,10 +2903,6 @@ hash = "8f477966119ea020f814b71701352e06e4a031eaa24d5a5e010344c5b7fbcfcd"
 [[files]]
 file = "kubejs/data/moregates/sgjourney/stargate_variant/twilight.json"
 hash = "11072a555e0963b2c7d14668695143ccc1d659448dbb2976bc87bfddb83931ac"
-
-[[files]]
-file = "kubejs/data/moreminecarts/tags/worldgen/biome/has_vegetation/glass_cactus.json"
-hash = "11035ca54045cd7f178f1579d5ba532e1428c3e7a606e66459f3176880cdd7d7"
 
 [[files]]
 file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
@@ -2910,7 +2946,7 @@ hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "bf29a37369f90b510786ca2a7bda7ab2177eb4384bd10d92ceb5ef03c52abeca"
+hash = "9cbb4cea0c033cd7f2f5605994408f3ce02a00cb289194e74e5b091811f1c552"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/mobs.json"
@@ -3370,7 +3406,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "9ca79bfde56a6f63b88041a4fde919fec5c3f5623263e86c382de5d785d9b139"
+hash = "5cccc8c0f71162aab2333dbe91d131dafb6daac9b47c730381e9187f7817b780"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
