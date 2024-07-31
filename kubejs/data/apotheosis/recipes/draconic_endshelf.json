@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        {
+            "type": "apotheosis:module",
+            "module": "enchantment"
+        }
+    ],
+    "group": "wooden_door",
+    "pattern": [
+        " D ",
+        "PBP",
+        "PPP"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:dragon_head"
+        },
+        "B": {
+            "tag": "apotheosis:endshelf"
+        },
+        "P": {
+            "item": "forge:ender_pearls"
+        }
+    },
+    "result": {
+        "item": "apotheosis:draconic_endshelf",
+        "count": 1
+    }
+}

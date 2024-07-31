@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        {
+            "type": "apotheosis:module",
+            "module": "adventure"
+        }
+    ],
+    "group": "something",
+    "pattern": [
+        "EL",
+        "G "
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "forge:ender_pearls"
+        },
+        "L": {
+            "item": "minecraft:lead"
+        }
+    },
+    "result": {
+        "item": "apotheosis:ender_lead"
+    }
+}

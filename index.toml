@@ -3569,11 +3569,6 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
-file = "mods/create-extended-cogwheels-unofficial.pw.toml"
-hash = "8c704699ed774ae64ee1a76eb5fdf5588dc81a0e03064bb13b8c12f4dfdc1042"
-metafile = true
-
-[[files]]
 file = "mods/create-industry.pw.toml"
 hash = "7feed787d4d317c47cce351b61d36121c7edfa3bd477b0a0fa20ad5c20f2c005"
 metafile = true

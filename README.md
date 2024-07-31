@@ -63,6 +63,7 @@
 - [x] Updated Lightmans vending machine textures
 - [x] Add mobs from other mods to lightmans coin drops
 - [x] Add loot_tables\chests from other mods to lightmans
+- [x] Replace minecraft:ender_pearl with forge:ender_pearls
 
 # Big Changes
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
