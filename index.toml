@@ -794,7 +794,7 @@ hash = "0dbc95a18b2e5ac7b12dd9fb22c1caa120b71563b7104613d4405146856c5c18"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "3ed91358db8e9e00151bbadec84179a33833bec38afad1bf717aaf62e9735ae3"
+hash = "c207e656c3694de44647870aa8ac0986fd11bd15d78ffcef208b9c8d4f489195"
 
 [[files]]
 file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_event_horizon.png"
@@ -2122,7 +2122,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "2409199229cb60d82f607bb7a49465ac2c675fbf71b8491a31b0f956d68baaf1"
+hash = "c87a45292a01b4b18ac05fb7e4d66faa21d85d88ed65a95d091c4fcbdf6b3e9d"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -2195,6 +2195,26 @@ hash = "197cda8622818d81bb18b0ba7d9af92609059d8dae90acc1895533ab9aba0405"
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/redstodendron.json"
 hash = "0772304e930eb3af089915eb5a149241c5d0d75de139a79fa10e7ddf91e20c70"
+
+[[files]]
+file = "kubejs/data/apotheosis/recipes/draconic_endshelf.json"
+hash = "88799d7738000844c64a11451bcf8b5223fe299ceed438ad3e836090599aeef3"
+
+[[files]]
+file = "kubejs/data/apotheosis/recipes/ender_lead.json"
+hash = "5a8bf1ebbc5b279c3b43f3eca67ca0b233375e60d319d0898cc448bf374aa5ab"
+
+[[files]]
+file = "kubejs/data/apotheosis/recipes/endshelf.json"
+hash = "95c0423de72172a13878ae4347f903c23d12bda2f7d9aecfbed16e4ec11ddf24"
+
+[[files]]
+file = "kubejs/data/apotheosis/recipes/pearl_endshelf.json"
+hash = "b4c04d944104bc771834b40bcc7485361a6b5ba0ad37dd27f7bae82e162985d2"
+
+[[files]]
+file = "kubejs/data/apotheosis/recipes/sigil_of_withdrawal.json"
+hash = "ec7493adeb6e4d1276aac6e1bd36565dfcbdcdb18b1a554c2f562c51d8c77951"
 
 [[files]]
 file = "kubejs/data/apotheosis/worldgen/structure_set/tower_leaf.json"
@@ -2271,6 +2291,10 @@ hash = "a0b0dabfe1b3d5263c609dfcc5e6807198f48c9bbf94f09272a71fd16f4c77a5"
 [[files]]
 file = "kubejs/data/gateways/gear_sets/iron_with_diamond.json"
 hash = "337b642662db798b8c2892a3fe5678aebbd159b437ba9298acd06653f6fc87a9"
+
+[[files]]
+file = "kubejs/data/glassential/recipes/glass_ghostly.json"
+hash = "53dd51b75b165fea0675487c56d2422e38b46ffc8fb07e2362450fe7f851571a"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/airship.json"
@@ -2415,6 +2439,10 @@ hash = "225e1430a0d5363e59443167737dcd15087b6b6023f8aa5a8d1ecd888d46225a"
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier6.json"
 hash = "1ea3f95a5a0af7077168d6db5910f08a43735f59eac8558d8959072a69dc9ed0"
+
+[[files]]
+file = "kubejs/data/littlelogistics/recipes/transmitter_component.json"
+hash = "4e420fd1142a1b7f829756cf7d88120e9ca1add91a50025f1529812f14e22ab8"
 
 [[files]]
 file = "kubejs/data/man_of_many_planes/recipes/economy_plane.json"
@@ -2665,6 +2693,10 @@ file = "kubejs/data/minecraft/loot_tables/blocks/redstone_ore.json"
 hash = "80c5fa58f4a4dc5a5745c3ce958b7c02ffef684643e35a7a84dc7b22783bead7"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/ender_eye.json"
+hash = "b7ab9c72de7be58575e061eabd366d0af45afa99466b6778654af6aa1054ace7"
+
+[[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_desert.json"
 hash = "748d7a6bbb37d4d986bbaefc7ae14e174b2363737d34d9c39a18538b505d90ef"
 
@@ -2907,6 +2939,10 @@ hash = "11072a555e0963b2c7d14668695143ccc1d659448dbb2976bc87bfddb83931ac"
 [[files]]
 file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
 hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
+
+[[files]]
+file = "kubejs/data/quark/building/crafting/duskbound_lantern.json"
+hash = "eea300a803992d35f11c8948f0de20e5a5d829d523a18d91707a32de11a9a30c"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"

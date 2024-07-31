@@ -36,6 +36,18 @@ JEIEvents.hideItems(event => {
 
     event.hide("create:mechanical_drill")
 
+    event.hide("create_connected:copycat_block")
+    event.hide("create_connected:copycat_slab")
+    event.hide("create_connected:copycat_beam")
+    event.hide("create_connected:copycat_vertical_step")
+    event.hide("create_connected:copycat_stairs")
+    event.hide("create_connected:copycat_fence")
+    event.hide("create_connected:copycat_fence_gate")
+    event.hide("create_connected:copycat_wall")
+    event.hide("create_connected:copycat_board")
+    event.hide("create_connected:copycat_box")
+    event.hide("create_connected:copycat_catwalk")
+
     event.hide("createdeco:gold_coin")
     event.hide("createdeco:gold_coinstack")
     event.hide("createdeco:netherite_coin")
