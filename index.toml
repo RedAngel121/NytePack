@@ -3571,7 +3571,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
+hash = "d3a32f4bea784ebde7d7b1aabe3c19a1a43a23f48981e64f0b7ab7ba0481beb2"
 metafile = true
 
 [[files]]
@@ -3826,7 +3826,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-of-exile.pw.toml"
-hash = "fb7f3d5909958d6df4fc39ef5273802bfcd640fca32d154a05ae47d3fc02fde5"
+hash = "d8b241c311377b736394a720274e2280e9f01d6c002549648d5aa6a5fc6b2012"
 metafile = true
 
 [[files]]

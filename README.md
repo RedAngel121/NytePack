@@ -4,12 +4,12 @@
 
 # WARNING:
 ### This pack is not designed to work in a single player enviroment, community server will be designed around this pack
-### You are allowed but single player worlds will break repeatedly as the pack is still under heavy development!
+### Although you are allowed, single player worlds will break repeatedly as the pack is still under heavy development
 - If you still want to play it then expect your stuff to be reset/borked a lot
 - No, I'm not helping you if something breaks, I'm probably working that problem anyway
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
-- Requires MultiMC/Prism or AT Launcher to play, ***CurseForge and Microsoft are not compatable.***
-- Once a public server is ready I will be making an announcement in the Discord
+- Requires MultiMC/Prism or AT Launcher to play, ***CurseForge and Microsoft are not currently compatable.***
+- Once a public server is ready I will be making an announcement in Discord
 
 ### Multiplayer Server Rules and things to know:
 - Spawn is a Safe Haven; Protected and Defended. Do not find a way to destroy it lest your life be forefit.
@@ -21,7 +21,7 @@
 - Different dimensions empower enemies greatly, steel yourself for the fights of your life.
 - More info to come when I fell the need to share it...
 
-# Important Changes:
+# Pack Basics:
 - Expanded Crops and Growth Overhaul
 - Enchantment Overhaul
 - Expanded Bosses and Dungeons
@@ -41,7 +41,7 @@
 5. Power storage/production/transfer will be handled in world, not by held items (to the best of ability)
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items ie jetpacks
 
-# Initial Changes
+# Completed Changes:
 - [x] Upgraded Terrain Generation and Ore Generation
 - [x] Adapted Ore Generation from all different mods
 - [x] Vein Mining Enchant configs to determine its effects on hunger and durability
@@ -65,7 +65,10 @@
 - [x] Add loot_tables\chests from other mods to lightmans
 - [x] Replace minecraft:ender_pearl with forge:ender_pearls
 
-# Big Changes
+# Upcoming Changes:
+- [ ] RIP OUT THE CHUNK LOADER FROM MORE MINECARTS
+- [ ] Sophisticated Storage/Backpacks: 
+  - Change all the recipes to be more centered on progression
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
@@ -77,11 +80,8 @@
   - Find out what rewards should be allowed
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add FTB Quests and FTB Backups
-- [ ] Sophisticated Storage/Backpacks: 
-  - Change all the recipes to be more centered on progression
-- [ ] RIP OUT THE CHUNK LOADER FROM MORE MINECARTS
 
-# Ongoing Changes
+# Ongoing Changes:
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add structure loot tabes from other mods for lightmans to insert coins into
 - Naquadah and UnderGarden mats need balancing
