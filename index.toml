@@ -865,6 +865,158 @@ file = "kubejs/assets/sgjourney/models/block/pegasus_dhd.json"
 hash = "fa5b9fe48d6a5c4e82c10e02db29f4469420252396eb61bbc34833b5d90c57c7"
 
 [[files]]
+file = "kubejs/assets/sgjourney/sounds.json"
+hash = "42be226fef4114522c2b23d82111a6cc0aa0ff95f8291ed2c772f2dd64f4931f"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_chevron_encode.ogg"
+hash = "af5909fb641d2cc2364313e02f5132f305c0ae0188abb8ec158ab83f3c41bdfa"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_chevron_engage_1.ogg"
+hash = "729ad402f6dd36059a41d066964b77d65c076140ad2fae0961a6fe07e5ab13a8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_chevron_engage_2.ogg"
+hash = "cbace5c7a313239647a2431297c57623b1af3defe374294f77edb5eda49772f4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_chevron_incoming.ogg"
+hash = "b859c0ea829333699a652a85ebea5a9a4a84c666c6c569512c42abcc6d15f783"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_chevron_open.ogg"
+hash = "af5909fb641d2cc2364313e02f5132f305c0ae0188abb8ec158ab83f3c41bdfa"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_enter.ogg"
+hash = "9d77d3fc869e8c28b879152ca462ec6dea7bf94d1bd18ec1f0925acdb8c58a3e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_press_1.ogg"
+hash = "379d7f19c036b2e02be3392e644f2f8bcd55b35de92c08d8db9e5c15846d72ed"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_press_2.ogg"
+hash = "556a2eccdd6e717b37c20c4383fade37f129e3ca20bd9485c4aa866895f35cbd"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_press_3.ogg"
+hash = "784c074f351d33849506bd9db80797120d271b3690a7b0b4db392aad1b12b2a3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_press_4.ogg"
+hash = "619b1121bfd241a9a98a5bfb32beaa7d161584f6529c1f694dd19b76d712f1b3"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_press_5.ogg"
+hash = "e68ead15bebe242ccbcc3fcab3611980dc45d40a6c394baf96340d3c80fdc771"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_press_6.ogg"
+hash = "f5dd0a67d3067825fd05e2b30a4f9b8fe232fc0aa0e41237ba63c445f1add2b9"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dhd_press_7.ogg"
+hash = "cc72d634b746716a150316e121e62f67992e5468ef923ac475a38e791407be94"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_dial_fail.ogg"
+hash = "6489928aceb0fd7e0d5c7198fe096a2e03bab937f62dff61100fd9140fb1b6c7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_ring_spin_stop.ogg"
+hash = "879f2e0a35b92cc01a4968d13ab771ddacf9c9ef9ab3ff10796ad16406096436"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/milky_way_wormhole_open.ogg"
+hash = "a84c5a652d571f54abd71b768d7ed8b02b6ef3a251bbc9c36638a67cbcbb9421"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/pegasus_dhd_enter.ogg"
+hash = "7e7f061e7ff0f61e58284bd5f8a6b2b8a029c9d610b18a119b9d8dbfe82f9bc6"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/pegasus_wormhole_open.ogg"
+hash = "98db750e0fa6f171abe7cd8d0ade9dc4c1d88301267c76bc9d659ca74c53c070"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_chevron_engage.ogg"
+hash = "799795e91e3bd23ec108f5719d23b558310e2200d7bf8a503bddf79420965fb4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_dial_fail_1.ogg"
+hash = "74686acc50ae309d754b613480b26e540581dfd1b944f064ff365aad9cd465f8"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_dial_fail_2.ogg"
+hash = "83a84158f1b654eb37fe5337257742692e49559f669ca4f4d2765fbfc641d7e4"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_dial_start_1.ogg"
+hash = "d6f8d377e8e5de2434dff7912a21e392084ed36eb150748b0c189f66445ba8e7"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_dial_start_2.ogg"
+hash = "93ba6e332bef07a2aebea84fc78639b5d6db8348d6092bf270fd121ee14c12ba"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_ring_spin_stop.ogg"
+hash = "18a1a380d2ba5d426f4f6a50a521778d9836801bb1393e51ee971a274ccbaed5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_wormhole_close.ogg"
+hash = "da1531a718941e9f026915c5a9385d1acf44bdcc9f260e78ed0a95b8c66f1d93"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/universe_wormhole_open.ogg"
+hash = "3732f36e402ff6ecba0ef7a553745c06190cdd2ec271f837b2294913c49cf870"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_close_1.ogg"
+hash = "b37432958b566e1d6f9354a996b0932a11f0405b16d69692669fc790dc65e2bf"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_close_2.ogg"
+hash = "df7d66a4bd91984b7ad1d2ad8e9ac82363d702ea777ca322f516ca076b342b46"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_1.ogg"
+hash = "c68d2bbdf5559d9934e6eefee926d150f70272590be02dc0142cdcc4b9d0aa68"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_2.ogg"
+hash = "a0c2a4ce6fe36fd0247ecfd032b5d36a9ad8defe8bf79adf69358ae38ac6f93e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_3.ogg"
+hash = "fb90c12f73302d61fd8c3ef0fc8418da27ba1d9328196f996ec2442575e50b9e"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_4.ogg"
+hash = "27e0213d9cb259da21bb46e4df927ffb0440b05c41652a45c84e5f0008fb2987"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_5.ogg"
+hash = "e457b8e979f1e228f7579da852e2ac8fee59240b1f4e6a57acaf105816eebf4c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_6.ogg"
+hash = "aef5988f4fac178584d0f34ce93b289df0f0c3ea26a4264e1ba30cd76711eaf5"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_7.ogg"
+hash = "fc4aeba9ecdd348adbc668abf2dc55ef586bdb0344e354e52af8e49cdebd2bf1"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_enter_8.ogg"
+hash = "de26d3900884d61a309805d8dee737f50a1e38be55dc8ba669b5379549234b6c"
+
+[[files]]
+file = "kubejs/assets/sgjourney/sounds/new/wormhole_idle.ogg"
+hash = "8c400fc55e0374b42760d49f2b3294995fe7fe825fb81c7c9a1fd84f5a931059"
+
+[[files]]
 file = "kubejs/assets/sgjourney/textures/block/classic_dhd_bottom.png"
 hash = "fe93ce63ebe8904b0d215a93d5926836de432d68b479cc5bf5a0bcfbc7ea66a4"
 
