@@ -75,10 +75,11 @@
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
-- [ ] Change the required items in the More Minecarts mod chunk loader to accept coins instead of "crystal" stuff ([not yet possible](https://github.com/ryyanmapes/minecart-mod/issues/97))
-  - I think im just going to remove it... or learn java enough to be able to rip it out myself
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add FTB Quests and FTB Backups
+- [ ] Sophisticated Storage/Backpacks: 
+  - Change all the recipes to be more centered on progression
+- [ ] RIP OUT THE CHUNK LOADER FROM MORE MINECARTS
 
 # Ongoing Changes
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
@@ -138,22 +139,3 @@
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
 - For use on servers, add the `-g` flag to disable the GUI and `-s server` to download only server-side mods
 - Then start the minecraft dedicated server using the premade server script
-
-# Mods that Oramgecat thought were OK to install...
-- OAuth Account Manager - Maybe for client side
-- Mana and Artifice - will be added back in later
-
-- Chunk Loaders - probably not going to use it unless MoreMinecarts never updates
-- Sophisticated Backpacks - dont want backpacks right now... not sure if that will change later
-
-- Mekanism: More Solar Panels - I need to look into the rest of Mek and see whats worth using
-- Mekanism: Additions - I need to look into the rest of Mek and see whats worth using
-- Mekanism: Generators - I need to look into the rest of Mek and see whats worth using
-- Mekanism: Tools - I need to look into the rest of Mek and see whats worth using
-- Mekanism: Weapons - I need to look into the rest of Mek and see whats worth using
-- Refined Storage - Nope, not until I get Mek up to speed
-
-- Biomes O' Plenty - Yea not happening yet (or at all?)
-- BOP Create Mod Rose Quartz - Unnecessary, can be tagged
-- TerraBlender - not needed cause no BoP
-- Regions Unexplored - *more* biomes? really?
