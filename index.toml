@@ -3294,7 +3294,7 @@ hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/structure/milky_way_stargate_pedestal.json"
-hash = "a7606c70fc0f8dd6ff8f7b68c508f79c975269fd8f080e808698dc587a3933c7"
+hash = "24bd84f5c4a4a85342dd8a494c41f6f672c6265bacc708ae54a374a74ba9350d"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/biome/abydos_desert.json"
@@ -3727,7 +3727,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "d3a32f4bea784ebde7d7b1aabe3c19a1a43a23f48981e64f0b7ab7ba0481beb2"
+hash = "dc701b43a1dcf1ee2ac935ed65b9300398afbf56dd519f344bfc22a8f038352e"
 metafile = true
 
 [[files]]
@@ -4037,7 +4037,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
+hash = "02a961f55839346fcef6cca287a27cc1532f0761735a9ff2712a3efe0e4489fe"
 metafile = true
 
 [[files]]
