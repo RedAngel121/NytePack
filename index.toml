@@ -3169,6 +3169,10 @@ file = "kubejs/data/sgjourney/loot_tables/blocks/nether_naquadah_ore.json"
 hash = "6d7ff3412f055e055cbced2033074d15da3f954b1354ee2d191e0703d5c16501"
 
 [[files]]
+file = "kubejs/data/sgjourney/structures/stargate/milky_way/pedestal/milky_way_stargate_pedestal_undergarden_1.nbt"
+hash = "73c50098489990581c40d91d961409321c17b877a786246c3903c56fb2f80359"
+
+[[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/buried_stargate/buried_stargate_biomes.json"
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
@@ -3277,6 +3281,10 @@ file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedesta
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_undergarden_biomes.json"
+hash = "07a68d1b2c298e958673d07559496bc360af9b73e34e8351e13771399c0aa5d3"
+
+[[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_temple/great_pyramid_biomes.json"
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
@@ -3319,6 +3327,18 @@ hash = "c11af98e548e3755502cda62273e2507204feb165f0598b8c5b6ac83537e0b7c"
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/placed_feature/ore_naquadah_extra.json"
 hash = "9424c5249be7cbd7ba1c4476589acf82a8fdd6f8129627f3b5f834a57db84774"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/structure/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
+hash = "2a00e6363a4df9e9262ffbdd4b38016c8cc806d9003ae2e8e26fb656c6113b3a"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/structure_set/stargate_pedestal.json"
+hash = "f03f31d3c9ed1bc399ae18502de9d7931ad482c5d46addda097251fd1f5b0938"
+
+[[files]]
+file = "kubejs/data/sgjourney/worldgen/template_pool/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
+hash = "b95cbab4b06e39c6c92551f94a52a2ba6cd4b14cca3f8c29fa27a16567541360"
 
 [[files]]
 file = "kubejs/data/silentgear/loot_tables/blocks/azure_silver_ore.json"
@@ -3575,26 +3595,6 @@ hash = "44393947b8b1b7ef526c564367ed85fb56c66da0c8f85f254a4112e40c0e68d3"
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/utherium_ore.json"
 hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
-
-[[files]]
-file = "kubejs/data/undergarden_gate/structures/stargate/milky_way/pedestal/milky_way_stargate_pedestal_undergarden_1.nbt"
-hash = "73c50098489990581c40d91d961409321c17b877a786246c3903c56fb2f80359"
-
-[[files]]
-file = "kubejs/data/undergarden_gate/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_undergarden_biomes.json"
-hash = "07a68d1b2c298e958673d07559496bc360af9b73e34e8351e13771399c0aa5d3"
-
-[[files]]
-file = "kubejs/data/undergarden_gate/worldgen/structure/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
-hash = "b38c80b79bcbdb9beedd88550aa6af98b4e6299c9d49d795a485da7cab181f62"
-
-[[files]]
-file = "kubejs/data/undergarden_gate/worldgen/structure_set/stargate_pedestal.json"
-hash = "db13eae29aafd91e299982de6e02d0a110c57565027152ca2b8056284c1e762a"
-
-[[files]]
-file = "kubejs/data/undergarden_gate/worldgen/template_pool/stargate/milky_way/pedestal/stargate_pedestal_undergarden.json"
-hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"

@@ -1,11 +1,11 @@
 {
-    "name": "undergarden_gate:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
+    "name": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
     "fallback": "minecraft:empty",
     "elements": [
         {
             "weight": 1,
             "element": {
-                "location": "undergarden_gate:stargate/milky_way/pedestal/milky_way_stargate_pedestal_undergarden_1",
+                "location": "sgjourney:stargate/milky_way/pedestal/milky_way_stargate_pedestal_undergarden_1",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
                 "element_type": "minecraft:single_pool_element"

@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "undergarden_gate:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
+            "structure": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
             "weight": 1
         }
     ],

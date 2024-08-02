@@ -1,9 +1,9 @@
 {
     "type": "sgjourney:stargate_pedestal",
-    "start_pool": "undergarden_gate:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
+    "start_pool": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
     "size": 1,
     "max_distance_from_center": 80,
-    "biomes": "#undergarden_gate:has_structure/stargate_pedestal/stargate_pedestal_undergarden_biomes",
+    "biomes": "#sgjourney:has_structure/stargate_pedestal/stargate_pedestal_undergarden_biomes",
     "step": "strongholds",
     "terrain_adaptation": "beard_thin",
     "start_height": {
