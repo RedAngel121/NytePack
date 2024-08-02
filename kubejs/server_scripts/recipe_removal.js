@@ -85,6 +85,8 @@ ServerEvents.recipes(event => {
         { id: "lightmanscurrency:coinpile_chocolate_netherite" },
         { id: "lightmanscurrency:coinblock_chocolate_netherite" },
 
+        { id: "minecraft:ender_chest" },
+
         { id: "railways:sequenced_assembly/track_phantom" },
 
         { id: "scalinghealth:heart_crystal" },

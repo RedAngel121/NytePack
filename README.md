@@ -64,11 +64,10 @@
 - [x] Add mobs from other mods to lightmans coin drops
 - [x] Add loot_tables\chests from other mods to lightmans
 - [x] Replace minecraft:ender_pearl with forge:ender_pearls
+- [x] Sophisticated Storage/Backpacks recipes now adhere to progression
 
 # Upcoming Changes:
 - [ ] Update the More Minecarts mod to do what I want
-- [ ] Sophisticated Storage/Backpacks:
-  - Change all the recipes to be more centered on progression
   - Disable mob spawn backpacks and loot tables
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:

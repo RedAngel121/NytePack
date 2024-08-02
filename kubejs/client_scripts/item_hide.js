@@ -82,6 +82,8 @@ JEIEvents.hideItems(event => {
     event.hide("lightmanscurrency:coinpile_chocolate_netherite")
     event.hide("lightmanscurrency:coinblock_chocolate_netherite")
 
+    event.hide("minecraft:ender_chest")
+
     event.hide("railways:track_phantom")
 
     event.hide("scalinghealth:deepslate_heart_crystal_ore")
