@@ -1,1 +1,1 @@
-{"type":"mekanism:mek_data","key":{"A":{"tag":"mekanism:alloys/basic"},"E":{"item":"mekanism:energy_tablet"},"I":{"tag":"forge:ingots/iron"},"P":{"item":"mekanism:steel_casing"}},"pattern":["AEA","IPI","AEA"],"result":{"item":"mekanism:basic_energy_cube"}}
+{"type":"mekanism:mek_data","key":{"A":{"tag":"mekanism:alloys/basic"},"E":{"item":"mekanism:energy_tablet"},"I":{"item":"silentgear:crimson_iron_ingot"},"P":{"item":"mekanism:steel_casing"}},"pattern":["AEA","IPI","AEA"],"result":{"item":"mekanism:basic_energy_cube"}}

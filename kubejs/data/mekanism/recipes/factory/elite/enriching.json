@@ -1,1 +1,1 @@
-{"type":"mekanism:mek_data","key":{"A":{"tag":"mekanism:alloys/reinforced"},"C":{"tag":"forge:circuits/elite"},"I":{"tag":"forge:ingots/gold"},"P":{"item":"mekanism:advanced_enriching_factory"}},"pattern":["ACA","IPI","ACA"],"result":{"item":"mekanism:elite_enriching_factory"}}
+{"type":"mekanism:mek_data","key":{"A":{"tag":"mekanism:alloys/reinforced"},"C":{"tag":"forge:circuits/elite"},"I":{"item":"silentgear:azure_silver_ingot"},"P":{"item":"mekanism:advanced_enriching_factory"}},"pattern":["ACA","IPI","ACA"],"result":{"item":"mekanism:elite_enriching_factory"}}

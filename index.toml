@@ -2657,52 +2657,564 @@ file = "kubejs/data/mekanism/loot_tables/blocks/uranium_ore.json"
 hash = "794020833d7d21d138c318dba637c467fa6e04596d45a4237ee9e30b73132305"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/boiler_casing.json"
+hash = "05d2e2141d1c5561e7c55a64672587532c93fbca24b5758ea95686fca4c522e3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/chemical_injection_chamber.json"
+hash = "2e004c001f798b108a3cb9677ea658b18cbc20c9f863163d6df7663fc9db33e8"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/chemical_tank/advanced.json"
+hash = "c3371c2b0dd47f98739e0787e64a4d9bbbe88c65c54a6e8828562a59fa10bfe2"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/chemical_tank/basic.json"
 hash = "39771a40899bc5c0feb45d317f8c0a9b69950b3c9693fb995953fbfa343b1c9a"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/chemical_tank/elite.json"
+hash = "fddd39c4ed77e78e8015929746f9f793550fa85e16a5e5d92811f99db3a35ab1"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/chemical_tank/ultimate.json"
+hash = "16cf3f092a432d4f71182beb6b5d1737cda16652954fc8822651634d83029ba3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/black_to_light_gray.json"
+hash = "642ef2863ba780b0d93c8deda2bc5393ab702f7352eb56d728931d9a30b63b6f"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/cyan.json"
+hash = "54a8639337d651745fcd92e1381d57c5de549be6227fa8772b6ca99079ca15d4"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/gray_to_light_gray.json"
+hash = "eac562a828d8a94775a92d74b993946be33c11b853343023d64d11120042aa78"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/light_blue.json"
+hash = "56dab35a02927484f17104f7e4e6443d2987934acba80fd17721c5657a412a66"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/lime.json"
+hash = "78f0fa4bc30b2eed3ae02b834db0974d78c15d23f7a26f36a24ea1f0fec0ceeb"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/magenta.json"
+hash = "943ae39c0d09898d1eb50e06da62032b192ece4eef26c2a222a6d362d89a9f01"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/orange.json"
+hash = "9682bf616686ac6da3ad49f08c88f062b17613f57b2582d120a3a7918ec65226"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/pink.json"
+hash = "bc740c631e84f4883a7c8c1ef87d43ba3429f29635d4041d8b4f83f76f9a8b71"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/dye/purple.json"
+hash = "14830518191b74c75c9c5cf823cb165d415246fd04246b799cae8a33f92e2df6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/glow/berries.json"
+hash = "87f78359dbf1702c37ce013a6effed529921ecf1f20c72e80d2e5b266c8726f1"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/glow/ink_sac.json"
+hash = "b047f007310291f6f8866a2bd09eff2b3c7fcb6b8c7ec53ef17d2effbb8c1ca6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/glow/item_frame.json"
+hash = "1ee00210cbdfaf8c39e94bd56ec4776034f786a00e0c9180411c0f3b9acf73e8"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/gravel.json"
+hash = "ee19a782d51c4d9ee1bfb88c4cf2b270ba6b7bf37b3f0113d90f27baa0c8d0dc"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/muddy_mangrove_roots.json"
+hash = "88c0de417dd7b401b545c35b9e6c2d512dcf93c703c2a879fb9e242a456b3216"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/obsidian.json"
+hash = "58d44d50dc1af43af67baab30277762f56cff4981126b9ba3999803b0edb7597"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/packed_mud.json"
+hash = "e20e0cd6da2966a45dbecad7837293364c4fd68ea0cb0b253aa0d9fac65c30d3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/rooted_dirt.json"
+hash = "ac7feb4ca7d6511d13decee9bfef617faa11390e916355b1d21759a35ccc8faa"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_copper_block.json"
+hash = "1149f18b012cb213196a6170726050b8cc298ec2b2b5adcf7ef1055dfb9aa9f0"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_cut_copper.json"
+hash = "9d2afd7c013740ec1746e192c25f91d932f6206e1cd1473b630cdd7734f0677a"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_cut_copper_slab.json"
+hash = "b37623b456dbd49cfeb7731080a68e41a5f86d8a1c3fc7a876903ec780eb4ae1"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_cut_copper_stairs.json"
+hash = "085f995697f9d4ee3ef0cffe263636ea83a273ae0f01a7b2a908f4dcb131b2a9"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_exposed_copper.json"
+hash = "a40c7349581ff35debc2dd9cf00f213c68b0beb7c6cb47ccb11ed2af993d80a0"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_exposed_cut_copper.json"
+hash = "49ab036f44f6d3ab6b59afaa6988257553e5b39af8031266f51625872dbc24c3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_exposed_cut_copper_slab.json"
+hash = "a73743d33c028d03c95978c4a89bfc5da1afea02d17c2e4101c6865c8e335a9e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_exposed_cut_copper_stairs.json"
+hash = "a321a6812df0211b376359f5a225c8e35499edc405aa7c7f25e1dea71d36a912"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_oxidized_copper.json"
+hash = "f14280af515d2271419c227cca8bd6b7a3af4a07d7570b8fde5555fbdfcd3332"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_oxidized_cut_copper.json"
+hash = "0264835ccfc44080200815c157961a7e8fb8f26c9d7ad4e0e232a75ef6f0a682"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_oxidized_cut_copper_slab.json"
+hash = "8089f93ffa9968b1893a230c1c2049e4a63eaa333b1d3fb9f879a4053ccb0b9f"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_oxidized_cut_copper_stairs.json"
+hash = "93a03ed5781a4dc1cfa0d62a419b47c940eba8126da33ebc47ee486b13ff08ea"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_weathered_copper.json"
+hash = "65925a0fcf1bdf458f52220952dd1f2d522c2e7b7b85d028552fcf7c77edb3e1"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_weathered_cut_copper.json"
+hash = "f2931343927882b9c08ef7bf3975be41147a1f2516662a18ec7444db3cdfd889"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_weathered_cut_copper_slab.json"
+hash = "60257cc204addae4f6ca23777155bdc9fca9d9a55f7a1ca22611228b461d8b79"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/combining/wax/waxed_weathered_cut_copper_stairs.json"
+hash = "ce249d529eb45cc6ce9c8564453f4412503235410399ac93950a388ac2620148"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/electrolytic_separator.json"
+hash = "9ff84052ac423e3dcec82c37b5d9518e9ca14939bf091ea26380226010d098c9"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/energy_cube/advanced.json"
+hash = "12f732856a32f784c60f7b69531500691f6b5fffbf759099bedc22447e5ec817"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/energy_cube/basic.json"
+hash = "98560108814c4c6bf388127fd2fd4799fc608d757e6dab1c08ae9159e046640a"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/energy_cube/elite.json"
+hash = "6358d6e9b084776970103794ac8cdc9e8d1d91fca1779650b9d6771db06942c0"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/energy_cube/ultimate.json"
+hash = "4d32e0dfd684891403e7408c7106751cce63087157a7d5d18ba841826ae53e6d"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/energy_tablet.json"
+hash = "268646d9c7e3bc7696f531186b84697bd1b6acfed51adfe0a63e62674cbc35c1"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/enrichment_chamber.json"
+hash = "2fecf8ce3706bb7797bff6f67206f546a27ffb2886594a2d8a796102a1da8772"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/combining.json"
+hash = "dce2ca9002691409bea06ff389488c5060b08bce5565f4ed3f90c3910bfc6cd6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/compressing.json"
+hash = "a7e5ebbae3aae6cad5d4848aaaf02c1d010fdf7d9454ed2224431c874b03ff35"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/crushing.json"
+hash = "6df07761480d75b81a709dd06275671344275eb1ad1f6274973ae502b0edab8d"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/enriching.json"
+hash = "f5e17601031d0afd360799e194716d19cc7da9a8a46e39af8b20a6a93f93f464"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/infusing.json"
+hash = "58025542aefaa7e833f74074a21370db04fd5f249dcd54252448d8b4304efeab"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/injecting.json"
+hash = "0c65c598b056d230e13748d3bee8c09584b404210cbf39e123f1e32134617088"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/purifying.json"
+hash = "5bc2c78953b789c8332929243ce4932bc89d684fa99282c527d37c4c8c68261f"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/sawing.json"
+hash = "467c589d4f6fbdf8ab28399fbaee3656a228dacdfea109308ea7a2f1f62ad134"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/advanced/smelting.json"
+hash = "5cc44fea0f797d6118eefc798d20a782021f3f27e8a7cf4533476c7c2cd14656"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/combining.json"
+hash = "d783bad5b50a02fbb0b187da9192c7d6d5aac562271473685ef7d5c1012d76b1"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/compressing.json"
+hash = "52799ef916ca8c104e367b58c3bc71acc8fb9e53a66d0c8d9b5195fc0598559f"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/crushing.json"
+hash = "2a79f58093bbac33eb923ad4d185c64863a2560bd1a27a78d351f9017d6d793f"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/enriching.json"
+hash = "d8dfe4acc8492b74e3fcf14e48fa902e32fa5234209a5efe0be9ea032677c975"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/infusing.json"
+hash = "0c620df3eeedf34f7ff639882a25c0f270139e1a8a1af95af2c3aeec45eaf707"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/injecting.json"
+hash = "0b50e3c48fd1e7686f1a8a8afad70e22ea2d0ae21dff5bbc42c64ec9c7d1973f"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/purifying.json"
+hash = "dc0f6bffce15c60c1c82547a47b13296a03276615f9046f69a7fd5c4736e356b"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/sawing.json"
+hash = "15765fa96ec0c49dd8cda26680bba48dd1fd4075bd52df4d2a4a802a34444721"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/basic/smelting.json"
+hash = "8b333618a748a0cd8d38e2e2751639333184039b97c8e16f7801246e1fb2b522"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/combining.json"
+hash = "9166864e24e081b75a12e021f156b66f41292992df7a4d0ac79f68d7bae48db2"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/compressing.json"
+hash = "db417cbf7dd4b566d86c4c732630c6b3c0845eed3d35f2218565480f10e61eb7"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/crushing.json"
+hash = "8a5177761d6719523d80a89f016ca0f7fd0238a3f14ec2d1f6ab98632781b894"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/enriching.json"
+hash = "f742098405dbca9b177c493bba24e7e046f652608657e0a52e31607ffba987a3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/infusing.json"
+hash = "83e701a2dbe80ba4f0dc68d4d6fe3fd0f01e8317bcb7427358e6fbec77ea7d99"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/injecting.json"
+hash = "33b0886766a181c37c1e0f0957859d6ba995150546489bc4b004f7b3d3934d62"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/purifying.json"
+hash = "4feba6e1aea9ee070db8a4ea4005eb3b707b757d84d22fde7df233f27d6697f9"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/sawing.json"
+hash = "f60f46d11d36b45735c22d5a01464884a5e16dc51cbfdfc9cea6386fab202a06"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/elite/smelting.json"
+hash = "a668fc1ffc98824a6641e7f58e26c92720aeafda6ec36386792307dddc1eca45"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/combining.json"
+hash = "785f411ed93ceb58866a1809b685733c366e7393a30b09a462e053fe9c71b73e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/compressing.json"
+hash = "5799e57a680ad591fd5eaccd06c65acbc8595b78e1607941322699c5006cfca5"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/crushing.json"
+hash = "45af6f25c0c60f30b22390c57255833419a83cacd838e29366604a347ca80e7e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/enriching.json"
+hash = "c4ad7d012ff3073ca7a6ea1319300de1aa830e62a50740319fac58d3e376914d"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/infusing.json"
+hash = "19e3fa8cfa3f6341d36490b5f574cb9347792b53d070cbe1ca913933f7388d51"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/injecting.json"
+hash = "6c0b0525fad6df0ae50b9a0629b39a4cb3bcdfd86694127c3f8a76f0a183b787"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/purifying.json"
+hash = "11a1346da27516437ade566eb2c9e912a4936eddcc75db7765fd8a9cf93bd9bb"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/sawing.json"
+hash = "a689e7fb40161e73401f9d3c242c841bde8a1710d3a6c65e2166d83588ce6972"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/factory/ultimate/smelting.json"
+hash = "bffb152dc6edb4262705b1726ec7397da22cdf063af4b55c4e85b73d43946ec6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/fluid_tank/advanced.json"
+hash = "9ee9ec8186d8951a9a98f755ad07c46ce6c6e7153ecb92e8c28ce94a16a731ec"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/fluid_tank/basic.json"
 hash = "4b0b25f118ba81a596423b219583fc1af02f18ec3bbcfe20d0254ce6bde26ad0"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/fluid_tank/elite.json"
+hash = "90168a814d60cf94db5cb74b692b2fac37afdcfd78affe7669ecea1034902de2"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/fluid_tank/ultimate.json"
+hash = "fa75965e86e82b8ddf60bd0acdeca9a276047d79ce5383d7415ff96c41aff1d9"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/laser.json"
+hash = "77961b9ef20b2197da7f7ab8b0f41360cb174cc1b992b5d053333c43ddd987ad"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/laser_amplifier.json"
+hash = "624b9a0dedf8099b2345ce9ee8de8a47459e0910313938bec4b417d38b9b430a"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/logistical_sorter.json"
+hash = "d262b58f57459101a4617db4b1bda1c013ad656b72c09d2e7449294b7250a30e"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/metallurgic_infuser.json"
 hash = "e65564f3751ae261d0d6d876108ec5feae931a3bc97dfcad7d3a434be929ef14"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/alloy/atomic.json"
+hash = "4933d94e2cd16d09f2f833135a64193e688dbb3b73134ad8b21e79bda3f6527b"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/alloy/infused.json"
+hash = "8da8512dd8b153faf515c88bf7e8535cab8cf87da089b0c336b2e621f38ee365"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/alloy/reinforced.json"
+hash = "a6de97e75a84a60f4ac50fe5ac45cdce978996126599ea8aed76a019c44d6269"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/blackstone_to_gilded_blackstone.json"
+hash = "8b70de4d816fc02e05dfac27752b5eda62c003cca515a6bf128bbd89338284dc"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/clay_to_slime_ball.json"
+hash = "8598f9906d10fc2091d04c1067b323f30a98f95c8c91e91c3815dfe3e9aecc01"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/clay_to_slime_block.json"
+hash = "82a2a164ca554d836ed6cda95776af2769db0cec8d6b01055ff6648b9f490f75"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/crimson_nylium_to_warped_nylium.json"
+hash = "3e9c90fd2576109be646c243f61bc3903fda7097c7ac691f4470852ce322ab17"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/dirt_to_mycelium.json"
+hash = "ea749f0b91729900351e63c8f5232204d08d6303f2aed462790d1caed602b859"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/dirt_to_podzol.json"
+hash = "0092c05f084e28956d9b704cd7b1b683919edc499316f6431be13c25d35522d6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/cobblestone.json"
+hash = "6dc6136aa86336056d7eba952ab62da9e06d89a4acb39dcf63ef84e9a4b49c4e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/cobblestone_slab.json"
+hash = "1a4b7d2b94fe82c5fab190e28447a693c72a0fc5440a72ed8e05e6f0506b7b62"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/cobblestone_stairs.json"
+hash = "1461028b717470376bb890fff49e24f0c464c3c0cdeb50523e820ff28c6bd19e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/cobblestone_wall.json"
+hash = "b0cbfe8a5af61833419022eb4182d1fd2cd40ad6a1517840c6eab15933c9c61b"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/stone_brick.json"
+hash = "e22d3203ce3938e28bf969b45dc87104e2092d0e193a87698acdb1a903ef0516"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/stone_brick_slab.json"
+hash = "e9531a31dd28caf2927891e7b377bbc3b9a3ed1ccc465ab4149961b20ac69f4e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/stone_brick_stairs.json"
+hash = "b7ff4444cdb9bcfc0f1e7d5565bd34406d0334609d5650a30beeb68d003ce36c"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/mossy/stone_brick_wall.json"
+hash = "47896fbecfacbd1a471dfbc830d80e1475b6c73ce9cd71a80a06e386ebc6803c"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/netherrack_to_crimson_nylium.json"
+hash = "4b172e00d7e755638c2661370df925a018f2995f83e5b62e59b1cc1517696b5c"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/metallurgic_infusing/sand_to_dirt.json"
+hash = "9c35526733c94fa84ca1e86b1fa460bd7cbfec226801050a1233f33865fff9c1"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/module_gyroscopic_stabilization_unit.json"
 hash = "38738038b31ff1d105c33aa916ca56e74b0e44b3ff48a200db4a9347c3a6fef7"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/precision_sawmill.json"
+hash = "2dda0d18ee28b0f655e3e5df11dd64ece69c1218d5448a210d1a839731d39ec5"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/qio_drive_hyper_dense.json"
+hash = "c4bb907299748d2b21af897cc46adeb39d2b3537b47dd7ee634c85fb1f4d41a6"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/steel_casing.json"
 hash = "afafecbcedd403b4d9b7215276bb124699d31146d44c00ba94f60d70b7d2842e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/teleportation_core.json"
+hash = "bb120a00bf0e35e5c1d077d2b2cf65ccc7f40b737973490baf9fe867dd4a8a51"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/tier_installer/advanced.json"
+hash = "997187ff63dd5ef438af148e178d4630108590567ec50db206740028d10ce59d"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/tier_installer/basic.json"
+hash = "c47f3bcec372cb728383dbb02117fa0a01ab19e1148806ee4a014e19e2d98775"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/tier_installer/elite.json"
+hash = "17907120039a567fdd66bb022fa821f33a789cfb2c9b82a39d1ae4eb7cc62c78"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/tier_installer/ultimate.json"
+hash = "9317440173412f55643c5aeda023b6f8b48fbe53cbc16fe7d51934ceed812aeb"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/diversion_transporter.json"
 hash = "d0db88910f201eaf6d023ff39fce48aaf1a7ccd0204e1436a9996d1784665aee"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/logistical_transporter/advanced.json"
+hash = "a87897a32f7ac5c028050a2fd4d5a15a0d38a5de25308caf31182549440f1ce5"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/logistical_transporter/basic.json"
 hash = "5c8c3edef1c7abb0be55953f2219c00666136100b219d5d4e9c24a72209a82a3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/logistical_transporter/elite.json"
+hash = "52671ec80cb3dfa8c2881bcfeda5c9afc19fcbe60b535f173f2aa6b3219417bc"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/logistical_transporter/ultimate.json"
+hash = "9c2a3f90d1c75ce352a08391f2f1517e011291b0302bedccf84177004b5ed5b4"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/mechanical_pipe/advanced.json"
+hash = "4029baa75441dc60a1f02c15dd9bcc34b93cf9f36bea8082011e7bb7ad6599bf"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/mechanical_pipe/basic.json"
 hash = "a4bccb597ffc16fd254d29b7d62f7f0c32c16aecc5b5bf5f67ae3bc55c5d6e4e"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/mechanical_pipe/elite.json"
+hash = "e0883de6dd311e5b9683df6613784bcefae558b4f24fc598e629fe688f4fd787"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/mechanical_pipe/ultimate.json"
+hash = "803f2969b4d97df3e49783801dab8146987a6797418a3ed2bcaecd88bcc1736c"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/pressurized_tube/advanced.json"
+hash = "003559be5abdc06ef7e5a5ee495aa8c53a4374e60fe290ce65f8603c349bc7e0"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/pressurized_tube/basic.json"
 hash = "eec698f42a24a844a64383c94670e9346129904f71c1ad07a5723b1c628a7c62"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/pressurized_tube/elite.json"
+hash = "2a599e57faca6912ec04180392a22bbd6310e364f58bdca0c87d526b47d0ac08"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/pressurized_tube/ultimate.json"
+hash = "0f01c8c7b58fbcaae145dd07578089ce6e2884bc440a06629603076bfad85484"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/restrictive_transporter.json"
 hash = "c3773bf62cd0b507f84dd3ae7d366b15bfd76fea683b09e4d835cdda1a7a811e"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/thermodynamic_conductor/advanced.json"
+hash = "dcdcb908a44a44f54b479bee88376366a368a6a9404511d4d80999e3fe2fa8a7"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/thermodynamic_conductor/basic.json"
 hash = "80f90b61e88ba16f17a5998c30c05391a15545dba66607478e0783d6ae6977d6"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/thermodynamic_conductor/elite.json"
+hash = "1dd79535c5042112841bdfeccd238025d9771ca5e9b0e07b25f7809aff571150"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/thermodynamic_conductor/ultimate.json"
+hash = "648ddac41bf92f7d022ce2e83adaefea294c2a255f7481fb086eaa6306ca4a3d"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/universal_cable/advanced.json"
+hash = "78c5687fd5201f4eeb0cbd704b80a5bc097a54326298b80b20a129340fc2faa3"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/universal_cable/basic.json"
 hash = "6d927ab5cd7b7e2972085fd245c148292c5cfc9bf24e5cc21c09ae40ceb1072b"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/universal_cable/elite.json"
+hash = "d0ffb5b754e1e065a1939a6ceb66e385a2b70238f712432c067d478ac98c72a6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/transmitter/universal_cable/ultimate.json"
+hash = "9ef3aefb204047f5a78e47e8f184b29d84de22428f81488cba91410f065ea467"
 
 [[files]]
 file = "kubejs/data/mekanism/tags/worldgen/biome/spawn_ores.json"

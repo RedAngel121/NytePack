@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","key":{"A":{"tag":"mekanism:alloys/infused"},"I":{"tag":"forge:ingots/gold"},"R":{"tag":"forge:dusts/redstone"}},"pattern":["RIR","AIA","RIR"],"result":{"item":"mekanism:energy_tablet"}}
+{"type":"minecraft:crafting_shaped","key":{"A":{"tag":"mekanism:alloys/infused"},"I":{"item":"silentgear:azure_silver_ingot"},"R":{"tag":"forge:dusts/redstone"}},"pattern":["RIR","AIA","RIR"],"result":{"item":"mekanism:energy_tablet"}}

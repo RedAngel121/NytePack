@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","key":{"I":{"tag":"forge:ingots/iron"},"S":{"tag":"forge:ingots/steel"}},"pattern":[" S ","SIS"," S "],"result":{"count":4,"item":"mekanism:boiler_casing"}}
+{"type":"minecraft:crafting_shaped","key":{"I":{"item":"silentgear:crimson_iron_ingot"},"S":{"tag":"forge:ingots/steel"}},"pattern":[" S ","SIS"," S "],"result":{"count":4,"item":"mekanism:boiler_casing"}}

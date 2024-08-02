@@ -52,7 +52,7 @@
 - [x] Create Mechanical Drill Disabled
 - [x] Immersive Aircraft Recipe Integration
 - [x] Added The Undergarden
-- [x] Added Mekanism
+- [x] Added Mekanism and changed recipes to adhere to progression
 - [x] Standard Ore Block drops the same rate as raw copper
 - [x] SilentGear: Added Naquadah and Improved Undergarden mats
 - [x] Modify Apoth Wizard Towers to spawn less or not at all
