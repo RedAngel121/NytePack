@@ -68,7 +68,6 @@
 
 # Upcoming Changes:
 - [ ] Update the More Minecarts mod to do what I want
-  - Disable mob spawn backpacks and loot tables
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets

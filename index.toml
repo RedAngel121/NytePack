@@ -157,6 +157,10 @@ file = "config/solapplepie-client.toml"
 hash = "dd280b59fa5ba2fbe97522b26355931f7ca06de7465a956602e7d629b869bdba"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "101b2c3afacf80b07df488735591d32e69ada873f399a6ca66bf077ddfee1ec4"
+
+[[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "fff10e8d63bee902b4fe25a057e507dcf121fa3b78af90e675fba283b31b6048"
 
@@ -251,6 +255,10 @@ hash = "d8652857d41a4620802f50b3dc7f98a7807e71fc7def983e4e68f20ac2b9fb3d"
 [[files]]
 file = "defaultconfigs/solapplepie-server.toml"
 hash = "7a83fd5b27f00335d867099b526313f14ca221a9f586aa1790b85142f8cbad5f"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "bfdd92dfe39dd179055dc8fdacdef3d38647e2348cb44476b134be1887c3df48"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
@@ -2274,7 +2282,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "1624fdac33ca5cb287c5c65916759632f6bca55fce6ae1adc40730a891f019d2"
+hash = "ce39fd8d0ce1e476ccb66afc061db69202bda0cdab8b7501eab881035cde8f34"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -3413,6 +3421,510 @@ file = "kubejs/data/silentgear/worldgen/placed_feature/crimson_iron_ore.json"
 hash = "0a96757d8bbb7f69a75487a329da3de2093c6c28f91613a6f6530dc9f1f83b07"
 
 [[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_compacting_upgrade.json"
+hash = "95622bcf5586c16f3770c14d638a2860644d97d1ace0f79983e3168da07d06f5"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_deposit_upgrade.json"
+hash = "c14df7eda8c40476c2915f3e3d1c598216839d1cc93f72c41ee256c71be81aca"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_feeding_upgrade.json"
+hash = "9f8e2e4e6b516eb956df2f7effe4ab06551d3b1c8429670a9b95ed9690ed13b8"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_filter_upgrade.json"
+hash = "1d77a49d9e7677446d679c7d7f951542296191cf24e2d7d6c857b1b8ea6e0cc6"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_magnet_upgrade.json"
+hash = "2d1730ac727ac84a395acb41fe88978d9531476f2d72d23c7986d64dc74c21d5"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_magnet_upgrade_from_basic.json"
+hash = "6324ac7a9cf9130d45aec86ea91807d6bfd5722a6c15ac4df0ed4c98d04fec3f"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_pickup_upgrade.json"
+hash = "df73251c3b4f48589d8e7a82466dbcacf233d27ee6217b1817d53d81eafbbef2"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_pump_upgrade.json"
+hash = "f1bbab312f9189f4f4e497747da3937065eb34dffb9511a046f7224a7879ff77"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_refill_upgrade.json"
+hash = "d7bcb7763b6fb0d70aa29ce36f16663d920a78818b6ec943faada7fcb1f4f49e"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_restock_upgrade.json"
+hash = "c5be556fad10c1a7e0ed4ee6ea5bf7b0ac3c93ffd78e0bfae21e0cf99acfdb13"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_tool_swapper_upgrade.json"
+hash = "af3689beb91e44c7b0e8c0d1803de81dc201cff2359050cd4c3ba92869a22dc3"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/advanced_void_upgrade.json"
+hash = "8abd3f9e6f0b8c3f7b8a246ea632f2eb17e3677203062fef74f3bb3a8f43750c"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/anvil_upgrade.json"
+hash = "6144b64f75568e0b7cfff38d8976b61b5a2634cd8b81dd379828c6a42f7ed44b"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/auto_blasting_upgrade.json"
+hash = "989603d007320437b5463ce801f47eae5f1e2631b8b79dd5aaed9ff5b52a1f7e"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/auto_blasting_upgrade_from_auto_smelting_upgrade.json"
+hash = "c71773b10b148633f93cdf45c5d1bb65a8de79286bf781131d444d0560b25f11"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/auto_smelting_upgrade.json"
+hash = "676e3e288497680226bfc89e405b6c7b76b99c53e1d2244108d2d4cfd09a8311"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/auto_smoking_upgrade.json"
+hash = "18a2fad8b204743fa5500ec0f4b2a32417d76b9f284ee818f55ec5f41c78457e"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/battery_upgrade.json"
+hash = "00b0a5fb06bc15e86ac37282105fbb1727090061ac7a1bafa5bca245a40cca8e"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/blasting_upgrade.json"
+hash = "c7b73dbc43a3f28a3fbc57fed9f854f11636c730c9da82716f14cd9d0aa7f34a"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/blasting_upgrade_from_smelting_upgrade.json"
+hash = "e5055e9051769e07982937c29ac25579362fd5de15191f6adac0952642d53d59"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/compacting_upgrade.json"
+hash = "948a37556e64dfac3abef7fc392a31d552b9011a26a948fb4b2033112d21a6ed"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/crafting_upgrade.json"
+hash = "51a318641d31c5f63cf29cdfff55983112031c27335228debed8cac0f3efdef4"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/deposit_upgrade.json"
+hash = "d9533ae97d5b32b2dc7ccc12c4e9bbe33e6e3b3675f09cb113228a68d73c4838"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/diamond_backpack.json"
+hash = "77b2945c20e3aa56f2018daa1fd4c3a269325a8a07678c6c54584eb5c1ba199b"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/gold_backpack.json"
+hash = "2181fa6386ae8a30a1b9c3be85158cbc197bb9eb35ee989f9a9967102a29681b"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/inception_upgrade.json"
+hash = "2d3f9846299e275e746c9f9e1ff27deac4af7762be10dbce170413fa41733b36"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/iron_backpack.json"
+hash = "50e25c51b317f2534755249c4fd2b732d34aba16049b2eee94b076a3265d4687"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/iron_backpack_from_copper.json"
+hash = "eb121312f2c03e72b5ef82778b3d26f370c00440ccf33f52c814f2b6c22d744c"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/jukebox_upgrade.json"
+hash = "1426e1e71d59cb9711834808152c6750bc9420b0b2412c85b6284360e9956c2b"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/magnet_upgrade.json"
+hash = "923f9169f8c4f444d92f821c424c855992a6d6bcd339041eacf182611bd162eb"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/netherite_backpack.json"
+hash = "465933010784ed5671190bdf9a217e55f0d926d80d82f808aa20ce80d6738ba8"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/refill_upgrade.json"
+hash = "47b9496e76a3ba44ae823903f14c1b351a0ed8e819ddfd3d017e005b954af122"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/restock_upgrade.json"
+hash = "da9efb45b44000ed1aaeaa4867ed93377e19409dfc538c9b0707569522b7bba5"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/smelting_upgrade.json"
+hash = "cc55b0b566756b680cacffd25f53ac226777f4b7471bcfe9696750da765f9f60"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/smoking_upgrade.json"
+hash = "b9e8cf9437a53554c506bc5b3d113061e73537b176158dd2fb52126925b56f3b"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/stack_upgrade_tier_1.json"
+hash = "38e5394e876880dc38a2a60ccaf29f68a02e7d820f45f2c88329faf7b37ed6e2"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/stack_upgrade_tier_1_from_starter.json"
+hash = "e28924c11a05356df845efbdffec16409c2c362588a227b48a67b0f025446384"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/stack_upgrade_tier_2.json"
+hash = "3b7ebb93a3fc1572bfd6cb9b896fddbdae436af5a1755d0df7638fbe4be514e7"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/stack_upgrade_tier_3.json"
+hash = "c562fba1cfd30275eff5f9aba51e476748f6b363b4bc9d118db1a0b84e60d03e"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/stack_upgrade_tier_4.json"
+hash = "ec9c84bd33541101c2e5ade4a54337ef51a042b5a8d8655d15e94e25963ca000"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/stonecutter_upgrade.json"
+hash = "1cef443f73884eeb8c1050a7193be5fcf10401c9d42ddfe86a11daa2908780ae"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/tool_swapper_upgrade.json"
+hash = "b3e4dc126bea1dc4d2a384e0135e1a2bf5621f4d9ff1822911d5372b84e8720b"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/upgrade_base.json"
+hash = "363f3da0075be9442dee1a5a044a983a495ad293bbe1c4f59585d8f3ca045f32"
+
+[[files]]
+file = "kubejs/data/sophisticatedbackpacks/recipes/void_upgrade.json"
+hash = "865b3283d9157b2c2abd99f5d831ec4fef59af1a49591a5d51b3f1ad54736dec"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_compacting_upgrade.json"
+hash = "034efbeb6857ac097eeaecee9e86399b790e7f1f0e6a77b5f9f0ed94e24b3890"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_feeding_upgrade.json"
+hash = "7ba892908d5311151c63e50f285c9e36e0b3ac5bc7c0d474a7814aa6787450ed"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_filter_upgrade.json"
+hash = "79efa83037f85cf71485cdb5dbad3732c4f7fe9b6946327ba19fa1adc4482800"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_hopper_upgrade.json"
+hash = "221c6bf81893c5b452cf6efc0f077be864d3c4022f02a4787553cefa23c994d3"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_magnet_upgrade.json"
+hash = "a782bcdfa68b810fbe183ea0f3958415647da674c84c744c7ecc6b6127ed6404"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_magnet_upgrade_from_basic.json"
+hash = "303e75bc37623e2746c68e3881d3854255315005d304f1eb22bfa2f1bc5bd7df"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_pickup_upgrade.json"
+hash = "38304d66490400397f91cabd9fdf6a5b1804d970e4e78ff90b7a0b8204def7f2"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/advanced_void_upgrade.json"
+hash = "d86d3e7c6ed8f4b59d512b0542ed50ff496cec51d501207e4b1efefb02befde4"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/auto_blasting_upgrade.json"
+hash = "35e06fe657cc3d7b2f394e110eb8a5ee44254f8f862206657c991a9001659e9c"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/auto_blasting_upgrade_from_auto_smelting_upgrade.json"
+hash = "d84283ca7e2ffde5ec70634d600ff3eb0ed34a3bc9f188e95473873866c96f1e"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/auto_smelting_upgrade.json"
+hash = "8a97d33675e2f98b690ba5c5f65184791e8ccaa1e5f0c85726e547a72ca50180"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/auto_smoking_upgrade.json"
+hash = "5cf84c1317262f1bc2fa34e17dcb4584dd29254ceaefef11717757a5db79baeb"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/basic_to_diamond_tier_upgrade.json"
+hash = "985e136c4147176d5b9216ecec88c3550719024297b6dfbf14e6797e189c6ebf"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/basic_to_gold_tier_upgrade.json"
+hash = "a5eee40e593752b7ab4f9d5a0ae874bce2a0949ababfd1905e403453659aea16"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/basic_to_iron_tier_upgrade.json"
+hash = "b861a0823bd322d283ed6b5631d72616374657af23b9168c049f20b76b5abde1"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/basic_to_netherite_tier_upgrade.json"
+hash = "745db843a1d0ae3bd61e720f819e2011625c14c81bbdd1695def93f5a213fdc7"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/blasting_upgrade.json"
+hash = "54d04798d3442843eceb029398b8a4b559b26151be18cca4cb2d84c7f135ab38"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/blasting_upgrade_from_smelting_upgrade.json"
+hash = "479b6bb5e7adc9e60f5bced66d55383b69ce60f80596c549e112fda524d6f530"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/compacting_upgrade.json"
+hash = "efd173b1c9b3371bfe16def776580c3dad2f185d17a27ab672879e61d8b888cf"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/compression_upgrade.json"
+hash = "5e2b0d721a94942af114144b6f062e3e153298cd6664edc8a101322ce0d88f36"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/copper_to_diamond_tier_upgrade.json"
+hash = "9bafc2c0e10f54b1c27601d09568207e0f388ca8e12e8e6439e2e060a59dc37d"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/copper_to_gold_tier_upgrade.json"
+hash = "2330614aac7cf94a271e59033404ad7b1a38962b4715a3651a1e2a9c5e1fe60c"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/copper_to_iron_tier_upgrade.json"
+hash = "bb7fa9c1f8136f27d6b760d244d8f30c725e7e26a374e9bb90e2450c122ab352"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/copper_to_netherite_tier_upgrade.json"
+hash = "9f2631d02f71ac3be9b95475ad82e6321f6124a592b6b092f9e90d54235b360e"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/crafting_upgrade.json"
+hash = "38abe7578fac885d983a1465edab8a125e2c53a63baf36f7593a8ad5d97a2f0a"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/diamond_barrel.json"
+hash = "0eca17768cf0bacdba105b305ffbd7d6b3259d2c4bde95731f6c65b2e5c50d51"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/diamond_chest.json"
+hash = "13409d966d319cccad52ee46f0bb4afc31b6620a1751f1fc69965fa824600a8c"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/diamond_shulker_box.json"
+hash = "f5effc9e7970e40fc4894ecc9072c2eab732df64466143286bb9ac708300270b"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/diamond_to_netherite_tier_upgrade.json"
+hash = "1f438a48339ae3926f19818d094b5edd246a39db3c8fee00bd643709b4bf0537"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/gold_barrel.json"
+hash = "038346eeba3ce3701522b5c18279eb0cfee963d2985248404a54b7a48752a6ef"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/gold_chest.json"
+hash = "529b59678749f13b1e400a2f91a87372bd391a261f21894d42de0a371952632c"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/gold_shulker_box.json"
+hash = "80c112f79a310c115101baa4000175cb5cd24d58cc47e7e798bf4eec0de3cf2f"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/gold_to_diamond_tier_upgrade.json"
+hash = "c577ff01c6b00543e349c086d0f903a85f171a2ca0f55ff6b4fdfb3749052f33"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/gold_to_netherite_tier_upgrade.json"
+hash = "a1bb64a903b1b56bc1bb2617fc46da9673c288c65c92d2c6561b2ae533c6184e"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/hopper_upgrade.json"
+hash = "5f5962d4b30e39d5197a7144afa6e20bd7b14eff991eba1360ee91fc4fa9fe69"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_barrel.json"
+hash = "b25c4f0c50dafc081e6dd90fde3292881f25ad193684b384b7594cac939860b2"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_barrel_from_copper_barrel.json"
+hash = "19c1a2ca312eb995877ad1a736dbb78cea9faa35aac78eedb649a9059b74e849"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_chest.json"
+hash = "885319cdc1487218effa9eb7c484ecf166b902cd6239d7f16ae5cf4a775a6c9a"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_chest_from_copper_chest.json"
+hash = "f9086f70dd52a8198edbe73c9c16a7ee6f3aac5645d00d9c8e1bfff91add976b"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_shulker_box.json"
+hash = "84fae69e4171ebd167a16218560cc055119b9f8267dd51cbde85c328363909c2"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_shulker_box_from_copper_shulker_box.json"
+hash = "3df39e76256f797ec0b8b162345c2c7910c7daf314ad7f09bdc4d9d5bc5bb2f9"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_to_diamond_tier_upgrade.json"
+hash = "93609e2284101679f0feab69685e82fb6d5f79220d3ffb3635b20d90663ef402"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_to_gold_tier_upgrade.json"
+hash = "624d9d4bf72eb507ce0adb34bb931fd3220073cabc209463095efa5b86d5feb3"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/iron_to_netherite_tier_upgrade.json"
+hash = "29ca03a833eede219723d17fc4c40553fc76dfb309b1a5859e33f22fb10b6133"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/jukebox_upgrade.json"
+hash = "a08c2eeafd2d731c6264674f5b2ab0549f761a6559385935df3355db70ee344b"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_diamond_barrel_1.json"
+hash = "322aeeb69c8494804be1478cd65481c9c59362cef0b4af30fd929cd4edb1fe43"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_diamond_barrel_2.json"
+hash = "6f465d94dea0dd900ad8b33f08366bc8b3a52a9de79838005f6d9c0d44bb41e4"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_diamond_barrel_3.json"
+hash = "0c754b8a37db0ef63bfa9c1f96f6109de4d8f2d037cbe696b475d91f1c3cf785"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_diamond_barrel_4.json"
+hash = "1c10f5a6e143198bd4c75a9ba9bd1a280992db00db9f7f1651e6127305e33670"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_gold_barrel_1.json"
+hash = "0d209326e6405db8168a26291263731e2654bc05428e68758d1c5432417e3042"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_gold_barrel_2.json"
+hash = "bbee60cd8227e5dac792b765792f3d1545d7a54f828c0ba0b899e39fee738a66"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_gold_barrel_3.json"
+hash = "b24cd736966ef342ab6c9e9dd90d9b631a12bc97b8ad78b2fa1631d001e34c23"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_gold_barrel_4.json"
+hash = "3d58f330daf3ffc5b27c4392a2f3a5f1fc388e639e036ff05ea800f417d14fd2"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_1.json"
+hash = "62e11f670ec5aed840e25955ddbc07dedc3668cfd5ccd0de684665c2c3b9c2d5"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_1_from_limited_copper_barrel_1.json"
+hash = "46cca960c4195dff5d602aec3ba39c2e20bf98f7caf7e833d8ceff477656b943"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_2.json"
+hash = "89258551e33fd3facc2f7c0732250a3820f72ca28cca6f5aeff7bc9e6f2eb57d"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_2_from_limited_copper_barrel_2.json"
+hash = "e6dcc7842ea98aee3381bb1d66efad0d73c9db6ae95d4e2a1038ec81ef5cef12"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_3.json"
+hash = "7d664787be40bd1225432387469307fb6b4e0a5e5767d937868c44e389f4a08d"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_3_from_limited_copper_barrel_3.json"
+hash = "2b00082429ce37a1109281ae936b8ac878799107f6f8f7c7050edfb5cc055377"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_4.json"
+hash = "d3cfd193d4b8a6fa242dab68d540bc5f88b828da016247c021bf818e778c0e3c"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_iron_barrel_4_from_limited_copper_barrel_4.json"
+hash = "8e792eaeacba4774daf4b15db1dc05c44921503e6daf0538752e7473ab91cb1b"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_netherite_barrel_1.json"
+hash = "99934dd6a182ecd8f6682c1a1275112fe74704f1d8df9d0890731f5746a3ea54"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_netherite_barrel_2.json"
+hash = "ba2aa8c5a81d00d6ba4bf5044680d2d1fddf5f3506e8187e12e77b3fcb845ceb"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_netherite_barrel_3.json"
+hash = "158e57ab648f86343ee19a3c535938163798c9e6ec86a1f700553b751f6d4d5c"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/limited_netherite_barrel_4.json"
+hash = "81e202bff9632c67022c457174bd37ba21a4612cbd3103a0ec7f94888fbc2519"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/magnet_upgrade.json"
+hash = "37fb2781c29f4c7e6e027e68745e7ea927fdca5256492296f18ee6cf612af14a"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/netherite_barrel.json"
+hash = "66460bb5285005048e144d7b6a955421098e981807675b65775904d9778a9fac"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/netherite_chest.json"
+hash = "59bcf9c92270c8d7c6de818a6f712215be878da36853bd517361a5149d6c1415"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/netherite_shulker_box.json"
+hash = "0e1170e281cc5f9cb189971cf9023961013edc1664f4b3379b931a03aba75b1f"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/smelting_upgrade.json"
+hash = "5547e6c602eda678286f59d6de8da09f0dce377419e13121c06fd1f2111e9b0f"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/smoking_upgrade.json"
+hash = "0c32be44e4be5d6a010c3dba4a23502d04ac1b438d50bc5b69a3fe0c84873cb1"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/stack_upgrade_tier_2.json"
+hash = "d34e1e25a1834581890c2b40636e268825c21f1ab316146be5583893c55ff34b"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/stack_upgrade_tier_2_from_tier_1_plus.json"
+hash = "3770664d5cc1b8260a9303740dedf04817cac1d51ca3ffd6bc2aa64ffcd72870"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/stack_upgrade_tier_3.json"
+hash = "f31893d2eb4a2b7b7da9f0ab69c46a13481a448fbc8fd738097dc5a6412b2d8a"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/stack_upgrade_tier_4.json"
+hash = "c20173f0e498a07304b460b5f2b9aa0665c0f81edbae01ce1ec436c05ef576c6"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/stack_upgrade_tier_5.json"
+hash = "3dfa5144376d6919ed127699d171057b125c79baf7616b32e58546ae3a4aa75f"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/stonecutter_upgrade.json"
+hash = "df5b49f3d5f0711908fe14cdf13b67a07200a3796802b333da5b5899fdce48df"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/storage_input.json"
+hash = "d0ac3ab3612568972f018494412da924d953413aa386edf7ac2dab550fed71b4"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/storage_io.json"
+hash = "cda6a251a02337e201e1cd08f5360cd61417b7a660178059915bded5c2bd9884"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/storage_output.json"
+hash = "c624713d7bffb58b479c58a9ac8c722ea5772b5620982e357539a6f80d50b409"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/storage_tool.json"
+hash = "cd544c9d69ce35a4d128a381068c7854f95b815bcb6f816163ef15f5cfa01ddb"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/upgrade_base.json"
+hash = "011ea7b5e030763092432240a2383965b2a4c41cf955b3c69fca7f34780c8fbd"
+
+[[files]]
 file = "kubejs/data/sophisticatedstorage/recipes/void_upgrade.json"
 hash = "549b09b23a6986f773892c50eb1e04227f1b0e4c75acac1584f91d820d2d99e2"
 
@@ -3598,7 +4110,7 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "1e73d8753003c98e4e4655b5344cc85cfec062d9954ee84268a4535fdcadba29"
+hash = "c05cae31178f08a85f7f80422c4aed893c88d07eaed7597dfbac61a99b6c8107"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -4317,7 +4829,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitix.pw.toml"
-hash = "997df747d9cdaadc0d76f39ca2579548d2752ce02bc61832d4f6edf473ef7cb7"
+hash = "3b2de8d9098f982b9fe985597e32d49570c25c7cd6b3173e442761a630d03a99"
 metafile = true
 
 [[files]]
