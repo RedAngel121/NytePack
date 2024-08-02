@@ -1,0 +1,1 @@
+{"type":"mekanism:enriching","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"input":{"ingredient":{"tag":"byg:blue_dye"}},"output":{"count":2,"item":"minecraft:blue_dye"}}

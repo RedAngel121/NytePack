@@ -1,0 +1,1 @@
+{"type":"mekanism:sawing","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"input":{"ingredient":{"item":"byg:rainbow_eucalyptus_door"}},"mainOutput":{"count":2,"item":"byg:rainbow_eucalyptus_planks"}}

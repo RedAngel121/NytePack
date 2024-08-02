@@ -1,0 +1,1 @@
+{"type":"mekanism:crushing","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"input":{"ingredient":{"item":"byg:cracked_scoria_stone_bricks"}},"output":{"item":"byg:scoria_stone"}}

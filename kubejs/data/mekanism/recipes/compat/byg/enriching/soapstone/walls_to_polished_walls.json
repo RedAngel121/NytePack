@@ -1,0 +1,1 @@
+{"type":"mekanism:enriching","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"input":{"ingredient":{"item":"byg:soapstone_wall"}},"output":{"item":"byg:polished_soapstone_wall"}}

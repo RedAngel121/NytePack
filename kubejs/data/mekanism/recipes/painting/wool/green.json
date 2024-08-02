@@ -1,0 +1,1 @@
+{"type":"mekanism:painting","chemicalInput":{"amount":256,"pigment":"mekanism:green"},"itemInput":{"ingredient":{"type":"forge:difference","base":{"tag":"mekanism:colorable/wool"},"subtracted":{"item":"minecraft:green_wool"}}},"output":{"item":"minecraft:green_wool"}}

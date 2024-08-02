@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","key":{"#":{"tag":"forge:dusts/gold"},"A":{"tag":"mekanism:alloys/infused"},"G":{"tag":"forge:glass/silica"}},"pattern":[" G ","A#A"," G "],"result":{"item":"mekanism:upgrade_energy"}}

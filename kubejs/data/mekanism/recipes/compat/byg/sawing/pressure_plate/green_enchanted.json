@@ -1,0 +1,1 @@
+{"type":"mekanism:sawing","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"input":{"ingredient":{"item":"byg:green_enchanted_pressure_plate"}},"mainOutput":{"count":2,"item":"byg:green_enchanted_planks"}}
