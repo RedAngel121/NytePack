@@ -11,7 +11,7 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "I": {
-      "tag": "forge:storage_blocks/iron"
+      "item": "silentgear:crimson_iron_block"
     }
   },
   "pattern": [

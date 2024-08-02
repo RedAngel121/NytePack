@@ -8,10 +8,10 @@
   ],
   "key": {
     "B": {
-      "tag": "forge:storage_blocks/netherite"
+      "item": "undergarden:froststeel_block"
     },
     "N": {
-      "tag": "forge:ingots/netherite"
+      "item": "undergarden:froststeel_ingot"
     },
     "S": {
       "item": "sophisticatedstorage:stack_upgrade_tier_4"

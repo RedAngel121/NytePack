@@ -8,10 +8,10 @@
   ],
   "key": {
     "B": {
-      "tag": "forge:storage_blocks/diamond"
+      "item": "undergarden:utherium_block"
     },
     "D": {
-      "tag": "forge:gems/diamond"
+      "item": "undergarden:utherium_crystal"
     },
     "S": {
       "item": "sophisticatedstorage:stack_upgrade_tier_3"

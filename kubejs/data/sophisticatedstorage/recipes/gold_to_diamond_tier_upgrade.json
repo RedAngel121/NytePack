@@ -8,7 +8,7 @@
   ],
   "key": {
     "D": {
-      "tag": "forge:gems/diamond"
+      "item": "undergarden:utherium_crystal"
     },
     "R": {
       "item": "minecraft:redstone_torch"

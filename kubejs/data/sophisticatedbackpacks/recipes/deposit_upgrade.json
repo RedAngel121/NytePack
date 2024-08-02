@@ -14,7 +14,7 @@
       "tag": "forge:chests/wooden"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "silentgear:crimson_iron_ingot"
     },
     "P": {
       "item": "minecraft:piston"

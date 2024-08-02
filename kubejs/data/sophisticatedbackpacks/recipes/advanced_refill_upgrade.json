@@ -8,13 +8,13 @@
   ],
   "key": {
     "D": {
-      "tag": "forge:gems/diamond"
+      "item": "undergarden:utherium_crystal"
     },
     "F": {
       "item": "sophisticatedbackpacks:refill_upgrade"
     },
     "G": {
-      "tag": "forge:ingots/gold"
+      "item": "silentgear:azure_silver_ingot"
     },
     "R": {
       "tag": "forge:dusts/redstone"

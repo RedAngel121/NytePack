@@ -8,10 +8,10 @@
   ],
   "key": {
     "B": {
-      "tag": "forge:storage_blocks/iron"
+      "item": "silentgear:crimson_iron_block"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "silentgear:crimson_iron_ingot"
     },
     "S": {
       "item": "sophisticatedstorage:stack_upgrade_tier_1"

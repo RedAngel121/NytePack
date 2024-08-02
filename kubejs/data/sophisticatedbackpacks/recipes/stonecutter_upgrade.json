@@ -11,7 +11,7 @@
       "item": "sophisticatedbackpacks:upgrade_base"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "silentgear:crimson_iron_ingot"
     },
     "R": {
       "tag": "forge:dusts/redstone"

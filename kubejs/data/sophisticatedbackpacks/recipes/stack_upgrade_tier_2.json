@@ -8,7 +8,7 @@
   ],
   "key": {
     "G": {
-      "tag": "forge:storage_blocks/gold"
+      "item": "silentgear:azure_silver_block"
     },
     "S": {
       "item": "sophisticatedbackpacks:stack_upgrade_tier_1"

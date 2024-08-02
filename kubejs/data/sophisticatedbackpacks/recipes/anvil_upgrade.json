@@ -17,10 +17,10 @@
       "tag": "forge:chests/wooden"
     },
     "D": {
-      "tag": "forge:gems/diamond"
+      "item": "undergarden:utherium_crystal"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "silentgear:crimson_iron_ingot"
     }
   },
   "pattern": [

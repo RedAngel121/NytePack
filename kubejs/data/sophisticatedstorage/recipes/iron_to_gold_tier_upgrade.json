@@ -8,7 +8,7 @@
   ],
   "key": {
     "G": {
-      "tag": "forge:ingots/gold"
+      "item": "silentgear:azure_silver_ingot"
     },
     "R": {
       "item": "minecraft:redstone_torch"

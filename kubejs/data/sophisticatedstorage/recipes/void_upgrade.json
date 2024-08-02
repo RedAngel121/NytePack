@@ -1,31 +1,31 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "conditions": [
-    {
-      "type": "sophisticatedcore:item_enabled",
-      "itemRegistryName": "sophisticatedstorage:void_upgrade"
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        {
+            "type": "sophisticatedcore:item_enabled",
+            "itemRegistryName": "sophisticatedstorage:void_upgrade"
+        }
+    ],
+    "key": {
+        "B": {
+            "item": "sophisticatedstorage:upgrade_base"
+        },
+        "E": {
+            "tag": "forge:ender_pearls"
+        },
+        "O": {
+            "item": "create:sturdy_sheet"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        }
+    },
+    "pattern": [
+        " E ",
+        "OBO",
+        "ROR"
+    ],
+    "result": {
+        "item": "sophisticatedstorage:void_upgrade"
     }
-  ],
-  "key": {
-    "B": {
-      "item": "sophisticatedstorage:upgrade_base"
-    },
-    "E": {
-      "tag": "forge:ender_pearls"
-    },
-    "O": {
-      "tag": "forge:obsidian"
-    },
-    "R": {
-      "tag": "forge:dusts/redstone"
-    }
-  },
-  "pattern": [
-    " E ",
-    "OBO",
-    "ROR"
-  ],
-  "result": {
-    "item": "sophisticatedstorage:void_upgrade"
-  }
 }

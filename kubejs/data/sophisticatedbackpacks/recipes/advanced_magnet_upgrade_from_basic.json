@@ -8,10 +8,10 @@
   ],
   "key": {
     "D": {
-      "tag": "forge:gems/diamond"
+      "item": "undergarden:utherium_crystal"
     },
     "G": {
-      "tag": "forge:ingots/gold"
+      "item": "silentgear:azure_silver_ingot"
     },
     "M": {
       "item": "sophisticatedbackpacks:magnet_upgrade"

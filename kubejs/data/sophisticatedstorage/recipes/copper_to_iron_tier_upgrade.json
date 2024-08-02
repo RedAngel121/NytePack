@@ -8,7 +8,7 @@
   ],
   "key": {
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "silentgear:crimson_iron_ingot"
     },
     "R": {
       "item": "minecraft:redstone_torch"

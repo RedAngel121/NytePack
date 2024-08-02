@@ -8,7 +8,7 @@
   ],
   "key": {
     "G": {
-      "tag": "forge:ingots/gold"
+      "item": "silentgear:azure_silver_ingot"
     },
     "S": {
       "item": "sophisticatedstorage:iron_barrel"

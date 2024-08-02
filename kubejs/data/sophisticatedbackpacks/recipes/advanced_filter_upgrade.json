@@ -1,27 +1,31 @@
 {
-  "type": "sophisticatedcore:upgrade_next_tier",
-  "conditions": [
-    {
-      "type": "sophisticatedcore:item_enabled",
-      "itemRegistryName": "sophisticatedbackpacks:advanced_filter_upgrade"
-    }
-  ],
-  "key": {
-    "G": {
-      "tag": "forge:ingots/gold"
+    "type": "sophisticatedcore:upgrade_next_tier",
+    "conditions": [
+        {
+            "type": "sophisticatedcore:item_enabled",
+            "itemRegistryName": "sophisticatedbackpacks:advanced_filter_upgrade"
+        }
+    ],
+    "key": {
+        "D": {
+            "item": "undergarden:utherium_crystal"
+        },
+        "G": {
+            "item": "silentgear:azure_silver_ingot"
+        },
+        "P": {
+            "item": "sophisticatedbackpacks:filter_upgrade"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        }
     },
-    "P": {
-      "item": "sophisticatedbackpacks:filter_upgrade"
-    },
-    "R": {
-      "tag": "forge:dusts/redstone"
+    "pattern": [
+        " D ",
+        "GPG",
+        "RRR"
+    ],
+    "result": {
+        "item": "sophisticatedbackpacks:advanced_filter_upgrade"
     }
-  },
-  "pattern": [
-    "GPG",
-    "RRR"
-  ],
-  "result": {
-    "item": "sophisticatedbackpacks:advanced_filter_upgrade"
-  }
 }

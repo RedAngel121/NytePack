@@ -8,7 +8,7 @@
   ],
   "key": {
     "I": {
-      "tag": "forge:storage_blocks/iron"
+      "item": "silentgear:crimson_iron_block"
     },
     "S": {
       "item": "sophisticatedbackpacks:stack_upgrade_starter_tier"

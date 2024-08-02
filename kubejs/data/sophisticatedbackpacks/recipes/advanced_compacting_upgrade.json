@@ -11,10 +11,10 @@
       "item": "sophisticatedbackpacks:compacting_upgrade"
     },
     "D": {
-      "tag": "forge:gems/diamond"
+      "item": "undergarden:utherium_crystal"
     },
     "G": {
-      "tag": "forge:ingots/gold"
+      "item": "silentgear:azure_silver_ingot"
     },
     "R": {
       "tag": "forge:dusts/redstone"

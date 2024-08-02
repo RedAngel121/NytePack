@@ -17,7 +17,7 @@
       "tag": "forge:ender_pearls"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "silentgear:crimson_iron_ingot"
     },
     "R": {
       "tag": "forge:dusts/redstone"
