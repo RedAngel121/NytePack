@@ -15,7 +15,7 @@
             "item": "minecraft:glass"
         },
         {
-            "item": "forge:ender_pearls"
+            "tag": "forge:ender_pearls"
         }
     ],
     "result": {

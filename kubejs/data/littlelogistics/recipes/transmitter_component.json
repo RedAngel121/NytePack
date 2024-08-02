@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "#": {
-      "item": "minecraft:glowstone_dust"
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "_": {
+            "item": "minecraft:stone_slab"
+        },
+        "o": {
+            "item": "forge:ender_pearls"
+        }
     },
-    "_": {
-      "item": "minecraft:stone_slab"
+    "pattern": [
+        "o",
+        "#",
+        "_"
+    ],
+    "result": {
+        "count": 4,
+        "item": "littlelogistics:transmitter_component"
     },
-    "o": {
-      "item": "forge:ender_pearls"
-    }
-  },
-  "pattern": [
-    "o",
-    "#",
-    "_"
-  ],
-  "result": {
-    "count": 4,
-    "item": "littlelogistics:transmitter_component"
-  },
-  "show_notification": true
+    "show_notification": true
 }

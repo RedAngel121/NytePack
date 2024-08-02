@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "forge:ender_pearls"
+      "tag": "forge:ender_pearls"
     },
     {
       "item": "minecraft:blaze_powder"

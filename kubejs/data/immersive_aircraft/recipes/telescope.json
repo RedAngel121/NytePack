@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "T",
-    "C",
-    "T"
-  ],
-  "key": {
-    "T": [
-      {
-        "item": "minecraft:spyglass"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "T",
+        "C",
+        "T"
     ],
-    "C": [
-      {
-        "item": "minecraft:copper_sheet"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:telescope"
-  }
+    "key": {
+        "T": [
+            {
+                "item": "minecraft:spyglass"
+            }
+        ],
+        "C": [
+            {
+                "item": "minecraft:copper_sheet"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:telescope"
+    }
 }

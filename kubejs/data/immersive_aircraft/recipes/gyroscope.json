@@ -1,27 +1,27 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "ESE",
-    " C "
-  ],
-  "key": {
-    "C": [
-      {
-        "item": "minecraft:compass"
-      }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ESE",
+        " C "
     ],
-    "E": [
-      {
-        "item": "create:electron_tube"
-      }
-    ],
-    "S": [
-      {
-        "item": "create:iron_sheet"
-      }
-    ]
-  },
-  "result": {
-    "item": "immersive_aircraft:gyroscope"
-  }
+    "key": {
+        "C": [
+            {
+                "item": "minecraft:compass"
+            }
+        ],
+        "E": [
+            {
+                "item": "create:electron_tube"
+            }
+        ],
+        "S": [
+            {
+                "item": "create:iron_sheet"
+            }
+        ]
+    },
+    "result": {
+        "item": "immersive_aircraft:gyroscope"
+    }
 }

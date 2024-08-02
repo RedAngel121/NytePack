@@ -2350,27 +2350,27 @@ hash = "0772304e930eb3af089915eb5a149241c5d0d75de139a79fa10e7ddf91e20c70"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/draconic_endshelf.json"
-hash = "88799d7738000844c64a11451bcf8b5223fe299ceed438ad3e836090599aeef3"
+hash = "ae63b3b802c09015a18c85e890141bc3981b57eec48771079f8b639ee8351d0c"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/ender_lead.json"
-hash = "5a8bf1ebbc5b279c3b43f3eca67ca0b233375e60d319d0898cc448bf374aa5ab"
+hash = "0c925e674f2d23a618d9804ba08ccadd44dfdfbbaa5b155d4e6daa1dfec77e93"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/endshelf.json"
-hash = "95c0423de72172a13878ae4347f903c23d12bda2f7d9aecfbed16e4ec11ddf24"
+hash = "6e6058abe0a96603ff94ec0ea9e4edeb53172670a862c431b04c0792ef993860"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/library.json"
-hash = "59289171001c2f01cbabc15f863efa56b3ed467f9225c571feb4d5e97dd2b60d"
+hash = "865a55425b428e0f9bcfccdbf4681ebb112f3cd16e5740f8a30a238a02bbd1b9"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/pearl_endshelf.json"
-hash = "b4c04d944104bc771834b40bcc7485361a6b5ba0ad37dd27f7bae82e162985d2"
+hash = "cbf36e55ff0c72480a7e99a833e89f7f41379b32729a062b5a3d3ae90db5fc97"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/sigil_of_withdrawal.json"
-hash = "ec7493adeb6e4d1276aac6e1bd36565dfcbdcdb18b1a554c2f562c51d8c77951"
+hash = "4ae761aea175111ddae9946e8976b155fc5ea645a15e82baa5e65d9add45eb07"
 
 [[files]]
 file = "kubejs/data/apotheosis/worldgen/structure_set/tower_leaf.json"
@@ -2402,7 +2402,7 @@ hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
 
 [[files]]
 file = "kubejs/data/framedblocks/recipes/framed_reinforcement.json"
-hash = "94caf053c23f836c1de02ec810564f83b0c0f6e8cc596de5254f1ce2cfb17898"
+hash = "7ab9c74bdf5a90c89a78083494a77c2a9a8ef39b1f565b4561e5b6a80a5316db"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/blaze.json"
@@ -2450,7 +2450,7 @@ hash = "337b642662db798b8c2892a3fe5678aebbd159b437ba9298acd06653f6fc87a9"
 
 [[files]]
 file = "kubejs/data/glassential/recipes/glass_ghostly.json"
-hash = "53dd51b75b165fea0675487c56d2422e38b46ffc8fb07e2362450fe7f851571a"
+hash = "a10abe79472b35cb296d0c8984c91e706f02a3c1fcfa238543c40fd7e4e40cc5"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/airship.json"
@@ -2474,7 +2474,7 @@ hash = "0c123ccce711059af7881a825f546eb308601811f1c0349b2ef81d67f3a60af2"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/eco_engine.json"
-hash = "cd4c8d5ee9dd6ea04a99dff5657c49d323107cf3710de8e7ea66df5b9f5004c9"
+hash = "d5aace49ce20f7ca47d0f8ab855c065f94b16d77e2e6d6fdc20f98077aec58f3"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/engine.json"
@@ -2490,7 +2490,7 @@ hash = "358cb747631697295ebfe59248fb105ab7aefc9250760d85eafc0e13528e7758"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/gyroscope.json"
-hash = "5838873401629c4271e07b28322ce9a19144ecf5ff8092cf9058bd1e3b6af272"
+hash = "1f1a866bea98d40cc40474c92b64fda5810b0835c02217b340ef308d815ecd2a"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/heavy_crossbow.json"
@@ -2542,7 +2542,7 @@ hash = "a8e60170da416225c8101c101b4fd0ce413896def234d65e51d52d9c69a9c4b4"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/telescope.json"
-hash = "b1e0224d3c4e3b2f90a2ac5bc4dac623105875e8acb41c47874891c61d0f476c"
+hash = "d54d87c6c370b96799c33cacc061a65c9802f12683648217901a777cf165f575"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/warship.json"
@@ -2598,7 +2598,7 @@ hash = "1ea3f95a5a0af7077168d6db5910f08a43735f59eac8558d8959072a69dc9ed0"
 
 [[files]]
 file = "kubejs/data/littlelogistics/recipes/transmitter_component.json"
-hash = "4e420fd1142a1b7f829756cf7d88120e9ca1add91a50025f1529812f14e22ab8"
+hash = "777d4b7c20b86c09a1ff16491e7eb4f34f4ed6f3cf9c57faeaf278117ca981e7"
 
 [[files]]
 file = "kubejs/data/man_of_many_planes/recipes/economy_plane.json"
@@ -2850,7 +2850,7 @@ hash = "80c5fa58f4a4dc5a5745c3ce958b7c02ffef684643e35a7a84dc7b22783bead7"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/ender_eye.json"
-hash = "b7ab9c72de7be58575e061eabd366d0af45afa99466b6778654af6aa1054ace7"
+hash = "7e5163685d6bad47dcf1699acd68be062b4b8bba3497b0fbafeb63aa26552beb"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/village_desert.json"
@@ -3098,7 +3098,7 @@ hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
 
 [[files]]
 file = "kubejs/data/quark/building/crafting/duskbound_lantern.json"
-hash = "eea300a803992d35f11c8948f0de20e5a5d829d523a18d91707a32de11a9a30c"
+hash = "64e09d8fb4616832ba775e1b7f2d1b10d8fcff3ba229e2a8be69374617c46632"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"
@@ -3342,7 +3342,7 @@ hash = "57df64c942b24e9566607ff0b2853c1ef026d629e11515586318fb0c072b05a0"
 
 [[files]]
 file = "kubejs/data/silentgear/recipes/metal_press.json"
-hash = "630bb37e98c2624215d4433ba7fd3ee96b4fa83aa84605d4e7a1b4b2cc2109c2"
+hash = "1160aa5b20489514f39a2381a53695b104b5665cc92c73c80c95705e2771181c"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
@@ -3370,31 +3370,31 @@ hash = "2809ef57e859edd1e6cd41da4d165d6f2ebe13f42e67b2bff9d222298d3d3ca1"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/azure_silver_ore.json"
-hash = "b691fe30519fae4b0d059ce7025499017c48fc87fda885657d1b11c1ef84c9ab"
+hash = "7753c03607affcb42448e3b52b399a652b45324adb85bdfd4a9dedb151bb478d"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/bort_ore.json"
-hash = "42bb5dca7fa82a0b23adce556ef2bab704b718db185ea72b94c56f1997e271c7"
+hash = "2cebb28fa10ce89434ba670ae0d239a7ef76c243a683399be5b2dc005506d2fd"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/configured_feature/crimson_iron_ore.json"
-hash = "7c15e43373800912df188d180f3a07edebd3a3262fb68b0a0a0601bff7178534"
+hash = "db450dbfe2dfcfdfb549ab7c0b639aa9d2f4a10f3b3cbe2b3aafe4041121cd32"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/azure_silver_ore.json"
-hash = "73e9611329edfea31ca49a833034a9448b6ac0d883c319481fa3e28a266a612c"
+hash = "36d33d10d59328fb042ab615ba1838ab8669e180ece2ce13b57b63a8af13ccd0"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/bort_ore.json"
-hash = "466fc111eef46b2703a5645c64f781dbf63e9553ba74f75d73a6d80525c0dcb3"
+hash = "f03532ed540829e0e49341462b42d07feb71013d2cf3b1c53f986cabcb51d515"
 
 [[files]]
 file = "kubejs/data/silentgear/worldgen/placed_feature/crimson_iron_ore.json"
-hash = "2021288d201d14f32202a576f0a2c7ab859936f5b1dfe4245ffd5bf68baad57f"
+hash = "0a96757d8bbb7f69a75487a329da3de2093c6c28f91613a6f6530dc9f1f83b07"
 
 [[files]]
 file = "kubejs/data/sophisticatedstorage/recipes/void_upgrade.json"
-hash = "b256501ba7e9d0c25e8da26ba6ea60439092036566aadbfb0ea6a665ebc1001c"
+hash = "549b09b23a6986f773892c50eb1e04227f1b0e4c75acac1584f91d820d2d99e2"
 
 [[files]]
 file = "kubejs/data/terralith/worldgen/biome/cave/fungal_caves.json"

@@ -1,26 +1,26 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "DDD",
-    "DED",
-    "DDD"
-  ],
-  "key": {
-    "D": {
-      "item": "quark:duskbound_block"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DED",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "quark:duskbound_block"
+        },
+        "E": {
+            "tag": "forge:ender_pearls"
+        }
     },
-    "E": {
-      "item": "forge:ender_pearls"
-    }
-  },
-  "result": {
-    "item": "quark:duskbound_lantern",
-    "count": 4
-  },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "duskbound_blocks"
-    }
-  ]
-} 
+    "result": {
+        "item": "quark:duskbound_lantern",
+        "count": 4
+    },
+    "conditions": [
+        {
+            "type": "quark:flag",
+            "flag": "duskbound_blocks"
+        }
+    ]
+}
