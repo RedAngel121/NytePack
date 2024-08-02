@@ -100,4 +100,6 @@ JEIEvents.hideItems(event => {
     event.hide("scalinghealth:chance_heart")
 
     event.hide("tfmg:bottle_of_battery_acid")
+
+    event.hide("utilitix:ender_cart")
 })

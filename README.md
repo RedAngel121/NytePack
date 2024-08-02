@@ -66,9 +66,10 @@
 - [x] Replace minecraft:ender_pearl with forge:ender_pearls
 
 # Upcoming Changes:
-- [ ] RIP OUT THE CHUNK LOADER FROM MORE MINECARTS
-- [ ] Sophisticated Storage/Backpacks: 
+- [ ] Update the More Minecarts mod to do what I want
+- [ ] Sophisticated Storage/Backpacks:
   - Change all the recipes to be more centered on progression
+  - Disable mob spawn backpacks and loot tables
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets

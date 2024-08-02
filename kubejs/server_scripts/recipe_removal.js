@@ -101,5 +101,7 @@ ServerEvents.recipes(event => {
         { id: "torchmaster:feral_flare_lantern" },
         { id: "torchmaster:frozen_pearl" },
         { id: "torchmaster:megatorch" },
+
+        { id: "utilitix:ender_cart" }
     ]);
 })

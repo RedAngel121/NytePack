@@ -2274,7 +2274,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "c87a45292a01b4b18ac05fb7e4d66faa21d85d88ed65a95d091c4fcbdf6b3e9d"
+hash = "1624fdac33ca5cb287c5c65916759632f6bca55fce6ae1adc40730a891f019d2"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -2359,6 +2359,10 @@ hash = "5a8bf1ebbc5b279c3b43f3eca67ca0b233375e60d319d0898cc448bf374aa5ab"
 [[files]]
 file = "kubejs/data/apotheosis/recipes/endshelf.json"
 hash = "95c0423de72172a13878ae4347f903c23d12bda2f7d9aecfbed16e4ec11ddf24"
+
+[[files]]
+file = "kubejs/data/apotheosis/recipes/library.json"
+hash = "59289171001c2f01cbabc15f863efa56b3ed467f9225c571feb4d5e97dd2b60d"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/pearl_endshelf.json"
@@ -3594,7 +3598,7 @@ hash = "784b59eb6f3c33b60325f9a4cffafc7851f8089f4dcb8e04df18dca9b33e885f"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "5cccc8c0f71162aab2333dbe91d131dafb6daac9b47c730381e9187f7817b780"
+hash = "1e73d8753003c98e4e4655b5344cc85cfec062d9954ee84268a4535fdcadba29"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -4053,7 +4057,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-gates-mod-ver.pw.toml"
-hash = "f7b8831896aa050498a4533c0e93bdc1de133c2f29fae7b6fd9a4d0fd130f1a4"
+hash = "dc70e95b7ae713b641ac5014561f2d6aa48f6b57a5746957a3b6094c77c015c4"
 metafile = true
 
 [[files]]
