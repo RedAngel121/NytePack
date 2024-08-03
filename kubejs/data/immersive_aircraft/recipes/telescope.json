@@ -13,7 +13,7 @@
         ],
         "C": [
             {
-                "item": "minecraft:copper_sheet"
+                "item": "create:copper_sheet"
             }
         ]
     },

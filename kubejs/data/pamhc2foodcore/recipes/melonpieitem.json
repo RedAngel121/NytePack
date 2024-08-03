@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:tool_bakeware"
+        },
+        {
+            "tag": "forge:sugar"
+        },
+        {
+            "tag": "forge:crops/melon"
+        },
+        {
+            "tag": "forge:dough"
+        }
+    ],
+    "result": {
+        "item": "pamhc2foodcore:melonpieitem",
+        "count": 1
+    }
+}

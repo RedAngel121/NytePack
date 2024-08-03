@@ -10,6 +10,6 @@
     "item": "sophisticatedbackpacks:netherite_backpack"
   },
   "template": {
-    "item": "minecraft:forgotten_upgrade_smithing_template"
+    "item": "undergarden:forgotten_upgrade_smithing_template"
   }
 }

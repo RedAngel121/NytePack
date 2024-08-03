@@ -2550,7 +2550,7 @@ hash = "a8e60170da416225c8101c101b4fd0ce413896def234d65e51d52d9c69a9c4b4"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/telescope.json"
-hash = "d54d87c6c370b96799c33cacc061a65c9802f12683648217901a777cf165f575"
+hash = "c266ab8da432e8493076c9e11d530921afd03ad9069c4a4ca3cc95177948d1ef"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/warship.json"
@@ -3130,7 +3130,7 @@ hash = "9317440173412f55643c5aeda023b6f8b48fbe53cbc16fe7d51934ceed812aeb"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/diversion_transporter.json"
-hash = "d0db88910f201eaf6d023ff39fce48aaf1a7ccd0204e1436a9996d1784665aee"
+hash = "8d39c56a811773ec8c0b063d6d49af6af20e7cf4178d08334f6fb4f9360d821c"
 
 [[files]]
 file = "kubejs/data/mekanism/recipes/transmitter/logistical_transporter/advanced.json"
@@ -3617,6 +3617,18 @@ file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
 hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
 
 [[files]]
+file = "kubejs/data/pamhc2foodcore/recipes/caramelcupcakeitem_x4.json"
+hash = "a3871ac3cdcb698be99c04bac0881c43a0679761778fc283a1929c086a62da01"
+
+[[files]]
+file = "kubejs/data/pamhc2foodcore/recipes/honeymuffinitem.json"
+hash = "299f68e33dabb47fe8cef0b0f1cc0fa06fdad43a9c785473007ce7b1a5c799c6"
+
+[[files]]
+file = "kubejs/data/pamhc2foodcore/recipes/melonpieitem.json"
+hash = "93438d4806cd5a1c084808f263fcdc3e10962c40a59f132e64010db0aa3d02c7"
+
+[[files]]
 file = "kubejs/data/quark/building/crafting/duskbound_lantern.json"
 hash = "64e09d8fb4616832ba775e1b7f2d1b10d8fcff3ba229e2a8be69374617c46632"
 
@@ -4054,7 +4066,7 @@ hash = "923f9169f8c4f444d92f821c424c855992a6d6bcd339041eacf182611bd162eb"
 
 [[files]]
 file = "kubejs/data/sophisticatedbackpacks/recipes/netherite_backpack.json"
-hash = "465933010784ed5671190bdf9a217e55f0d926d80d82f808aa20ce80d6738ba8"
+hash = "2d793b653e73147e008fe77ce25fa2c32fff1888e77737cf71825321bfaa9a0b"
 
 [[files]]
 file = "kubejs/data/sophisticatedbackpacks/recipes/refill_upgrade.json"

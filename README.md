@@ -35,7 +35,7 @@
 # ~ PACK BUILD NOTES ~
 ## Rules are as follows:
 1. No Early Game Teleporting items or players (Stargates Exception because power limitations)
-2. No Early Game Backpacks or On-Person Inventory Storage (Minor exception to item specific inv spaces)
+2. No Early Game Backpacks or On-Person Inventory Storage (Exception to item specific inv spaces)
 3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Travel/Stargates/?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage/production/transfer will be handled in world, not by held items (to the best of ability)
@@ -52,13 +52,13 @@
 - [x] Create Mechanical Drill Disabled
 - [x] Immersive Aircraft Recipe Integration
 - [x] Added The Undergarden
-- [x] Added Mekanism and changed recipes to adhere to progression
 - [x] Standard Ore Block drops the same rate as raw copper
 - [x] SilentGear: Added Naquadah and Improved Undergarden mats
 - [x] Modify Apoth Wizard Towers to spawn less or not at all
 - [x] Added [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals)
+- [x] Added Mekanism and changed recipes to adhere to progression
 - [x] Move Mek ores to Abydos Only
-- [x] Manage Mek stuff and make sure that its not accessable early game
+- [x] Manage Mek to make sure that its not accessable early game
 - [x] Modify recipes containing obsidian to use Create Sturdy Sheets where it makes sense
 - [x] Updated Lightmans vending machine textures
 - [x] Add mobs from other mods to lightmans coin drops
@@ -67,7 +67,7 @@
 - [x] Sophisticated Storage/Backpacks recipes now adhere to progression
 
 # Upcoming Changes:
-- [ ] Update the More Minecarts mod to do what I want
+- [ ] Update the More Minecarts Mod to do what I want
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
@@ -103,24 +103,27 @@
 
 # Additional Server World Changes:
 - Find out how much Starting Cash will be needed to play on the server
-- Disable Portals to other Dims and use a Stargate instead:
+- Starting town built by hand or with MineColonies:
+  - Rules house/room for spawn area
+  - Will need seperate buildings for different styles of gameplay
+  - One section for the Stargate if i cant place it in town center
+- Passage to other Dims use the Stargate:
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
-  - **Nether** payment will be Iron coins and a diamond
+  - **Nether** payment will be Iron coins and a block of diamond
   - **End** payment will be Gold coins and netherite ingot
   - **Abydos** payment will be Emerald coins and chorus bud? dragon egg/head? something else? cataclysm?
   - **Undergarden** payment will be Diamond coins and a stargate base block
-- Starting town built by hand or built with minecolonies fortress and more stuff:
-  - Will need seperate buildings for different styles of gameplay
-  - Server Owned Vending machines as money sinks: Starter Gear, Armors, Weapons, Basic Food, Wallets, and other Simple Items
 - Add items to spawn that are common for players to use:
   - Multiple Crafting Tables
   - Anvil and Smith Table
   - Apotheosis Tables
   - Basic Enchanting
   - Vending Machines + ATM
-- Baubley Heart Canisters need to be added to purchasable items from server vending machines:
+- Purchasable items from Server Vending Machines:
+  - Starter Gear, Armors, Weapons, Basic Food, Wallet, and other Simple Items
+  - Gateways to Eternity: a whole shop for them
   - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
-  - bones can be earned with gateways and natural mob spawns
+  - Wither Bones can be earned with gateways and natural mob spawns
   - red can = 5 wither bones
   - yellow can = 5 red cans and an iron coin
   - green can = 5 yellow cans and a gold coin
