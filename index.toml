@@ -262,7 +262,7 @@ hash = "61b6b097aa014f7b1106c49101e9d937793a920d872b434b51c01f8e2796a5ab"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
-hash = "fde750ad6e89c5fb0beac6a770d76f3c1948054af340b368f6f92cb85b6a33a6"
+hash = "8d3bd38db901a5e703f56a28eb9f3dc2bb47da7232a94b7cbaccf380544368d8"
 
 [[files]]
 file = "defaultconfigs/toolbelt-server.toml"

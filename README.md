@@ -81,6 +81,7 @@
 - [ ] Add FTB Quests and FTB Backups
 
 # Ongoing Changes:
+- Sophisticated DefaultConfigs add items to blacklist
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add structure loot tabes from other mods for lightmans to insert coins into
 - Naquadah and UnderGarden mats need balancing
