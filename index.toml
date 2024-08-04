@@ -258,7 +258,7 @@ hash = "7a83fd5b27f00335d867099b526313f14ca221a9f586aa1790b85142f8cbad5f"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "bfdd92dfe39dd179055dc8fdacdef3d38647e2348cb44476b134be1887c3df48"
+hash = "61b6b097aa014f7b1106c49101e9d937793a920d872b434b51c01f8e2796a5ab"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
@@ -3617,18 +3617,6 @@ file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
 hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
 
 [[files]]
-file = "kubejs/data/pamhc2foodcore/recipes/caramelcupcakeitem_x4.json"
-hash = "a3871ac3cdcb698be99c04bac0881c43a0679761778fc283a1929c086a62da01"
-
-[[files]]
-file = "kubejs/data/pamhc2foodcore/recipes/honeymuffinitem.json"
-hash = "299f68e33dabb47fe8cef0b0f1cc0fa06fdad43a9c785473007ce7b1a5c799c6"
-
-[[files]]
-file = "kubejs/data/pamhc2foodcore/recipes/melonpieitem.json"
-hash = "93438d4806cd5a1c084808f263fcdc3e10962c40a59f132e64010db0aa3d02c7"
-
-[[files]]
 file = "kubejs/data/quark/building/crafting/duskbound_lantern.json"
 hash = "64e09d8fb4616832ba775e1b7f2d1b10d8fcff3ba229e2a8be69374617c46632"
 
@@ -4763,7 +4751,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "dc701b43a1dcf1ee2ac935ed65b9300398afbf56dd519f344bfc22a8f038352e"
+hash = "2e0891926994e72a64688443122796c1800c954e3ba1a779ace81c7f8ec6547d"
 metafile = true
 
 [[files]]
@@ -4968,7 +4956,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+hash = "0168bb4b630667a0ec54738727619da4b81f9d84ec92501269bc8fb847ed2e9a"
 metafile = true
 
 [[files]]
@@ -5018,7 +5006,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-of-exile.pw.toml"
-hash = "d8b241c311377b736394a720274e2280e9f01d6c002549648d5aa6a5fc6b2012"
+hash = "c593d675cff4a09570568d619ba9cdaf04f192a16a08886ee2f04bca8d96b2f1"
 metafile = true
 
 [[files]]
@@ -5198,7 +5186,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
 metafile = true
 
 [[files]]
@@ -5433,5 +5421,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
+hash = "98966f4c537f5771f8791707be941cb3bcfe5efb2029166602251c3628884a7b"
 metafile = true

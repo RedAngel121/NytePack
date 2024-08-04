@@ -33,10 +33,9 @@
 - Expanded and Accessible Storage
 
 # ~ PACK BUILD NOTES ~
-## Rules are as follows:
-1. No Early Game Teleporting items or players (Stargates Exception because power limitations)
-2. No Early Game Backpacks or On-Person Inventory Storage (Exception to item specific inv spaces)
-3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Travel/Stargates/?)
+1. No Easy Teleporting items or players (Stargate Exception because FE req)
+2. No Easy On-Person Inventory Storage (Exception to item specific inv spaces)
+3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Cataclysm/Stargates/?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage/production/transfer will be handled in world, not by held items (to the best of ability)
 6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items ie jetpacks
@@ -67,7 +66,8 @@
 - [x] Sophisticated Storage/Backpacks recipes now adhere to progression
 
 # Upcoming Changes:
-- [ ] Update the More Minecarts Mod to do what I want
+- [ ] Go over the Sophisticated DefaultConfigs with a fine tooth comb
+- [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
   - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
