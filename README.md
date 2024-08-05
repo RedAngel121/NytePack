@@ -64,6 +64,7 @@
 - [x] Add loot_tables\chests from other mods to lightmans
 - [x] Replace minecraft:ender_pearl with forge:ender_pearls
 - [x] Sophisticated Storage/Backpacks recipes now adhere to progression
+- [x] Added Mana and Artifice (removed Vinteum generation)
 
 # Upcoming Changes:
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
