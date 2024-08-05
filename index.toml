@@ -258,7 +258,7 @@ hash = "7a83fd5b27f00335d867099b526313f14ca221a9f586aa1790b85142f8cbad5f"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "61b6b097aa014f7b1106c49101e9d937793a920d872b434b51c01f8e2796a5ab"
+hash = "f1d3f27bdf46f0d71a8db36168929be434f3740a88050924f02757c36b9163d3"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
@@ -4971,7 +4971,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9a3dc151c77f3c20c1ac0021a60c4e1af8874f1ab7127593c16300636e5ccebc"
+hash = "9c5300f2756480731221c93131b79e8ac22d8a3e9d8c3b7fa06677f45d442c38"
 metafile = true
 
 [[files]]
@@ -5421,5 +5421,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "98966f4c537f5771f8791707be941cb3bcfe5efb2029166602251c3628884a7b"
+hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
