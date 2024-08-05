@@ -4621,8 +4621,8 @@ file = "kubejs/data/undergarden/worldgen/placed_feature/utherium_ore.json"
 hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
-file = "kubejs/server_scripts/recipe_removal.js"
-hash = "c05cae31178f08a85f7f80422c4aed893c88d07eaed7597dfbac61a99b6c8107"
+file = "kubejs/server_scripts/recipe_changes.js"
+hash = "e0329d175b74e74f95e12d289d85215317a10cdd13e62abd1272dda514121bcd"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -4861,7 +4861,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "4d7d45d515ea2a7f786672b8b0dd82d5f292b69237500b71216dffdc5655fcc6"
+hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
 metafile = true
 
 [[files]]
@@ -4971,7 +4971,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9c5300f2756480731221c93131b79e8ac22d8a3e9d8c3b7fa06677f45d442c38"
+hash = "cb056c4a1fab790c8c2a96861e2a95c448f0740093c9816b2393524b176a3211"
 metafile = true
 
 [[files]]
