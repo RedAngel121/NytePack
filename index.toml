@@ -3589,6 +3589,14 @@ file = "kubejs/data/minecraft/worldgen/structure/village_taiga.json"
 hash = "228b11e7bb59ebcd17597ae8bdc30877ed65c35ade9405a21243b34c865c5911"
 
 [[files]]
+file = "kubejs/data/mna/worldgen/configured_feature/overworld_vinteum_ore.json"
+hash = "86c5a98659025bafce231ad97dfc2188a84c6f2c8a2e8b4dd29b93acb9ddf87c"
+
+[[files]]
+file = "kubejs/data/mna/worldgen/placed_feature/overworld_vinteum_ore.json"
+hash = "02b03ab3f2b251dc527c01a35987e577d49d3ad4128e63b46d0e54b79690684c"
+
+[[files]]
 file = "kubejs/data/moregates/recipes/crystallizing/aether_variant_crystal.json"
 hash = "daee9bbfdc9a19096a76232cb7c28936b6868d8efc653711b8af49389e8dd377"
 
