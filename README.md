@@ -66,7 +66,6 @@
 - [x] Sophisticated Storage/Backpacks recipes now adhere to progression
 
 # Upcoming Changes:
-- [ ] Go over the Sophisticated DefaultConfigs with a fine tooth comb
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
@@ -83,7 +82,7 @@
 # Ongoing Changes:
 - Sophisticated DefaultConfigs add items to blacklist
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
-- Add structure loot tabes from other mods for lightmans to insert coins into
+- Add structure loot tables from other mods for lightmans to insert coins into
 - Naquadah and UnderGarden mats need balancing
 
 # Interesting Ideas:
