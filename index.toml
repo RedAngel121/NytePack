@@ -5070,6 +5070,11 @@ hash = "7b8870d6f9a778577787a1028775a3738ce78d33b69bedb681cb9b3b9bc62678"
 metafile = true
 
 [[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "830537b35f18eb7f931078b0098744a8e4125d834436b7b9ecbb73c849864814"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "97abd23496116a8b3fb4b832ae5a7ef7c84063909b16dcbf1a403963893f2ea3"
 metafile = true

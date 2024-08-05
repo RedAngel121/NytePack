@@ -1,0 +1,13 @@
+name = "Mana and Artifice"
+filename = "mna-forge-1.20.1-3.0.0.22-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20c223e03f195c1260fb654b93485afd05f2bc5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5585664
+project-id = 406360
