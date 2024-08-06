@@ -1,6 +1,7 @@
 # NytePack
 **Welcome to NytePack where innovation is productivity!**
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
+- Tentative Release Date: Oct 16th
 
 # WARNING:
 ### This pack is not designed to work in a single player enviroment, community server will be designed around this pack
@@ -67,6 +68,7 @@
 - [x] Added Mana and Artifice (removed Vinteum generation)
 
 # Upcoming Changes:
+- [ ] Add M&A mobs into Lightmans coin drops
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
@@ -78,10 +80,11 @@
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- [ ] Add FTB Quests and FTB Backups
+- [ ] Add Quest and Backup mods
 
 # Ongoing Changes:
-- Sophisticated DefaultConfigs add items to blacklist
+- Manage Recipes and Items to make sure nothing breaks progression
+- Sophisticated DefaultConfigs add new items to blacklist
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add structure loot tables from other mods for lightmans to insert coins into
 - Naquadah and UnderGarden mats need balancing
@@ -103,10 +106,12 @@
 - [Armourer's Workshop](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop) Amazing Cosmetic Stuff
 
 # Additional Server World Changes:
+- Possible Seeds = [3958719068018360977, -5555009957931297567]
 - Find out how much Starting Cash will be needed to play on the server
 - Starting town built by hand or with MineColonies:
   - Rules house/room for spawn area
   - Will need seperate buildings for different styles of gameplay
+    - M&A Book/Shop
   - One section for the Stargate if i cant place it in town center
 - Passage to other Dims use the Stargate:
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension

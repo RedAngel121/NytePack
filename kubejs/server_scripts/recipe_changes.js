@@ -6,16 +6,16 @@ ServerEvents.recipes(event => {
 })
 
 ServerEvents.recipes(event => {
-    let recipes = ["#forge:ingots/iron"];
+    let recipes = [];
     for (let each of recipes) {
-        event.remove({ output: each });
+        event.remove({ id: each });
     }
 })
 
 ServerEvents.recipes(event => {
-    let ores = ["#forge:ores/iron"];
+    let ores = [];
     for (let each of ores) {
-        each.getAll();
-        event.smelting(2 * each.getNugget(), each.getRaw(), 0.2);
+        event.smelting(2 * each.nugget(), each.raw(), 0.2);
     }
 })
+// essentially i need to erase vanilla furnace recipes and replace them with the new nugget setup, then make mek recipes different to prevent those recipes from being changed https://github.com/mekanism/Mekanism/wiki/Recipe-Type-JSON-Syntax#smelting

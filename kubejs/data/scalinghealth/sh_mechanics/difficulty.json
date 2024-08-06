@@ -8,21 +8,21 @@
         "distanceFactor": 0.1
     },
     "groupBonus": "1 + 0.05 * (areaPlayerCount - 1)",
-    "groupBonusRadius": 64,
+    "groupBonusRadius": 32,
     "idleMultiplier": 1,
     "afkMessage": false,
-    "timeBeforeAfk": 30,
+    "timeBeforeAfk": 600,
     "sleepWarningMessage": false,
     "multipliers": {
         "lunarMultipliers": [
-            1.1,
-            1.075,
-            1.05,
-            1.0,
-            0.95,
-            1.0,
-            1.05,
-            1.075
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
         ],
         "locationMultipliers": [
             {

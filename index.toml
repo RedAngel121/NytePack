@@ -802,7 +802,7 @@ hash = "0dbc95a18b2e5ac7b12dd9fb22c1caa120b71563b7104613d4405146856c5c18"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "c207e656c3694de44647870aa8ac0986fd11bd15d78ffcef208b9c8d4f489195"
+hash = "60b73955485155dae941fa1767c3b6a1c36815a9e9351810654d0d2f15a657fc"
 
 [[files]]
 file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_event_horizon.png"
@@ -3666,7 +3666,7 @@ hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "9cbb4cea0c033cd7f2f5605994408f3ce02a00cb289194e74e5b091811f1c552"
+hash = "d247e2c6437cc9494ded91c8fdac713fa8c707cd5ad91346373a1c613d409ba4"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/mobs.json"
@@ -4630,7 +4630,7 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "e0329d175b74e74f95e12d289d85215317a10cdd13e62abd1272dda514121bcd"
+hash = "474e49e4de9cab141c4aa416b7fc3e83536f84981e3ae34cf00a49dc7c84e953"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -4849,12 +4849,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-terralith.pw.toml"
-hash = "f1353799a3c4046c6e81c3cc42cf1d0693ac137e5f2a4c69d2a7aa2b7782fb18"
+hash = "cd2a1c9b7ca2c4699c5d2811c91ce7cc804f807c111ddd58688a53577da87cbb"
 metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "9b033a566650a4701ac24f10d43319096183ac02a4d5f90ed4b111e00eb49c3f"
+hash = "de21d0e973ff6b8d66998e8d511bacba53a0728f90a03431ca9d8b25823c15e4"
 metafile = true
 
 [[files]]
@@ -4974,12 +4974,12 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "51e9b01daf8aff6f037944101d6cf30ebf1d077c3f5bba9ee043203297955694"
+hash = "7ef52c57cc2dc8ebbc3cb6a625d60a93f365386a00e866f0100bca961f19f918"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cb056c4a1fab790c8c2a96861e2a95c448f0740093c9816b2393524b176a3211"
+hash = "aa7ee1004bc9635ca2922bcb78737757d0177b32d4a7acf00f92ad995cf908c4"
 metafile = true
 
 [[files]]
