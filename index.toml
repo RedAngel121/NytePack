@@ -3101,6 +3101,126 @@ file = "kubejs/data/mekanism/recipes/precision_sawmill.json"
 hash = "2dda0d18ee28b0f655e3e5df11dd64ece69c1218d5448a210d1a839731d39ec5"
 
 [[files]]
+file = "kubejs/data/mekanism/recipes/processing/bronze/ingot/from_block.json"
+hash = "18376e9fe6a5fc4515e1fb73d57456830ba5fccddc44b9be396bba582fa4e4df"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/bronze/ingot/from_dust_blasting.json"
+hash = "7980d76c3b4781fc6db0fba491be5d8da61d2190089876f704f1eeda668a0f9e"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/bronze/ingot/from_infusing.json"
+hash = "98c8d4f754cb4c6ce7099615e9b98283948139d60e1188171cc1ec980ea7ca5c"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/bronze/ingot/from_nuggets.json"
+hash = "aa5c991c76f86988984fec4b1788bb7d454da061487afa453f36727663a648c1"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/copper/ingot/from_dust_blasting.json"
+hash = "470e7ee4b9bb0eaf523668a3f25624e5606324580304a470022ea99b62a64037"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/gold/ingot/from_dust_blasting.json"
+hash = "1e007acc6ed1b8113008211c931a5b888fe29c840bde9d38b385925836e2eed0"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/iron/ingot/from_dust_blasting.json"
+hash = "48031091ee84fcad6ce71f98c5372e23b41f6fe33703be1026653ec6e5515f89"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/lead/ingot/from_block.json"
+hash = "bb43b501123533ba5477afdbee28208aa9d6ee0fca4bef61c2667ec3a87646f0"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/lead/ingot/from_dust_blasting.json"
+hash = "81b857118dffa1d68cf9baedd75b3f8f24c7ff20976b6797bfe28d916e08f793"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/lead/ingot/from_nuggets.json"
+hash = "6d4be8fde338974228497f10f52c10d408678e4e61b627e2f6b5d20b718270e4"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/lead/ingot/from_ore_blasting.json"
+hash = "0fcf3fc6eff9f5891034beefa27fc795288a947464fb4af114d58b6b7351e391"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/lead/ingot/from_raw_blasting.json"
+hash = "997401477daab9450f0d9cf769566e85d1621901fb21c03ac354c7d04f193007"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/osmium/ingot/from_block.json"
+hash = "1d88334a9e58ee76594a9dc13d3bf40afab6924620d84a549bd67eb81e270658"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/osmium/ingot/from_dust_blasting.json"
+hash = "1a104a454f88c7200cd7674672fafe516cf9d7c3bf0e07619d81c0f1431c440d"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/osmium/ingot/from_nuggets.json"
+hash = "f74907adc095f860db5774db95564aab8704eb4a20cda4e1e5a30f5e0bc7dc2f"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/osmium/ingot/from_ore_blasting.json"
+hash = "44701244698dd3a9ac1eb8f934dba85297c9f6eba0b0338004f3d537f069ef8c"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/osmium/ingot/from_raw_blasting.json"
+hash = "f9be6618b2b4358207926649588be2fe347f3dd457d22463e0383b972dee0902"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/steel/ingot/from_block.json"
+hash = "0374cea8d2b7fa1db9c2afd2f0fcc87aacef1020be02fddc2dbcbbe709e56065"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/steel/ingot/from_dust_blasting.json"
+hash = "2bdf907a33bf5d1cbef3b3b808a6bbcb88d084b3803aa08ae59dd0210e2cd3f6"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/steel/ingot/from_nuggets.json"
+hash = "f7886841374005f57cb0dbca01acbd31074af8ebdb7d391bdc8191836ef4afbd"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/tin/ingot/from_block.json"
+hash = "112071ccff200df1b47c71e51323dcd430eddb42f422ca15067ef1d4020bb08a"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/tin/ingot/from_dust_blasting.json"
+hash = "bfec73bd823aa022d31f347b0748f6d3814ce439af2719c0f391c485a95fede4"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/tin/ingot/from_nuggets.json"
+hash = "fc89a90fb376a9486f12e4330749656a144e8f04dd0a70b4beb8ae88352cf6c7"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/tin/ingot/from_ore_blasting.json"
+hash = "ca2aa78c619a198c38975c5b638cc715b7a3f767eb2edc011819162be1cd4c90"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/tin/ingot/from_raw_blasting.json"
+hash = "fa3a3ed784862af7a1414c6788736f71bc7bbf4757ec76f36dda4773a456add3"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/uranium/ingot/from_block.json"
+hash = "5ee5ca5b34111297e9706ca661611d15ca6eb5b8a8f16c566d80a1a53a85fc06"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/uranium/ingot/from_dust_blasting.json"
+hash = "99e888508f1f1541356940962a7ff15aa396cbb4b5d23b753e6c923045b258a9"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/uranium/ingot/from_nuggets.json"
+hash = "4ba22ef844dcc519843c852f461b03e1c235e9a127462e229f4d63f234a69298"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/uranium/ingot/from_ore_blasting.json"
+hash = "74b9d821438ebd59e02280529f167d61da714620407d7678775609757beb2ef5"
+
+[[files]]
+file = "kubejs/data/mekanism/recipes/processing/uranium/ingot/from_raw_blasting.json"
+hash = "3121715d1f2fd884fcedf98e6cad630ab29a0c924bb5d3c20fa133243f21fd70"
+
+[[files]]
 file = "kubejs/data/mekanism/recipes/qio_drive_hyper_dense.json"
 hash = "c4bb907299748d2b21af897cc46adeb39d2b3537b47dd7ee634c85fb1f4d41a6"
 
