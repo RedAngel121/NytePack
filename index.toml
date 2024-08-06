@@ -4630,7 +4630,7 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "474e49e4de9cab141c4aa416b7fc3e83536f84981e3ae34cf00a49dc7c84e953"
+hash = "a2ea8f67b2b7d81323a23c4f20d2fc152dd04f2cc2d58ec06af59d845fe60f41"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -4995,6 +4995,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-additions.pw.toml"
 hash = "b175e1a1408708cf78e211c8e768540d23e942f34a1efef1772e06abe820a5b0"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism-unofficial.pw.toml"
+hash = "a195d0ea25a8b006762a5fa1dd097f3acf1a884e0ef567bde11f696e587bd62d"
 metafile = true
 
 [[files]]
