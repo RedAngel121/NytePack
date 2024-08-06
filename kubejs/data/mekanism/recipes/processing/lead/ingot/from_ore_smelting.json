@@ -1,1 +1,1 @@
-{"type":"mekanism:smelting","cookingtime":200,"experience":0.6,"ingredient":{"tag":"forge:ores/lead"},"result":"mekanism:ingot_lead"}
+{"type":"minecraft:smelting","cookingtime":200,"experience":0.6,"ingredient":{"tag":"forge:ores/lead"},"result":"mekanism:ingot_lead"}
