@@ -5379,7 +5379,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-stripper.pw.toml"
-hash = "db4d7932bbf2afd7d8d74fc0c3ebdcec9fa330c02f573cf9fc7468bf09c8bf93"
+hash = "09857ad0707f6e50556b13be0b7908cf47084793afbff82cf52f6b0acf7bf2d3"
 metafile = true
 
 [[files]]
