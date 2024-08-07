@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".devcontainer/Containerfile"
-hash = "0812ff73f9533a70d48af01106b5260d61928c9b12335e68c11f0cb37fc144a5"
-
-[[files]]
-file = ".devcontainer/devcontainer.json"
-hash = "357351af900f277bdc0d1b54c5657deee410981dc518e282c4aec1c30e20fef4"
-
-[[files]]
 file = ".github/dependabot.yml"
 hash = "20284d1c7b5612329006dc308c4e17888df902f0d255d59adf98b742bda2ea3f"
 

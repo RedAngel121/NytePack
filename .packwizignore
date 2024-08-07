@@ -1,4 +1,4 @@
 LICENSE
 *.md
-
+.dev*
 server-1.20.1.jar
