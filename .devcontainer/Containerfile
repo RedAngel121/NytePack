@@ -1,0 +1,36 @@
+# Use the official Alpine base image
+FROM alpine:3.20
+
+# Define the username as a variable
+ARG USERNAME=packDev
+
+# Install basic development tools
+RUN apk update && apk add --no-cache less man-db sudo git openssh zsh curl
+
+# Add a new user and set permissions
+RUN adduser -D $USERNAME && \
+    mkdir -p /home/$USERNAME && \
+    chown -R $USERNAME:$USERNAME /home/$USERNAME
+
+# Switch to the new user
+USER $USERNAME
+WORKDIR /home/$USERNAME
+
+# Install Oh My Zsh
+RUN sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# Set theme to agnoster
+RUN sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="agnoster"/g' ~/.zshrc
+
+# Install zsh-syntax-highlighting plugin
+RUN git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+RUN sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting)/g' ~/.zshrc
+
+# Set default shell to zsh
+ENV SHELL /bin/zsh
+
+# Set custom prompt without hostname
+RUN echo 'PROMPT="[%F{cyan}%n%f | %F{green}%~%f] "' >> /home/$USERNAME/.zshrc
+
+# Configure Git to trust the working directory
+RUN git config --global --add safe.directory /home/$USERNAME
