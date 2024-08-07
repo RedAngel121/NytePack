@@ -62,6 +62,7 @@ ServerEvents.recipes(event => {
         event.remove({ id: "jaopca:create.crushed_to_material_smelting." + each })
         event.remove({ id: "jaopca:create.crushed_to_material_blasting." + each })
         event.remove({ id: "jaopca:create.crushed_to_nugget." + each })
+        event.remove({ id: "jaopca:create.raw_storage_block_to_crushed." + each })
         event.remove({ id: "quark:tweaks/smelting/raw_" + each + "_block_smelt" })
         event.remove({ id: "quark:tweaks/blasting/raw_" + each + "_block_blast" })
 
@@ -69,7 +70,7 @@ ServerEvents.recipes(event => {
         // Add new recipes in the altered output system
         event.smelting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)
         event.blasting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)
-        event.smelting("2x #forge:ingots/" + each, "#forge:storage_blocks/raw_" + each)
+        // event.smelting("2x #forge:ingots/" + each, "#forge:storage_blocks/raw_" + each)
         event.blasting("2x #forge:ingots/" + each, "#forge:storage_blocks/raw_" + each)
         event.recipes.create.splashing(["2x #forge:nuggets/" + each, Item.of("2x #forge:nuggets/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
         event.recipes.create.milling(["#create:crushed/" + each, Item.of("2x #create:crushed/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
