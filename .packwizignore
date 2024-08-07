@@ -1,4 +1,6 @@
 LICENSE
 *.md
-.dev*
+Containerfile
+devcontainer.json
+dependabot.yml
 server-1.20.1.jar

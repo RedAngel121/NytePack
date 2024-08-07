@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/dependabot.yml"
-hash = "20284d1c7b5612329006dc308c4e17888df902f0d255d59adf98b742bda2ea3f"
-
-[[files]]
 file = "config/agricraft.jsonc"
 hash = "72759c75bcb8c57ea58c4d93a5495da5ef73490848488b7994c1e4d9ff3d2cab"
 
