@@ -5,23 +5,39 @@ ServerEvents.recipes(event => {
     }
 })
 
-ServerEvents.recipes(event => {
-    let recipes = [];
-    for (let each of recipes) {
-        event.remove({ result: each });
+onEvent("items.tags", event => {
+    // Get all the raw_matertials as an array
+    let oreList = event.get("forge:raw_materials")
+
+    // List the entries that we don't want
+    let exclusions = ["tmfg:raw_lead"]
+
+    // Remove the exclusions from the list
+    for (let ore of oreList) {
+        if (exclusions.includes(ore)) {
+           oreList = oreList.filter(ore => !exclusions.includes(ore))
+        }
     }
-})
-
+    console.log(oreList);
+}
+)
 ServerEvents.recipes(event => {
-    let ores = [];
-    for (let each of ores) {
-        event.smelting(2 * each.nugget(), each.raw(), 0.2);
-    }
-})
+    // This call utilizes the secondary smelting list rather than the default one from base minecraft
+    // event.recipes.mekanism.smelting(result, input)
 
-ServerEvents.recipes(event => {
-    event.recipes.mekanism.smelting("minecraft:diamond", "minecraft:iron_ore")
+    event.recipes.mekanism.smelting("minecraft:iron_ingot", "#forge:dusts/iron")
+    event.recipes.mekanism.smelting("minecraft:gold_ingot", "#forge:dusts/gold")
 
+    // Iron
+    // Copper
+    // Gold
+    // Zinc
+    // Nickel
+    // Lithium
+    // Osmium
+    // Tin
+    // Lead
+    // Uranium
 })
 
 // essentially i need to erase vanilla furnace recipes and replace them with the new nugget setup, then make mek recipes different to prevent those recipes from being changed https://github.com/mekanism/Mekanism/wiki/Recipe-Type-JSON-Syntax#smelting

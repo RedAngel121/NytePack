@@ -140,7 +140,9 @@
 - Remove World Stripper and other Admin only mods
 - Sort out Server vs Client side only mods
 - Edit the Server Startup Script to allow packwiz management
-- Turn off Wandering Trader `/gamerule doTraderSpawning false` (or find it in server configs?)
+- Turn off Wandering Trader `/gamerule doTraderSpawning false`
+- Set spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0`
+- Reduce spawn radius `/gamerule spawnRadius 0`
 - Change Sleep % to 1 (add sleeping bags or something if you want more than 10%)
 
 ### Server Update Command Line:
