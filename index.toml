@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".devcontainer/Containerfile"
+hash = "0812ff73f9533a70d48af01106b5260d61928c9b12335e68c11f0cb37fc144a5"
+
+[[files]]
+file = ".devcontainer/devcontainer.json"
+hash = "357351af900f277bdc0d1b54c5657deee410981dc518e282c4aec1c30e20fef4"
+
+[[files]]
+file = ".github/dependabot.yml"
+hash = "20284d1c7b5612329006dc308c4e17888df902f0d255d59adf98b742bda2ea3f"
+
+[[files]]
 file = "config/agricraft.jsonc"
 hash = "72759c75bcb8c57ea58c4d93a5495da5ef73490848488b7994c1e4d9ff3d2cab"
 
@@ -4630,7 +4642,7 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "4e2aabe7b7267148d469ccbb3f2600933510b96fc611f836db18f7d4e627f139"
+hash = "dd55a0db7b27a23831e26616330eaa94c941c3f6c1d5a00007164d79af48d0fb"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -4979,7 +4991,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "aa7ee1004bc9635ca2922bcb78737757d0177b32d4a7acf00f92ad995cf908c4"
+hash = "a6e9c9db6a2631771fd347ae2f5a9b80454c71e95f0b6d92f6d56797ba0783ac"
 metafile = true
 
 [[files]]
@@ -5024,7 +5036,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-of-exile.pw.toml"
-hash = "c593d675cff4a09570568d619ba9cdaf04f192a16a08886ee2f04bca8d96b2f1"
+hash = "73a08369e30fc281b034e74303e99bb899f93e3e04da15a5f7ba8c0b3cea3eed"
 metafile = true
 
 [[files]]
@@ -5134,7 +5146,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mo-portals.pw.toml"
-hash = "2d564e14ae64db662102bb693c3cceb8502eac13981d7712faf575f731d749ed"
+hash = "1c75d9d9136ccf8391d70cd87cf9e35700b70bffb3dfcfeb8b8ef18094faa523"
 metafile = true
 
 [[files]]
@@ -5274,7 +5286,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8be59d4bd5e7aada4edc43d17aabd1efd87a6837f89033e8f68193c4958fddc4"
+hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
 metafile = true
 
 [[files]]
