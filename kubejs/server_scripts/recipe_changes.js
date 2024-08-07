@@ -23,6 +23,8 @@ ServerEvents.recipes(event => {
         event.remove({ id: "minecraft:" + each + "_ingot_from_blasting_deepslate_" + each + "_ore" })
         event.remove({ id: "minecraft:" + each + "_ingot_from_smelting_raw_" + each })
         event.remove({ id: "minecraft:" + each + "_ingot_from_blasting_raw_" + each })
+        event.remove({ id: "create:crushing/raw_" + each })
+        event.remove({ id: "create:crushing/raw_" + each + "_block"})
         event.remove({ id: "create:smelting/" + each + "_ingot_from_ore" })
         event.remove({ id: "create:blasting/" + each + "_ingot_from_ore" })
         event.remove({ id: "create:smelting/" + each + "_ingot_from_raw_ore" })
@@ -60,24 +62,29 @@ ServerEvents.recipes(event => {
         event.remove({ id: "jaopca:create.crushed_to_material_smelting." + each })
         event.remove({ id: "jaopca:create.crushed_to_material_blasting." + each })
         event.remove({ id: "jaopca:create.crushed_to_nugget." + each })
+        event.remove({ id: "quark:tweaks/smelting/raw_" + each + "_block_smelt" })
+        event.remove({ id: "quark:tweaks/blasting/raw_" + each + "_block_blast" })
 
-        // This call utilizes the secondary smelting list rather than the default one from base minecraft
-        // event.recipes.mekanism.smelting(result, input)
-        event.recipes.mekanism.smelting("#forge:ingots/" + each, "#forge:dusts/" + each)
-        console.log("LOADED MATERIAL: " + each)
-        
+        console.log("LOADING MATERIAL: " + each)
         // Add new recipes in the altered output system
         event.smelting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)
         event.blasting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)
+        event.smelting("2x #forge:ingots/" + each, "#forge:storage_blocks/raw_" + each)
+        event.blasting("2x #forge:ingots/" + each, "#forge:storage_blocks/raw_" + each)
         event.recipes.create.splashing(["2x #forge:nuggets/" + each, Item.of("2x #forge:nuggets/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
-        event.recipes.create.milling(["#create:crushed/" + each,Item.of("2x #create:crushed/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
+        event.recipes.create.milling(["#create:crushed/" + each, Item.of("2x #create:crushed/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
+        event.recipes.create.crushing(["#create:crushed/" + each, Item.of("2x #create:crushed/" + each).withChance(0.5), Item.of("create:experience_nugget").withChance(0.75)], "#forge:raw_materials/" + each)
+        event.recipes.create.crushing(["10x #create:crushed/" + each, Item.of("20x #create:crushed/" + each).withChance(0.5), Item.of("10x create:experience_nugget").withChance(0.75)], "#forge:storage_blocks/raw_" + each)
         event.smelting("3x #forge:nuggets/" + each, "#create:crushed/" + each)
         event.blasting("3x #forge:nuggets/" + each, "#create:crushed/" + each)
-        event.recipes.create.splashing(["3x #forge:nuggets/" + each, Item.of("#forge:nuggets/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
+        event.recipes.create.splashing(["3x #forge:nuggets/" + each, Item.of("2x #forge:nuggets/" + each).withChance(0.5)], "#create:crushed/" + each)
         event.recipes.create.milling(["#forge:dusts/" + each, Item.of("#forge:dusts/" + each).withChance(0.5)], "#create:crushed/" + each)
-        event.smelting("4x #forge:nuggets/" + each, "#forge:dusts/" + each)
+        // event.smelting("4x #forge:nuggets/" + each, "#forge:dusts/" + each)
         event.blasting("4x #forge:nuggets/" + each, "#forge:dusts/" + each)
-        event.recipes.create.splashing(["4x #forge:nuggets/" + each, Item.of("2x #forge:nuggets/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
+        event.recipes.create.splashing(["4x #forge:nuggets/" + each, Item.of("2x #forge:nuggets/" + each).withChance(0.5)], "#forge:dusts/" + each)
+        
+        // This call utilizes the secondary smelting list rather than the default one from base minecraft
+        event.recipes.mekanism.smelting("#forge:ingots/" + each, "#forge:dusts/" + each)
 
     }
 })
