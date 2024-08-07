@@ -64,46 +64,35 @@ ServerEvents.recipes(event => {
         // This call utilizes the secondary smelting list rather than the default one from base minecraft
         // event.recipes.mekanism.smelting(result, input)
         event.recipes.mekanism.smelting("#forge:ingots/" + each, "#forge:dusts/" + each)
-        console.log("LOADED MATERIAL: "+each)
+        console.log("LOADED MATERIAL: " + each)
+        
         // Add new recipes in the altered output system
-        // - 1 Raw in Furnace = 2 Nuggets
         event.smelting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)
         event.blasting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)
-
-        // - 1 Raw Washed with Water = 2-4 Nuggets
-
-        // - 1 Raw in Create Grinding Wheels = 1-3 Crushed:
-        event.recipes.create.milling("#create:crushed/" + each, "#forge:raw_materials/" + each)
-
-        // - 1 Crushed in Furnace = 3 Nuggets
+        event.recipes.create.splashing(["2x #forge:nuggets/" + each, Item.of("2x #forge:nuggets/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
+        event.recipes.create.milling(["#create:crushed/" + each,Item.of("2x #create:crushed/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
         event.smelting("3x #forge:nuggets/" + each, "#create:crushed/" + each)
         event.blasting("3x #forge:nuggets/" + each, "#create:crushed/" + each)
-
-        // - 1 Crushed Washed with Water = 3-4 Nuggets
-
-        //  1 Crushed in Create Millstone = 1-2 Dust:
-        event.recipes.create.milling("#forge:dusts/" + each, "#create:crushed/" + each)
-
-        // - 1 Dust in Furnace = 4 Nuggets
+        event.recipes.create.splashing(["3x #forge:nuggets/" + each, Item.of("#forge:nuggets/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
+        event.recipes.create.milling(["#forge:dusts/" + each, Item.of("#forge:dusts/" + each).withChance(0.5)], "#create:crushed/" + each)
         event.smelting("4x #forge:nuggets/" + each, "#forge:dusts/" + each)
         event.blasting("4x #forge:nuggets/" + each, "#forge:dusts/" + each)
-
-        // - 1 Dust Washed with Water = 3-5 Nuggets
+        event.recipes.create.splashing(["4x #forge:nuggets/" + each, Item.of("2x #forge:nuggets/" + each).withChance(0.5)], "#forge:raw_materials/" + each)
 
     }
 })
 
-ServerEvents.tags("item", event => {
-    // Get all the raw_matertials as an array
-    let oreList = event.get("forge:raw_materials").getObjectIds().map(id => id.toString());
-
-    // List the entries that we dont want
-    let exclusions = ["tfmg:raw_lead"];
-    let newOreList = [];
-    // Remove the exclusions from the list
-    for (let ore of oreList) {
-        if (!exclusions.includes(ore)) {
-            newOreList.push(ore);
-        }
-    }
-})
+// ServerEvents.tags("item", event => {
+//     // Get all the raw_matertials as an array
+//     let oreList = event.get("forge:raw_materials").getObjectIds().map(id => id.toString());
+// 
+//     // List the entries that we dont want
+//     let exclusions = ["tfmg:raw_lead"];
+//     let newOreList = [];
+//     // Remove the exclusions from the list
+//     for (let ore of oreList) {
+//         if (!exclusions.includes(ore)) {
+//             newOreList.push(ore);
+//         }
+//     }
+// })
