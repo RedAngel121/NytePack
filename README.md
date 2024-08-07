@@ -72,10 +72,14 @@
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
 - [ ] "Ore Factories" will have different ways of processing ore per type:
-  - Initial smelting layout will be one raw ore in a furnace makes 2 nuggets
-  - 1 raw chunk in create mixer with water makes 4 nuggets
-  - 1 raw chunk in a mill makes 1-2 crushed ore, each smelted for 3 nuggets or washed for 6 nuggets
-  - More complex ore processing will yield better results
+  - 1 Raw in Furnace = 2 Nuggets
+  - 1 Raw Washed with Water = 2-4 Nuggets
+  - 1 Raw in Create Grinding Wheels = 1-3 Crushed 
+    - 1 Crushed in Furnace = 3 Nuggets
+    - 1 Crushed Washed with water = 3-4 nuggets
+    - 1 Crushed in Millstone = 1-2 Dust
+      - 1 Dust in Furnace = 4 Nuggets
+      - 1 Dust Washed with Water = 3-5 Nuggets
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed

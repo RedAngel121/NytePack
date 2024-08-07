@@ -7,35 +7,61 @@ ServerEvents.recipes(event => {
 
 // essentially i need to replace vanilla furnace recipes and replace them with the new nugget setup, then make mek recipes different to prevent those recipes from being changed https://github.com/mekanism/Mekanism/wiki/Recipe-Type-JSON-Syntax#smelting
 ServerEvents.recipes(event => {
-    // This call utilizes the secondary smelting list rather than the default one from base minecraft
-    // and it doesnt work anymore??? its duplicating the recipe instead of isolating it
-    // event.recipes.mekanism.smelting(result, input)
+    let mekOreRecipe = ["iron", "copper", "gold", "zinc", "nickel", "lithium", "osmium", "tin", "lead", "uranium", "crimson_iron", "azure_silver", "cloggrum", "froststeel"]
+    for (let each of mekOreRecipe) {
+        // Removal of every smelting and blasting recipe without harming other mods
+        event.remove({ id: "minecraft:" + each + "_ingot_from_smelting_deepslate_" + each + "_ore" })
+        event.remove({ id: "minecraft:" + each + "_ingot_from_blasting_deepslate_" + each + "_ore" })
+        event.remove({ id: "minecraft:" + each + "_ingot_from_smelting_raw_" + each })
+        event.remove({ id: "minecraft:" + each + "_ingot_from_blasting_raw_" + each })
+        event.remove({ id: "create:smelting/" + each + "_ingot_from_ore" })
+        event.remove({ id: "create:blasting/" + each + "_ingot_from_ore" })
+        event.remove({ id: "create:smelting/" + each + "_ingot_from_raw_ore" })
+        event.remove({ id: "create:blasting/" + each + "_ingot_from_raw_ore" })
+        event.remove({ id: "create:smelting/" + each + "_ingot_from_crushed" })
+        event.remove({ id: "create:blasting/" + each + "_ingot_from_crushed" })
+        event.remove({ id: "create:smelting/ingot_" + each + "_compat_mekanism" })
+        event.remove({ id: "create:blasting/ingot_" + each + "_compat_mekanism" })
+        event.remove({ id: "mekanism:processing/" + each + "/ingot/from_ore_smelting" })
+        event.remove({ id: "mekanism:processing/" + each + "/ingot/from_ore_blasting" })
+        event.remove({ id: "mekanism:processing/" + each + "/ingot/from_raw_smelting" })
+        event.remove({ id: "mekanism:processing/" + each + "/ingot/from_raw_blasting" })
+        event.remove({ id: "mekanism:processing/" + each + "/ingot/from_dust_smelting" })
+        event.remove({ id: "mekanism:processing/" + each + "/ingot/from_dust_blasting" })
+        event.remove({ id: "tfmg:smelting/" + each + "_ingot" })
+        event.remove({ id: "tfmg:smelting/blasting/" + each + "_ingot" })
+        event.remove({ id: "tfmg:smelting/" + each + "_ingot_from_crushed" })
+        event.remove({ id: "tfmg:smelting/blasting/" + each + "_ingot_from_crushed" })
+        event.remove({ id: "silentgear:crimson_" + each + "_ore_smelting" })
+        event.remove({ id: "silentgear:crimson_" + each + "_ore_blasting" })
+        event.remove({ id: "silentgear:crimson_" + each + "_raw_ore_smelting" })
+        event.remove({ id: "silentgear:crimson_" + each + "_raw_ore_blasting" })
+        event.remove({ id: "silentgear:crimson_" + each + "_dust_smelting" })
+        event.remove({ id: "silentgear:crimson_" + each + "_dust_blasting" })
+        event.remove({ id: "undergarden:smelt_raw_" + each })
+        event.remove({ id: "undergarden:blast_raw_" + each })
+        event.remove({ id: "undergarden:smelt_depthrock_" + each + "_ore" })
+        event.remove({ id: "undergarden:blast_depthrock_" + each + "_ore" })
+        event.remove({ id: "undergarden:smelt_shiverstone_" + each + "_ore" })
+        event.remove({ id: "undergarden:blast_shiverstone_" + each + "_ore" })
+        event.remove({ id: "jaopca:dusts.to_material." + each })
+        event.remove({ id: "jaopca:dusts.to_material_blasting." + each })
+        event.remove({ id: "jaopca:create.crushed_to_material_smelting." + each })
+        event.remove({ id: "jaopca:create.crushed_to_material_blasting." + each })
+        // Add new recipes in the altered output system
+        // - 1 Raw in Furnace = 2 Nuggets
+        // - 1 Raw Washed with Water = 2-4 Nuggets
+        // - 1 Raw in Create Grinding Wheels = 1-3 Crushed:
+        //   - 1 Crushed in Furnace = 3 Nuggets
+        //   - 1 Crushed Washed with Water = 3-4 Nuggets
+        //   - 1 Crushed in Create Millstone = 1-2 Dust:
+        //     - 1 Dust in Furnace = 4 Nuggets
+        //     - 1 Dust Washed with Water = 3-5 Nuggets
 
-    // Find and replace the following recipes:
-    // "minecraft:iron_ingot_from_smelting_deepslate_iron_ore"
-    // "minecraft:iron_ingot_from_blasting_deepslate_iron_ore"
-    // "minecraft:iron_ingot_from_smelting_raw_iron"
-    // "minecraft:iron_ingot_from_blasting_raw_iron"
-    // "create:smelting/iron_ingot_from_crushed"
-    // "create:blasting/iron_ingot_from_crushed"
-    // "mekanism:processing/iron/ingot/from_dust_smelting"
-    // "mekanism:processing/iron/ingot/from_dust_blasting"
-
-    event.recipes.mekanism.smelting("#forge:ingots/iron", "#forge:dusts/iron")
-    event.recipes.mekanism.smelting("#forge:ingots/copper", "#forge:dusts/copper")
-    event.recipes.mekanism.smelting("#forge:ingots/gold", "#forge:dusts/gold")
-    event.recipes.mekanism.smelting("#forge:ingots/zinc", "#forge:dusts/zinc")
-    event.recipes.mekanism.smelting("#forge:ingots/nickel", "#forge:dusts/nickel")
-    event.recipes.mekanism.smelting("#forge:ingots/lithium", "#forge:dusts/lithium")
-    event.recipes.mekanism.smelting("#forge:ingots/osmium", "#forge:dusts/osmium")
-    event.recipes.mekanism.smelting("#forge:ingots/tin", "#forge:dusts/tin")
-    event.recipes.mekanism.smelting("#forge:ingots/lead", "#forge:dusts/lead")
-    event.recipes.mekanism.smelting("#forge:ingots/uranium", "#forge:dusts/uranium")
-    event.recipes.mekanism.smelting("#forge:ingots/crimson_iron", "#forge:dusts/crimson_iron")
-    event.recipes.mekanism.smelting("#forge:ingots/azure_silver", "#forge:dusts/azure_silver")
-    event.recipes.mekanism.smelting("#forge:ingots/cloggrum", "#forge:dusts/cloggrum")
-    event.recipes.mekanism.smelting("#forge:ingots/froststeel", "#forge:dusts/froststeel")
-})
+        // This call utilizes the secondary smelting list rather than the default one from base minecraft
+        // event.recipes.mekanism.smelting(result, input)
+        event.recipes.mekanism.smelting("#forge:ingots/" + each, "#forge:dusts/" + each)
+}})
 
 ServerEvents.tags("item", event => {
     // Get all the raw_matertials as an array
