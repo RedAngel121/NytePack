@@ -81,6 +81,10 @@ file = "config/davespotioneering-client.toml"
 hash = "951d7b2b2c832999c517491423f6d0c507c19885400eb3e960b0d9f25587f278"
 
 [[files]]
+file = "config/dynamictrees-common.toml"
+hash = "6ffe390a417e695e36f7ec31811ce2bfea10d33ade6d2cf8774e6b1e255813fe"
+
+[[files]]
 file = "config/flan/flan_config.json"
 hash = "ebe9601aa6eba2f4c06197475a754d6cc3751ef012a1e858c5a7c08983c2f85e"
 
