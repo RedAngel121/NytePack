@@ -104,7 +104,7 @@ ServerEvents.recipes(event => {
         "undergarden:catalyst"
     ]
     for (let ID of recipes) {
-        event.remove({ id: ID });
+        event.remove({ id: ID })
     }
 })
 
