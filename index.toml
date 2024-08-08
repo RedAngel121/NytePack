@@ -3789,10 +3789,6 @@ file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedesta
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
-file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_end_biomes.json"
-hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
-
-[[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_glacio_biomes.json"
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
@@ -5370,11 +5366,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
-metafile = true
-
-[[files]]
-file = "mods/world-stripper.pw.toml"
-hash = "09857ad0707f6e50556b13be0b7908cf47084793afbff82cf52f6b0acf7bf2d3"
 metafile = true
 
 [[files]]
