@@ -4629,10 +4629,6 @@ file = "kubejs/server_scripts/recipe_changes.js"
 hash = "aab73877193e47b00eec21146f319345355bee5aa53c05f821385cec91f0b71d"
 
 [[files]]
-file = "kubejs/startup_scripts/portal_disable.js"
-hash = "ba95ef509cef492030a022879079e40b6a02db9b19ee5dea11e1de9e46036c70"
-
-[[files]]
 file = "mods/agricraft.pw.toml"
 hash = "a7ea1f74cd548cba9c72050a90629398265dc2960d7365dbb06613bd47cc111c"
 metafile = true
