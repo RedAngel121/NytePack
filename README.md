@@ -55,7 +55,7 @@
 - [x] Standard Ore Block drops the same rate as raw copper
 - [x] SilentGear: Added Improved Naquadah and Undergarden mats
 - [x] Modify Apoth Wizard Towers to spawn less or not at all
-- [x] Added [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals)
+- [x] Added AntiPortals mod
 - [x] Added Mekanism and changed recipes to adhere to progression
 - [x] Move Mek ores to Abydos Only
 - [x] Manage Mek to make sure that its not accessable early game
@@ -69,7 +69,7 @@
 - [x] Create Basic Ore Processing Overhaul
 
 # Upcoming Changes:
-- [ ] Re-Add [Serene Seasons Pams Trees Compat mod](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat)
+- [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated
 - [ ] Add M&A mobs into Lightmans coin drops
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
