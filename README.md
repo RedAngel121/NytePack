@@ -111,7 +111,6 @@
 - Starting town built by hand or with MineColonies:
   - Rules house/room for spawn area
   - Will need seperate buildings for different styles of gameplay
-    - M&A Book/Shop
   - One section for the Stargate if i cant place it in town center
 - Passage to other Dims use the Stargate:
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
@@ -126,6 +125,8 @@
   - Basic Enchanting
   - Vending Machines + ATM
 - Purchasable items from Server Vending Machines:
+  - M&A Book
+  - SilentGear Starter Blueprints
   - Starter Gear, Armors, Weapons, Basic Food, Wallet, and other Simple Items
   - Gateways to Eternity: a whole shop for them
   - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
@@ -143,7 +144,9 @@
 - Turn off Wandering Trader `/gamerule doTraderSpawning false`
 - Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0`
 - Reduce spawn radius `/gamerule spawnRadius 0`
-- Change Sleep % to 1 (add sleeping bags or something if you want more than 10%)
+- Prevent Mob Griefing `/gamerule mobGriefing false`
+- Keep wallet? `/gamerule keepWallet true`
+- Change Sleep % `/gamerule playersSleepingPercentage 1`
 
 ### Server Update Command Line:
 - `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
