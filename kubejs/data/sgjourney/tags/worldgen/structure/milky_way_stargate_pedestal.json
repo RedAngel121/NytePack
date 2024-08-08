@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_undergarden"
+        "undergarden_gate:stargate/milky_way/pedestal/stargate_pedestal_undergarden"
     ]
 }
