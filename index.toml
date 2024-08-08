@@ -5248,11 +5248,6 @@ hash = "e0f624511181996e5cdaa3af40daec17dcc2f4c208b89da845711ea75e23ed71"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons-pams-harvestcraft-2-trees-compat.pw.toml"
-hash = "10afc7139997d78d4066c7503d9abec0c61f500508cec3f25f176b78c44b5921"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true

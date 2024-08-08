@@ -69,6 +69,7 @@
 - [x] Create Basic Ore Processing Overhaul
 
 # Upcoming Changes:
+- [ ] Re-Add [Serene Seasons Pams Trees Compat mod](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat)
 - [ ] Add M&A mobs into Lightmans coin drops
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
