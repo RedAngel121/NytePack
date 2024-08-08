@@ -1,3 +1,4 @@
+// Fix Tags
 ServerEvents.tags("item", event => {
     event.add("forge:dusts/salt", "pamhc2foodcore:saltitem")
     event.add("create:crushed", "#create:crushed_raw_materials")
@@ -7,6 +8,7 @@ ServerEvents.tags("item", event => {
     }
 })
 
+// Remove Recipes
 ServerEvents.recipes(event => {
     let recipes = ["agricraft:coal",
         "agricraft:diamond",
@@ -93,6 +95,7 @@ ServerEvents.recipes(event => {
         "lightmanscurrency:coin_mint/mint_coin_diamond",
         "lightmanscurrency:coin_mint/mint_coin_netherite",
         "minecraft:ender_chest",
+        "quark:tweaks/crafting/utility/misc/charcoal_to_black_dye",
         "railways:sequenced_assembly/track_phantom",
         "scalinghealth:heart_crystal",
         "scalinghealth:heart_dust",
@@ -114,7 +117,7 @@ ServerEvents.recipes(event => {
     }
 })
 
-// essentially i need to replace vanilla furnace recipes and replace them with the new nugget setup, then make mek recipes different to prevent those recipes from being changed https://github.com/mekanism/Mekanism/wiki/Recipe-Type-JSON-Syntax#smelting
+// Replace Vanilla ore processing with custom
 ServerEvents.recipes(event => {
     let materials = ["iron", "copper", "gold", "zinc", "nickel", "lithium", "osmium", "tin", "lead", "uranium", "crimson_iron", "azure_silver", "cloggrum", "froststeel"]
     for (let each of materials) {
@@ -165,7 +168,7 @@ ServerEvents.recipes(event => {
         event.remove({ id: "jaopca:create.raw_storage_block_to_crushed." + each })
         event.remove({ id: "quark:tweaks/smelting/raw_" + each + "_block_smelt" })
         event.remove({ id: "quark:tweaks/blasting/raw_" + each + "_block_blast" })
-
+        // Log is for Nickel missing from nuggets... TFMG UPDATE?
         console.log("LOADING MATERIAL: " + each)
         // Add new recipes in the altered output system
         event.smelting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)
@@ -192,15 +195,15 @@ ServerEvents.recipes(event => {
 
 // ServerEvents.tags("item", event => {
 //     // Get all the raw_matertials as an array
-//     let oreList = event.get("forge:raw_materials").getObjectIds().map(id => id.toString());
+//     let oreList = event.get("forge:raw_materials").getObjectIds().map(id => id.toString())
 // 
 //     // List the entries that we dont want
-//     let exclusions = ["tfmg:raw_lead"];
-//     let newOreList = [];
+//     let exclusions = ["tfmg:raw_lead"]
+//     let newOreList = []
 //     // Remove the exclusions from the list
 //     for (let ore of oreList) {
 //         if (!exclusions.includes(ore)) {
-//             newOreList.push(ore);
+//             newOreList.push(ore)
 //         }
 //     }
 // })
