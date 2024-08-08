@@ -104,4 +104,6 @@ JEIEvents.hideItems(event => {
     event.hide("tfmg:bottle_of_battery_acid")
 
     event.hide("utilitix:ender_cart")
+    
+    event.hide("undergarden:catalyst")
 })

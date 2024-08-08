@@ -2282,7 +2282,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "ce39fd8d0ce1e476ccb66afc061db69202bda0cdab8b7501eab881035cde8f34"
+hash = "2a03e3e550e2c4c365ef95affffe228691279a536c87ba438c38140e6b1f0bc7"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -4626,7 +4626,11 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "dd55a0db7b27a23831e26616330eaa94c941c3f6c1d5a00007164d79af48d0fb"
+hash = "aab73877193e47b00eec21146f319345355bee5aa53c05f821385cec91f0b71d"
+
+[[files]]
+file = "kubejs/startup_scripts/portal_disable.js"
+hash = "72e2e7dfb97d8f682d68cd933b3b8841fd7adfbf0ee77c0422dc2847d5184345"
 
 [[files]]
 file = "mods/agricraft.pw.toml"

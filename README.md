@@ -51,7 +51,7 @@
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
 - [x] Immersive Aircraft Recipe Integration
-- [x] Added The Undergarden
+- [x] Added The Undergarden (disabled portal catalyst)
 - [x] Standard Ore Block drops the same rate as raw copper
 - [x] SilentGear: Added Naquadah and Improved Undergarden mats
 - [x] Modify Apoth Wizard Towers to spawn less or not at all
