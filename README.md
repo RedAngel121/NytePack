@@ -51,9 +51,9 @@
 - [x] Fix the Scaling health Mobs.JSON to include level minimums and more types of effects
 - [x] Create Mechanical Drill Disabled
 - [x] Immersive Aircraft Recipe Integration
-- [x] Added The Undergarden (disabled portal catalyst)
+- [x] Added The Undergarden (Disabled Portal Catalyst Item)
 - [x] Standard Ore Block drops the same rate as raw copper
-- [x] SilentGear: Added Naquadah and Improved Undergarden mats
+- [x] SilentGear: Added Improved Naquadah and Undergarden mats
 - [x] Modify Apoth Wizard Towers to spawn less or not at all
 - [x] Added [NoMo' Portals](https://www.curseforge.com/minecraft/mc-mods/no-mo-portals)
 - [x] Added Mekanism and changed recipes to adhere to progression

@@ -1,5 +1,5 @@
-ForgeEvents.onEvent(
-    "net.minecraftforge.event.level.BlockEvent.PortalSpawnEvent",
-    (event) => {
-        event.setCanceled()
-    })
+// ForgeEvents.onEvent(
+//     "net.minecraftforge.event.level.BlockEvent.PortalSpawnEvent",
+//     (event) => {
+//         event.setCanceled()
+//     })
