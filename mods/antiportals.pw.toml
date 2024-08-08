@@ -1,0 +1,13 @@
+name = "AntiPortals"
+filename = "antiportals-mc1.20.1-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd36543dc3bc0d80320b625267921bba228a21ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5368089
+project-id = 449818

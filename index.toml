@@ -4658,6 +4658,11 @@ hash = "a1ae07f397f20a79867bbdc488479f8105d0a8520e316b7830ccd551b12b59e5"
 metafile = true
 
 [[files]]
+file = "mods/antiportals.pw.toml"
+hash = "051d26b226c59475bf0b594577bbc3ea5facb19dae926500c9e4c0998c50665a"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "bfff4a8be74c7d02e62cc7ba3b75183dbbff98e550dfc648d49f9f721688e730"
 metafile = true
@@ -4979,7 +4984,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a6e9c9db6a2631771fd347ae2f5a9b80454c71e95f0b6d92f6d56797ba0783ac"
+hash = "c5a550ee14aa98fc02677eb574822cd11e30e01428611e25c7241c1601877adf"
 metafile = true
 
 [[files]]
@@ -5130,11 +5135,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
-metafile = true
-
-[[files]]
-file = "mods/no-mo-portals.pw.toml"
-hash = "1c75d9d9136ccf8391d70cd87cf9e35700b70bffb3dfcfeb8b8ef18094faa523"
 metafile = true
 
 [[files]]
