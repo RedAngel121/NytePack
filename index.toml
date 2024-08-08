@@ -3789,6 +3789,10 @@ file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedesta
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
 [[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_end_biomes.json"
+hash = "ad652693c15199aace6ad03f5264cdc671cd8d04631d1640e5dcebb4321463f9"
+
+[[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_glacio_biomes.json"
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 
@@ -3799,6 +3803,10 @@ hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_mushroom_biomes.json"
 hash = "060d7f75db8c4774718bc3b4decaa70c94b7372f8fed5e7254b61d20a342ed91"
+
+[[files]]
+file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_nether_biomes.json"
+hash = "47b72561249a249291d6ac09780a4166d26cb0c47565f508992ceeb09f4f5559"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/biome/has_structure/stargate_pedestal/stargate_pedestal_snow_biomes.json"
