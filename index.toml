@@ -2422,7 +2422,7 @@ hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
 
 [[files]]
 file = "kubejs/data/framedblocks/recipes/framed_reinforcement.json"
-hash = "7ab9c74bdf5a90c89a78083494a77c2a9a8ef39b1f565b4561e5b6a80a5316db"
+hash = "13645d084cce70d30c1936365b65214036d1bdb732e5bbe6fced7f6654432ab4"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/blaze.json"
@@ -3906,7 +3906,7 @@ hash = "57df64c942b24e9566607ff0b2853c1ef026d629e11515586318fb0c072b05a0"
 
 [[files]]
 file = "kubejs/data/silentgear/recipes/metal_press.json"
-hash = "1160aa5b20489514f39a2381a53695b104b5665cc92c73c80c95705e2771181c"
+hash = "5023c026822e462e94286d5af18dff53b0b3dd6b366c81e5bb1f0ba2c1ac7746"
 
 [[files]]
 file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
