@@ -249,7 +249,7 @@ From the streets of Södermalm!
 Technologic!
 Funk soul brother!
 My life for Aiur!
-Lennart lennart = new Lennart();
+Lennart lennart = new Lennart()
 I see your vocabulary has improved!
 Who put it there?
 Who put that there?

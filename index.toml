@@ -806,7 +806,7 @@ hash = "0dbc95a18b2e5ac7b12dd9fb22c1caa120b71563b7104613d4405146856c5c18"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "60b73955485155dae941fa1767c3b6a1c36815a9e9351810654d0d2f15a657fc"
+hash = "cc79d02e319b5ce1865477249c8294384208375a26bb3a5c9c2fbb763d307385"
 
 [[files]]
 file = "kubejs/assets/moregates/textures/entity/stargate/pegasus/twilight/twilight_event_horizon.png"
@@ -2399,6 +2399,10 @@ hash = "7d7d455bc9481dfb3dc288076f90b6a34da6a8d99e8859924e72b915814fd6aa"
 [[files]]
 file = "kubejs/data/apotheosis/worldgen/structure_set/tower_spruce.json"
 hash = "c93028e4a47239c877b66673aa456dfcdfae85d283a55df8e26545b5e67d05c2"
+
+[[files]]
+file = "kubejs/data/create/loot_tables/blocks/deepslate_zinc_ore.json"
+hash = "d8cc5a23b79149e743af272f4bcb67d9d5c91c099edacd7758a7ccc48713173a"
 
 [[files]]
 file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
