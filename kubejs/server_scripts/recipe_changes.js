@@ -115,6 +115,7 @@ ServerEvents.recipes(event => {
         "torchmaster:feral_flare_lantern",
         "torchmaster:frozen_pearl",
         "torchmaster:megatorch",
+        "utilitix:backpack",
         "utilitix:ender_cart",
         "undergarden:catalyst"
     ]
