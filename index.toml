@@ -110,7 +110,7 @@ hash = "07155fbf3aae320fa10909607f5a2f88bb019d0fd0d2086f8534f440e8a32acf"
 
 [[files]]
 file = "config/lightmanscurrency-common.lcconfig"
-hash = "62b3d21871993585af0577688582c81dcde31204d4913777e8f5a7d1c466a467"
+hash = "5427abcb376f062e863458d0574f4172d1c630b21f6994e1e43842983fecc21e"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
@@ -3670,7 +3670,7 @@ hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "d247e2c6437cc9494ded91c8fdac713fa8c707cd5ad91346373a1c613d409ba4"
+hash = "2a9a801a6aa2129ea0b124bc845cbe26b2895ff60e7bd73106a76b763cf1b05b"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/mobs.json"
@@ -4638,7 +4638,7 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "fb8ad1728bef51d4324d2d8e736976b4b8113829a573d9e8ae910615d9a505b4"
+hash = "6c350fb9ceff25f3616f63dc0ef0f14e27acf90c93797ec2c4a5c5a31205efa6"
 
 [[files]]
 file = "mods/agricraft.pw.toml"

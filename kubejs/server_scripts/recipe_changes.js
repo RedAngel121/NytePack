@@ -121,6 +121,7 @@ ServerEvents.recipes(event => {
     for (let ID of recipes) {
         event.remove({ id: ID })
     }
+    event.shapeless("minecraft:flint","4x minecraft:gravel")
 })
 
 // Replace Vanilla ore processing with custom

@@ -153,15 +153,15 @@ debugLevel=2
 		[loot.entities.lists]
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier1" loot table.
 			#Requires a player kill to trigger coin drops.
-			T1=["minecraft:slime","minecraft:silverfish", "minecraft:zombie","minecraft:skeleton","minecraft:creeper","minecraft:spider","minecraft:cave_spider","minecraft:husk","minecraft:stray","minecraft:zombie_villager","minecraft:drowned","creeperoverhaul:badlands_creeper","creeperoverhaul:bamboo_creeper","creeperoverhaul:beach_creeper","creeperoverhaul:cave_creeper","creeperoverhaul:dark_oak_creeper","creeperoverhaul:desert_creeper","creeperoverhaul:dripstone_creeper","creeperoverhaul:hills_creeper","creeperoverhaul:jungle_creeper","creeperoverhaul:mushroom_creeper","creeperoverhaul:ocean_creeper","creeperoverhaul:savannah_creeper","creeperoverhaul:snowy_creeper","creeperoverhaul:spruce_creeper","creeperoverhaul:swamp_creeper","endermanoverhaul:badlands_enderman","endermanoverhaul:coral_enderman","endermanoverhaul:dark_oak_enderman","endermanoverhaul:desert_enderman","endermanoverhaul:flower_fields_enderman","endermanoverhaul:ice_spikes_enderman","endermanoverhaul:mushroom_fields_enderman","endermanoverhaul:savanna_enderman","endermanoverhaul:snowy_enderman","endermanoverhaul:swamp_enderman","endermanoverhaul:windswept_hills_enderman"]
+			T1=["mna:barkling","mna:hulking_zombie","mna:mushroom_soldier","mna:pixie","mna:skeleton_assassin","mna:spell_breaker","mna:witch_hunter","minecraft:slime","minecraft:silverfish", "minecraft:zombie","minecraft:skeleton","minecraft:creeper","minecraft:spider","minecraft:cave_spider","minecraft:husk","minecraft:stray","minecraft:zombie_villager","minecraft:drowned","creeperoverhaul:badlands_creeper","creeperoverhaul:bamboo_creeper","creeperoverhaul:beach_creeper","creeperoverhaul:cave_creeper","creeperoverhaul:dark_oak_creeper","creeperoverhaul:desert_creeper","creeperoverhaul:dripstone_creeper","creeperoverhaul:hills_creeper","creeperoverhaul:jungle_creeper","creeperoverhaul:mushroom_creeper","creeperoverhaul:ocean_creeper","creeperoverhaul:savannah_creeper","creeperoverhaul:snowy_creeper","creeperoverhaul:spruce_creeper","creeperoverhaul:swamp_creeper","endermanoverhaul:badlands_enderman","endermanoverhaul:coral_enderman","endermanoverhaul:dark_oak_enderman","endermanoverhaul:desert_enderman","endermanoverhaul:flower_fields_enderman","endermanoverhaul:ice_spikes_enderman","endermanoverhaul:mushroom_fields_enderman","endermanoverhaul:savanna_enderman","endermanoverhaul:snowy_enderman","endermanoverhaul:swamp_enderman","endermanoverhaul:windswept_hills_enderman"]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier2" loot table.
 			#Requires a player kill to trigger coin drops.
-			T2=["undergarden:dweller","undergarden:rotling","undergarden:brute","undergarden:gloomper","undergarden:nargoyle","undergarden:muncher","undergarden:sploogie","cataclysm:lionfish","cataclysm:deepling","cataclysm:koboleton","endermanoverhaul:cave_enderman","endermanoverhaul:crimson_forest_enderman","endermanoverhaul:nether_wastes_enderman","endermanoverhaul:soulsand_valley_enderman","endermanoverhaul:warped_forest_enderman","minecraft:guardian","minecraft:phantom","minecraft:blaze","minecraft:ghast","minecraft:hoglin","minecraft:piglin_brute","minecraft:piglin","minecraft:zombified_piglin","minecraft:wither_skeleton","#minecraft:raiders","minecraft:enderman","minecraft:shulker"]
+			T2=["mna:demon_imp","mna:lantern_wraith","undergarden:dweller","undergarden:rotling","undergarden:brute","undergarden:gloomper","undergarden:nargoyle","undergarden:muncher","undergarden:sploogie","cataclysm:lionfish","cataclysm:deepling","cataclysm:koboleton","endermanoverhaul:cave_enderman","endermanoverhaul:crimson_forest_enderman","endermanoverhaul:nether_wastes_enderman","endermanoverhaul:soulsand_valley_enderman","endermanoverhaul:warped_forest_enderman","minecraft:guardian","minecraft:phantom","minecraft:blaze","minecraft:ghast","minecraft:hoglin","minecraft:piglin_brute","minecraft:piglin","minecraft:zombified_piglin","minecraft:wither_skeleton","#minecraft:raiders","minecraft:enderman","minecraft:shulker"]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier3" loot table.
 			#Requires a player kill to trigger coin drops.
-			T3=["endermanoverhaul:end_enderman","endermanoverhaul:end_islands_enderman","minecraft:elder_guardian"]
+			T3=["undergarden:rotwalker","undergarden:stoneborn","undergarden:forgotten","endermanoverhaul:end_enderman","endermanoverhaul:end_islands_enderman","minecraft:elder_guardian"]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier4" loot table.
 			#Requires a player kill to trigger coin drops.
@@ -177,15 +177,15 @@ debugLevel=2
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier1" loot table.
 			#Does NOT require a player kill to trigger coin drops.
-			BossT1=["cataclysm:amethyst_crab","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:deepling_brute","cataclysm:deepling_priest","cataclysm:deepling_warlock","cataclysm:deepling_angler",]
+			BossT1=["mna:pumpkin_king","cataclysm:amethyst_crab","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:deepling_brute","cataclysm:deepling_priest","cataclysm:deepling_warlock","cataclysm:deepling_angler",]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier2" loot table.
 			#Does NOT require a player kill to trigger coin drops.
-			BossT2=["cataclysm:kobolediator","cataclysm:ignited_berserker","cataclysm:ignited_revenant","cataclysm:the_prowler","cataclysm:wadjet","minecraft:wither"]
+			BossT2=["mna:demon_lord","mna:council_warden","mna:faerie_queen","cataclysm:kobolediator","cataclysm:ignited_berserker","cataclysm:ignited_revenant","cataclysm:the_prowler","cataclysm:wadjet","minecraft:wither"]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier3" loot table.
 			#Does NOT require a player kill to trigger coin drops.
-			BossT3=["undergarden:rotwalker","undergarden:stoneborn","undergarden:forgotten","cataclysm:ender_golem","cataclysm:netherite_monstrosity","cataclysm:the_leviathan","cataclysm:the_harbinger","minecraft:ender_dragon","minecraft:warden","cataclysm:ancient_remnant",]
+			BossT3=["mna:wither_lich","cataclysm:ender_golem","cataclysm:netherite_monstrosity","cataclysm:the_leviathan","cataclysm:the_harbinger","minecraft:ender_dragon","minecraft:warden","cataclysm:ancient_remnant",]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier4" loot table.
 			#Does NOT require a player kill to trigger coin drops.

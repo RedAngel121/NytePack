@@ -26,6 +26,12 @@
         ],
         "locationMultipliers": [
             {
+                "scale": 1,
+                "dimensions": [
+                    "minecraft:overworld"
+                ]
+            },
+            {
                 "scale": 2,
                 "dimensions": [
                     "minecraft:the_nether"
