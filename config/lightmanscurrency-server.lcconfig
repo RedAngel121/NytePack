@@ -78,12 +78,12 @@
 	#The lowest level wallet capable of exchanging coins.
 	#0-Copper Wallet; 1-Iron Wallet; 2-Gold Wallet; 3-Emerald Wallet; 4-Diamond Wallet; 5-Netherite Wallet; 6-No Wallet
 	#Range: 0 -> 6
-	exchangeLevel=1
+	exchangeLevel=3
 	
 	#The lowest level wallet capable of automatically collecting coins while equipped.
 	#0-Copper Wallet; 1-Iron Wallet; 2-Gold Wallet; 3-Emerald Wallet; 4-Diamond Wallet; 5-Netherite Wallet; 6-No Wallet
 	#Range: 0 -> 6
-	pickupLevel=3
+	pickupLevel=0
 	
 	#The lowest level wallet capable of allowing transfers to/from your bank account.
 	#0-Copper Wallet; 1-Iron Wallet; 2-Gold Wallet; 3-Emerald Wallet; 4-Diamond Wallet; 5-Netherite Wallet; 6-No Wallet

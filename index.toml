@@ -114,7 +114,7 @@ hash = "5427abcb376f062e863458d0574f4172d1c630b21f6994e1e43842983fecc21e"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
-hash = "ce5e84a9375edb39194fd073c5a886258723f8051d80a7464fef5b20b2442644"
+hash = "aa23d024dd5c3e842df6c9c87412e547e5a0327fd651546902dc1a84dc4276dd"
 
 [[files]]
 file = "config/lightmanscurrency/MasterCoinList.json"
@@ -4670,7 +4670,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-mob-cheese.pw.toml"
-hash = "a1ae07f397f20a79867bbdc488479f8105d0a8520e316b7830ccd551b12b59e5"
+hash = "047dc3fa29712d30514c6d696e862aae88f0f08c0983ae2ed69bd9cc1b5d9bd7"
 metafile = true
 
 [[files]]
@@ -4760,7 +4760,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7974e66b2677eae99179bbc124f6ac990acf2e01294ed0997b3a15a828f03017"
+hash = "cdba3e523b390a34ba0c121b939976fae2eabe0713637f9ae2775633110faabb"
 metafile = true
 
 [[files]]
@@ -4950,7 +4950,7 @@ metafile = true
 
 [[files]]
 file = "mods/glassential.pw.toml"
-hash = "514ed93e4ce1fdabbfdb6203dadf8c16b420c2331f72512417a728b230a7348a"
+hash = "37e09755459c7e9631515909f3180d13ea974f48d72e7dadbeeec00a46a118e2"
 metafile = true
 
 [[files]]
@@ -5000,7 +5000,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c5a550ee14aa98fc02677eb574822cd11e30e01428611e25c7241c1601877adf"
+hash = "83f1f4645df895301a76eb01132e8b026d5d66fc80b07294095f10808f8d9aac"
 metafile = true
 
 [[files]]
@@ -5035,7 +5035,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "40923274bca2b69aa3364e5773e784df8ab301cc62e6fadf0f81891b1fedadee"
+hash = "976971fb22383deeef74ca34cd9236a20217ff27e0344fe1e003df45e954a4eb"
 metafile = true
 
 [[files]]
@@ -5055,7 +5055,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "ab41c485ff3d86eeb1cf9bca0698af5a2883def2a6edd32968c38519756d8e01"
+hash = "d40e4798331f34120ba3d53ab4122ad4885d58067e5904a3e738a96ef20d13e6"
 metafile = true
 
 [[files]]
