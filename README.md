@@ -67,10 +67,10 @@
 - [x] Sophisticated Storage/Backpacks recipes now adhere to progression
 - [x] Added Mana and Artifice (removed Vinteum generation)
 - [x] Create Basic Ore Processing Overhaul
+- [x] Add M&A mobs into Lightmans coin drops
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated
-- [ ] Add M&A mobs into Lightmans coin drops
 - [ ] Add spacing to M&A structures
 - [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)

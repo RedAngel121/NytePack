@@ -2401,6 +2401,10 @@ file = "kubejs/data/apotheosis/worldgen/structure_set/tower_spruce.json"
 hash = "c93028e4a47239c877b66673aa456dfcdfae85d283a55df8e26545b5e67d05c2"
 
 [[files]]
+file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
+hash = "18b4a7fce0b6cd237c0c6c5e7a382d6c379c5af44fa1b9f5b26158fa0dac4595"
+
+[[files]]
 file = "kubejs/data/create/worldgen/configured_feature/zinc_ore.json"
 hash = "b567c51fb201528b7908b4714f24c2ea170a01ae86d499d6aa715b03ad76140a"
 
