@@ -210,7 +210,7 @@ hash = "6ad0161a52539ebeb19797ea39bdc0bdd79f5aef437ab175697b8d601e310909"
 
 [[files]]
 file = "defaultconfigs/corpse-server.toml"
-hash = "8b8bfc73e2f33005555049c1bee25b0f77f42b54d68ee40387d46c818a8fc9c7"
+hash = "ccdbce0aeeebf3748ecf25a1aedeae481a4fe696bebe13840d82fe5ef3778394"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -7105,6 +7105,22 @@ file = "kubejs/data/mna/worldgen/placed_feature/overworld_vinteum_ore.json"
 hash = "02b03ab3f2b251dc527c01a35987e577d49d3ad4128e63b46d0e54b79690684c"
 
 [[files]]
+file = "kubejs/data/mna/worldgen/structure_set/boss_structures.json"
+hash = "d2e898cabfc53d509be3f904b539ae8bf5e0a9e7982e39ef3edf3019b5e87c52"
+
+[[files]]
+file = "kubejs/data/mna/worldgen/structure_set/faction_strongholds.json"
+hash = "d3691f0832eda4f1dd0a281505633dc9738c23955687c6b24cbfbe021eb1380b"
+
+[[files]]
+file = "kubejs/data/mna/worldgen/structure_set/manaweave_caches.json"
+hash = "cc5c2852f4ebc12041fffcc7cacf1d9120d2188ef13480400e9dccd137a2da96"
+
+[[files]]
+file = "kubejs/data/mna/worldgen/structure_set/scatter.json"
+hash = "46d36a6077229cc9b1813f95e6d6cd02eee5c7800099af01b864cc260049d64c"
+
+[[files]]
 file = "kubejs/data/moregates/recipes/crystallizing/aether_variant_crystal.json"
 hash = "daee9bbfdc9a19096a76232cb7c28936b6868d8efc653711b8af49389e8dd377"
 
@@ -9321,7 +9337,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-of-exile.pw.toml"
-hash = "73a08369e30fc281b034e74303e99bb899f93e3e04da15a5f7ba8c0b3cea3eed"
+hash = "0ef5d7fccc02048507e72cf1b37845ddc0eb098fe04b5da078950efb49bc2669"
 metafile = true
 
 [[files]]

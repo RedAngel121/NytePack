@@ -1,0 +1,46 @@
+{
+	"structures": [
+		{
+			"structure": "mna:scatter/lonely_tower",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/potion_hut",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/respawn_altar",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/ritual_circle_desert",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/ritual_circle_forest",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/ritual_circle_tundra",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/winter_tower",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/wistful_runesmith",
+			"weight": 1
+		},
+		{
+			"structure": "mna:scatter/research_outpost_swamp",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spacing": 30,
+		"separation": 25,
+		"salt": 64916713
+	}
+}

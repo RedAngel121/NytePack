@@ -2,7 +2,7 @@
 #-1 for infinite storage
 #0 for not storing deaths at all
 #Range: > -1
-death_storage_duration = -1
+death_storage_duration = 30
 
 [corpse]
 	#The time passed (in ticks) after a corpse turns into a skeleton

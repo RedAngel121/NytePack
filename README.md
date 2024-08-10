@@ -68,10 +68,10 @@
 - [x] Added Mana and Artifice (removed Vinteum generation)
 - [x] Create Basic Ore Processing Overhaul
 - [x] Add M&A mobs into Lightmans coin drops
+- [x] Add spacing to M&A structures
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated
-- [ ] Add spacing to M&A structures
 - [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
@@ -98,7 +98,6 @@
   - Awating 7.0 update and maybe even avoiding depeding on whats included (2025?)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): Possibly incompatable with pack direction due to tools
-- [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice): will need mob controls / possible starter book for sale / Ore Generation changes
 - [Natures Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura): possible server overhead issues because of the chunk aura updates
 - [Nightmare Epic Siege](https://www.curseforge.com/minecraft/mc-mods/nightmareesm): Disable 90% of the mod: Most things are not ok but more intelligent mobs could be interesting
 - [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) And [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
@@ -135,7 +134,7 @@
     - Basic Wallet
     - Bundle?
   - Gateways to Eternity: a whole shop for them
-  - Baubely Heart Cans Vending:
+  - Baubely Heart Cans Vending Machines:
     - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
     - Wither Bones can be earned with gateways and natural mob spawns
     - red can = 5 wither bones

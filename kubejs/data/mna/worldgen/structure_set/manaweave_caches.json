@@ -1,0 +1,26 @@
+{
+	"structures": [
+		{
+			"structure": "mna:caches/largearcane",
+			"weight": 1
+		},
+		{
+			"structure": "mna:caches/largearcane_broken",
+			"weight": 1
+		},
+		{
+			"structure": "mna:caches/smallarcane",
+			"weight": 1
+		},
+		{
+			"structure": "mna:caches/smallarcane_broken",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spacing": 50,
+		"separation": 40,
+		"salt": 1567486
+	}
+}

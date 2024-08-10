@@ -1,0 +1,26 @@
+{
+	"structures": [
+		{
+			"structure": "mna:faction/boss/cathedral",
+			"weight": 1
+		},
+		{
+			"structure": "mna:faction/boss/fey_tree",
+			"weight": 1
+		},
+		{
+			"structure": "mna:faction/boss/council_island",
+			"weight": 1
+		},
+		{
+			"structure": "mna:faction/boss/demon_arena",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spacing": 150,
+		"separation": 100,
+		"salt": 80248143
+	}
+}
