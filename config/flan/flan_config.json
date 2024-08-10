@@ -30,7 +30,7 @@
     "sellType": "ITEM",
     "buyValue": 1,
     "sellValue": 1,
-    "ingredient": ["lightmanscurrency:coin_copper"]
+    "ingredient": {"item": "lightmanscurrency:coin_copper"}
   },
   "maxBuyBlocks": -1,
   "lenientBlockEntityCheck": false,
