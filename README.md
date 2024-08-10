@@ -123,32 +123,31 @@
   - Anvil and Smith Table
   - Apotheosis Tables
   - Basic Enchanting
-  - Vending Machines + ATM
+  - Lightmans ATM
+  - Vending Machines
 - Purchasable items from Server Vending Machines:
-  - M&A Book
-  - SilentGear Starter Blueprints
-  - Starter Gear, Armors, Weapons, Basic Food, Wallet, and other Simple Items
+  - Starter Gear and Simple Items:
+    - Weapons (wood/stone)
+    - Armor (wood/stone/leather)
+    - Basic Food (carrot/potato/wheat/bread)
+    - M&A Book
+    - SilentGear Starter Blueprints
+    - Basic Wallet
+    - Bundle?
   - Gateways to Eternity: a whole shop for them
-  - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
-  - Wither Bones can be earned with gateways and natural mob spawns
-  - red can = 5 wither bones
-  - yellow can = 5 red cans and an iron coin
-  - green can = 5 yellow cans and a gold coin
-  - blue can = 5 green cans and an emerald coin
+  - Baubely Heart Cans Vending:
+    - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
+    - Wither Bones can be earned with gateways and natural mob spawns
+    - red can = 5 wither bones
+    - yellow can = 5 red cans and an iron coin
+    - green can = 5 yellow cans and a gold coin
+    - blue can = 5 green cans and an emerald coin
 
 # Lastly,
 - Adjust Client Keybinds and upload to the Nytepack_Installer.Zip
-- Remove World Stripper and other Admin only mods
-- Sort out Server vs Client side only mods
-- Edit the Server Startup Script to allow packwiz management
 - Turn off Wandering Trader `/gamerule doTraderSpawning false`
 - Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0`
 - Reduce spawn radius `/gamerule spawnRadius 0`
 - Prevent Mob Griefing `/gamerule mobGriefing false`
 - Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 10`
 - Change Sleep % `/gamerule playersSleepingPercentage 1`
-
-### Server Update Command Line:
-- `java -jar packwiz-installer-bootstrap.jar https://redangel121.github.io/NytePack/pack.toml -g -s server`
-- For use on servers, add the `-g` flag to disable the GUI and `-s server` to download only server-side mods
-- Then start the minecraft dedicated server using the premade server script

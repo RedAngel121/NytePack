@@ -8181,6 +8181,10 @@ file = "kubejs/data/silentgear/recipes/metal_press.json"
 hash = "5023c026822e462e94286d5af18dff53b0b3dd6b366c81e5bb1f0ba2c1ac7746"
 
 [[files]]
+file = "kubejs/data/silentgear/recipes/template_board.json"
+hash = "65d9adc9be1df8d21d1ea3d81d8533ac5123d07c27e55403c72db91512f54373"
+
+[[files]]
 file = "kubejs/data/silentgear/silentgear_materials/cloggrum_ingot.json"
 hash = "1e359499f5fcad22cf113b78edec72447133b471800bf32bd728a634d35ed389"
 
