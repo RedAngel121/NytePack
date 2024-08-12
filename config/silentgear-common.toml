@@ -113,7 +113,7 @@
 	[gear.prospector_hammer]
 		#The range in blocks the prospector hammer will search for blocks of interest
 		#Range: 0 ~ 64
-		range = 16
+		range = 32
 
 	[gear.saw]
 		#Caps how far the saw can look for blocks when chopping down trees. Try decreasing this if you get stack overflow exceptions.

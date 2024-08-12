@@ -154,7 +154,7 @@ hash = "fb5b9ac124e3856c6466784082906257397b68e96483758e1e8927591474b6c1"
 
 [[files]]
 file = "config/silentgear-common.toml"
-hash = "e67f0bb3dbb23b1e5c130ebf630413a2b913bff3dd343d517af1446661da076c"
+hash = "d8876edbcf59f817014ac74c48cb6b9483892f363d6885863e4a18d6bb12991d"
 
 [[files]]
 file = "config/solapplepie-client.toml"
@@ -8937,6 +8937,10 @@ file = "kubejs/data/undergarden/worldgen/placed_feature/utherium_ore.json"
 hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
+file = "kubejs/server_scripts/loot_drop.js"
+hash = "17f12799bd7ac635613e89acf47f61aa19cb6d4a2580ae164e816234ec52e029"
+
+[[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
 hash = "19c474d6565b6002be9af2f1dbf9b83e0eb5f3f92b55ab5cd6512275322524dc"
 
@@ -9217,7 +9221,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan-forge.pw.toml"
-hash = "0a4b28118183ed6a56edc0e7436c21d5546188420dd54c3c5aef8b60807d9964"
+hash = "8e65c6ded152ba7e9052b3a9891e11d3db8286324f0f115cbdee1fd3d8aae0fc"
 metafile = true
 
 [[files]]
@@ -9292,7 +9296,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "83f1f4645df895301a76eb01132e8b026d5d66fc80b07294095f10808f8d9aac"
+hash = "83bc80f595d00c7135d4a4152198f3d455a17a0b80350b73e6cb68802b1ff422"
 metafile = true
 
 [[files]]
@@ -9337,7 +9341,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-of-exile.pw.toml"
-hash = "0ef5d7fccc02048507e72cf1b37845ddc0eb098fe04b5da078950efb49bc2669"
+hash = "e09751e3c327ee8fb5e65c57c59f61cebad635d26fc39bc99211ce038366317a"
 metafile = true
 
 [[files]]
@@ -9347,7 +9351,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "d40e4798331f34120ba3d53ab4122ad4885d58067e5904a3e738a96ef20d13e6"
+hash = "801a95a4df6a333ae357b851cce2c4b79247d54df54eb7bf2637c46f317b01cc"
 metafile = true
 
 [[files]]
@@ -9368,6 +9372,11 @@ metafile = true
 [[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "43aa2c47e284692aa6182abd00929d5753c8660aea9e23b901da68aa75a68930"
 metafile = true
 
 [[files]]
@@ -9412,7 +9421,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "200dc9d52925894d95675e92cb306f0982a3af0cb0376722c4422bd530685b24"
+hash = "b9c03eeef85a050a626770dee002377099248b5a33ece835a162163ca8d443df"
 metafile = true
 
 [[files]]

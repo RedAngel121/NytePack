@@ -69,12 +69,14 @@
 - [x] Create Basic Ore Processing Overhaul
 - [x] Add M&A mobs into Lightmans coin drops
 - [x] Add spacing to M&A structures
+- [x] Add vinteum dust drops to all mobs
+- [x] Increase Prospectors hammer distance slightly
 
 # Upcoming Changes:
-- [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated
+- [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Space out villages a bit more from the village overhaul mod
-- [ ] Add the More Minecarts Chunk loader seperate mod they are making (Aug 10th)
-- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (pending big update end of aug)
+- [ ] Add the More Minecarts Chunk loader seperate mod they are making (Sept 1st)
+- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (Sept 1st)
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
