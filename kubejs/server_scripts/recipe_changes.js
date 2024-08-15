@@ -6,11 +6,18 @@ ServerEvents.tags("item", event => {
     for (let each of materials) {
         event.add("create:crushed/" + each, "create:crushed_raw_" + each)
     }
+    let coins = ["iron", "copper", "gold", "diamond", "emerald", "netherite"]
+    for (let each of coins) {
+        event.add("forge:coins", "lightmanscurrency:coin_" + each)
+        event.add("forge:coins", "lightmanscurrency:coinpile_" + each)
+        event.add("forge:coins", "lightmanscurrency:coinblock_" + each)
+    }
 })
 
-// Remove Recipes
+// Remove Unwanted Recipes
 ServerEvents.recipes(event => {
-    let recipes = ["agricraft:coal",
+    let recipes = [
+        "agricraft:coal",
         "agricraft:diamond",
         "agricraft:emerald",
         "agricraft:quartz",
@@ -122,7 +129,10 @@ ServerEvents.recipes(event => {
     for (let ID of recipes) {
         event.remove({ id: ID })
     }
-    event.shapeless("minecraft:flint","4x minecraft:gravel")
+    // Add New Recipes
+    event.shapeless("minecraft:flint", "4x minecraft:gravel")
+    event.recipes.create.pressing("#forge:paper", "#forge:paper_plants")
+    event.recipes.create.pressing("silentgear:leather_scrap", "minecraft:rotten_flesh")
 })
 
 // Replace Vanilla ore processing with custom
@@ -176,7 +186,7 @@ ServerEvents.recipes(event => {
         event.remove({ id: "jaopca:create.raw_storage_block_to_crushed." + each })
         event.remove({ id: "quark:tweaks/smelting/raw_" + each + "_block_smelt" })
         event.remove({ id: "quark:tweaks/blasting/raw_" + each + "_block_blast" })
-        // Log is for Nickel missing from nuggets... TFMG UPDATE?
+        // Console Log : Nickel missing nugget form... wait for TFMG update?
         console.log("LOADING MATERIAL: " + each)
         // Add new recipes in the altered output system
         event.smelting("2x #forge:nuggets/" + each, "#forge:raw_materials/" + each)

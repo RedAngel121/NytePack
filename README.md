@@ -71,18 +71,22 @@
 - [x] Add spacing to M&A structures
 - [x] Add vinteum dust drops to all mobs
 - [x] Increase Prospectors hammer distance slightly
+- [x] Limit Vinteum drops to player killed mobs only
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Space out villages a bit more from the village overhaul mod
-- [ ] Add the More Minecarts Chunk loader seperate mod they are making (Sept 1st)
-- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive (Sept 1st)
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add Quest and Backup mods
 - [ ] Advanced Ore Overhaul to include hot and cold liquids
+
+- [ ] WAIT FOR UPDATES  (Check on this Sept 1st)
+  - [ ] Add the More Minecarts Chunk loader seperate mod they are making
+  - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
+  - [ ] TFMG is missing raw blocks and also missing nuggets
 
 # Ongoing Changes:
 - Manage Recipes and Items to make sure nothing breaks progression
@@ -150,5 +154,5 @@
 - Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0`
 - Reduce spawn radius `/gamerule spawnRadius 0`
 - Prevent Mob Griefing `/gamerule mobGriefing false`
-- Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 10`
-- Change Sleep % `/gamerule playersSleepingPercentage 1`
+- Keep wallet and coin drop on death `/gamerule keepWallet true` and find out what lightman is doing about my "issue"
+- Change Sleep % `/gamerule playersSleepingPercentage 50`

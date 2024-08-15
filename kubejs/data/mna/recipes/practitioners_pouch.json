@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [  
+    " S ",	
+  	"RHR",
+  	"VCV"
+  ],
+  "key": {
+  	"R": {
+  		"item": "mna:infused_silk"
+  	},
+  	"S": {
+  		"item": "minecraft:string"
+  	},
+  	"C": {
+  		"item": "mna:wizard_chalk"
+  	},
+  	"H": {
+  		"tag": "forge:chests/wooden"
+  	},
+  	"V": {
+  		"item": "mna:vinteum_dust"
+  	}
+  },
+  "result": {
+    "item": "mna:practitioners_pouch"    
+  }
+}

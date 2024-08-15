@@ -5986,7 +5986,7 @@ hash = "813adb4bb2578eefbaf25e03ea847efb8f16011bbc7bc31cae37a5e7d4ebf69d"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/cargo_airship.json"
-hash = "0c123ccce711059af7881a825f546eb308601811f1c0349b2ef81d67f3a60af2"
+hash = "14560b3602dbe2ab8695d62d3693572d639a962a0bda7fe53d81e4b693c2c302"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/eco_engine.json"
@@ -7095,6 +7095,10 @@ hash = "1c227298f60054a68bcf6c8ed5929219b0b8e19cbad1194c51f7ed9e2d3e7866"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure/village_taiga.json"
 hash = "228b11e7bb59ebcd17597ae8bdc30877ed65c35ade9405a21243b34c865c5911"
+
+[[files]]
+file = "kubejs/data/mna/recipes/practitioners_pouch.json"
+hash = "09ce23e1bbb7a52a9b1ce696617b004049ea63a8c86ef2b8069fb3f648e08e04"
 
 [[files]]
 file = "kubejs/data/mna/worldgen/configured_feature/overworld_vinteum_ore.json"
@@ -8938,11 +8942,11 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/loot_drop.js"
-hash = "17f12799bd7ac635613e89acf47f61aa19cb6d4a2580ae164e816234ec52e029"
+hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "19c474d6565b6002be9af2f1dbf9b83e0eb5f3f92b55ab5cd6512275322524dc"
+hash = "a240bce744cf8e17297702398e43a31a141bf9c911271a6d1520f62e182f5d24"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -9006,7 +9010,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a96886fe12b0156b383437c664125ca8989e7c972728a37e2ac36b35dcf29bec"
+hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
 metafile = true
 
 [[files]]
@@ -9056,7 +9060,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cdba3e523b390a34ba0c121b939976fae2eabe0713637f9ae2775633110faabb"
+hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
 metafile = true
 
 [[files]]
@@ -9086,7 +9090,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
+hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
 
 [[files]]
@@ -9231,7 +9235,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "ec1e75e28d448fba354039b37470565e9c2aefc63fde1852904c38af0b4b2136"
+hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
 
 [[files]]
@@ -9296,7 +9300,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "83bc80f595d00c7135d4a4152198f3d455a17a0b80350b73e6cb68802b1ff422"
+hash = "b2b3bd249f82d784100f25f553acd4ede5f3669fd1a87efbfc2ed6f45abc043c"
 metafile = true
 
 [[files]]
@@ -9341,7 +9345,7 @@ metafile = true
 
 [[files]]
 file = "mods/library-of-exile.pw.toml"
-hash = "e09751e3c327ee8fb5e65c57c59f61cebad635d26fc39bc99211ce038366317a"
+hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
 metafile = true
 
 [[files]]
