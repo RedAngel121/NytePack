@@ -114,7 +114,7 @@ hash = "6f9ebfefaa22a7c737497388dc8898fce77159dd82a01ad659e95eae3d165e98"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
-hash = "7101e6a9f194a8b4f776ab7a7272f3e7f833dfda0cab3b776360360cd8e7e810"
+hash = "ec502d94ad988f60521c66bf253c89486e24dcb10467ebf0294d6842563f1589"
 
 [[files]]
 file = "config/lightmanscurrency/MasterCoinList.json"
