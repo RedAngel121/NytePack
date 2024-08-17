@@ -31,19 +31,23 @@ debugLevel=2
 		#Disabling does NOT disable the recipes of Money Chest Upgrades.
 		canCraftCoinChest=true
 
-			#Whether the Money Chest Exchange Upgrade can be crafted.
+		#Whether the Money Chest Exchange Upgrade can be crafted.
 		#Disabling will not remove any existing Money Chest Exchange Upgrades from the world, nor prevent their use.
 		canCraftExchangeUpgrade=true
 
-			#Whether the Money Chest Magnet Upgrades can be crafted.
+		#Whether the Money Chest Magnet Upgrades can be crafted.
 		#Disabling will not remove any existing Money Chest Magnet Upgrades from the world, nor prevent their use.
 		canCraftMagnetUpgrade=true
 
-			#Whether the Money Chest Security Upgrades can be crafted.
+		#Whether the Money Chest Bank Upgrade can be crafted.
+		#Disabling will not remove any existing Money Chest Bank Upgrades from the world, nor prevent their use.
+		canCraftBankUpgrade=true
+
+		#Whether the Money Chest Security Upgrades can be crafted.
 		#Disabling will not remove any existing Money Chest Security Upgrades from the world, nor prevent their use.
 		canCraftSecurityUpgrade=true
 
-	#Event Settings
+#Event Settings
 [events]
 	#Whether advancements will give players chocolate coins as a reward for playing during the event.
 	#Note: Disabling will disable the entire `/lcadmin events reward` command used by the functions to give the reward.
@@ -59,7 +63,7 @@ debugLevel=2
 
 	#The percentage of Chocolate Coins being dropped instead of normal coins while an event is active.
 	#Range: 0.0 -> 1.0
-	chocolateRate=0
+	chocolateRate=0.0
 
 #Villager Related Settings
 #Note: Any changes to villagers requires a full reboot to be applied due to how Minecraft/Forge registers trades.
@@ -79,17 +83,17 @@ debugLevel=2
 		#Whether vanilla villagers should have the Emeralds from their trades replaced with coins.
 		changeVanillaTrades=true
 
-			#Whether villagers added by other mods should have the Emeralds from their trades replaced with coins.
+		#Whether villagers added by other mods should have the Emeralds from their trades replaced with coins.
 		changeModdedTrades=true
 
-			#Whether the wandering trader should have the emeralds from their trades replaced with the default replacement coin.
-		changeWanderingTrades=false
+		#Whether the wandering trader should have the emeralds from their trades replaced with the default replacement coin.
+		changeWanderingTrades=true
 
-			#The default coin to replace a trades emeralds with.
+		#The default coin to replace a trades emeralds with.
 		#May seperate and define villager type specific entries by adding multiple items seperated by '-' with region
-		defaultEmeraldReplacementItem="lightmanscurrency:coin_iron"
+		defaultEmeraldReplacementItem="lightmanscurrency:coin_copper"
 
-			#List of replacement coin overrides.
+		#List of replacement coin overrides.
 		#Each entry must be formatted as follows: "mod:some_profession_type-SUB_ENTRY-SUB_ENTRY-..."
 		#You may use "minecraft:wandering_trader" as a profession id to override the vanilla Wandering Trader
 		#
@@ -99,9 +103,9 @@ debugLevel=2
 		#Each item-entry is either 1 or 2 item ids (e.g. "mod:coin_item" or "mod:coin_item_1;mod:coin_item_2".)
 		#When two are given, the first will replace the cost items (items the player must pay the villager) and the second will replace the result (items the player will be paid by the villager)
 		#Every trader not on this list will use the default trader coin defined above.
-		professionEmeraldReplacementOverrides=[ "minecraft:cartographer-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper","minecraft:fletcher-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper","minecraft:butcher-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper","minecraft:farmer-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper","minecraft:fisherman-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper","minecraft:shepherd-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper","minecraft:mason-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper","minecraft:leatherworker-lightmanscurrency:coin_iron;lightmanscurrency:coin_copper"]
+		professionEmeraldReplacementOverrides=[]
 
-	#Loot Options
+#Loot Options
 [loot]
 	#T1 loot item.
 	#Leave blank ("") to not spawn T1 loot.
@@ -153,7 +157,7 @@ debugLevel=2
 		[loot.entities.lists]
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier1" loot table.
 			#Requires a player kill to trigger coin drops.
-			T1=["mna:barkling","mna:hulking_zombie","mna:mushroom_soldier","mna:pixie","mna:skeleton_assassin","mna:spell_breaker","mna:witch_hunter","minecraft:slime","minecraft:silverfish", "minecraft:zombie","minecraft:skeleton","minecraft:creeper","minecraft:spider","minecraft:cave_spider","minecraft:husk","minecraft:stray","minecraft:zombie_villager","minecraft:drowned","creeperoverhaul:badlands_creeper","creeperoverhaul:bamboo_creeper","creeperoverhaul:beach_creeper","creeperoverhaul:cave_creeper","creeperoverhaul:dark_oak_creeper","creeperoverhaul:desert_creeper","creeperoverhaul:dripstone_creeper","creeperoverhaul:hills_creeper","creeperoverhaul:jungle_creeper","creeperoverhaul:mushroom_creeper","creeperoverhaul:ocean_creeper","creeperoverhaul:savannah_creeper","creeperoverhaul:snowy_creeper","creeperoverhaul:spruce_creeper","creeperoverhaul:swamp_creeper","endermanoverhaul:badlands_enderman","endermanoverhaul:coral_enderman","endermanoverhaul:dark_oak_enderman","endermanoverhaul:desert_enderman","endermanoverhaul:flower_fields_enderman","endermanoverhaul:ice_spikes_enderman","endermanoverhaul:mushroom_fields_enderman","endermanoverhaul:savanna_enderman","endermanoverhaul:snowy_enderman","endermanoverhaul:swamp_enderman","endermanoverhaul:windswept_hills_enderman"]
+			T1=["mna:barkling","mna:hulking_zombie","mna:mushroom_soldier","mna:pixie","mna:skeleton_assassin","mna:spell_breaker","mna:witch_hunter","minecraft:slime","minecraft:silverfish"," minecraft:zombie","minecraft:skeleton","minecraft:creeper","minecraft:spider","minecraft:cave_spider","minecraft:husk","minecraft:stray","minecraft:zombie_villager","minecraft:drowned","creeperoverhaul:badlands_creeper","creeperoverhaul:bamboo_creeper","creeperoverhaul:beach_creeper","creeperoverhaul:cave_creeper","creeperoverhaul:dark_oak_creeper","creeperoverhaul:desert_creeper","creeperoverhaul:dripstone_creeper","creeperoverhaul:hills_creeper","creeperoverhaul:jungle_creeper","creeperoverhaul:mushroom_creeper","creeperoverhaul:ocean_creeper","creeperoverhaul:savannah_creeper","creeperoverhaul:snowy_creeper","creeperoverhaul:spruce_creeper","creeperoverhaul:swamp_creeper","endermanoverhaul:badlands_enderman","endermanoverhaul:coral_enderman","endermanoverhaul:dark_oak_enderman","endermanoverhaul:desert_enderman","endermanoverhaul:flower_fields_enderman","endermanoverhaul:ice_spikes_enderman","endermanoverhaul:mushroom_fields_enderman","endermanoverhaul:savanna_enderman","endermanoverhaul:snowy_enderman","endermanoverhaul:swamp_enderman","endermanoverhaul:windswept_hills_enderman"]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/entity/tier2" loot table.
 			#Requires a player kill to trigger coin drops.
@@ -177,7 +181,7 @@ debugLevel=2
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier1" loot table.
 			#Does NOT require a player kill to trigger coin drops.
-			BossT1=["mna:pumpkin_king","cataclysm:amethyst_crab","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:deepling_brute","cataclysm:deepling_priest","cataclysm:deepling_warlock","cataclysm:deepling_angler",]
+			BossT1=["mna:pumpkin_king","cataclysm:amethyst_crab","cataclysm:coral_golem","cataclysm:coralssus","cataclysm:deepling_brute","cataclysm:deepling_priest","cataclysm:deepling_warlock","cataclysm:deepling_angler"]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier2" loot table.
 			#Does NOT require a player kill to trigger coin drops.
@@ -185,7 +189,7 @@ debugLevel=2
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier3" loot table.
 			#Does NOT require a player kill to trigger coin drops.
-			BossT3=["mna:wither_lich","cataclysm:ender_golem","cataclysm:netherite_monstrosity","cataclysm:the_leviathan","cataclysm:the_harbinger","minecraft:ender_dragon","minecraft:warden","cataclysm:ancient_remnant",]
+			BossT3=["mna:wither_lich","cataclysm:ender_golem","cataclysm:netherite_monstrosity","cataclysm:the_leviathan","cataclysm:the_harbinger","minecraft:ender_dragon","minecraft:warden","cataclysm:ancient_remnant"]
 
 			#List of Entities that will drop loot from the "lightmanscurrency:loot_addons/boss/tier4" loot table.
 			#Does NOT require a player kill to trigger coin drops.
@@ -210,7 +214,7 @@ debugLevel=2
 			T1=["apotheosis:chests/tome_tower","betterwitchhuts:chests/hut_0","ctov:chests/village/village_badlands_house","ctov:chests/village/village_bakery","ctov:chests/village/village_beach_house","ctov:chests/village/village_dark_forest_house","ctov:chests/village/village_farm","ctov:chests/village/village_forager","ctov:chests/village/village_jungle_house","ctov:chests/village/village_library","ctov:chests/village/village_mountain_house","ctov:chests/village/village_mushroom_house","ctov:chests/village/village_smith","ctov:chests/village/village_swamp_house","philipsruins:chest/ancient_ruins_loot","philipsruins:chest/ancient_ruins","philipsruins:chest/badlands_dungeon_loot_high","philipsruins:chest/badlands_dungeon_loot_low","philipsruins:chest/bone_dungeon_loot","philipsruins:chest/desert_pyramid_loot","philipsruins:chest/level_one_ruins_loot","philipsruins:chest/lost_soul_city_loot","philipsruins:chest/ocean_ruin_fortress","philipsruins:chest/ocean_ruins_loot","philipsruins:chest/ruin_loot","betterjungletemples:chests/campsite","betterdeserttemples:chests/lab","betterdeserttemples:chests/library","betterdeserttemples:chests/pharaoh_hidden","betterdeserttemples:chests/statue","betterdeserttemples:chests/storage","betterdeserttemples:chests/tomb_pharaoh","betterdeserttemples:chests/tomb","betterfortresses:chests/beacon","betterfortresses:chests/extra","betterfortresses:chests/hall","betterfortresses:chests/keep","betterfortresses:chests/obsidian","betterfortresses:chests/puzzle","betterfortresses:chests/quarters","betterfortresses:chests/storage","betterfortresses:chests/worship","betterdungeons:skeleton_dungeon/chests/common","betterdungeons:skeleton_dungeon/chests/middle","betterdungeons:small_dungeon/chests/loot_piles","betterdungeons:small_nether_dungeon/chests/common","betterdungeons:spider_dungeon/chests/egg_room","betterdungeons:zombie_dungeon/chests/common","betterdungeons:zombie_dungeon/chests/special","betterdungeons:zombie_dungeon/chests/tombstone","minecraft:chests/jungle_temple","minecraft:chests/underwater_ruin_small","minecraft:chests/underwater_ruin_big","minecraft:chests/simple_dungeon","minecraft:chests/ruined_portal"]
 
 			#List of Loot Tables that will also spawn loot from the "lightmanscurrency:loot_addons/chest/tier2" loot table.
-			T2=["apotheosis:chests/spawner_brutal_rotate","apotheosis:chests/spawner_brutal","apotheosis:chests/spawner_swarm","philipsruins:chest/end_ruins_loot","philipsruins:chest/sculk_dungeon_loot","philipsruins:chest/ruin_loot_value","philipsruins:chest/nether_ruins_low","philipsruins:chest/nether_lava_ruins_loot","philipsruins:chest/level_three_ruins_loot","betterjungletemples:chests/treasure","betteroceanmonuments:chests/upper_side_chamber","betterstrongholds:chests/armoury","betterstrongholds:chests/cmd_yung","betterstrongholds:chests/common","betterstrongholds:chests/crypt","betterstrongholds:chests/grand_library","betterstrongholds:chests/library_md","betterstrongholds:chests/mess","betterstrongholds:chests/prison_lg","betterstrongholds:chests/trap","betterstrongholds:chests/treasure","minecraft:chests/nether_bridge","minecraft:chests/stronghold_crossing","minecraft:chests/stronghold_corridor","minecraft:chests/stronghold_library","minecraft:chests/ancient_city","minecraft:chests/bastion_hoglin_stable","minecraft:chests/bastion_bridge","minecraft:chests/bastion_other","minecraft:chests/bastion_treasure",]
+			T2=["apotheosis:chests/spawner_brutal_rotate","apotheosis:chests/spawner_brutal","apotheosis:chests/spawner_swarm","philipsruins:chest/end_ruins_loot","philipsruins:chest/sculk_dungeon_loot","philipsruins:chest/ruin_loot_value","philipsruins:chest/nether_ruins_low","philipsruins:chest/nether_lava_ruins_loot","philipsruins:chest/level_three_ruins_loot","betterjungletemples:chests/treasure","betteroceanmonuments:chests/upper_side_chamber","betterstrongholds:chests/armoury","betterstrongholds:chests/cmd_yung","betterstrongholds:chests/common","betterstrongholds:chests/crypt","betterstrongholds:chests/grand_library","betterstrongholds:chests/library_md","betterstrongholds:chests/mess","betterstrongholds:chests/prison_lg","betterstrongholds:chests/trap","betterstrongholds:chests/treasure","minecraft:chests/nether_bridge","minecraft:chests/stronghold_crossing","minecraft:chests/stronghold_corridor","minecraft:chests/stronghold_library","minecraft:chests/ancient_city","minecraft:chests/bastion_hoglin_stable","minecraft:chests/bastion_bridge","minecraft:chests/bastion_other","minecraft:chests/bastion_treasure"]
 
 			#List of Loot Tables that will also spawn loot from the "lightmanscurrency:loot_addons/chest/tier3" loot table.
 			T3=["apotheosis:chests/chest_valuable","sgjourney:chests/desert_pyramid_loot_room","minecraft:chests/end_city_treasure","minecraft:chests/buried_treasure"]

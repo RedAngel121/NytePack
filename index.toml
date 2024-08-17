@@ -110,11 +110,11 @@ hash = "07155fbf3aae320fa10909607f5a2f88bb019d0fd0d2086f8534f440e8a32acf"
 
 [[files]]
 file = "config/lightmanscurrency-common.lcconfig"
-hash = "5427abcb376f062e863458d0574f4172d1c630b21f6994e1e43842983fecc21e"
+hash = "6f9ebfefaa22a7c737497388dc8898fce77159dd82a01ad659e95eae3d165e98"
 
 [[files]]
 file = "config/lightmanscurrency-server.lcconfig"
-hash = "aa23d024dd5c3e842df6c9c87412e547e5a0327fd651546902dc1a84dc4276dd"
+hash = "7101e6a9f194a8b4f776ab7a7272f3e7f833dfda0cab3b776360360cd8e7e810"
 
 [[files]]
 file = "config/lightmanscurrency/MasterCoinList.json"
@@ -9355,7 +9355,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "6745a36ca44779a4f7172c16f6edef1a866145f0271736e9764df4953579caa8"
+hash = "5c1728f88816a2ace9c8fbbd706f9fd5851cc78f37506b46813c11ee6081f863"
 metafile = true
 
 [[files]]
