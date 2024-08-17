@@ -50,7 +50,7 @@ hash = "73f71f261be831aaca336f03a75382abe3df85b6c13fe7625fc0153d05b8de3b"
 
 [[files]]
 file = "config/bhc/drops.json"
-hash = "9aaf1787a2a326408b31a8868d22e68cba65ece48b379886f6b204486248554b"
+hash = "c6f0abbb336bb8ff7bfbe76af662e726794f99c24699c61655b11bc552ea51fb"
 
 [[files]]
 file = "config/chickensshed-common.toml"
@@ -58,7 +58,7 @@ hash = "5e26f4573f26fe36f5fa7b64c7a033f29c959ca6d316f1cd48db52e828add001"
 
 [[files]]
 file = "config/chunksending.json"
-hash = "d5547fb66e56e6a5e7024c897afddb7084003c81112f2c913a5bdc717b386f4c"
+hash = "bc2840542f2973b76b58b3e462a852c16a269cf59db14941050c1d22d0c6f013"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
@@ -90,7 +90,7 @@ hash = "8eacfd1376d9399eb30624b847fde9a4a9bd18577f75fb85e64bc63289221277"
 
 [[files]]
 file = "config/immersive_aircraft.json"
-hash = "d62b68882c06aa471ed93f1ff3504a92499ecc0996b8730e408a707c96861cfb"
+hash = "0261b1af6972f4f7787bac7de86919662036849c036794122c2c97dbb4a303fa"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -118,7 +118,7 @@ hash = "ec502d94ad988f60521c66bf253c89486e24dcb10467ebf0294d6842563f1589"
 
 [[files]]
 file = "config/lightmanscurrency/MasterCoinList.json"
-hash = "30c3bf0269badd9371ecd588d1b6455666ceeced976ddb93d61c4ff89d774051"
+hash = "e4e3decdf4d9121330e7eb0c0c0a2ddab59878ab2d264911f5b9616f9a108d96"
 
 [[files]]
 file = "config/philips-ruins-common-configs.toml"
@@ -182,7 +182,7 @@ hash = "5d345109a2490d838879d530014fa248f4c90f4b321409b582204be36d0b5068"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "7c363801bcd165f1e7e64ed4820ebf7c68793c8ac86d9ebfc99d053f521d3de9"
+hash = "db8eeb6ab8e53cc4da12d5c999aafe8952279c6d696bac4a20bebc7b3d20c8cb"
 
 [[files]]
 file = "config/toastcontrol-common.toml"
