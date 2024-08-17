@@ -8980,12 +8980,12 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "bfff4a8be74c7d02e62cc7ba3b75183dbbff98e550dfc648d49f9f721688e730"
+hash = "e7f6eaa3d9ec7d271df50fee18aeeccf0953ee1c2d95ff7eae88599bc0c2cc5d"
 metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "ad85f1847b402498fdad38731c632ca0167ccbdade0c1884776aa5ee88463f28"
+hash = "7ec91c6a496a122e84c4f0e7737175bf869dda8e046a208ef6e13830ca731378"
 metafile = true
 
 [[files]]
@@ -9355,7 +9355,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "801a95a4df6a333ae357b851cce2c4b79247d54df54eb7bf2637c46f317b01cc"
+hash = "6745a36ca44779a4f7172c16f6edef1a866145f0271736e9764df4953579caa8"
 metafile = true
 
 [[files]]
@@ -9550,7 +9550,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "e32b401dcf4734c146c04e47125d14f9f39a6c998bc4ec6a7377532647fe60cf"
+hash = "1b631aade1b1dc79a45c4877fd194816245fae00f83d4a17d8ccd887322adf99"
 metafile = true
 
 [[files]]
