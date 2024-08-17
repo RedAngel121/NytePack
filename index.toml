@@ -86,7 +86,7 @@ hash = "6ffe390a417e695e36f7ec31811ce2bfea10d33ade6d2cf8774e6b1e255813fe"
 
 [[files]]
 file = "config/flan/flan_config.json"
-hash = "3a54529e1e6527ae500735e8df614cd7d7e22c8754f7faffa3bc607424e82ae4"
+hash = "8eacfd1376d9399eb30624b847fde9a4a9bd18577f75fb85e64bc63289221277"
 
 [[files]]
 file = "config/immersive_aircraft.json"
