@@ -1,5 +1,5 @@
-// Mats needing to be changed in tags and recipes
-let materials = ["iron", "copper", "gold", "zinc", "nickel", "lithium", "aluminum", "osmium", "tin", "lead", "uranium", "crimson_iron", "azure_silver", "cloggrum", "froststeel"]
+// Mats needing to be changed in tags and recipes ie "aluminum",
+let materials = ["iron", "copper", "gold", "zinc", "nickel", "lithium", "osmium", "tin", "lead", "uranium", "crimson_iron", "azure_silver", "cloggrum", "froststeel"]
 
 // Fix Tags
 ServerEvents.tags("item", event => {
