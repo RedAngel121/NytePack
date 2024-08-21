@@ -277,6 +277,14 @@ file = "instance.png"
 hash = "66fe49273dc5d565da6d1f8b06bc7463c9d20b510f752783c0baad3cca4a0781"
 
 [[files]]
+file = "kubejs/assets/computercraft/models/block/monitor_base.json"
+hash = "0b818eea36bef00ed2feb1404e8427becd661a924d1d87f8890f3ada34097809"
+
+[[files]]
+file = "kubejs/assets/computercraft/models/block/monitor_base_backup.json"
+hash = "9504907e1d51439e90ecee6f173b7055b97f4f08d179c80b389b542abe58abab"
+
+[[files]]
 file = "kubejs/assets/immersive_aircraft/textures/entity/airship.png"
 hash = "94b70f55eab970d39926d58cf79fbb559a13586f6692e16a70d18cacd2bcfece"
 
@@ -5857,6 +5865,10 @@ file = "kubejs/data/agricraft/agricraft/mutations/redstodendron.json"
 hash = "0772304e930eb3af089915eb5a149241c5d0d75de139a79fa10e7ddf91e20c70"
 
 [[files]]
+file = "kubejs/data/agricraft/agricraft/weeds/weed.json"
+hash = "a22f9627dcc5d2d78975d42e69317003a83575cd88819b2f37205118cef19500"
+
+[[files]]
 file = "kubejs/data/apotheosis/recipes/draconic_endshelf.json"
 hash = "ae63b3b802c09015a18c85e890141bc3981b57eec48771079f8b639ee8351d0c"
 
@@ -5911,6 +5923,14 @@ hash = "b567c51fb201528b7908b4714f24c2ea170a01ae86d499d6aa715b03ad76140a"
 [[files]]
 file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
 hash = "1ae3ffbc206fa25a25ab0bfd75f18af7e1298135d652f42b3b106739f163514c"
+
+[[files]]
+file = "kubejs/data/ctov/worldgen/structure_set/pillager_outposts.json"
+hash = "6e7624dacc3ac6eb91c9a07398222951c7bdc609d76e0527d7a192412ac4efd3"
+
+[[files]]
+file = "kubejs/data/ctov/worldgen/structure_set/villages.json"
+hash = "436da81ad63abd89167098bf0a0cc7c23a9385494cca7ffad1018558c3f12921"
 
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
@@ -7077,24 +7097,8 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
 hash = "d8490ec75756f51fb2ad89b3ef089fcc06bc0ef696fc2c66b9aae14da6aa0651"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_desert.json"
-hash = "e70a11b280fd8341075a8c090ff4017dea6a8bc470ef14c40ed353c559518a80"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_plains.json"
-hash = "12d77fe6a704f87a0c41f9c2c8ac3402665019f5651b69928cf1ed947ac4ca45"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_savanna.json"
-hash = "086e5f2cebd0ec15eda93996e0568afdf8241dda02429b607b2658f11c540b63"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_snowy.json"
-hash = "1c227298f60054a68bcf6c8ed5929219b0b8e19cbad1194c51f7ed9e2d3e7866"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_taiga.json"
-hash = "228b11e7bb59ebcd17597ae8bdc30877ed65c35ade9405a21243b34c865c5911"
+file = "kubejs/data/minecraft/worldgen/structure_set/villages.json"
+hash = "eaa8e30d1977f83c23f97c1ab89f1a73a007468ec31636bcae5d7cfd65d8e010"
 
 [[files]]
 file = "kubejs/data/mna/recipes/practitioners_pouch.json"
@@ -8946,7 +8950,7 @@ hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "a240bce744cf8e17297702398e43a31a141bf9c911271a6d1520f62e182f5d24"
+hash = "18b7d3f1fce181e6e18f1eb86a5c982416054d7e6b3da82a72355855b66a914c"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -8980,7 +8984,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "e7f6eaa3d9ec7d271df50fee18aeeccf0953ee1c2d95ff7eae88599bc0c2cc5d"
+hash = "55e921a275e97a1e6288f46d84f840ec7002626e8790171876c877b8b2d517be"
 metafile = true
 
 [[files]]
@@ -9010,7 +9014,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
+hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
 
 [[files]]
@@ -9035,7 +9039,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "df90aa10942d1d5cac3f10f46d471d92858ad99979efceed319486dda208490f"
+hash = "2ad2dd713650ffbbd25add29d5da4d0d07532eb31122236bae471eff582229ae"
 metafile = true
 
 [[files]]
@@ -9155,7 +9159,7 @@ metafile = true
 
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
-hash = "03b4290dca69faae44b297c5800054ffd74cdb5aeec90c89ebcff38aafa7f0f8"
+hash = "a7849a601419027beca684875bb5cbbf2f3efc1d66188919ec18f348dd03a33c"
 metafile = true
 
 [[files]]
@@ -9290,7 +9294,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c309e7c7ee8233136eca526d44d6c6b6a2411f11eb6fe0394e81df1dc6de355f"
+hash = "4d07986e3d8cbf4d37330e0c3ffc46d30b1a26bb25444f3d807537ccf040ccd2"
 metafile = true
 
 [[files]]
@@ -9300,7 +9304,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b2b3bd249f82d784100f25f553acd4ede5f3669fd1a87efbfc2ed6f45abc043c"
+hash = "4a62a9e4402e2d4c27c0ae9ff403e108d220e7c36e32c8ecd37422fc4e1c54a7"
 metafile = true
 
 [[files]]
@@ -9470,7 +9474,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "b21b3850e6f670fc456ae89816a714fffd9dc71bfcd5bb9e631f03239979dc3b"
+hash = "5d0eae777859369335212a6a68a0c835fc7487ace8016749fe9f377de1c4b392"
 metafile = true
 
 [[files]]
@@ -9580,7 +9584,7 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "23f6cde813e08ddd5ee7ad0c145417b420f1d2dada018788783b60f7be3f81c3"
+hash = "71a6b671d226294e4bb6320c3cd46366f7c45f8487732c37cd3a6c8f74421109"
 metafile = true
 
 [[files]]

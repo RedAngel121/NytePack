@@ -75,6 +75,7 @@
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
+- [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
@@ -154,5 +155,5 @@
 - Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0`
 - Reduce spawn radius `/gamerule spawnRadius 0`
 - Prevent Mob Griefing `/gamerule mobGriefing false`
-- Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 25`
-- Change Sleep % `/gamerule playersSleepingPercentage 50`
+- Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 27`
+- Change Sleep % `/gamerule playersSleepingPercentage 51`

@@ -1,13 +1,13 @@
 name = "Dave's Potioneering"
-filename = "Dave's Potioneering-forge-1.20.1-11.jar"
+filename = "Dave's Potioneering-forge-1.20.1-12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4d1672eabd2ed35d4788eab08b346901ed73ae23"
+hash = "755b5e7b60dbe78b892b6ca116f3787c9000aa44"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5075189
+file-id = 5645985
 project-id = 639653
