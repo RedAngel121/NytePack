@@ -12,6 +12,9 @@
 - Requires MultiMC/Prism or AT Launcher to play, ***CurseForge and Microsoft are not currently compatable.***
 - Once a public server is ready I will be making an announcement in Discord
 
+### Update Forge to Latest version:
+- Make sure you update your forge to the latest version available for 1.20.1
+
 ### Multiplayer Server Rules and things to know:
 - Spawn is a Safe Haven; Protected and Defended. Do not find a way to destroy it lest your life be forefit.
 - Food and XP grow your health, both are reset on death. Find a way to make better foods and earn more XP to stay alive.
