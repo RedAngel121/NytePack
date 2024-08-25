@@ -72,6 +72,7 @@ ServerEvents.recipes(event => {
         "gateways:emerald_grove",
         "gateways:hellish_fortress",
         "gateways:overworldian_nights",
+        "jaopca:create.material_to_plate.steel",
         "lightmanscurrency:coinmint",
         "lightmanscurrency:gem_terminal",
         "lightmanscurrency:portable_gem_terminal",

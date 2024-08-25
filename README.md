@@ -78,6 +78,7 @@
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
+- [ ] fix the double recipe for heavy plates
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Gateways to Eternity
@@ -93,6 +94,7 @@
   - [ ] TFMG is missing raw blocks and also missing nuggets
 
 # Ongoing Changes:
+- Progression balances making things more even across the board
 - Manage Recipes and Items to make sure nothing breaks progression
 - Sophisticated DefaultConfigs add new items to blacklist
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min

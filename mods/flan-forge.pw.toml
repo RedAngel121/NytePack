@@ -1,13 +1,13 @@
 name = "Flan (Forge)"
-filename = "flan-1.20.1-1.10.7-forge.jar"
+filename = "flan-1.20.1-1.10.8-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5a259586cb96ff65788ae93b160a9e6c6876b271"
+hash = "6071d14b9493af17588e85ddc056a8694985e5b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5615901
+file-id = 5654148
 project-id = 493246

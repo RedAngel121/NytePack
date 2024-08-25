@@ -8950,7 +8950,7 @@ hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "e7feb2a8ab12e27cf296ff71ad08096102b0722be1042e9a170c18fc11c3d7b6"
+hash = "7ddc9b1892ccca5e57374104aec089c04a63d82f71aa85b8f1d8d2e84a7a12ef"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -9089,7 +9089,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
+hash = "9ab741b4d88da35819c7ad2a2b30487fa1eb2f17db2168005432263f941b5b2c"
 metafile = true
 
 [[files]]
@@ -9119,7 +9119,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "67fd926ca195bc69c94c0450ac46f2db63822a7f87f4c96d52434bd62f4ab102"
+hash = "cfcaf789aa5d70873c09f8aaf5296e44b301dbb1f6155d54250dcd8c8890db50"
 metafile = true
 
 [[files]]
@@ -9229,7 +9229,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan-forge.pw.toml"
-hash = "8e65c6ded152ba7e9052b3a9891e11d3db8286324f0f115cbdee1fd3d8aae0fc"
+hash = "e4698f54244c64cdd379eea494c97dd5980d14cb65cd83065ff5a2ff4dbebe11"
 metafile = true
 
 [[files]]
@@ -9429,7 +9429,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b9c03eeef85a050a626770dee002377099248b5a33ece835a162163ca8d443df"
+hash = "da57e5e28cb28d11fa3f6d2941fcbf2bfb606c076dda464b2b07877f0cb99f75"
 metafile = true
 
 [[files]]
@@ -9544,17 +9544,17 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "73f52912d24a121d62ea8c8f7ed00ac8e6ac7cec1a7253ca0cecb24d7cb9f61a"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "5e8923347ea6213b8a13d9e699461c750864705ea6af3f18a1701f3dcbd1549f"
+hash = "d218175a2fc0fd2fdb907ed55a214f0163d9bcabb75b47ccdb6f4704c3bd5dd0"
 metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "1b631aade1b1dc79a45c4877fd194816245fae00f83d4a17d8ccd887322adf99"
+hash = "9fd5d90fc4b05e60fafec2032de43955475ab160cbee59382a0a148c67669faf"
 metafile = true
 
 [[files]]
@@ -9599,17 +9599,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+hash = "2170ed9eb7672fc517075c2259dc7ff8e9501c167f4083a30be162c8873b32c4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+hash = "d47cf8902495273ee0a9223ee33f0dacf8a43667f6026d92af0186d5bac1b563"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
+hash = "87ed59e9a14222c3a093641c1c93ded80c9255cada9ea417e73a167342097441"
 metafile = true
 
 [[files]]
@@ -9704,7 +9704,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e9d60c8dd6456b72a8c7b10b052c8945d8904edf070b35d2ca67b9d83d1b2158"
+hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
 metafile = true
 
 [[files]]
