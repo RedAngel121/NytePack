@@ -17,7 +17,7 @@
             "item": "minecraft:end_rod"
         },
         "B": {
-            "tag": "apotheosis:endshelf"
+            "item": "apotheosis:endshelf"
         },
         "P": {
             "tag": "forge:ender_pearls"

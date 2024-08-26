@@ -99,6 +99,7 @@
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add structure loot tables from other mods for lightmans to insert coins into
 - Naquadah and UnderGarden mats need balancing
+- Stargate Power Requirements need adjustments
 
 # Interesting Ideas:
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...

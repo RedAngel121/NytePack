@@ -5870,7 +5870,7 @@ hash = "a22f9627dcc5d2d78975d42e69317003a83575cd88819b2f37205118cef19500"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/draconic_endshelf.json"
-hash = "ae63b3b802c09015a18c85e890141bc3981b57eec48771079f8b639ee8351d0c"
+hash = "5987314f2f74beb8c09ea6b809d86b70441a5d4bb1aa35f7d48d07a3b53938de"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/ender_lead.json"
@@ -5886,7 +5886,7 @@ hash = "865a55425b428e0f9bcfccdbf4681ebb112f3cd16e5740f8a30a238a02bbd1b9"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/pearl_endshelf.json"
-hash = "cbf36e55ff0c72480a7e99a833e89f7f41379b32729a062b5a3d3ae90db5fc97"
+hash = "500131c137ddf34613621ed670353eb12824e36773e4d391a868c2e1facbc504"
 
 [[files]]
 file = "kubejs/data/apotheosis/recipes/sigil_of_withdrawal.json"
@@ -9190,6 +9190,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "f2ab69d3546c95bf14c09d98054b6588df80bb14dfc02799e38b8ac43e6e154e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "c097f7802c79561cc7dedcbd112f3b33581a5b42f2acd8c24d482ed4c90afa74"
 metafile = true
 
 [[files]]

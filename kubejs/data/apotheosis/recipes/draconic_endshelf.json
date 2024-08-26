@@ -17,7 +17,7 @@
             "item": "minecraft:dragon_head"
         },
         "B": {
-            "tag": "apotheosis:endshelf"
+            "item": "apotheosis:endshelf"
         },
         "P": {
             "tag": "forge:ender_pearls"
