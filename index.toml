@@ -8950,7 +8950,7 @@ hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "7ddc9b1892ccca5e57374104aec089c04a63d82f71aa85b8f1d8d2e84a7a12ef"
+hash = "7b6a08399cb1f37114bc8fa92e281a3b5e24863b34c1a78f419f0b787f1b19bf"
 
 [[files]]
 file = "mods/agricraft.pw.toml"

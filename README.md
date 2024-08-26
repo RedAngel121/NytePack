@@ -78,7 +78,6 @@
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
-- [ ] fix the double recipe for heavy plates
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Gateways to Eternity
@@ -144,8 +143,15 @@
     - M&A Book
     - SilentGear Starter Blueprints
     - Basic Wallet
-    - Bundle?
-  - Gateways to Eternity: a whole shop for them
+    - Bundles?
+    - Soph Chests and Modules
+    - Soph Backpack and Modules
+  - Gateways to Eternity Rewards:
+    - Gateway chains that reward the player with another gateway or something else
+    - Apoth Gems
+    - Vanilla Ingots + Zinc?
+    - Basic Silent Gear Items
+    - Wither Bones
   - Baubely Heart Cans Vending Machines:
     - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
     - Wither Bones can be earned with gateways and natural mob spawns
