@@ -1,0 +1,35 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "toolbelt:enable_normal_crafting"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "equipment",
+        "key": {
+          "g": {
+            "item": "minecraft:gold_ingot"
+          },
+          "l": {
+            "tag": "forge:leather"
+          },
+          "s": {
+            "tag": "forge:string"
+          }
+        },
+        "pattern": [
+          "sgs",
+          "l l",
+          "sls"
+        ],
+        "result": {
+          "item": "toolbelt:pouch"
+        }
+      }
+    }
+  ]
+}

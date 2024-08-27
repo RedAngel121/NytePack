@@ -5909,6 +5909,14 @@ file = "kubejs/data/apotheosis/worldgen/structure_set/tower_spruce.json"
 hash = "c93028e4a47239c877b66673aa456dfcdfae85d283a55df8e26545b5e67d05c2"
 
 [[files]]
+file = "kubejs/data/betterdeserttemples/worldgen/structure_set/desert_temples.json"
+hash = "3e0f9da86be93e8f1863310b05588eb7410a020fe1f9efca5b2f8bc4e2669eb5"
+
+[[files]]
+file = "kubejs/data/betterjungletemples/worldgen/structure_set/jungle_temples.json"
+hash = "c6c22ee21eda7dcac64e5e77ea0c774b0142b1fd7063bff52ab5882a749f2f30"
+
+[[files]]
 file = "kubejs/data/create/loot_tables/blocks/deepslate_zinc_ore.json"
 hash = "d8cc5a23b79149e743af272f4bcb67d9d5c91c099edacd7758a7ccc48713173a"
 
@@ -5926,15 +5934,15 @@ hash = "1ae3ffbc206fa25a25ab0bfd75f18af7e1298135d652f42b3b106739f163514c"
 
 [[files]]
 file = "kubejs/data/ctov/worldgen/structure_set/pillager_outposts.json"
-hash = "6e7624dacc3ac6eb91c9a07398222951c7bdc609d76e0527d7a192412ac4efd3"
+hash = "83b18d640ad475d329560ce115a2c45f83544dfd7689780451edcec567bae3b4"
 
 [[files]]
 file = "kubejs/data/ctov/worldgen/structure_set/villages.json"
-hash = "436da81ad63abd89167098bf0a0cc7c23a9385494cca7ffad1018558c3f12921"
+hash = "3de38f085defd9cc1a2528e980f193ca558065de2cde66f852291e6ebf3f1e25"
 
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
-hash = "a6cdfee374122e039b3d311acbbb28a0e60cdc54f8edd39d5940e8c41101fed9"
+hash = "a77e9db6168d1b6c89992e77963a542af7563bdc3022cc9458ba34fe819d6697"
 
 [[files]]
 file = "kubejs/data/framedblocks/recipes/framed_reinforcement.json"
@@ -6058,7 +6066,7 @@ hash = "0f83e8aa5bc33269ee0a297267c5951db34ed15bb9872317c6f9adfb127e8921"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/quadrocopter.json"
-hash = "81a409097b3bff1b5a09c9721905be163f599dc5f83312eb17ca4a602c83a252"
+hash = "c0647704f8c36b126eda39b582ea5b53158798c68d80820ca6402927d6900fec"
 
 [[files]]
 file = "kubejs/data/immersive_aircraft/recipes/rotary_cannon.json"
@@ -7102,7 +7110,7 @@ hash = "eaa8e30d1977f83c23f97c1ab89f1a73a007468ec31636bcae5d7cfd65d8e010"
 
 [[files]]
 file = "kubejs/data/mna/recipes/practitioners_pouch.json"
-hash = "09ce23e1bbb7a52a9b1ce696617b004049ea63a8c86ef2b8069fb3f648e08e04"
+hash = "5d273685232b97470c7821ff5ac96558c09fd76966df09d7f8f8f17a9a534fa5"
 
 [[files]]
 file = "kubejs/data/mna/worldgen/configured_feature/overworld_vinteum_ore.json"
@@ -8845,6 +8853,14 @@ file = "kubejs/data/tfmg/worldgen/placed_feature/oil_deposit.json"
 hash = "f1cfb4432e0e2cf966bcb817a5b5a4ed788843f276f04917f0cce11f463022e9"
 
 [[files]]
+file = "kubejs/data/toolbelt/recipes/belt.json"
+hash = "b19389e30e21edce017f8cea23435ea67106ec6ecb0b586918aa5fc4ad8568c4"
+
+[[files]]
+file = "kubejs/data/toolbelt/recipes/pouch.json"
+hash = "e72b6f90c30f77ad8b4581e83bc46f4a19041c713610ce0f2ed8bd64f88e07d0"
+
+[[files]]
 file = "kubejs/data/undergarden/loot_tables/blocks/depthrock_cloggrum_ore.json"
 hash = "502695b81777d36b91df43998f2f948f6dbed584e417d2472d0f6031bb92365a"
 
@@ -9639,7 +9655,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "436e0c633a689379dfb99745344a6ab0c9cc39955f59d6194aad2a6a44202217"
+hash = "c0fdbfb5995309ae73fe8c22c5d4921a9e08af1f74aed3ac5a6096e0b919ddbe"
 metafile = true
 
 [[files]]

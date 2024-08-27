@@ -10,7 +10,7 @@
   		"item": "mna:infused_silk"
   	},
   	"S": {
-  		"item": "minecraft:string"
+  		"tag": "forge:string"
   	},
   	"C": {
   		"item": "mna:wizard_chalk"

@@ -39,10 +39,10 @@
 # ~ PACK BUILD NOTES ~
 1. No Easy Teleporting items or players (Stargate Exception because FE req)
 2. No Easy On-Person Inventory Storage (Exception to item specific inv spaces)
-3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (InterPlanetary/Cataclysm/Stargates/?)
+3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (Cataclysm/Stargates/?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage/production/transfer will be handled in world, not by held items (to the best of ability)
-6. Player travel will be with large scale projects such as Planes/Trains/Stargates/Rockets and not on person items ie jetpacks
+6. Player travel will be with large scale projects such as Planes/Trains and not on person items, Endgame is jetpacks and stargates
 
 # Completed Changes:
 - [x] Upgraded Terrain Generation and Ore Generation
@@ -78,6 +78,7 @@
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
+- [ ] biome.terralith.skylands_spring needs to be added to the finite water allow list
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Gateways to Eternity
@@ -105,9 +106,6 @@
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium armor/tools and adjust the ingot for netherite application but a different color?
-- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth):
-  - Progression beyond steel/netherite and I make other planets actually useful
-  - Awating 7.0 update and maybe even avoiding depeding on whats included (2025?)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Create: Dreams and Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires): Possibly incompatable with pack direction due to tools
 - [Natures Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura): possible server overhead issues because of the chunk aura updates
@@ -161,7 +159,7 @@
     - green can = 5 yellow cans and a gold coin
     - blue can = 5 green cans and an emerald coin
 
-# Lastly,
+# Lastly:
 - Adjust Client Keybinds and upload to the Nytepack_Installer.Zip
 - Turn off Wandering Trader `/gamerule doTraderSpawning false`
 - Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0`
