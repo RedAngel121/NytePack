@@ -8979,6 +8979,11 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
+file = "mods/alekiships.pw.toml"
+hash = "ad63a8301ac03b46b4eee98991be70534bad07a64ddbb1b541fa9f28b3f2256c"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
 metafile = true
@@ -9325,7 +9330,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4da1c5dc6c7a9588221879fac5de0e7eb83cb7109b24a46dabace02050e9dc91"
+hash = "3fcbf119bb838ad522fcbaf6f56060065d1337034b8af21e496a843207e0d707"
 metafile = true
 
 [[files]]

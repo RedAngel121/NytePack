@@ -75,10 +75,10 @@
 - [x] Add vinteum dust drops to all mobs
 - [x] Increase Prospectors hammer distance slightly
 - [x] Limit Vinteum drops to player killed mobs only
+- [x] Skylands Biomes added to the finite water allow list
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
-- [ ] biome.terralith.skylands_spring needs to be added to the finite water allow list
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Gateways to Eternity
