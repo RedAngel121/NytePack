@@ -61,7 +61,7 @@
 - [x] Added AntiPortals mod
 - [x] Added Mekanism and changed recipes to adhere to progression
 - [x] Move Mek ores to Abydos Only
-- [x] Manage Mek to make sure that its not accessable early game
+- [x] Manage Mek to make sure that its not accessible early game
 - [x] Modify recipes containing obsidian to use Create Sturdy Sheets where it makes sense
 - [x] Updated Lightmans vending machine textures
 - [x] Add mobs from other mods to lightmans coin drops
@@ -75,12 +75,12 @@
 - [x] Add vinteum dust drops to all mobs
 - [x] Increase Prospectors hammer distance slightly
 - [x] Limit Vinteum drops to player killed mobs only
-- [x] Skylands Biomes added to the finite water allow list
+- [x] Skylands Biomes added to the finite water whitelist
+- [x] Separated out villages more
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
-- [ ] Space out villages a bit more from the village overhaul mod
 - [ ] Gateways to Eternity
   - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
   - Find out what rewards should be allowed
