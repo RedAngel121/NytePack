@@ -8,6 +8,8 @@ ServerEvents.tags("item", event => {
     for (let each of materials) {
         event.add("create:crushed/" + each, "create:crushed_raw_" + each)
     }
+    event.add("create:crushed/aluminum", "create:crushed_raw_aluminum")
+
     let coins = ["iron", "copper", "gold", "diamond", "emerald", "netherite"]
     for (let each of coins) {
         event.add("forge:coins", "lightmanscurrency:coin_" + each)
@@ -212,8 +214,15 @@ ServerEvents.recipes(event => {
 
     }
 })
-// "aluminum"
+// "aluminum" cause its special...
 ServerEvents.recipes(event => {
     event.remove({ id: "tfmg:smelting/aluminum_ingot" })
     event.remove({ id: "tfmg:smelting/blasting/aluminum_ingot" })
+    event.smelting("3x #forge:nuggets/aluminum", "#create:crushed/aluminum")
+    event.blasting("3x #forge:nuggets/aluminum", "#create:crushed/aluminum")
+    event.recipes.create.splashing(["3x #forge:nuggets/aluminum", Item.of("2x #forge:nuggets/aluminum").withChance(0.5)], "#create:crushed/aluminum")
+    event.recipes.create.milling(["#forge:dusts/aluminum", Item.of("#forge:dusts/aluminum").withChance(0.5)], "#create:crushed/aluminum")
+    event.blasting("4x #forge:nuggets/aluminum", "#forge:dusts/aluminum")
+    event.recipes.create.splashing(["4x #forge:nuggets/aluminum", Item.of("2x #forge:nuggets/aluminum").withChance(0.5)], "#forge:dusts/aluminum")
+    event.recipes.mekanism.smelting("#forge:ingots/aluminum", "#forge:dusts/aluminum")
 })
