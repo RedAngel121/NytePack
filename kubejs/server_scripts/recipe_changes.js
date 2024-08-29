@@ -1,5 +1,5 @@
 // Mats needing to be changed in tags and recipes
-let materials = ["iron", "copper", "gold", "zinc", "lithium", "nickel", "aluminum", "osmium", "tin", "lead", "uranium", "crimson_iron", "azure_silver", "cloggrum", "froststeel"]
+let materials = ["iron", "copper", "gold", "zinc", "lithium", "nickel", "osmium", "tin", "lead", "uranium", "crimson_iron", "azure_silver", "cloggrum", "froststeel"]
 
 // Fix Tags
 ServerEvents.tags("item", event => {
@@ -211,4 +211,9 @@ ServerEvents.recipes(event => {
         event.recipes.mekanism.smelting("#forge:ingots/" + each, "#forge:dusts/" + each)
 
     }
+})
+// "aluminum"
+ServerEvents.recipes(event => {
+    event.remove({ id: "tfmg:smelting/aluminum_ingot" })
+    event.remove({ id: "tfmg:smelting/blasting/aluminum_ingot" })
 })
