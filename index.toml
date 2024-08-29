@@ -101,6 +101,10 @@ file = "config/jaopca/main.toml"
 hash = "ce58624e3f615065181ce9c2abf9a43c9f39da6a8cfedb68e7cf3c683d3e4e6b"
 
 [[files]]
+file = "config/jaopca/modules/nuggets.toml"
+hash = "82e1d010769b845d83bc6cb41df422a9b96e0d673d165d44dac87f87aa4e87bb"
+
+[[files]]
 file = "config/jaopca/modules/storage_blocks.toml"
 hash = "d36ac45acd576978950d22e3b3c6f217c11d29b3e0c87dfeaf093f1db9067f81"
 
@@ -178,7 +182,7 @@ hash = "54a5c264d34d40cfe05a8c7a2e0c5a5840fac225f84b76c689fdb58251c98c93"
 
 [[files]]
 file = "config/staaaaaaaaaaaack-common.toml"
-hash = "5d345109a2490d838879d530014fa248f4c90f4b321409b582204be36d0b5068"
+hash = "1fce6ce806712f6c761fcae2f49b4dde869f70ca2b7255057048713cf1a5f352"
 
 [[files]]
 file = "config/tectonic.json"
@@ -8966,7 +8970,7 @@ hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "7b6a08399cb1f37114bc8fa92e281a3b5e24863b34c1a78f419f0b787f1b19bf"
+hash = "3fc0d595485571093acd271d77b340a534b504f1acb1838d15ebd4401e24f25a"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
