@@ -214,10 +214,13 @@ ServerEvents.recipes(event => {
 
     }
 })
-// "aluminum" cause its special...
+
+// recipe fixes for "Aluminum" cause its "Special"...
 ServerEvents.recipes(event => {
     event.remove({ id: "tfmg:smelting/aluminum_ingot" })
     event.remove({ id: "tfmg:smelting/blasting/aluminum_ingot" })
+    event.remove({ id: "jaopca:dusts.to_material.aluminum"})
+    event.remove({ id: "jaopca:dusts.to_material_blasting.aluminum"})
     event.smelting("3x #forge:nuggets/aluminum", "#create:crushed/aluminum")
     event.blasting("3x #forge:nuggets/aluminum", "#create:crushed/aluminum")
     event.recipes.create.splashing(["3x #forge:nuggets/aluminum", Item.of("2x #forge:nuggets/aluminum").withChance(0.5)], "#create:crushed/aluminum")
