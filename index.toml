@@ -5961,6 +5961,22 @@ file = "kubejs/data/gateways/gateways/basic/blaze.json"
 hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
+file = "kubejs/data/gateways/gateways/basic/custom_power.json"
+hash = "47bc48cedf74404f145f9cbe7a4cdb23c4bde153d45947154d489dacc5b77f2e"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/basic/custom_practice.json"
+hash = "c7e89dd3de00f507ac7f915303dc5b4020317468197ebd8b205f1fbb724bb408"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
+hash = "d3bacc27826b733943e9d12ea749203b4387df94edfd28579dce0475fc2493ab"
+
+[[files]]
+file = "kubejs/data/gateways/gateways/basic/custom_test.json"
+hash = "95d41494d353db959a0f487d286246d3b8a5f8744db8673e36aa526073322158"
+
+[[files]]
 file = "kubejs/data/gateways/gateways/basic/enderman.json"
 hash = "678921b988cf60a28fc9271cda4e6fe996af8a9ff1c0ee6760060b7315a7e687"
 
@@ -5999,6 +6015,18 @@ hash = "a0b0dabfe1b3d5263c609dfcc5e6807198f48c9bbf94f09272a71fd16f4c77a5"
 [[files]]
 file = "kubejs/data/gateways/gear_sets/iron_with_diamond.json"
 hash = "337b642662db798b8c2892a3fe5678aebbd159b437ba9298acd06653f6fc87a9"
+
+[[files]]
+file = "kubejs/data/gateways/loot_tables/cracked_gems.json"
+hash = "4804e0f6b38f840d28f0973b67849dc18b3ba0b2c572b04c8c9f057d2ac27e5d"
+
+[[files]]
+file = "kubejs/data/gateways/loot_tables/gateway_practice.json"
+hash = "7b967dcf9b7d4e0a32fa26cfc2d07343b27d51aba8dddb0f7d8b7f9141df626e"
+
+[[files]]
+file = "kubejs/data/gateways/loot_tables/gateway_sparkles.json"
+hash = "15c6fdee47ff26785fa2304d6c359516831f90d08c156f27c733c6c1caaf5552"
 
 [[files]]
 file = "kubejs/data/glassential/recipes/glass_ghostly.json"

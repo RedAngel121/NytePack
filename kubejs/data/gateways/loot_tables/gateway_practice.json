@@ -1,0 +1,45 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "gateways:custom_practice",
+                    "weight": 1,
+                    "functions": []
+                },
+                {
+                    "type": "item",
+                    "name": "gateways:custom_sparkles",
+                    "weight": 7,
+                    "functions": []
+                },
+                {
+                    "type": "item",
+                    "name": "gateways:custom_power",
+                    "weight": 2,
+                    "functions": []
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "experience",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 450,
+                                "max": 650
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
