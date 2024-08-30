@@ -77,13 +77,11 @@
 - [x] Limit Vinteum drops to player killed mobs only
 - [x] Skylands Biomes added to the finite water whitelist
 - [x] Separated out villages more
+- [x] Gateways to Eternity - Thanks Dev!
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
-- [ ] Gateways to Eternity
-  - Add an absolute metric ton of gateways with all types of mobs (add alex mobs?) *cause **thats** going to be fun*
-  - Find out what rewards should be allowed
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add Quest and Backup mods
 - [ ] Advanced Ore Overhaul to include hot and cold liquids
@@ -91,7 +89,6 @@
 - [ ] WAIT FOR UPDATES  (Check on this Sept 1st)
   - [ ] Add the More Minecarts Chunk loader seperate mod they are making
   - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
-  - [ ] TFMG is missing raw blocks and also missing nuggets
 
 # Ongoing Changes:
 - Progression balances making things more even across the board
