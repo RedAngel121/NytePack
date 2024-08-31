@@ -1,3 +1,4 @@
+# Use the official Node.js image based on Alpine
 FROM node:21-alpine3.17
 
 # Install basic development tools
@@ -6,27 +7,26 @@ RUN apk update && apk add --no-cache less man-db sudo git openssh zsh curl
 # Install Oh My Zsh
 RUN sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+# Ensure .zshrc file exists and is writable by the node user
+RUN touch /home/node/.zshrc && chown node:node /home/node/.zshrc
+
 # Set theme to agnoster
-RUN sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="agnoster"/g' ~/.zshrc
+RUN sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="agnoster"/g' /home/node/.zshrc
 
 # Install zsh-syntax-highlighting plugin
-RUN git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-RUN sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting)/g' ~/.zshrc
+RUN git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-/home/node/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+RUN sed -i 's/plugins=(git)/plugins=(git zsh-syntax-highlighting)/g' /home/node/.zshrc
 
-# Ensure default `node` user has access to `sudo`
-ARG USERNAME=node
-RUN echo $USERNAME ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/$USERNAME \
-    && chmod 0440 /etc/sudoers.d/$USERNAME
+# Ensure default node user has access to sudo
+RUN echo node ALL=\(root\) NOPASSWD:ALL > /etc/sudoers.d/node \
+    && chmod 0440 /etc/sudoers.d/node
 
-# Set `DEVCONTAINER` environment variable to help with orientation
+# Set DEVCONTAINER environment variable to help with orientation
 ENV DEVCONTAINER=true
 
-# Use `node` user by default
-USER node
-
-# Change the owner of the node directories to the `node` user
+# Change the owner of the directories to the node user
 USER root
-RUN chown -R node:node /usr/local/lib/node_modules
+RUN chown -R node:node /usr/local/lib
 RUN chown -R node:node /usr/local/bin
 USER node
 
