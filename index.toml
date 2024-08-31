@@ -9205,7 +9205,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
+hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
 metafile = true
 
 [[files]]
@@ -9365,7 +9365,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3fcbf119bb838ad522fcbaf6f56060065d1337034b8af21e496a843207e0d707"
+hash = "4cdca7d5407336a4e2e9cf6276ed3b28fe3931021562a09e332033f8e0420804"
 metafile = true
 
 [[files]]
@@ -9490,7 +9490,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "da57e5e28cb28d11fa3f6d2941fcbf2bfb606c076dda464b2b07877f0cb99f75"
+hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
 metafile = true
 
 [[files]]
@@ -9655,7 +9655,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
+hash = "ee10ff198468b7bc9c1269fa828a0d0f09f99f00b36bc67474ead66e21a6f27b"
 metafile = true
 
 [[files]]
@@ -9700,7 +9700,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "a943b190ae8648304ae8f33c139ee59a0f90f2f30c997e4fcb4f246aed4f9a0a"
+hash = "1688cf8e91002b58e23e3040a8b72a728ca76f054d110440d1e91b0d8ec4b16a"
 metafile = true
 
 [[files]]
