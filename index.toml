@@ -453,6 +453,66 @@ file = "kubejs/assets/jajasgates/sounds/wormhole_idle.ogg"
 hash = "77861ec3c41d77aa4ff260f0bea64f4945c40cdde76b3d961658b1420db8829f"
 
 [[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/cl_xtreme/xtreme_event_horizon.png"
+hash = "bf52258d05f663cf32b728cbed2cfb3fe07e7711554ac7196eaa39478b901cc5"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/cl_xtreme/xtreme_event_horizon_shiny.png"
+hash = "3bac57fba26363f2ab96482c8262cf4a3dde6b21b2ce76378c647a3ff458cdf5"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/cl_xtreme/xtreme_event_horizon_shiny.xcf"
+hash = "c9544b32b3eb184bf217b865640cd61eddfd8dbb009bf9ffca6dbad2329e5560"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/cl_xtreme/xtreme_stargate.png"
+hash = "a09335a14394d3f719192cc4b8c059277dc054e0fdf6d820d2458d8f466e3ecc"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/cl_xtreme/xtreme_stargate.xcf"
+hash = "1d4ea67e417abfef8c4192663fc06c3a2457e89ffdb8c3a587fee9b267678302"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/cl_xtreme/xtreme_stargate_engaged.png"
+hash = "9e126f25dac91a0778e21a11ad5582f16c93b7ea47e122e4be4272d3f19fe1e5"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/cl_xtreme/xtreme_stargate_engaged.xcf"
+hash = "6b0f0cfe1133261828db9fffdb368bbeeecc5940472a9b53ab54a443f51f56b0"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/event_horizon.png"
+hash = "6a4cc3525a891402986081237ce6f2c4a0a63171e8910b1ca3d813a17cc13cba"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/event_horizon_shiny.png"
+hash = "bf49a69bb4c1cba7e068e85ec8ae6e25eb6b7aac44f973b8333f76e319e32a1c"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/event_horizon_shiny.xcf"
+hash = "5f1cab4f634550eb2904d51dcc00c580230ea1058ccf33bf8f00b02c32f98a65"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/stargate.aseprite"
+hash = "9b97c369baa3b47fb84b3d257ebf67de2f4f18cd3324214806e3434e6a6cc5b9"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/stargate.png"
+hash = "99eb3a6399942e6f422cc5892a56a066687d061c204875e57e19396b89cdee75"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/stargate_alternate_engaged.png"
+hash = "47c1dfc63990351836cd63227bff623b4c60575f5e891bb9bc511f8444957fbc"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/stargate_engaged.aseprite"
+hash = "7fa2a6f6d0cf50f672b8b1d38a9d11c880e247a456b05058f46bd742cc559e20"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_darkmetal/stargate_engaged.png"
+hash = "e65190aa10f403b39796c95b9fa2b56a79adcec7f588635fe1ff403c38cb0a8d"
+
+[[files]]
 file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_nether/event_horizon.png"
 hash = "40e52f7dbbebca15acb4d12d5d71216849eda4beb3f44a93e047f3ac6189a984"
 
@@ -494,7 +554,7 @@ hash = "7a9d41d1f965fe10fca67cf6127a407e4c7a545ae41714fad01add831778a223"
 
 [[files]]
 file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/stargate.png"
-hash = "8a73b785d6b023499e4f0dcdd362f3d2c87e0b4ae0e949ee293cfaa1a3ba600e"
+hash = "9b231581bb3321488d7fabbc7cc7f689f405b56066944b84445b6ad814759844"
 
 [[files]]
 file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_oak/stargate_alternate.png"
@@ -559,6 +619,22 @@ hash = "47c1dfc63990351836cd63227bff623b4c60575f5e891bb9bc511f8444957fbc"
 [[files]]
 file = "kubejs/assets/jajasgates/textures/entity/stargate/mw_stone/stargate_engaged.png"
 hash = "8fcc531f6fce4434daa0900007146e7c5a9b392aeafcc131fbaa1f83fe30dd07"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/symbols/cl_xtreme.aseprite"
+hash = "603ebbedcdd984850e5163f27b2cb959910365b5a82ff9cf2208042d55649732"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/symbols/cl_xtreme.png"
+hash = "34d5b2f9573c6861a7fd138d875817b3ec199355917467cae8365b34497da01f"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/symbols/cl_xtreme.xcf"
+hash = "c1b9b4ce013ddc0d69545a3a5791349ba6870de550e26dc76d16acee43af5889"
+
+[[files]]
+file = "kubejs/assets/jajasgates/textures/symbols/point_of_origin/cl_xtreme.png"
+hash = "589900a7b8cd8b6c2ef715ef4063b9a7829a164d981831f657873d3e674e779c"
 
 [[files]]
 file = "kubejs/assets/lightmanscurrency/models/block/large_vending_machine/base_bottom_right.json"
@@ -6129,16 +6205,36 @@ file = "kubejs/data/immersive_aircraft/recipes/warship.json"
 hash = "11800c2df6a9145cae239c5b13b3d4e6f13ad6b8273ab0e8b94d38b9fa726ea2"
 
 [[files]]
+file = "kubejs/data/jajasgates/recipes/crystallizing/cl_xtreme_variant_crystal.json"
+hash = "9082c59e10a7f1f719fe8acbb889f15e4a83de888a3d72d8b3d86597f99f473d"
+
+[[files]]
+file = "kubejs/data/jajasgates/recipes/crystallizing/mw_darkmetal_variant_crystal.json"
+hash = "aa33048398303c3354c9ab318e15ce839043f907685bf9f7d978d31270efd0af"
+
+[[files]]
 file = "kubejs/data/jajasgates/recipes/crystallizing/mw_nether_variant_crystal.json"
-hash = "847c4f3af82cec2a83cd7de5d14177d7f9c6c26d0e73decb57ca5da670e3dc5d"
+hash = "ce892947a43145a4287d57fc2bb50e3ea524478e490e828031e832b2769c7b3e"
 
 [[files]]
 file = "kubejs/data/jajasgates/recipes/crystallizing/mw_oak_variant_crystal.json"
-hash = "a15f09ca270c1577c0cd0a7ad59cf5cdd58fe601d1d519a54430d5d52b30639a"
+hash = "0be0237edf6522a3f19d78531e683a0eef9ba28097c9de0115565b2d7d24783d"
 
 [[files]]
 file = "kubejs/data/jajasgates/recipes/crystallizing/mw_stone_variant_crystal.json"
-hash = "de9f7c218265f1dfe17872cd493c10ce3bd9228a75f88968bccbd03c612cc36d"
+hash = "d578aa8a853b44c1bfc62d221c626fa4cd5286be9b1d34634497f50bb08e9fbf"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/point_of_origin/cl_xtreme.json"
+hash = "bff47fe8497d4f369a8974c0935ff2663e06a4f0c72d5ee78957de6d36be3b88"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/stargate_variant/cl_xtreme.json"
+hash = "6d8d6d88e30a9bf5f186038faf8564abda93fd02fecc3642f3f8ffcf9cbbcaa5"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/stargate_variant/mw_darkmetal.json"
+hash = "afd0001d19684e4fcf71882cf913a578d80b24156eaf211529643a4b11c1ae59"
 
 [[files]]
 file = "kubejs/data/jajasgates/sgjourney/stargate_variant/mw_nether.json"
@@ -6151,6 +6247,14 @@ hash = "5437b24acabcce7086f2c5eb09dfd4c8b7811beeab0f31fbedfcbdad369b83cf"
 [[files]]
 file = "kubejs/data/jajasgates/sgjourney/stargate_variant/mw_stone.json"
 hash = "fc9d447221f38327677f6514f8c6243658436523dc47bc1794e6f0d9f0dac708"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/symbol_set/cl_xtreme.json"
+hash = "8c050cbc068f3d98d17c68700dc06155cd06eb8529f7c1d5aeeacbb248c05294"
+
+[[files]]
+file = "kubejs/data/jajasgates/sgjourney/symbols/cl_xtreme.json"
+hash = "ca394b600f494046c3a411f064d67f09e599e7e36474e493edc5df385c639731"
 
 [[files]]
 file = "kubejs/data/lightmanscurrency/loot_tables/loot_addons/entity/tier1.json"
@@ -8182,7 +8286,7 @@ hash = "22831940879146e93e0393a682fd9cf088b177baaee325035ad5410b3cdc64e8"
 
 [[files]]
 file = "kubejs/data/sgjourney/tags/worldgen/structure/milky_way_stargate_pedestal.json"
-hash = "a7606c70fc0f8dd6ff8f7b68c508f79c975269fd8f080e808698dc587a3933c7"
+hash = "24bd84f5c4a4a85342dd8a494c41f6f672c6265bacc708ae54a374a74ba9350d"
 
 [[files]]
 file = "kubejs/data/sgjourney/worldgen/biome/abydos_desert.json"
@@ -9715,7 +9819,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
