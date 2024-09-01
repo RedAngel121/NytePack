@@ -35,6 +35,7 @@
 - Lightmans Currency and Traders
 - Expanded Upgradeable Tools and Armor
 - Expanded and Accessible Storage
+- Boats Overhaul and Planes!
 
 # ~ PACK BUILD NOTES ~
 1. No Easy Teleporting items or players (Stargate Exception because FE req)
@@ -80,6 +81,10 @@
 - [x] Gateways to Eternity - Thanks Dev!
 
 # Upcoming Changes:
+- [ ] remove basic boat recipes
+- [ ] fix weeds growing rate
+- [ ] current corpse mod deletes toolbelts?
+
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
@@ -96,7 +101,7 @@
 - Sophisticated DefaultConfigs add new items to blacklist
 - Chicken Shed Configs can allow other mobs to drop items once every 20 min
 - Add structure loot tables from other mods for lightmans to insert coins into
-- Naquadah and UnderGarden mats need balancing
+- Naquadah and UnderGarden mats need balancing in silent gear configs
 - Stargate Power Requirements need adjustments
 
 # Interesting Ideas:
