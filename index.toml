@@ -9188,6 +9188,11 @@ hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "5734f077bfc946f59bc8b3060d7f6141ad49a75738891cb962cf1834d9c4c449"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -9339,7 +9344,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "de21d0e973ff6b8d66998e8d511bacba53a0728f90a03431ca9d8b25823c15e4"
+hash = "059c499bc5a8935b38240eeee440d3b541ba7a0a1cfa1d1c2b4c1e7e948cf723"
 metafile = true
 
 [[files]]
@@ -9469,7 +9474,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4cdca7d5407336a4e2e9cf6276ed3b28fe3931021562a09e332033f8e0420804"
+hash = "e6b5a69d9403c9fc91c2fe3e2029e0e5017734f88a5decd2e897bddab75acd7c"
 metafile = true
 
 [[files]]
