@@ -1,6 +1,6 @@
 {
   "aggressive": true,
-  "growth_chance": 0.6,
+  "growth_chance": 0.25,
   "lethal": true,
   "mods": [],
   "requirement": {
@@ -29,7 +29,7 @@
       "value": "medium"
     }
   },
-  "spawn_chance": 0.15,
+  "spawn_chance": 0.05,
   "stages": [
     2,
     4,
