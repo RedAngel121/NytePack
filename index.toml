@@ -7250,7 +7250,7 @@ hash = "523ab67efedcf7bcaac9f734f561ac02785d94c033b32b8fef490e7b23f333e9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/villages.json"
-hash = "86ac5284a4beab820b2767e1680fc185c740e937e7764ba197ae2aff97757c3f"
+hash = "128910ac09106d22464e2fc4a0cc0f2dd7749b10408012d7630dda406a5188d9"
 
 [[files]]
 file = "kubejs/data/mna/recipes/practitioners_pouch.json"
@@ -9110,7 +9110,7 @@ hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "0f7f4589a85587f5e1326f1f47a7529a63047d81d798a889b25d7902055ae005"
+hash = "1fff1b087b46d6bb1e36742b35d53101d7c3705ca6924a5cdd12420400d5e3e5"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -9474,7 +9474,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e6b5a69d9403c9fc91c2fe3e2029e0e5017734f88a5decd2e897bddab75acd7c"
+hash = "2335be5f6b58d942bd7bae46cbfe0a5d3ee48e19e2f7e33ca0f5d9377c95639d"
 metafile = true
 
 [[files]]

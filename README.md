@@ -79,9 +79,9 @@
 - [x] Skylands Biomes added to the finite water whitelist
 - [x] Separated out villages more
 - [x] Gateways to Eternity - Thanks Dev!
+- [x] Removed standard boats in favor of Nifty Ships
 
 # Upcoming Changes:
-- [ ] remove basic boat recipes
 - [ ] fix weeds growing rate
 
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself

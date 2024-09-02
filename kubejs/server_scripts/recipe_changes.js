@@ -134,6 +134,8 @@ ServerEvents.recipes(event => {
     for (let ID of recipes) {
         event.remove({ id: ID })
     }
+    // Removing standard boats in favor of Nifty Ships
+    event.remove({result:"#minecraft:boats"})
     // Add New Recipes
     event.shapeless("minecraft:flint", "4x minecraft:gravel")
     event.recipes.create.pressing("#forge:paper", "#forge:paper_plants")
