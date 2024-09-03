@@ -2,7 +2,7 @@
 FROM node:21-alpine3.17
 
 # Install basic development tools
-RUN apk update && apk add --no-cache less man-db sudo git openssh zsh curl
+RUN apk update && apk add --no-cache less man-db sudo git openssh zsh curl gnupg
 
 # Install Oh My Zsh
 RUN sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
