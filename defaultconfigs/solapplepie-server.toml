@@ -33,26 +33,26 @@
 	#
 	#
 	benefitsUnparsed = [
-	"attribute,generic.max_health,1",
-	"attribute,generic.max_health,1",
-	"attribute,generic.max_health,1;effect,haste,0",
-	"attribute,generic.max_health,1",
-	"attribute,generic.max_health,2",
-	"attribute,generic.max_health,2;effect,strength,0",
 	"attribute,generic.max_health,2",
 	"attribute,generic.max_health,2",
-	"attribute,generic.max_health,3;effect,speed,0",
-	"attribute,generic.max_health,3",
-	"attribute,generic.max_health,3",
-	"attribute,generic.max_health,3;attribute,generic.armor_toughness,2",
+	"attribute,generic.max_health,2;effect,haste,0",
 	"attribute,generic.max_health,4",
 	"attribute,generic.max_health,4",
-	"attribute,generic.max_health,4;effect,luck,0",
+	"attribute,generic.max_health,4;effect,strength,0",
 	"attribute,generic.max_health,4",
-	"attribute,generic.max_health,5",
-	"attribute,generic.max_health,5;effect,strength,1",
-	"attribute,generic.max_health,5",
-	"attribute,generic.max_health,5;effect,regeneration,1"]
+	"attribute,generic.max_health,6",
+	"attribute,generic.max_health,6;effect,speed,0",
+	"attribute,generic.max_health,6",
+	"attribute,generic.max_health,6",
+	"attribute,generic.max_health,6;attribute,generic.armor_toughness,2",
+	"attribute,generic.max_health,8",
+	"attribute,generic.max_health,8",
+	"attribute,generic.max_health,8;effect,luck,0",
+	"attribute,generic.max_health,8",
+	"attribute,generic.max_health,8",
+	"attribute,generic.max_health,8;effect,strength,1",
+	"attribute,generic.max_health,10",
+	"attribute,generic.max_health,10;effect,regeneration,1"]
 	# The minimum number of foods a player needs to eat before any benefits are applied.
 	#
 	#
