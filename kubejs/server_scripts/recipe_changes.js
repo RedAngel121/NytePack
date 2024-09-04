@@ -9,13 +9,23 @@ ServerEvents.tags("item", event => {
         event.add("create:crushed/" + each, "create:crushed_raw_" + each)
     }
     event.add("create:crushed/aluminum", "create:crushed_raw_aluminum")
-
+    // Adding a Coin Tag to every kind of Lightmans Coins
     let coins = ["iron", "copper", "gold", "diamond", "emerald", "netherite"]
     for (let each of coins) {
         event.add("forge:coins", "lightmanscurrency:coin_" + each)
         event.add("forge:coins", "lightmanscurrency:coinpile_" + each)
         event.add("forge:coins", "lightmanscurrency:coinblock_" + each)
     }
+    // Adding the Shulker boats to the boats tag
+    event.add("minecraft:boats", "utilitix:acacia_shulker_boat")
+    event.add("minecraft:boats", "utilitix:birch_shulker_boat")
+    event.add("minecraft:boats", "utilitix:cherry_shulker_boat")
+    event.add("minecraft:boats", "utilitix:dark_oak_shulker_boat")
+    event.add("minecraft:boats", "utilitix:jungle_shulker_boat")
+    event.add("minecraft:boats", "utilitix:mangrove_shulker_boat")
+    event.add("minecraft:boats", "utilitix:oak_shulker_boat")
+    event.add("minecraft:boats", "utilitix:spruce_shulker_boat")
+    event.add("minecraft:boats", "utilitix:bamboo_shulker_raft")
 })
 
 // Remove Unwanted Recipes
@@ -135,7 +145,7 @@ ServerEvents.recipes(event => {
         event.remove({ id: ID })
     }
     // Removing standard boats in favor of Nifty Ships
-    event.remove({result:"#minecraft:boats"})
+    event.remove({output:"#minecraft:boats"})
     // Add New Recipes
     event.shapeless("minecraft:flint", "4x minecraft:gravel")
     event.recipes.create.pressing("#forge:paper", "#forge:paper_plants")

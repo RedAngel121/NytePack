@@ -1,0 +1,18 @@
+{
+	"type": "mna:manaweaving-recipe",
+	"output": "mna:bubble_boat",
+	"tier": 3,
+	"items": [
+		"minecraft:bubble_coral",
+		"alekiships:watercraft_frame_flat",
+		"mna:rune_water"
+	],
+	"patterns": [
+		"mna:circle",
+		"mna:circle",
+		"mna:circle",
+		"mna:circle",
+		"mna:circle",
+		"mna:circle"
+	]
+}

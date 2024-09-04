@@ -166,7 +166,7 @@ hash = "d8876edbcf59f817014ac74c48cb6b9483892f363d6885863e4a18d6bb12991d"
 
 [[files]]
 file = "config/solapplepie-client.toml"
-hash = "dd280b59fa5ba2fbe97522b26355931f7ca06de7465a956602e7d629b869bdba"
+hash = "cb9f5a989a9a71810ac49c5f52d3cebabed3c711932b0c7b639b2a53d7c23ace"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -266,7 +266,7 @@ hash = "d8652857d41a4620802f50b3dc7f98a7807e71fc7def983e4e68f20ac2b9fb3d"
 
 [[files]]
 file = "defaultconfigs/solapplepie-server.toml"
-hash = "7a83fd5b27f00335d867099b526313f14ca221a9f586aa1790b85142f8cbad5f"
+hash = "8173836184df67c8e622962841cb9489a1a9c35e83866fab7bddbc79d75b184e"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -5874,7 +5874,7 @@ hash = "c95df2c529538419c37c99f9368c80594d11fcffd6efe96fa3cba3e4619bcf40"
 
 [[files]]
 file = "kubejs/client_scripts/item_hide.js"
-hash = "bc23e8de84a82dc0bc43df3d53bf6e1d7d243dda6c8b01f184f4bf3e25b5571c"
+hash = "4c0cae9ab6cd63d3a8420a34b96ce0772d657b386be555f124f9aeb4f65ffffa"
 
 [[files]]
 file = "kubejs/data/agricraft/agricraft/mutations/amathyllis.json"
@@ -6037,6 +6037,10 @@ file = "kubejs/data/gateways/gateways/basic/blaze.json"
 hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
+file = "kubejs/data/gateways/gateways/basic/custom_health.json"
+hash = "5fe38b6bd8764c55b602cfd9a4c04c8ddf4a35891fdd4982db30b7430031f1fa"
+
+[[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_power.json"
 hash = "47bc48cedf74404f145f9cbe7a4cdb23c4bde153d45947154d489dacc5b77f2e"
 
@@ -6047,10 +6051,6 @@ hash = "c7e89dd3de00f507ac7f915303dc5b4020317468197ebd8b205f1fbb724bb408"
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
 hash = "d3bacc27826b733943e9d12ea749203b4387df94edfd28579dce0475fc2493ab"
-
-[[files]]
-file = "kubejs/data/gateways/gateways/basic/custom_test.json"
-hash = "95d41494d353db959a0f487d286246d3b8a5f8744db8673e36aa526073322158"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/enderman.json"
@@ -6094,15 +6094,19 @@ hash = "337b642662db798b8c2892a3fe5678aebbd159b437ba9298acd06653f6fc87a9"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/cracked_gems.json"
-hash = "4804e0f6b38f840d28f0973b67849dc18b3ba0b2c572b04c8c9f057d2ac27e5d"
+hash = "11d1a3f067b15e3573382691a570fd239b0a0acf37c9c41b165bf45f98ef9927"
+
+[[files]]
+file = "kubejs/data/gateways/loot_tables/gateway_health.json"
+hash = "36e46053a777c3df0ec352d2eb0169eea082417e64fb8efdfce6cd6ed1cdb9b1"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_practice.json"
-hash = "7b967dcf9b7d4e0a32fa26cfc2d07343b27d51aba8dddb0f7d8b7f9141df626e"
+hash = "944d8a4792ef0da5bbb47ffc94d782e618963b7d20235e2e2ff3c45e3569a79f"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_sparkles.json"
-hash = "15c6fdee47ff26785fa2304d6c359516831f90d08c156f27c733c6c1caaf5552"
+hash = "c735b86c4ef37d655a6cba285aa1c95e66b5b1185eb8b6da6a508ce718419352"
 
 [[files]]
 file = "kubejs/data/glassential/recipes/glass_ghostly.json"
@@ -7251,6 +7255,26 @@ hash = "523ab67efedcf7bcaac9f734f561ac02785d94c033b32b8fef490e7b23f333e9"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/villages.json"
 hash = "128910ac09106d22464e2fc4a0cc0f2dd7749b10408012d7630dda406a5188d9"
+
+[[files]]
+file = "kubejs/data/mna/recipes/components/drown.json"
+hash = "2050eb79a1a24fc20106675deee75faa69b131e6d0ff22c4af4bd95a07c3fedc"
+
+[[files]]
+file = "kubejs/data/mna/recipes/manaweaving/artifice/bubble_boat.json"
+hash = "e27e0adf313ea7268b3ae00deaa6eeb8d4b2f015b0de7b9cd34d3f6724daa2a1"
+
+[[files]]
+file = "kubejs/data/mna/recipes/manaweaving/enchanting/luck_of_the_sea_i.json"
+hash = "26089c6b0bc25dce47d315859f2d3688fe452d938e0f62f1e61b8f1cfaaf01a6"
+
+[[files]]
+file = "kubejs/data/mna/recipes/manaweaving/enchanting/luck_of_the_sea_ii.json"
+hash = "c0247a466b7cbcb5f6d35d0784b0d4efc345cf1e5946132fb1a8277e16787c4a"
+
+[[files]]
+file = "kubejs/data/mna/recipes/manaweaving/enchanting/luck_of_the_sea_iii.json"
+hash = "8967fbed592e5a60d1236bc528df99a3ccbc745e8f392c1acf6a205e48a070cf"
 
 [[files]]
 file = "kubejs/data/mna/recipes/practitioners_pouch.json"
@@ -9110,7 +9134,7 @@ hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "1fff1b087b46d6bb1e36742b35d53101d7c3705ca6924a5cdd12420400d5e3e5"
+hash = "bed8432c34e53c199f4b155ced13671571e243b027e02ab839457ff3f0c9151b"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -9474,7 +9498,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2a8f3a298820fa60b0fcdc25779f36012e2530ce73fc76efe38369c147e3eb0a"
+hash = "5afbf11baeb614979ca090b20287db95e364d06a8284e74365c2aad2f1f899bc"
 metafile = true
 
 [[files]]

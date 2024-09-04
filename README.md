@@ -80,12 +80,13 @@
 - [x] Separated out villages more
 - [x] Gateways to Eternity - Thanks Dev!
 - [x] Removed standard boats in favor of Nifty Ships
-
+- [x] Replaced recipes needing a boat with alekiships:watercraft_frame_flat
+pack
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Setup Discord Integration
-- [ ] look into https://www.curseforge.com/minecraft/mc-mods/create-molten-vents
+- [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
 - [ ] Find a way to prevent Village buildings from spawning in rivers
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add Quest and Backup mods

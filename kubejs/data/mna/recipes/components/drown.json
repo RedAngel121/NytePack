@@ -1,0 +1,20 @@
+{
+	"type": "mna:component",
+	"tier": 4,
+	"output": "mna:drown",
+	"items":
+	[
+		"alekiships:watercraft_frame_flat",
+		"mna:mote_water",
+		"mna:wakebloom",
+		"minecraft:salmon",
+		"minecraft:salmon",
+		"minecraft:cod",
+		"minecraft:cod"
+	],
+	"patterns":
+	[
+		"mna:manaweave_patterns/circle",
+		"mna:manaweave_patterns/hourglass"
+	]
+}

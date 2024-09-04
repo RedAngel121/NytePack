@@ -1,0 +1,22 @@
+{
+	"type": "mna:manaweaving-recipe",
+	"tier": 4,
+	"output": "mna:rune_water",
+	"enchant": "minecraft:luck_of_the_sea",
+	"magnitude": 2,
+	"items": [
+		"mna:rune_water",
+		"minecraft:compass",
+		"minecraft:tropical_fish",
+		"minecraft:salmon",		
+		"alekiships:watercraft_frame_flat",
+		"minecraft:ink_sac",
+		"minecraft:name_tag",
+		"minecraft:lily_pad",
+		"mna:mote_water"
+	],
+	"patterns": [
+		"mna:manaweave_patterns/triangle",
+		"mna:manaweave_patterns/circle"
+	]
+}
