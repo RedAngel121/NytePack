@@ -9130,7 +9130,7 @@ hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "e7b3682320e93542671dc9d7e706d0b1d015fe3653cca5fdc458130292ebed52"
+hash = "7ca5f2fc79edfffabb714e829f5615e96a59da5af72eb3631e41c06a0fbdfce0"
 
 [[files]]
 file = "mods/agricraft.pw.toml"
@@ -9479,7 +9479,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "0168bb4b630667a0ec54738727619da4b81f9d84ec92501269bc8fb847ed2e9a"
+hash = "4e8f486fd2fc6fd61370570450918f63e5b4850ceba0192c610896ac1ac9d87d"
 metafile = true
 
 [[files]]

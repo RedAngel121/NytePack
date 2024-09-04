@@ -80,7 +80,7 @@
 - [x] Separated out villages more
 - [x] Gateways to Eternity - Thanks Dev!
 - [x] Removed standard boats in favor of Nifty Ships
-- [x] Replaced recipes needing a boat with alekiships:watercraft_frame_flat
+- [x] Replaced recipes needing a boat with `alekiships:watercraft_frame_flat`
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
@@ -92,7 +92,7 @@
 - [ ] Add Quest and Backup mods
 - [ ] Advanced Ore Overhaul to include hot and cold liquids
 
-- [ ] WAIT FOR UPDATES  (Check on this Sept 1st)
+- [ ] WAIT FOR UPDATES (Check on this Sept 1st)
   - [ ] Add the More Minecarts Chunk loader seperate mod they are making https://www.curseforge.com/minecraft/mc-mods/more-minecarts/files/all
   - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 
