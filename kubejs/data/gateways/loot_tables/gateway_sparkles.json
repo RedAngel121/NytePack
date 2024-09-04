@@ -4,22 +4,19 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "item",
+          "type": "minecraft:item",
           "name": "gateways:custom_practice",
-          "weight": 1,
-          "functions": []
+          "weight": 1
         },
         {
-          "type": "item",
+          "type": "minecraft:item",
           "name": "gateways:custom_sparkles",
-          "weight": 7,
-          "functions": []
+          "weight": 7
         },
         {
-          "type": "item",
+          "type": "minecraft:item",
           "name": "gateways:custom_power",
-          "weight": 2,
-          "functions": []
+          "weight": 2
         }
       ]
     },
@@ -27,12 +24,12 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "name": "gateways:cracked_gems",
           "weight": 1,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
                 "min": 2,
                 "max": 4
@@ -46,14 +43,15 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "experience",
+          "type": "minecraft:item",
+          "name": "create:experience_nugget",
           "weight": 1,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 104,
-                "max": 216
+                "min": 35,
+                "max": 72
               }
             }
           ]

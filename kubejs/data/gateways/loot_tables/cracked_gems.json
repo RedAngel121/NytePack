@@ -1,191 +1,153 @@
 {
     "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/ballast"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/brawler"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/breach"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/combatant"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/guardian"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/lightning"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/lunar"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/samurai"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/slipstream"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/solar"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/splendor"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/tyranical"
-                    },
-                    "weight": 1,
-                    "functions": []
-                },
-                {
-                    "type": "item",
-                    "name": "apotheosis:gem",
-                    "nbt": {
-                        "id": "apotheosis:gem",
-                        "Count": 1,
-                        "affix_data": {
-                            "rarity": "apotheosis:common"
-                        },
-                        "gem": "apotheosis:core/warlord"
-                    },
-                    "weight": 1,
-                    "functions": []
-                }
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/ballast\"}"
+              }
             ]
-        }
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/brawler\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/breach\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/combatant\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/guardian\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/lightning\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/lunar\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/samurai\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/slipstream\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/solar\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/splendor\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/tyranical\"}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "apotheosis:gem",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{\"id\": \"apotheosis:gem\",\"Count\": 1,\"affix_data\": {\"rarity\": \"apotheosis:common\"},\"gem\": \"apotheosis:core/warlord\"}"
+              }
+            ]
+          }
+        ]
+      }
     ]
-}
+  }
+  
