@@ -6001,6 +6001,10 @@ file = "kubejs/data/betterjungletemples/worldgen/structure_set/jungle_temples.js
 hash = "c6c22ee21eda7dcac64e5e77ea0c774b0142b1fd7063bff52ab5882a749f2f30"
 
 [[files]]
+file = "kubejs/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.json"
+hash = "da9358c459e9ce1d218b55b419d2bde32eb5e5cefa37a35baa002ff396f39df4"
+
+[[files]]
 file = "kubejs/data/create/loot_tables/blocks/deepslate_zinc_ore.json"
 hash = "d8cc5a23b79149e743af272f4bcb67d9d5c91c099edacd7758a7ccc48713173a"
 
@@ -6015,14 +6019,6 @@ hash = "b567c51fb201528b7908b4714f24c2ea170a01ae86d499d6aa715b03ad76140a"
 [[files]]
 file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
 hash = "1ae3ffbc206fa25a25ab0bfd75f18af7e1298135d652f42b3b106739f163514c"
-
-[[files]]
-file = "kubejs/data/ctov/worldgen/structure_set/pillager_outposts.json"
-hash = "523ab67efedcf7bcaac9f734f561ac02785d94c033b32b8fef490e7b23f333e9"
-
-[[files]]
-file = "kubejs/data/ctov/worldgen/structure_set/villages.json"
-hash = "86ac5284a4beab820b2767e1680fc185c740e937e7764ba197ae2aff97757c3f"
 
 [[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
