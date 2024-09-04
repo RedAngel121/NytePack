@@ -102,6 +102,8 @@ JEIEvents.hideItems(event => {
     event.hide("minecraft:bamboo_raft")
     event.hide("minecraft:bamboo_chest_raft")
 
+    event.hide("quark:azalea_boat")
+    event.hide("quark:azalea_chest_boat")
     event.hide("quark:ancient_boat")
     event.hide("quark:ancient_chest_boat")
     event.hide("quark:blossom_boat")

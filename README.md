@@ -81,7 +81,7 @@
 - [x] Gateways to Eternity - Thanks Dev!
 - [x] Removed standard boats in favor of Nifty Ships
 - [x] Replaced recipes needing a boat with alekiships:watercraft_frame_flat
-pack
+
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst

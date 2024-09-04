@@ -17,6 +17,8 @@ ServerEvents.tags("item", event => {
         event.add("forge:coins", "lightmanscurrency:coinblock_" + each)
     }
     // Adding the Shulker boats to the boats tag
+    event.add("minecraft:boats", "quark:azalea_boat")
+    event.add("minecraft:boats", "quark:azalea_chest_boat")
     event.add("minecraft:boats", "utilitix:acacia_shulker_boat")
     event.add("minecraft:boats", "utilitix:birch_shulker_boat")
     event.add("minecraft:boats", "utilitix:cherry_shulker_boat")
