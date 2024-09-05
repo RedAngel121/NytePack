@@ -165,7 +165,7 @@
 # Lastly:
 - Adjust Client Keybinds and upload to the Nytepack_Installer.Zip
 - Turn off Wandering Trader `/gamerule doTraderSpawning false`
-- Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0`
+- Set Spawn and Rotation `/tp RedAngel121 0 200 0 0 0` then `/setworldspawn`
 - Reduce spawn radius `/gamerule spawnRadius 0`
 - Prevent Mob Griefing `/gamerule mobGriefing false`
 - Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 27`
