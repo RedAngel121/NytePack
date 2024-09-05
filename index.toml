@@ -6021,6 +6021,14 @@ file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
 hash = "1ae3ffbc206fa25a25ab0bfd75f18af7e1298135d652f42b3b106739f163514c"
 
 [[files]]
+file = "kubejs/data/ctov/worldgen/structure_set/pillager_outposts.json"
+hash = "523ab67efedcf7bcaac9f734f561ac02785d94c033b32b8fef490e7b23f333e9"
+
+[[files]]
+file = "kubejs/data/ctov/worldgen/structure_set/villages.json"
+hash = "128910ac09106d22464e2fc4a0cc0f2dd7749b10408012d7630dda406a5188d9"
+
+[[files]]
 file = "kubejs/data/finitewater/tags/worldgen/biome/has_infinite_water.json"
 hash = "a77e9db6168d1b6c89992e77963a542af7563bdc3022cc9458ba34fe819d6697"
 
