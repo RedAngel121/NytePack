@@ -9137,12 +9137,8 @@ file = "kubejs/data/undergarden/worldgen/placed_feature/utherium_ore.json"
 hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
-file = "kubejs/server_scripts/loot_drop.js"
-hash = "8e9dbd761b4c73715f79cb0240291a76c5ad42503b2021daa6499c18330411fc"
-
-[[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "7ca5f2fc79edfffabb714e829f5615e96a59da5af72eb3631e41c06a0fbdfce0"
+hash = "8f7159c23848bd8f2649d1e4e21b063fbad75be7053b9418daafbbfc5f1f21b4"
 
 [[files]]
 file = "mods/agricraft.pw.toml"

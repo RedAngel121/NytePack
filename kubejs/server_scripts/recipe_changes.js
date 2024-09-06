@@ -1,3 +1,9 @@
+// Adding 50% chance to drop one Vinteum Dust per mob
+LootJS.modifiers(event => {
+    event.addLootTypeModifier(LootType.ENTITY).killedByPlayer()
+        .addLoot(LootEntry.of("mna:vinteum_dust").limitCount([0, 1]))
+})
+
 // Mats needing to be changed in tags and recipes
 let materials = ["iron", "copper", "gold", "zinc", "lithium", "nickel", "osmium", "tin", "lead", "uranium", "crimson_iron", "azure_silver", "cloggrum", "froststeel"]
 
