@@ -8166,7 +8166,11 @@ hash = "629d4b1128ce0d38d6f3fd542a5163094f2b3d32014297af271d4e3f07cac9b2"
 
 [[files]]
 file = "kubejs/data/scalinghealth/tags/entity_types/blight_exempt.json"
-hash = "b374d36c9b710337a097d26368e18f67973f85e2b4b7d316782257bf015c426a"
+hash = "e348322b4cf0504f30f22a40c40d43b9f63883ed3a6237708900cc46fb9ce779"
+
+[[files]]
+file = "kubejs/data/scalinghealth/tags/entity_types/difficulty_exempt.json"
+hash = "c03792835f8dbc18348466daa335813577e64ed37f15d7237307b654f68a5c46"
 
 [[files]]
 file = "kubejs/data/sgjourney/dimension_type/abydos.json"
@@ -9372,7 +9376,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "059c499bc5a8935b38240eeee440d3b541ba7a0a1cfa1d1c2b4c1e7e948cf723"
+hash = "ca0b21ce8f3b9771f12c028588d45a7c2bb0853f5dbe5b15bb583a92bc819b44"
 metafile = true
 
 [[files]]

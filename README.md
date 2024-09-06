@@ -119,29 +119,34 @@
 
 # Additional Server World Changes:
 - Possible Seeds = [3958719068018360977, -5555009957931297567]
-- Find out how much Starting Cash will be needed to play on the server
+- Find out how much Starting Cash will be needed to play on the server (to buy starter items)
 - Starting town built by hand or with MineColonies:
   - Rules house/room for spawn area
   - Will need seperate buildings for different styles of gameplay
   - One section for the Stargate if i cant place it in town center
+- Setup Nether and End Stargates:
+  - Nether and End will need manual setup
+  - Protect them using Admin claims
+  - Use Redstone dialing script
 - Passage to other Dims use the Stargate:
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
   - **Nether** payment will be Iron coins and a block of diamond
   - **End** payment will be Gold coins and netherite ingot
   - **Abydos** payment will be Emerald coins and chorus bud? dragon egg/head? something else? cataclysm?
   - **Undergarden** payment will be Diamond coins and a stargate base block
-- Add items to spawn that are common for players to use:
-  - Multiple Crafting Tables
-  - Anvil and Smith Table
+- Add interactable items to spawn that are common for players to use:
+  - Crafting Tables
+  - Anvils (with observer/command block to respawn it after it breaks)
+  - Smithing Tables
   - Apotheosis Tables
-  - Basic Enchanting
+  - Basic Enchanting Setup
   - Lightmans ATM
-  - Vending Machines
+  - Lightmans Vending Machines
 - Purchasable items from Server Vending Machines:
   - Starter Gear and Simple Items:
     - Weapons (wood/stone)
     - Armor (wood/stone/leather)
-    - Basic Food (carrot/potato/wheat/bread)
+    - Basic Food (carrot/potato/wheat/bread/other simple foods)
     - M&A Book
     - SilentGear Starter Blueprints
     - Basic Wallet
@@ -151,7 +156,7 @@
   - Gateways to Eternity Rewards:
     - Gateway chains that reward the player with another gateway or something else
     - Apoth Gems
-    - Vanilla Ingots + Zinc?
+    - Vanilla Ingots/Raw ore (+Zinc)?
     - Basic Silent Gear Items
     - Wither Bones
   - Baubely Heart Cans Vending Machines:
