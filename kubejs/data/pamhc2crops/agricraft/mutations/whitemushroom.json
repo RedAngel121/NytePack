@@ -1,6 +1,0 @@
-{
-  "chance": 0.5,
-  "child": "pamhc2crops:whitemushroom",
-  "parent1": "minecraft:red_mushroom",
-  "parent2": "minecraft:brown_mushroom"
-}

@@ -86,12 +86,11 @@
   TownTalk
 
 # Upcoming Changes:
-- [ ] Minecolonies-server freetointeractblocks add stuff
+- [ ] Minecolonies-server freetointeractblocks - add stuff and also change the Lucky blocks too
+- [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Setup Discord Integration
-- [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
-- [ ] Find a way to prevent CTOV buildings from spawning in rivers
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add Quest and Backup mods
 - [ ] Advanced Ore Overhaul to include hot and cold liquids
@@ -136,10 +135,10 @@
   - Use Redstone dialing script
 - Passage to other Dims use the Stargate:
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
-  - **Nether** payment will be Iron coins and a block of diamond
-  - **End** payment will be Gold coins and `create:rose_quartz`
-  - **Abydos** payment will be Emerald coins and `minecraft:chorus_flower`
-  - **Undergarden** payment will be Diamond coins and a stargate base block
+  - **Nether** payment will be 4 Iron coins
+  - **End** payment will be 3 Gold coins
+  - **Abydos** payment will be 2 Emerald coins
+  - **Undergarden** payment will be 1 Diamond coins
 - Add interactable items to spawn that are common for players to use:
   - Crafting Tables
   - Anvils (with observer/command block to respawn it after it breaks)
