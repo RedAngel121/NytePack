@@ -86,6 +86,7 @@
   TownTalk
 
 # Upcoming Changes:
+- [ ] Minecolonies-server freetointeractblocks add stuff
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Setup Discord Integration
