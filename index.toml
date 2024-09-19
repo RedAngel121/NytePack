@@ -233,10 +233,6 @@ file = "defaultconfigs/framedblocks-server.toml"
 hash = "4429acefe73eb64234730d53ffaf5d19c436210aab8ca72ceddfc53a64950dd1"
 
 [[files]]
-file = "defaultconfigs/minecolonies-server.toml"
-hash = "1db9fd53e910073f3362e303388541bc75e5002b0a402ecdd9b3ec91a4bca7d4"
-
-[[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "5d856c2807f75174a55b2c0ed44a4828c3938da8313fd328a70ea5b44c04d74e"
 
