@@ -25,15 +25,6 @@ ServerEvents.tags("item", event => {
     // Adding the Shulker boats to the boats tag
     event.add("minecraft:boats", "quark:azalea_boat")
     event.add("minecraft:boats", "quark:azalea_chest_boat")
-    event.add("minecraft:boats", "utilitix:acacia_shulker_boat")
-    event.add("minecraft:boats", "utilitix:birch_shulker_boat")
-    event.add("minecraft:boats", "utilitix:cherry_shulker_boat")
-    event.add("minecraft:boats", "utilitix:dark_oak_shulker_boat")
-    event.add("minecraft:boats", "utilitix:jungle_shulker_boat")
-    event.add("minecraft:boats", "utilitix:mangrove_shulker_boat")
-    event.add("minecraft:boats", "utilitix:oak_shulker_boat")
-    event.add("minecraft:boats", "utilitix:spruce_shulker_boat")
-    event.add("minecraft:boats", "utilitix:bamboo_shulker_raft")
 })
 
 // Remove Unwanted Recipes

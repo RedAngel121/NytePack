@@ -9,11 +9,8 @@
 - If you still want to play it then expect your stuff to be reset/borked a lot
 - No, I'm not helping you if something breaks, I'm probably working that problem anyway
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
-- Requires MultiMC/Prism or AT Launcher to play, ***CurseForge and Microsoft are not currently compatable.***
+- Requires Prism or ATLauncher to play, ***CurseForge and Microsoft are not currently compatable.***
 - Once a public server is ready I will be making an announcement in Discord
-
-### Update Forge to Latest version:
-- Make sure you update your forge to the latest version available for 1.20.1
 
 ### Multiplayer Server Rules and things to know:
 - Spawn is a Safe Haven; Protected and Defended. Do not find a way to destroy it lest your life be forefit.
@@ -23,7 +20,7 @@
 - You can Claim Land by purchasing the amount you want, Claims will be deleted after 90 IRL days of inactivity.
 - Enemies grow stronger with distance from spawn, do not stray far without preparing yourself for that.
 - Different dimensions empower enemies greatly, steel yourself for the fights of your life.
-- More info to come when I fell the need to share it...
+- More info to come when I feel the need to share it...
 
 # Pack Basics:
 - Expanded Crops and Growth Overhaul
@@ -81,6 +78,12 @@
 - [x] Gateways to Eternity - Thanks Dev!
 - [x] Removed standard boats in favor of Nifty Ships
 - [x] Replaced recipes needing a boat with `alekiships:watercraft_frame_flat`
+- [x] Added MineColonies:
+  Domum Ornamentum
+  Multi-Piston
+  Structurize
+  BlockUI
+  TownTalk
 
 # Upcoming Changes:
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
@@ -119,20 +122,22 @@
 
 # Additional Server World Changes:
 - Possible Seeds = [3958719068018360977, -5555009957931297567]
-- Find out how much Starting Cash will be needed to play on the server (to buy starter items)
-- Starting town built by hand or with MineColonies:
+- Find out how much Starting Cash will be needed to play on the server to buy starter items (+/- one iron )
+- Starting town built with MineColonies:
   - Rules house/room for spawn area
   - Will need seperate buildings for different styles of gameplay
-  - One section for the Stargate if i cant place it in town center
+  - One section for the Stargate
+  - Landing strip / Airyard / Hangers
+  - Harbor and Dock (optional)
 - Setup Nether and End Stargates:
   - Nether and End will need manual setup
-  - Protect them using Admin claims
+  - Protect them using FLAN Admin claims
   - Use Redstone dialing script
 - Passage to other Dims use the Stargate:
   - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
   - **Nether** payment will be Iron coins and a block of diamond
-  - **End** payment will be Gold coins and netherite ingot
-  - **Abydos** payment will be Emerald coins and chorus bud? dragon egg/head? something else? cataclysm?
+  - **End** payment will be Gold coins and `create:rose_quartz`
+  - **Abydos** payment will be Emerald coins and `minecraft:chorus_flower`
   - **Undergarden** payment will be Diamond coins and a stargate base block
 - Add interactable items to spawn that are common for players to use:
   - Crafting Tables
@@ -168,10 +173,14 @@
     - blue can = 5 green cans and an emerald coin
 
 # Lastly:
+- Add Nether and End Gates Manually
+  - Nether: find a good spot within 100 blocks of zero zero, triple check direction of gate before placing it (defaults to going south, extending left 11 from coords)
+  - End: `/place template sgjourney:stargate/universe/pedestal/end/universe_stargate_pedestal_end_1 0 32 128`
+  - Abydos and Undergarden are already placed, just need to get the address for the CC script
 - Adjust Client Keybinds and upload to the Nytepack_Installer.Zip
 - Turn off Wandering Trader `/gamerule doTraderSpawning false`
-- Set Spawn and Rotation `/tp RedAngel121 0 200 0 0 0` then `/setworldspawn`
+- Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0` then `/setworldspawn`
 - Reduce spawn radius `/gamerule spawnRadius 0`
 - Prevent Mob Griefing `/gamerule mobGriefing false`
 - Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 27`
-- Change Sleep % `/gamerule playersSleepingPercentage 51`
+- Change Sleep % `/gamerule playersSleepingPercentage 25`
