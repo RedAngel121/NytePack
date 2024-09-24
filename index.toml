@@ -686,11 +686,11 @@ hash = "8fd5336f78c1710938812a452d3f40d1002cde16ea923ff35d03119ec81f8ead"
 
 [[files]]
 file = "kubejs/assets/jajasgates/textures/entity/stargate/tl_gallifrey/stargate.aseprite"
-hash = "177508c9130284fb5057a077b01cb9f108406c37f734e6f4f42150a933d2252a"
+hash = "466731cc932c6d15b0bcadd08d4f56616950bd4c96aa64deb996a0d11e4bf4cb"
 
 [[files]]
 file = "kubejs/assets/jajasgates/textures/entity/stargate/tl_gallifrey/stargate.png"
-hash = "576e412ef30959a700d368893b099b96f19aadc60a345346fed9b6a4c7ec79dc"
+hash = "0249cc8ac911c9421396d9fb385870ef2c56fad28056138e933cc111845a1671"
 
 [[files]]
 file = "kubejs/assets/jajasgates/textures/entity/stargate/tl_gallifrey/stargate_engaged.png"
@@ -5666,7 +5666,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "8a0232d1e5a10605532fb78364c8f5edc4d5ce2321f6dd26a73bf2673cbc0208"
+hash = "38118449f2aa2bb7f23b3c169bcb7c72c1f7278f9f16013e92674c5256c45470"
 metafile = true
 
 [[files]]
@@ -5931,7 +5931,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "11e6972435ae5cdddb2d4555ad8762d2bc32c6893ec0899ba96d86c93a404f99"
+hash = "caf9eb48e4eac66f7659d01896341a9c7d749ce2ddff264305283258c0b3a996"
 metafile = true
 
 [[files]]
@@ -5966,7 +5966,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "976971fb22383deeef74ca34cd9236a20217ff27e0344fe1e003df45e954a4eb"
+hash = "e55fc0f9a2a413f6dadfbdf9ecc33f1d35257e42ace115a360564bd3ca6fd93b"
 metafile = true
 
 [[files]]
@@ -5986,7 +5986,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "5c1728f88816a2ace9c8fbbd706f9fd5851cc78f37506b46813c11ee6081f863"
+hash = "01b6690c7e45cf35318415ec475ddf2c78279112acefd66bed4440f0de6198fa"
 metafile = true
 
 [[files]]
@@ -5996,7 +5996,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "e96e74c2eb34e667c41b971cc6f71b4bd9c3562a610df1de9a05f7a9dccc36ec"
+hash = "fb8839604279483fe8665ecd01f797d984108be4eb6e0c0478ec2de7e973e5ef"
 metafile = true
 
 [[files]]
@@ -6241,17 +6241,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "71102bb75e79ce2695ed0fc1d4198dd8395d9a737b9b1d3a358142b764e058d7"
+hash = "287ec909ef53f44fe7b1d04bd41995927dbc6bdd2a2c01eeeb7c23eb3372b4e9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c2da3974f21a70aa72781aa392b69ae897d37151837128dcb5d4b6426b611e34"
+hash = "e7f35cedecea592931ef18c345b23c9147d5ee1328fbc2d2f46ea53f2c58e220"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "87ed59e9a14222c3a093641c1c93ded80c9255cada9ea417e73a167342097441"
+hash = "bd0c993e7fed71834faad8e6870dc6edee506e7e044e43a96c4fff0b06b0e55c"
 metafile = true
 
 [[files]]

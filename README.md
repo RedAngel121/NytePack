@@ -86,6 +86,7 @@
   TownTalk
 
 # Upcoming Changes:
+- [ ] Man of Many Planes - adjust the speed of the biplane to make it better than the fabric one
 - [ ] Minecolonies-server freetointeractblocks - add stuff and also change the Lucky blocks too
 - [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
@@ -138,7 +139,7 @@
   - **Nether** payment will be 4 Iron coins
   - **End** payment will be 3 Gold coins
   - **Abydos** payment will be 2 Emerald coins
-  - **Undergarden** payment will be 1 Diamond coins
+  - **Undergarden** payment will be 1 Diamond coin
 - Add interactable items to spawn that are common for players to use:
   - Crafting Tables
   - Anvils (with observer/command block to respawn it after it breaks)
