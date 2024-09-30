@@ -78,15 +78,15 @@
 - [x] Gateways to Eternity - Thanks Dev!
 - [x] Removed standard boats in favor of Nifty Ships
 - [x] Replaced recipes needing a boat with `alekiships:watercraft_frame_flat`
+- [x] Man of Many Planes - adjust the speed of the metal biplane to make it better than the fabric biplane
 - [x] Added MineColonies:
-  Domum Ornamentum
-  Multi-Piston
-  Structurize
-  BlockUI
-  TownTalk
+  - Domum Ornamentum
+  - Multi-Piston
+  - Structurize
+  - BlockUI
+  - TownTalk
 
 # Upcoming Changes:
-- [ ] Man of Many Planes - adjust the speed of the biplane to make it better than the fabric one
 - [ ] Minecolonies-server freetointeractblocks - add stuff and also change the Lucky blocks too
 - [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
@@ -94,7 +94,7 @@
 - [ ] Setup Discord Integration
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add Quest and Backup mods
-- [ ] Advanced Ore Overhaul to include hot and cold liquids
+- [ ] Advanced Ore Overhaul to include hot and cold liquids 
 
 - [ ] WAIT FOR UPDATES (Check on this Sept 1st)
   - [ ] Add the More Minecarts Chunk loader seperate mod they are making https://www.curseforge.com/minecraft/mc-mods/more-minecarts/files/all
@@ -128,7 +128,7 @@
   - Rules house/room for spawn area
   - Will need seperate buildings for different styles of gameplay
   - One section for the Stargate
-  - Landing strip / Airyard / Hangers
+  - Landing Strip / Airyard / Hangers
   - Harbor and Dock (optional)
 - Setup Nether and End Stargates:
   - Nether and End will need manual setup
@@ -168,7 +168,7 @@
   - Baubely Heart Cans Vending Machines:
     - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
     - Wither Bones can be earned with gateways and natural mob spawns
-    - red can = 5 wither bones
+    - red can = 5 wither bones and a copper coin
     - yellow can = 5 red cans and an iron coin
     - green can = 5 yellow cans and a gold coin
     - blue can = 5 green cans and an emerald coin
@@ -183,5 +183,5 @@
 - Set Spawn and Rotation `/tp RedAngel121 ~ ~ ~ 0 0` then `/setworldspawn`
 - Reduce spawn radius `/gamerule spawnRadius 0`
 - Prevent Mob Griefing `/gamerule mobGriefing false`
-- Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 27`
+- Keep wallet and coin drop on death `/gamerule keepWallet true` and `/gamerule coinDropPercent 20`
 - Change Sleep % `/gamerule playersSleepingPercentage 25`

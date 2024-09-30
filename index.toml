@@ -3489,6 +3489,14 @@ file = "kubejs/data/littlelogistics/recipes/transmitter_component.json"
 hash = "777d4b7c20b86c09a1ff16491e7eb4f34f4ed6f3cf9c57faeaf278117ca981e7"
 
 [[files]]
+file = "kubejs/data/man_of_many_planes/aircraft/economy_plane.json"
+hash = "6fa13ce1fcb47ca49fe6b0049d364072d93cb4cd430abbb2a0a719b7cd163005"
+
+[[files]]
+file = "kubejs/data/man_of_many_planes/aircraft/scarlet_biplane.json"
+hash = "99a50e62aa5f5da4e5a931d33bb9a033d8ebee4fc7a9a4ece1ecd99d82e04836"
+
+[[files]]
 file = "kubejs/data/man_of_many_planes/recipes/economy_plane.json"
 hash = "ec896e8684d70672bf40e62954722ab208121381dc4ec89530ce809fcaa41b73"
 
@@ -5591,7 +5599,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "55e921a275e97a1e6288f46d84f840ec7002626e8790171876c877b8b2d517be"
+hash = "aeb6c7309052bb9bfb096ed6aef11cfab3c4bf3b0a44746b4e249bc0cca8120c"
 metafile = true
 
 [[files]]
@@ -5666,7 +5674,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "38118449f2aa2bb7f23b3c169bcb7c72c1f7278f9f16013e92674c5256c45470"
+hash = "0ab9b3392f156302189cd53bbecfae298bc7cec1864914ac327fc64f4e40ee56"
 metafile = true
 
 [[files]]
@@ -5781,7 +5789,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "f48ad6d8335d4ed2367bf3152d8f3aeebbd423c52b42e72079f2fe39c02704fa"
+hash = "360053eae8a35a1f879f70007e19b2839964947ee1536d9b18a128443f36d7b0"
 metafile = true
 
 [[files]]
@@ -5816,7 +5824,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "983e6d4d488faca859e3abb13774b823d26a6b7a20d2dff13bfa4f3426cf5689"
+hash = "7a32f316749dfde854f06311991b7a371a6cb4f24e75c1b6f65cf554f81d5d1d"
 metafile = true
 
 [[files]]
@@ -5986,7 +5994,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "01b6690c7e45cf35318415ec475ddf2c78279112acefd66bed4440f0de6198fa"
+hash = "398808c7c475124923defea2216376ed791e830f3143e82b720ce0242adfd191"
 metafile = true
 
 [[files]]
@@ -6056,7 +6064,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "31608dc1adde267df1279d0fc88c3b3ad4b7da468a440fe971b821b6b22e21b0"
+hash = "6493a45ba6a7a99bef59693db42adec6c8396d19aa9c2eee957af14f688484ff"
 metafile = true
 
 [[files]]
@@ -6066,7 +6074,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-gates-mod-ver.pw.toml"
-hash = "504bd49f695988b12839d897d04d8c5ff2631191e076627974ff40152f2c5bbe"
+hash = "43f57a9ef6ba8a7a5da50675a7b3fe8f186eaf30d89dfa21758cca157d001cb3"
 metafile = true
 
 [[files]]
@@ -6101,12 +6109,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "311675473084eb0f1b33dbd5bf58c8f47e6a6af88b3d9832ceaf247e6734f35d"
+hash = "5dd8e869fbebed8abe7886fd28f1f192c420d3fefd9f714939c2a501d3a4a1af"
 metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "e75703f02c61dc12d85d23ad2e3aa7a435e377190a90ffcdb9af0eb1e2927210"
+hash = "215cb5123319ccd019db178b94ab2ab70db66a11c1b0ae722afefea885396e7a"
 metafile = true
 
 [[files]]
@@ -6241,17 +6249,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "287ec909ef53f44fe7b1d04bd41995927dbc6bdd2a2c01eeeb7c23eb3372b4e9"
+hash = "200c6d086d8ed9b0a34ce81e3c702c8d8199445727e4c976cd1dd79a40b4bb45"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e7f35cedecea592931ef18c345b23c9147d5ee1328fbc2d2f46ea53f2c58e220"
+hash = "e108f7eb2afe29b47fde10eef02a898119809463748b11cd2ac4bcfd9d6ea4e7"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "bd0c993e7fed71834faad8e6870dc6edee506e7e044e43a96c4fff0b06b0e55c"
+hash = "b327fbaeabd4b7c2f21ae990ea2dde71308af04a15a4a1feb7a570fc2c352ab8"
 metafile = true
 
 [[files]]
@@ -6276,7 +6284,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "4f67d10a4365119f8e5c83c1fccf3de8af77dff98d9c4b5f4d04c560a031b5a5"
+hash = "ad2d82ec93f4280b78e5125774b5f600409d675c25b6f4b46c7e64ef202beb33"
 metafile = true
 
 [[files]]
@@ -6366,7 +6374,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "0604af4500f5e7ea46e38f7faef3459023c305b3155eacbf406e600073f643d9"
+hash = "d0d14c38427cf19c6f1244d4a6a0d05ad1a3d22d9f8b4f0eb083cef7f2ad407d"
 metafile = true
 
 [[files]]
