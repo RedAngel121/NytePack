@@ -5888,6 +5888,11 @@ hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
 file = "mods/gateways-to-eternity.pw.toml"
 hash = "595fe8acbe4778aaed1314ad56e54e200205e15be496bffd56fa36b2ef132c04"
 metafile = true
@@ -6178,6 +6183,11 @@ hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
 
 [[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
@@ -6299,7 +6309,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "ad2d82ec93f4280b78e5125774b5f600409d675c25b6f4b46c7e64ef202beb33"
+hash = "245a0391f5144c6d02648a4f58af9d29fca3b19122f8943f56fd27d90433e633"
 metafile = true
 
 [[files]]
