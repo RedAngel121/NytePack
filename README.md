@@ -85,7 +85,8 @@
   - Structurize
   - BlockUI
   - TownTalk
-- [x] Setup Discord Integration
+- [x] Added Discord Integration
+- [x] Added Auto-Restart Mod
 
 # Upcoming Changes:
 - [ ] Minecolonies-server freetointeractblocks - add stuff and also change the Lucky blocks too
@@ -93,7 +94,7 @@
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- [ ] Add Quest and Backup mods
+- [ ] Add Quest and Backup mods https://www.curseforge.com/minecraft/mc-mods/backups
 - [ ] Advanced Ore Overhaul to include hot and cold liquids 
 
 - [ ] WAIT FOR UPDATES (Check on this Sept 1st)
