@@ -85,13 +85,13 @@
   - Structurize
   - BlockUI
   - TownTalk
+- [x] Setup Discord Integration
 
 # Upcoming Changes:
 - [ ] Minecolonies-server freetointeractblocks - add stuff and also change the Lucky blocks too
 - [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
-- [ ] Setup Discord Integration
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Add Quest and Backup mods
 - [ ] Advanced Ore Overhaul to include hot and cold liquids 
