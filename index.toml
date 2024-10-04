@@ -6128,6 +6128,11 @@ hash = "5d0eae777859369335212a6a68a0c835fc7487ace8016749fe9f377de1c4b392"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "299d07d605497fd0f4cc5f32a76cf657fda8a84813816fa24c4a05d9f846c3cb"
+metafile = true
+
+[[files]]
 file = "mods/overloaded-armor-bar.pw.toml"
 hash = "65ba55b95c910d696029b5e1c735241062ea80d5bad76e22e9e79697279cde30"
 metafile = true
