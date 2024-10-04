@@ -5674,7 +5674,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "0ab9b3392f156302189cd53bbecfae298bc7cec1864914ac327fc64f4e40ee56"
+hash = "c32bd2f4635cda9ddb5fa6a3abba4bbc9bf3b00ad04bab3127fcb700c23ac7a2"
 metafile = true
 
 [[files]]
@@ -5819,7 +5819,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "f2ab69d3546c95bf14c09d98054b6588df80bb14dfc02799e38b8ac43e6e154e"
+hash = "2a3437d7259d88da14de0b4dfec2b5ac805f33b1814fecbfd5eabc5b49155620"
 metafile = true
 
 [[files]]
@@ -5929,7 +5929,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "50d0d75c988e3dc115ba552895eb7b4dab51c900310e4b651f90341e94741940"
+hash = "82a4731b5389478bf8e775ba898012644a2a4c02982424a78241a38ec1c58911"
 metafile = true
 
 [[files]]
@@ -5939,7 +5939,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "caf9eb48e4eac66f7659d01896341a9c7d749ce2ddff264305283258c0b3a996"
+hash = "923ccb169b6edccab1a83ec0879d08d53463c4865c58d901bc59bda862dac74d"
 metafile = true
 
 [[files]]
@@ -6199,7 +6199,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruins.pw.toml"
-hash = "4a6c4a03199cabe52639d119eb075182f8116eda338ff24c6927c601500305ba"
+hash = "709d32dc7d5ed34376feee78c6633b5ebd21163daca0ac13dd507843d12486fa"
 metafile = true
 
 [[files]]
@@ -6244,7 +6244,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bcd933fc843063c7f0da4df200c60b27d4f8c68ed143dc3d5f6f52824ec7a282"
+hash = "0c7a911c4f2194d12069c15789a999df9b617c30574f5d61b3c2f86968402c37"
 metafile = true
 
 [[files]]
@@ -6259,7 +6259,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b327fbaeabd4b7c2f21ae990ea2dde71308af04a15a4a1feb7a570fc2c352ab8"
+hash = "eef386880c2a3f407d848851cc9d35d9f9398468aa1ff679b970e2efb66b727a"
 metafile = true
 
 [[files]]
