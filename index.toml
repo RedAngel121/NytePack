@@ -85,6 +85,10 @@ file = "config/flan/flan_config.json"
 hash = "8eacfd1376d9399eb30624b847fde9a4a9bd18577f75fb85e64bc63289221277"
 
 [[files]]
+file = "config/ftbbackups2.json"
+hash = "770c03af95dfa21d84ce128e5e7621212ae19714b032cf53f668b6e97519fc9a"
+
+[[files]]
 file = "config/immersive_aircraft.json"
 hash = "0261b1af6972f4f7787bac7de86919662036849c036794122c2c97dbb4a303fa"
 

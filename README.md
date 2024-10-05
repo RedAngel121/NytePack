@@ -91,16 +91,17 @@
 
 # Upcoming Changes:
 - [ ] Minecolonies-server freetointeractblocks - add stuff and also change the Lucky blocks too
-- [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
-- [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- [ ] Add Quest and Backup mods https://www.curseforge.com/minecraft/mc-mods/backups
 - [ ] Advanced Ore Overhaul to include hot and cold liquids
 
-- [ ] WAIT FOR UPDATES (Check on this Sept 1st)
-  - [ ] Add the More Minecarts Chunk loader seperate mod they are making https://www.curseforge.com/minecraft/mc-mods/more-minecarts/files/all
-  - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
+- [ ] Add Quest mod and Quest progression
+- [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
+- [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
+- [ ] Add the More Minecarts Chunk loader seperate mod they are making https://www.curseforge.com/minecraft/mc-mods/more-minecarts/files/all
+- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
+- [ ] Recreate the entire modlist to change the progression and add new DIM mods to simulate grinding out of hell into heaven kinda?
+  - Maybe something more like: Nether > Undergarden > Abydos > Twilight > Cavum Tenebrae > Aether > End > More Dims? Different Order?
 
 # Ongoing Changes:
 - Progression balances making things more even across the board
@@ -124,7 +125,6 @@
 - [Armourer's Workshop](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop) Amazing Cosmetic Stuff
 
 # Additional Server World Changes:
-- Possible Seeds = [3958719068018360977, -5555009957931297567]
 - Find out how much Starting Cash will be needed to play on the server to buy starter items (+/- one iron )
 - Starting town built with MineColonies:
   - Rules house/room for spawn area
