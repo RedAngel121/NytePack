@@ -6077,6 +6077,11 @@ hash = "3ce4e959ad9f92e6f85910a3199e55134f59b69ce759632734e635e0f40c1f1e"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "0b56bf8c727d35f46ab02b74573112bf80cc57a09c99a72c7d93744bf9888830"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "3f93e11f19698af8f5f817f8121a220bbb5cc0f3226bff8ecab4fcec78574073"
 metafile = true
