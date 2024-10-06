@@ -5998,7 +5998,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "07b988cf27e9fc69a41dd5850f693bc73647ea48b4f8ed5f2e176d26c0e25f76"
+hash = "149f2592a03536c4ab7c7b9d980f884b142099c1209c629d9c7194525b1c8129"
 metafile = true
 
 [[files]]
@@ -6013,7 +6013,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "398808c7c475124923defea2216376ed791e830f3143e82b720ce0242adfd191"
+hash = "d3c77f2cf9e9a637b4ac8a017053c5a20cb9c5cf7ee4b9755f694885e5a6a815"
 metafile = true
 
 [[files]]
@@ -6088,7 +6088,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "6493a45ba6a7a99bef59693db42adec6c8396d19aa9c2eee957af14f688484ff"
+hash = "3ab79bed6c35351595defd530120dddeb84bd5fed0413c133bd94951ab992bf9"
 metafile = true
 
 [[files]]
@@ -6098,7 +6098,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-gates-mod-ver.pw.toml"
-hash = "43f57a9ef6ba8a7a5da50675a7b3fe8f186eaf30d89dfa21758cca157d001cb3"
+hash = "7f507043b1501c14bdccba9096c144f020daafcf2f74aa573d37cb067c6ce833"
 metafile = true
 
 [[files]]
@@ -6208,7 +6208,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "71bdf7a2baf2b49de4292b8a0ff48419119b0a9bbf1c06d4f8dd92fd97fe6416"
+hash = "df91958db1f1c82ea5d4fe933a4893cdefe6861e3aa2f25d4c4a39a062bddd15"
 metafile = true
 
 [[files]]
@@ -6368,7 +6368,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
+hash = "cfd9a2802e5471ffd9e2555286ba95fddc4fa75184bf59084bd2e1cb88b14b3c"
 metafile = true
 
 [[files]]
