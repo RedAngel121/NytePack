@@ -6313,7 +6313,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarview.pw.toml"
-hash = "e00fa3de20afa309029657ea8ddbf1c7a1eb6cc1cb93fcf3eea61bd4192b63ec"
+hash = "3eb8da71e8fe01734760383b564355d3abb2a473aee14145e566fee69a7a279d"
 metafile = true
 
 [[files]]
