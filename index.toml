@@ -4534,15 +4534,15 @@ hash = "9174e95d9c6c307c1789f6cff8604bbacc934c0e783cb4f1a22089429b6c4385"
 
 [[files]]
 file = "kubejs/data/moregates/sgjourney/stargate_variant/aether.json"
-hash = "7b853fe0a9fcae041e39833ce645c2a49b281596149bce7d1dbe4919c5c667b1"
+hash = "4de94c11830b1e16a0008107db008e8e907ce5a8bed96b98e648eb12dbd0c2ae"
 
 [[files]]
 file = "kubejs/data/moregates/sgjourney/stargate_variant/quartz.json"
-hash = "5d8ec491b2fd1f6f3fbaef71f3510968e0d256897cdc0c09d4be4841574db325"
+hash = "794b4e2fd2a4d8c549d38f666eb21d243397e01a6078715320356bb09d72ec90"
 
 [[files]]
 file = "kubejs/data/moregates/sgjourney/stargate_variant/twilight.json"
-hash = "a6f28b1b0ebe24eb53e19a2ca5c4f2896877a5e337715adb79aa71b2c6e04b0f"
+hash = "de1068dd22cf941aafcf08c77f6a2a4e6ded4762fa066360c36f8a5148259e5f"
 
 [[files]]
 file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
@@ -5993,12 +5993,12 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "e55fc0f9a2a413f6dadfbdf9ecc33f1d35257e42ace115a360564bd3ca6fd93b"
+hash = "8d3170cf6962262f4a4aaff0ab5154e27d70a2b2ef38125a59109d6a4216c320"
 metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "149f2592a03536c4ab7c7b9d980f884b142099c1209c629d9c7194525b1c8129"
+hash = "1c97f54cc568a5f22808d7d9fe76f0bfc17d10e9a9de664676aaf3e28c50beec"
 metafile = true
 
 [[files]]
@@ -6088,7 +6088,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "3ab79bed6c35351595defd530120dddeb84bd5fed0413c133bd94951ab992bf9"
+hash = "d5ce93fc4277128300f04f6911d490519569f4f7dddf2a0eb3e3b9fc73a4bb43"
 metafile = true
 
 [[files]]
@@ -6263,7 +6263,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "1ec9d17cc35f4002a08a92b9311bb03af13cf2fd2879792c0a046c4cfd9609ec"
+hash = "20b68336b168044c2f20da0d67827a6edafbc882c62a2498f9d081558313ce51"
 metafile = true
 
 [[files]]
@@ -6283,7 +6283,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "200c6d086d8ed9b0a34ce81e3c702c8d8199445727e4c976cd1dd79a40b4bb45"
+hash = "4d0b892ca8d67cb233f3d3be816553da4ecfa820519a1c55ce5efa9061fcf662"
 metafile = true
 
 [[files]]
@@ -6313,7 +6313,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarview.pw.toml"
-hash = "c40ae9c5d4e71fce73e0e32981e7138b130e9e21bda8f0dd357d0e1b3b6d1bac"
+hash = "e00fa3de20afa309029657ea8ddbf1c7a1eb6cc1cb93fcf3eea61bd4192b63ec"
 metafile = true
 
 [[files]]
