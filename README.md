@@ -3,24 +3,23 @@
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
 - Tentative Release Date: Oct 16th
 
-# WARNING:
-### This pack is not designed to work in a single player enviroment, community server will be designed around this pack
-### Although you are allowed, single player worlds will break repeatedly as the pack is still under heavy development
+# WARNING: This pack is not designed to work in a single player enviroment, community server will be designed around this pack
+### Although you are allowed, single player worlds will break repeatedly as the pack is still under development
 - If you still want to play it then expect your stuff to be reset/borked a lot
-- No, I'm not helping you if something breaks, I'm probably working that problem anyway
+- If something breaks, notify me so I can start working on that problem
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
-- Requires Prism or ATLauncher to play, ***CurseForge and Microsoft are not currently compatable.***
-- Once a public server is ready I will be making an announcement in Discord
+- Requires ATLauncher to play, ***as MultiMC, Prism, CurseForge and Microsoft are not currently compatable.***
+- Once a public server is ready I will be making an announcement in [Discord](https://discord.gg/kkjwfuz)
 
-### Multiplayer Server Rules and things to know:
+### Multiplayer Server Rules and Things to Know:
 - Spawn is a Safe Haven; Protected and Defended. Do not find a way to destroy it lest your life be forefit.
 - Food and XP grow your health, both are reset on death. Find a way to make better foods and earn more XP to stay alive.
 - PVP is enabled but not encouraged, unsecured items can be stolen if left out... so maybe dont do that.
 - After a Players death, the items will be locked in the corpse for 7 IRL days, after which corpses become lootable.
-- You can Claim Land by purchasing the amount you want, Claims will be deleted after 90 IRL days of inactivity.
+- You can Claim Land by purchasing the amount you want with FLAN, Claims will be deleted after 90 IRL days of inactivity.
+- Claims made by MineColonies do not get deleted, but your colony will suffer if not upkept.
 - Enemies grow stronger with distance from spawn, do not stray far without preparing yourself for that.
 - Different dimensions empower enemies greatly, steel yourself for the fights of your life.
-- More info to come when I feel the need to share it...
 
 # Pack Basics:
 - Expanded Crops and Growth Overhaul
@@ -28,7 +27,7 @@
 - Expanded Bosses and Dungeons
 - Expanded Building Blocks
 - Semi-Realistic Industrialism
-- Block Based Land Claiming System
+- Block Based Land Claiming + MineColonies
 - Lightmans Currency and Traders
 - Expanded Upgradeable Tools and Armor
 - Expanded and Accessible Storage
@@ -36,7 +35,7 @@
 
 # ~ PACK BUILD NOTES ~
 1. No Easy Teleporting items or players (Stargate Exception because FE req)
-2. No Easy On-Person Inventory Storage (Exception to item specific inv spaces)
+2. No Large On-Person Inventory Storage (Exception to item specific inv spaces)
 3. Pack Theme is more Dieselpunk/Factory with long-term goals and community play, Endgame TBD (Cataclysm/Stargates/?)
 4. Crafting Recipes Inter-Connectivity is desired between most mods for increased complexity pack longevity
 5. Power storage/production/transfer will be handled in world, not by held items (to the best of ability)
@@ -127,20 +126,7 @@
 # Additional Server World Changes:
 - Find out how much Starting Cash will be needed to play on the server to buy starter items (+/- one iron )
 - Starting town built with MineColonies:
-  - Rules house/room for spawn area
-  - Will need seperate buildings for different styles of gameplay
-  - One section for the Stargate
-  - Landing Strip / Airyard / Hangers
-  - Harbor and Dock (optional)
-- Setup Nether and End Stargates:
-  - Nether and End will need manual setup
-  - Protect them using FLAN Admin claims
-  - Use Redstone dialing script
-- Passage to other Dims use the Stargate:
-  - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
-  - **Nether** payment will be 4 Iron coins
-  - **End** payment will be 3 Gold coins
-  - **Abydos** payment will be 2 Emerald coins
+  - Rules house/room for spawn areahttps://github.com/RedAngel121/NytePackerald coins
   - **Undergarden** payment will be 1 Diamond coin
 - Add interactable items to spawn that are common for players to use:
   - Crafting Tables

@@ -11,7 +11,7 @@ let materials = ["iron", "copper", "gold", "zinc", "lithium", "nickel", "osmium"
 ServerEvents.tags("item", event => {
     event.add("forge:dusts/salt", "pamhc2foodcore:saltitem")
     event.add("create:crushed", "#create:crushed_raw_materials")
-    for (let each of materials) {
+    for (let each of iris_materials) {
         event.add("create:crushed/" + each, "create:crushed_raw_" + each)
     }
     event.add("create:crushed/aluminum", "create:crushed_raw_aluminum")
@@ -153,7 +153,7 @@ ServerEvents.recipes(event => {
 
 // Replace Vanilla ore processing with custom
 ServerEvents.recipes(event => {
-    for (let each of materials) {
+    for (let each of iris_materials) {
         // Removal of every smelting and blasting recipe without harming other mods
         event.remove({ id: "minecraft:" + each + "_ingot_from_smelting_deepslate_" + each + "_ore" })
         event.remove({ id: "minecraft:" + each + "_ingot_from_blasting_deepslate_" + each + "_ore" })
