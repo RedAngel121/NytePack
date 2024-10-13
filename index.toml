@@ -5916,6 +5916,11 @@ hash = "1465fde774390074e772ba59b95006f0b7bcdaffc999feeb8e21059fb6b34bfb"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "9325ab172a9e6f56baf464193c7d372a0aa38b0d4fe6a9d6298c268f9960b165"
 metafile = true
