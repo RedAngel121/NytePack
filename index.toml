@@ -5442,11 +5442,11 @@ hash = "6166ef967e935f3ce8806c256b473cb40466d14c3631fd8786f85a4a7fcd20c5"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/lithium_ore.json"
-hash = "8a3b35a4461a94319cbda0289ac595e7c586da155a72ff3a850267234db6bebb"
+hash = "5e1610e8409ef149f0dfdd3bd05100460cc1d653c2e6161c42ffa4650edb076a"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/configured_feature/nickel_ore.json"
-hash = "1d461dbad7ce0dd11637fe5875476b25ff6dcffdb2d4735d8b888feb97d6b489"
+hash = "80144918651e4db54205176872ab24b87a156e09e643873d2ed0f59588577caf"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/placed_feature/lead_ore.json"
@@ -5571,6 +5571,10 @@ hash = "44393947b8b1b7ef526c564367ed85fb56c66da0c8f85f254a4112e40c0e68d3"
 [[files]]
 file = "kubejs/data/undergarden/worldgen/placed_feature/utherium_ore.json"
 hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
+
+[[files]]
+file = "kubejs/server_scripts/iris_smithing.js"
+hash = "bfc48925662885c011414408da29fa9c632aae5953ea562b32b73cffd9e74487"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
@@ -5723,7 +5727,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "9ab741b4d88da35819c7ad2a2b30487fa1eb2f17db2168005432263f941b5b2c"
+hash = "a9a5c85968036b975f04546a4834ba0c701f1ae896c952acb4e428211ed88b52"
 metafile = true
 
 [[files]]
@@ -5733,7 +5737,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "06ebad552d4be228b753ee2131374f7f6a9328a6d48e3f0b09fc80c9087b45a0"
+hash = "50394fccc8d1789561c6ffb3ad995bd57389e70abe4f0a5e66cfcdb764ef287b"
 metafile = true
 
 [[files]]
@@ -5758,12 +5762,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "8f8754eda6beb02d73da14294026af5fcc2c849fd07ae3b210136492e7fde95b"
+hash = "02a6fd7951c114f68c2def4c7155a5a6bd971a79904262ba64b376a0bc191449"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
+hash = "0bd6cd5b2f5075f7dcbbcc6f7d2fb2ec0ef7f8b52c46d7a644f0abd84e03872e"
 metafile = true
 
 [[files]]
@@ -5838,7 +5842,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7a32f316749dfde854f06311991b7a371a6cb4f24e75c1b6f65cf554f81d5d1d"
+hash = "59c21f304f9c5fa731bbee0e5832f8307676773ed9e3e93cfb645a22b5cc19a9"
 metafile = true
 
 [[files]]
@@ -5958,7 +5962,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "923ccb169b6edccab1a83ec0879d08d53463c4865c58d901bc59bda862dac74d"
+hash = "0968cf761fc4608f1d756da1b693314f23148dd8d9a4b8d1c1d046ed7d8f6f39"
 metafile = true
 
 [[files]]
@@ -5998,7 +6002,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "1c97f54cc568a5f22808d7d9fe76f0bfc17d10e9a9de664676aaf3e28c50beec"
+hash = "7151f37be55fdd0c1aa88ca54c58507452a31657494bf5e0dfcb139c3143f684"
 metafile = true
 
 [[files]]
@@ -6013,7 +6017,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "d3c77f2cf9e9a637b4ac8a017053c5a20cb9c5cf7ee4b9755f694885e5a6a815"
+hash = "121db4815978f7160f947b4289d7fddc78f320a87f6b0a5217c6357d6fbce32d"
 metafile = true
 
 [[files]]
@@ -6088,7 +6092,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d5ce93fc4277128300f04f6911d490519569f4f7dddf2a0eb3e3b9fc73a4bb43"
+hash = "365e64555a568316378c18c9ebc4b85378effb218011ee075a18cea322f784c4"
 metafile = true
 
 [[files]]
@@ -6253,7 +6257,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+hash = "8582e34cc518e4528a95352d852cf323901a9a8818e3a9fa05ac2ce825039fe7"
 metafile = true
 
 [[files]]
@@ -6278,7 +6282,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0c7a911c4f2194d12069c15789a999df9b617c30574f5d61b3c2f86968402c37"
+hash = "059be12558bea1c356d92444828aab63008347774a4121d9814eef5bf15d6054"
 metafile = true
 
 [[files]]
@@ -6288,12 +6292,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e108f7eb2afe29b47fde10eef02a898119809463748b11cd2ac4bcfd9d6ea4e7"
+hash = "55cab45f4fc9ef0b382ac8ee1f7680ae1bd42832e47ae4b4cf56ce6bec7a96fe"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "eef386880c2a3f407d848851cc9d35d9f9398468aa1ff679b970e2efb66b727a"
+hash = "c7303b109577a683aef185c43912e4e9194397ddd40c562880468937136af0af"
 metafile = true
 
 [[files]]

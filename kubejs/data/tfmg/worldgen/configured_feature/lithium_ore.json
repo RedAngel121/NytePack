@@ -11,7 +11,7 @@
                     "probability": 0.05
                 },
                 "state": {
-                    "Name": "tfmg:raw_lithium_block"
+                    "Name": "jaopca:raw_storage_blocks.lithium"
                 }
             },
             {
@@ -21,7 +21,7 @@
                     "probability": 0.05
                 },
                 "state": {
-                    "Name": "tfmg:raw_lithium_block"
+                    "Name": "jaopca:raw_storage_blocks.lithium"
                 }
             },
             {

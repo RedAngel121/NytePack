@@ -11,7 +11,7 @@
                     "probability": 0.05
                 },
                 "state": {
-                    "Name": "tfmg:raw_nickel_block"
+                    "Name": "jaopca:raw_storage_blocks.nickel"
                 }
             },
             {
@@ -21,7 +21,7 @@
                     "probability": 0.05
                 },
                 "state": {
-                    "Name": "tfmg:raw_nickel_block"
+                    "Name": "jaopca:raw_storage_blocks.nickel"
                 }
             },
             {
