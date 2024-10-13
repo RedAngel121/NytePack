@@ -144,7 +144,7 @@ ServerEvents.recipes(event => {
         event.remove({ id: ID })
     }
     // Removing standard boats in favor of Nifty Ships
-    event.remove({output:"#minecraft:boats"})
+    event.remove({ output: "#minecraft:boats" })
     // Add New Recipes
     event.shapeless("minecraft:flint", "4x minecraft:gravel")
     event.recipes.create.pressing("#forge:paper", "#forge:paper_plants")
@@ -230,8 +230,8 @@ ServerEvents.recipes(event => {
 ServerEvents.recipes(event => {
     event.remove({ id: "tfmg:smelting/aluminum_ingot" })
     event.remove({ id: "tfmg:smelting/blasting/aluminum_ingot" })
-    event.remove({ id: "jaopca:dusts.to_material.aluminum"})
-    event.remove({ id: "jaopca:dusts.to_material_blasting.aluminum"})
+    event.remove({ id: "jaopca:dusts.to_material.aluminum" })
+    event.remove({ id: "jaopca:dusts.to_material_blasting.aluminum" })
     event.smelting("3x #forge:nuggets/aluminum", "#create:crushed/aluminum")
     event.blasting("3x #forge:nuggets/aluminum", "#create:crushed/aluminum")
     event.recipes.create.splashing(["3x #forge:nuggets/aluminum", Item.of("2x #forge:nuggets/aluminum").withChance(0.5)], "#create:crushed/aluminum")

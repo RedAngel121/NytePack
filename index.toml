@@ -5574,11 +5574,11 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/iris_smithing.js"
-hash = "bfc48925662885c011414408da29fa9c632aae5953ea562b32b73cffd9e74487"
+hash = "53a82841e44747efde8387f31caf2fb70779e000cf3605e90475e550ac8f6c23"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "b5db97f49d16ae8ff100131ba48ab9d9b0e8d643e16c24b1c9ec993d9febf506"
+hash = "fb6a052084b5f727e72f01b9119c36c87bb6fd44d8b5e8d58b5596ea067e29ec"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
