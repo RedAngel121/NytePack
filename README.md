@@ -153,13 +153,6 @@
     - Vanilla Ingots/Raw ore (+Zinc)?
     - Basic Silent Gear Items
     - Wither Bones
-  - Baubely Heart Cans Vending Machines:
-    - Amulet can be purchased for 1 copper / maybe Earned with Easy Gateways?
-    - Wither Bones can be earned with gateways and natural mob spawns
-    - red can = 5 wither bones and a copper coin
-    - yellow can = 5 red cans and an iron coin
-    - green can = 5 yellow cans and a gold coin
-    - blue can = 5 green cans and an emerald coin
 
 # Lastly:
 - Add Nether and End Gates Manually

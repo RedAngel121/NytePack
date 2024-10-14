@@ -3197,6 +3197,10 @@ file = "kubejs/data/betteroceanmonuments/worldgen/structure_set/ocean_monument.j
 hash = "da9358c459e9ce1d218b55b419d2bde32eb5e5cefa37a35baa002ff396f39df4"
 
 [[files]]
+file = "kubejs/data/bhc/recipes/heart_amulet.json"
+hash = "27f1e982f673387cc212f3be5bd5f3109c48ae83aa593f776a75ce4e3c463f2d"
+
+[[files]]
 file = "kubejs/data/create/loot_tables/blocks/deepslate_zinc_ore.json"
 hash = "d8cc5a23b79149e743af272f4bcb67d9d5c91c099edacd7758a7ccc48713173a"
 
@@ -6007,7 +6011,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "7151f37be55fdd0c1aa88ca54c58507452a31657494bf5e0dfcb139c3143f684"
+hash = "6d77751600079d2954c407026007e294803eeff45d9072babd7f9799728726b5"
 metafile = true
 
 [[files]]
@@ -6097,7 +6101,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "365e64555a568316378c18c9ebc4b85378effb218011ee075a18cea322f784c4"
+hash = "47dc611691eed590e083b443f4a4111e5aaa7a42cffed90f944f65635adbe7e0"
 metafile = true
 
 [[files]]
