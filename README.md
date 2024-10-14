@@ -124,9 +124,22 @@
 - [Armourer's Workshop](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop) Amazing Cosmetic Stuff
 
 # Additional Server World Changes:
-- Find out how much Starting Cash will be needed to play on the server to buy starter items (+/- one iron )
+- Starting Cash will be a single Iron Coin
 - Starting town built with MineColonies:
-  - Rules house/room for spawn areahttps://github.com/RedAngel121/NytePackerald coins
+  - Rules for spawn area
+  - Will need seperate buildings for different styles of gameplay
+  - One section for the Stargate
+  - Landing Strip / Airyard / Hangers
+  - Harbor and Dock area
+- Setup Nether and End Stargates:
+  - Nether and End will need manual setup
+  - Protect them using FLAN Admin claims
+  - Use Redstone dialing script
+- Passage to other Dims use the Stargate:
+  - Stargate will need to be **Pay to Enter** based on destination and have easy access to return from each dimension
+  - **Nether** payment will be 4 Iron coins
+  - **End** payment will be 3 Gold coins
+  - **Abydos** payment will be 2 Emerald coins
   - **Undergarden** payment will be 1 Diamond coin
 - Add interactable items to spawn that are common for players to use:
   - Crafting Tables
