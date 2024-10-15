@@ -25,7 +25,7 @@
             "type": "gateways:loot_table",
             "loot_table": "gateways:gateway_sparkles",
             "rolls": 1,
-            "desc": "Batch of Apotheosis Cracked Gems"
+            "desc": "Set of Power Gems"
         }
     ]
 }

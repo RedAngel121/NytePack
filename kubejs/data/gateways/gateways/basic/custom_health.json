@@ -41,7 +41,7 @@
             "type": "gateways:loot_table",
             "loot_table": "gateways:gateway_practice",
             "rolls": 1,
-            "desc": "Batch of Experience"
+            "desc": "Set of Wither Bones"
         }
     ]
 }
