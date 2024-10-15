@@ -20,10 +20,7 @@ function generateTexture(materialName) {
 ServerEvents.recipes(event => {
     // Generate all combinations of smithing recipes
     Object.entries(iris_materials).forEach(([baseMaterial, baseData]) => {
-        console.log("----- STARTING NEW SUBSET -----")
-        console.log(iris_materials[baseMaterial])
         Object.entries(iris_materials).forEach(([additionMaterial, additionData]) => {
-            console.log(iris_materials[additionMaterial])
             if (baseMaterial === additionMaterial) return
             let textureFile = generateTexture(additionMaterial)
             let nbtData = {

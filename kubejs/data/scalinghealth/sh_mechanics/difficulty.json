@@ -32,25 +32,25 @@
                 ]
             },
             {
-                "scale": 2,
+                "scale": 3,
                 "dimensions": [
                     "minecraft:the_nether"
                 ]
             },
             {
-                "scale": 3,
+                "scale": 5,
                 "dimensions": [
                     "minecraft:the_end"
                 ]
             },
             {
-                "scale": 4,
+                "scale": 7,
                 "dimensions": [
                     "sgjourney:abydos"
                 ]
             },
             {
-                "scale": 5,
+                "scale": 9,
                 "dimensions": [
                     "undergarden:undergarden"
                 ]

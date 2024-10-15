@@ -4598,7 +4598,7 @@ hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "2a9a801a6aa2129ea0b124bc845cbe26b2895ff60e7bd73106a76b763cf1b05b"
+hash = "f02cd6467f5194f4c50216e678bb6ea351cd00b94edfaa79b93d16398c1d25f0"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/mobs.json"
@@ -5582,7 +5582,7 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/iris_smithing.js"
-hash = "d95f4bc628d543577889c2aef501093bf1dd2572468eee749546e2e62210a218"
+hash = "78ff247b1ee76f9d83bc8a5efa9186c8ca2252e2efb808655d62f4bcef3edcc9"
 
 [[files]]
 file = "kubejs/server_scripts/login_bonus.js"
