@@ -82,7 +82,7 @@ hash = "6ffe390a417e695e36f7ec31811ce2bfea10d33ade6d2cf8774e6b1e255813fe"
 
 [[files]]
 file = "config/flan/flan_config.json"
-hash = "8eacfd1376d9399eb30624b847fde9a4a9bd18577f75fb85e64bc63289221277"
+hash = "43bc620c69e9a5c9aed641728bc4cd113137b4978130189ebaa4a2e935eef118"
 
 [[files]]
 file = "config/ftbbackups2.json"
@@ -3242,19 +3242,19 @@ hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_health.json"
-hash = "14cf6194462a47b795ca4c1182171272f5a00560bfafd9c0b427abed278e62d2"
+hash = "4dacbb4a7317c08cc7d309bafa12439dc14eb9b95618991b066549a290765815"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_power.json"
-hash = "d3bacc27826b733943e9d12ea749203b4387df94edfd28579dce0475fc2493ab"
+hash = "359feeec317823eaac2647e1f70f96431deee247b9dea34d90df18658eddf5d1"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_practice.json"
-hash = "8dce2b3d46cb1d7cbbae184729a44e63ab20d39893f84931b758e0a8d33a24d7"
+hash = "1dd5f84cb2cd92a971338b1e9178c6d20eac95414a4fb09c932913086f992949"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
-hash = "d3bacc27826b733943e9d12ea749203b4387df94edfd28579dce0475fc2493ab"
+hash = "f07746eab83696ff25d328e4f02cb26640fcc3dd8bdfa3f08bffc759bb04481d"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/enderman.json"
