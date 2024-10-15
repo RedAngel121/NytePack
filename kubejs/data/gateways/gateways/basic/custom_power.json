@@ -3,29 +3,29 @@
     "size": "medium",
     "color": "#FFD700",
     "waves": [
-      {
-        "entities": [
-          {
-            "entity": "minecraft:pillager",
-            "count": 2
-          },
-          {
-            "entity": "minecraft:skeleton",
-            "count": 3
-          }
-        ],
-        "max_wave_time": 1200,
-        "setup_time": 100
-      }
+        {
+            "entities": [
+                {
+                    "entity": "minecraft:pillager",
+                    "count": 2
+                },
+                {
+                    "entity": "minecraft:skeleton",
+                    "count": 3
+                }
+            ],
+            "max_wave_time": 1200,
+            "setup_time": 100
+        }
     ],
     "wave_count": 5,
     "spawn_algorithm": "gateways:inward_spiral",
     "rewards": [
-      {
-        "type": "gateways:loot_table",
-        "loot_table": "gateways:gateway_sparkles",
-        "rolls": 1,
-        "desc": "Batch of Apotheosis Cracked Gems"
-      }
+        {
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:gateway_sparkles",
+            "rolls": 1,
+            "desc": "Batch of Apotheosis Cracked Gems"
+        }
     ]
-  }
+}

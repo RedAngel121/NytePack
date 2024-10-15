@@ -1,27 +1,27 @@
 {
-  "type": "gateways:custom",
-  "size": "medium",
-  "color": "#00FF00",
-  "waves": [
-    {
-      "entities": [
+    "type": "gateways:custom",
+    "size": "medium",
+    "color": "#00FF00",
+    "waves": [
         {
-          "entity": "minecraft:zombie",
-          "count": 5
+            "entities": [
+                {
+                    "entity": "minecraft:zombie",
+                    "count": 5
+                }
+            ],
+            "max_wave_time": 1200,
+            "setup_time": 100
         }
-      ],
-      "max_wave_time": 1200,
-      "setup_time": 100
-    }
-  ],
-  "wave_count": 7,
-  "spawn_algorithm": "gateways:inward_spiral",
-  "rewards": [
+    ],
+    "wave_count": 7,
+    "spawn_algorithm": "gateways:inward_spiral",
+    "rewards": [
         {
-        "type": "gateways:loot_table",
-        "loot_table": "gateways:gateway_practice",
-        "rolls": 1,
-        "desc": "Batch of Experience"      
-    }
-  ]
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:gateway_practice",
+            "rolls": 1,
+            "desc": "Batch of Experience"
+        }
+    ]
 }

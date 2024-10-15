@@ -89,7 +89,6 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
-- [ ] Minecolonies-server freetointeractblocks - add stuff and also change the Lucky blocks too
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Advanced Ore Overhaul to include hot and cold liquids
@@ -99,8 +98,10 @@
 - [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
 - [ ] Add the More Minecarts Chunk loader seperate mod they are making https://www.curseforge.com/minecraft/mc-mods/more-minecarts/files/all
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
-- [ ] Recreate the entire modlist to change the progression and add new DIM mods to simulate grinding out of hell into heaven kinda?
-  - Maybe something more like: Nether > Undergarden > Abydos > Twilight > Cavum Tenebrae > Aether > End > More Dims? Different Order?
+- [ ] Recreate the entire modlist from scratch to change the progression and add new DIM mods to simulate grinding out of hell into heaven
+  - Maybe something more like: Nether > Undergarden > Abydos > Twilight > Cavum Tenebrae > End > Aether
+  - More Dims?
+  - Different Order?
 
 # Ongoing Changes:
 - Progression balances making things more even across the board
@@ -146,14 +147,17 @@
   - Anvils (with observer/command block to respawn it after it breaks)
   - Smithing Tables
   - Apotheosis Tables
+  - Fletching Tables
+  - Cartography Tables
   - Basic Enchanting Setup
   - Lightmans ATM
   - Lightmans Vending Machines
 - Purchasable items from Server Vending Machines:
   - Starter Gear and Simple Items:
     - Weapons (wood/stone)
-    - Armor (wood/stone/leather)
-    - Basic Food (carrot/potato/wheat/bread/other simple foods)
+    - Armor (wood/stone?/leather)
+    - Basic Food
+    - Farming Starter Items
     - M&A Book
     - SilentGear Starter Blueprints
     - Basic Wallet

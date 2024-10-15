@@ -3,45 +3,45 @@
     "size": "medium",
     "color": "#00FF00",
     "waves": [
-      {
-        "entities": [
-          {
-            "entity": "minecraft:zombie",
-            "count": 3
-          }
-        ],
-        "max_wave_time": 1200,
-        "setup_time": 100
-      },
-      {
-        "entities": [
-          {
-            "entity": "minecraft:zombie",
-            "count": 6
-          }
-        ],
-        "max_wave_time": 1200,
-        "setup_time": 100
-      },
-      {
-        "entities": [
-          {
-            "entity": "minecraft:zombie",
-            "count": 9
-          }
-        ],
-        "max_wave_time": 1200,
-        "setup_time": 100
-      }
+        {
+            "entities": [
+                {
+                    "entity": "minecraft:zombie",
+                    "count": 3
+                }
+            ],
+            "max_wave_time": 1200,
+            "setup_time": 100
+        },
+        {
+            "entities": [
+                {
+                    "entity": "minecraft:zombie",
+                    "count": 6
+                }
+            ],
+            "max_wave_time": 1200,
+            "setup_time": 100
+        },
+        {
+            "entities": [
+                {
+                    "entity": "minecraft:zombie",
+                    "count": 9
+                }
+            ],
+            "max_wave_time": 1200,
+            "setup_time": 100
+        }
     ],
     "wave_count": 7,
     "spawn_algorithm": "gateways:inward_spiral",
     "rewards": [
-          {
-          "type": "gateways:loot_table",
-          "loot_table": "gateways:gateway_practice",
-          "rolls": 1,
-          "desc": "Batch of Experience"      
-      }
+        {
+            "type": "gateways:loot_table",
+            "loot_table": "gateways:gateway_practice",
+            "rolls": 1,
+            "desc": "Batch of Experience"
+        }
     ]
-  }
+}

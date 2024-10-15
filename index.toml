@@ -301,6 +301,10 @@ file = "kubejs/assets/computercraft/models/block/monitor_base_backup.json"
 hash = "9504907e1d51439e90ecee6f173b7055b97f4f08d179c80b389b542abe58abab"
 
 [[files]]
+file = "kubejs/assets/gateways/lang/en_us.json"
+hash = "42f2bb7759de48016c3d73dd904474f513460d2dfcc051ca810c8750bea9ec87"
+
+[[files]]
 file = "kubejs/assets/immersive_aircraft/textures/entity/airship.png"
 hash = "94b70f55eab970d39926d58cf79fbb559a13586f6692e16a70d18cacd2bcfece"
 
@@ -3238,15 +3242,15 @@ hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_health.json"
-hash = "5fe38b6bd8764c55b602cfd9a4c04c8ddf4a35891fdd4982db30b7430031f1fa"
+hash = "14cf6194462a47b795ca4c1182171272f5a00560bfafd9c0b427abed278e62d2"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_power.json"
-hash = "47bc48cedf74404f145f9cbe7a4cdb23c4bde153d45947154d489dacc5b77f2e"
+hash = "d3bacc27826b733943e9d12ea749203b4387df94edfd28579dce0475fc2493ab"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_practice.json"
-hash = "c7e89dd3de00f507ac7f915303dc5b4020317468197ebd8b205f1fbb724bb408"
+hash = "8dce2b3d46cb1d7cbbae184729a44e63ab20d39893f84931b758e0a8d33a24d7"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
@@ -3294,19 +3298,19 @@ hash = "337b642662db798b8c2892a3fe5678aebbd159b437ba9298acd06653f6fc87a9"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/cracked_gems.json"
-hash = "11d1a3f067b15e3573382691a570fd239b0a0acf37c9c41b165bf45f98ef9927"
+hash = "961d29487d3fe4245e775d2963a65a12a1d54d493a3269abe1eda4aadc19b5d9"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_health.json"
-hash = "36e46053a777c3df0ec352d2eb0169eea082417e64fb8efdfce6cd6ed1cdb9b1"
+hash = "5902bc7f78e5d02611def1252e4ba7ae85fc76d1df367e72af89a86b83f391f9"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_practice.json"
-hash = "944d8a4792ef0da5bbb47ffc94d782e618963b7d20235e2e2ff3c45e3569a79f"
+hash = "e3d3685086d595eb3989362460c87803fa1b705c57012c7a1f28cb913fa3d79f"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_sparkles.json"
-hash = "c735b86c4ef37d655a6cba285aa1c95e66b5b1185eb8b6da6a508ce718419352"
+hash = "3e15aa0d8f6a62f5ed2d18e01c0b2bd2d91f301db388e342d9d56b0a30c4f780"
 
 [[files]]
 file = "kubejs/data/glassential/recipes/glass_ghostly.json"
@@ -5765,7 +5769,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-industry.pw.toml"
-hash = "a4c441c5c01ee5187681162e65dd3db0a08b2101c6342944e1fd05481508245c"
+hash = "eebf94fe197b0c507c81c4b251e49dcceea5b44aa9d23384ba3d7121424680ae"
 metafile = true
 
 [[files]]
@@ -6015,12 +6019,12 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "6d77751600079d2954c407026007e294803eeff45d9072babd7f9799728726b5"
+hash = "a45054bd7d6ce48170a926f85372168b5b194a7717a4e94db5f5d5924404f177"
 metafile = true
 
 [[files]]
 file = "mods/library-of-exile.pw.toml"
-hash = "1f8d581ab89a4114cc3fe42cd2d1a40f55ebf85507815dc726510f5667caaeb3"
+hash = "4c334727beeb4e70c02a7ab1d1a9115c6b8b2c789c04f9ac49c43d61ee078886"
 metafile = true
 
 [[files]]
@@ -6040,7 +6044,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "fb8839604279483fe8665ecd01f797d984108be4eb6e0c0478ec2de7e973e5ef"
+hash = "56363234b357f17d4adb5cae1d2cfd7876d22306f6fd638819f930c0d9a45b8d"
 metafile = true
 
 [[files]]

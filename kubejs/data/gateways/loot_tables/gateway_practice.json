@@ -1,44 +1,43 @@
 {
     "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "gateways:custom_practice",
-            "weight": 1
-          },
-          {
-            "type": "minecraft:item",
-            "name": "gateways:custom_sparkles",
-            "weight": 7
-          },
-          {
-            "type": "minecraft:item",
-            "name": "gateways:custom_power",
-            "weight": 2
-          }
-        ]
-      },
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "create:experience_nugget",
-            "weight": 1,
-            "functions": [
-              {
-                "function": "minecraft:set_count",
-                "count": {
-                  "min": 150,
-                  "max": 216
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "gateways:custom_practice",
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gateways:custom_sparkles",
+                    "weight": 7
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "gateways:custom_power",
+                    "weight": 2
                 }
-              }
             ]
-          }
-        ]
-      }
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "create:experience_nugget",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 150,
+                                "max": 216
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
     ]
-  }
-  
+}
