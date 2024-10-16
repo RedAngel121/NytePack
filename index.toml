@@ -5599,7 +5599,7 @@ metafile = true
 
 [[files]]
 file = "mods/alekiships.pw.toml"
-hash = "ad63a8301ac03b46b4eee98991be70534bad07a64ddbb1b541fa9f28b3f2256c"
+hash = "cea56ff79e14518d7b8bca443820ca4911146ac6baee367bfa819aaabea585ff"
 metafile = true
 
 [[files]]
@@ -6039,7 +6039,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "121db4815978f7160f947b4289d7fddc78f320a87f6b0a5217c6357d6fbce32d"
+hash = "0550d6c5d1401c512f9f0e7362581f6a7179c47b1ffc9c8658b9a871b281feb8"
 metafile = true
 
 [[files]]
