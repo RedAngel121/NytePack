@@ -3,7 +3,7 @@
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
 
-# WARNING: This pack is not designed to work in a single player enviroment, community has been designed around this pack
+# WARNING: This pack is not designed to work in a single player enviroment, a community server has been designed around this pack
 ### Although you are allowed, single player worlds will break repeatedly as the pack is still under development
 - If you still want to play it that way then expect your stuff to be reset/borked a lot
 - If something breaks, notify me in discord/github so I can start working on that problem
