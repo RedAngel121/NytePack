@@ -2,13 +2,12 @@
 **Welcome to NytePack where innovation is productivity!**
 - You can get the pack as a full and always up to date release [here](https://github.com/RedAngel121/NytePack/releases/download/NytePack/NytePack_Installer.zip)
 - [Join The GameNytes Discord!](https://discord.gg/kkjwfuz)
-- Release Date: Oct 16th
 
-# WARNING: This pack is not designed to work in a single player enviroment, community server will be designed around this pack
+# WARNING: This pack is not designed to work in a single player enviroment, community has been designed around this pack
 ### Although you are allowed, single player worlds will break repeatedly as the pack is still under development
-- If you still want to play it then expect your stuff to be reset/borked a lot
-- If something breaks, notify me so I can start working on that problem
-- Requires ATLauncher to play, ***as MultiMC, Prism, CurseForge and Microsoft are not currently compatable.***
+- If you still want to play it that way then expect your stuff to be reset/borked a lot
+- If something breaks, notify me in discord/github so I can start working on that problem
+- Requires ATLauncher to play ***as MultiMC, Prism, CurseForge and Microsoft are not currently compatable.*** (subject to change)
 - Once a public server is ready I will be making an announcement in [Discord](https://discord.gg/kkjwfuz)
 
 ### Multiplayer Server Rules and Things to Know:
