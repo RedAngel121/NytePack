@@ -4206,7 +4206,7 @@ hash = "f86b507096c0817fde1c02e53f2ee91c4fa9c0c9135fe7faf1dc734e192054ca"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/coal_ore.json"
-hash = "2e58242661879cd9ae89a053d3a5f9857be1b05079be413bc19b164219379cb1"
+hash = "05feea8879f903de3e7da9da4bf820e914e4b0568f37f59cd14fd821bb836816"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/blocks/copper_ore.json"
