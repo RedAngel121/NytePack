@@ -4614,7 +4614,7 @@ hash = "e348322b4cf0504f30f22a40c40d43b9f63883ed3a6237708900cc46fb9ce779"
 
 [[files]]
 file = "kubejs/data/scalinghealth/tags/entity_types/difficulty_exempt.json"
-hash = "c03792835f8dbc18348466daa335813577e64ed37f15d7237307b654f68a5c46"
+hash = "2719b727688b1297de9352b8b4b1c15a98e4354bd6a2937a3718714387722198"
 
 [[files]]
 file = "kubejs/data/sgjourney/dimension_type/abydos.json"
@@ -5115,6 +5115,10 @@ hash = "985e136c4147176d5b9216ecec88c3550719024297b6dfbf14e6797e189c6ebf"
 [[files]]
 file = "kubejs/data/sophisticatedstorage/recipes/basic_to_gold_tier_upgrade.json"
 hash = "a5eee40e593752b7ab4f9d5a0ae874bce2a0949ababfd1905e403453659aea16"
+
+[[files]]
+file = "kubejs/data/sophisticatedstorage/recipes/basic_to_iron_tier_from_basic_to_copper_tier.json"
+hash = "95b847874c128e3827fbcb97cc78a7c0ea6348739203323ac8ca02e8d84a8019"
 
 [[files]]
 file = "kubejs/data/sophisticatedstorage/recipes/basic_to_iron_tier_upgrade.json"

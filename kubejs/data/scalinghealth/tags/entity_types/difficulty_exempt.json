@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         "minecraft:vex",
-        "minecraft:wandering_trader"
+        "minecraft:wandering_trader",
+        "minecraft:silverfish"
     ]
 }

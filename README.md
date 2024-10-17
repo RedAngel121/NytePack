@@ -88,6 +88,7 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
+- [ ] Create new Quark recipes/tweaks/crafting/utility/slabs from logs using the chests as a guide
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
 - [ ] Advanced Ore Overhaul to include hot and cold liquids
