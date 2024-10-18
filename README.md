@@ -88,6 +88,8 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
+- [ ] DynTrees dont work when using constructs from M&A or using "felled oak" spell
+- [ ] Fix interaction rules in flan: leashing a boat and using the magic runes
 - [ ] Create new Quark recipes/tweaks/crafting/utility/slabs from logs using the chests as a guide
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
