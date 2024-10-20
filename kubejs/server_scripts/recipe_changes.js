@@ -200,7 +200,7 @@ ServerEvents.recipes(event => {
         event.remove({ id: "jaopca:create.crushed_to_nugget." + each })
         event.remove({ id: "jaopca:create.raw_storage_block_to_crushed." + each })
         event.remove({ id: "quark:tweaks/smelting/raw_" + each + "_block_smelt" })
-        event.remove({ id: "quark:tweaks/blasting/raw_" + each + "_block_blast" })
+        event.remove({ id: "quark:tweaks/smelting/raw_" + each + "_brick_smelt" })
         // Console Log : Nickel and Aluminum missing nugget form... wait for TFMG update?
         console.log("LOADING MATERIAL: " + each)
         // Add new recipes in the altered output system

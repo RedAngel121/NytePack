@@ -4557,8 +4557,56 @@ file = "kubejs/data/pamhc2crops/recipes/sunchokeseeditem.json"
 hash = "ca2cadec02be7bd096ea68947e2cd98a6920b22ba8d74dc179042f575b05b32f"
 
 [[files]]
-file = "kubejs/data/quark/building/crafting/duskbound_lantern.json"
+file = "kubejs/data/quark/recipes/building/crafting/duskbound_lantern.json"
 hash = "64e09d8fb4616832ba775e1b7f2d1b10d8fcff3ba229e2a8be69374617c46632"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/blasting/raw_copper_block_blast.json"
+hash = "418ea8eab0f9da93c3741d0332c74c98c1d0c2cd6c92cc7cc15b372154a38115"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/blasting/raw_copper_bricks_blast.json"
+hash = "f3465e6a8aa15be60146c7451a23b2cbef7737c7fb698dd76ba8a5c8a3049874"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/blasting/raw_gold_block_blast.json"
+hash = "c961ce101963d00cd645306305bf1fc7161c92d162196fdddb932f2b9c9c4484"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/blasting/raw_gold_bricks_blast.json"
+hash = "1712d677a5093e5fd78354c1cd54201baf242b5e0a696eada551b33b6c5e4b8a"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/blasting/raw_iron_block_blast.json"
+hash = "173116ef7c603dd6b9e63fff8e44f4f16b086bb33932ba183e931791dfb586ef"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/blasting/raw_iron_bricks_blast.json"
+hash = "2317374139895504ff6364ac16f9034b312d8f7be6c085f457bfd9d0ad50e99c"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/smelting/raw_copper_block_smelt.json"
+hash = "003b4c09a44c266a59b3a9b7b3da20b0551a0ab10b53166e416777013953e32f"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/smelting/raw_copper_bricks_smelt.json"
+hash = "0a62005ee7c4c8d742b6eab04bd67dba34fb18d313ab34da207a03071bc573f8"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/smelting/raw_gold_block_smelt.json"
+hash = "79f999f926a171288139143b8974aaf90a3f338920160a8c17f54add0525afbf"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/smelting/raw_gold_bricks_smelt.json"
+hash = "793f06f3293831e25bbdfde0ca0a41d64a7458ef7224b0575301d0aa2e28d3d3"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/smelting/raw_iron_block_smelt.json"
+hash = "2a2e3525b316a2634a1a662135f361dc8d41ff0013e457a4bf4d5ccc1fae9d98"
+
+[[files]]
+file = "kubejs/data/quark/recipes/tweaks/smelting/raw_iron_bricks_smelt.json"
+hash = "82b3a1afbe2401535a2f5c7edbf85aec10ecb5871e6c5cef97c0df5739cdf69f"
 
 [[files]]
 file = "kubejs/data/scalinghealth/loot_tables/bonus_drops/hostile.json"
@@ -5594,7 +5642,7 @@ hash = "598eba78a36a54b8955e15570a4818507dd4d9731167a0f9a75de01d3b348ba2"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
-hash = "fb6a052084b5f727e72f01b9119c36c87bb6fd44d8b5e8d58b5596ea067e29ec"
+hash = "4aa91e421bd27c5811d3b8512fa88a22f5dc6774f86b2d5be816f5fda968f194"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"

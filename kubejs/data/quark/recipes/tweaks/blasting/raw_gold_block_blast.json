@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:raw_gold_block"
+  },
+  "result": "minecraft:gold_ingot",
+  "count": 2,
+  "experience": 9,
+  "cookingtime": 900,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "smelt_ore_blocks"
+    }
+  ]
+}
