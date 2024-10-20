@@ -4622,7 +4622,7 @@ hash = "f34b40439a301a61cff266ce29ca4ca8bcff0cb29eec68629bf1c863c9d343c9"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "f02cd6467f5194f4c50216e678bb6ea351cd00b94edfaa79b93d16398c1d25f0"
+hash = "d7a86220d706e0c1965aa96717cc2a4c293f3913d9912191e61d831476118367"
 
 [[files]]
 file = "kubejs/data/scalinghealth/sh_mechanics/mobs.json"

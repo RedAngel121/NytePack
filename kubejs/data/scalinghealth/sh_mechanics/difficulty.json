@@ -5,13 +5,13 @@
     "changePerSecond": 0,
     "mode": {
         "type": "distance",
-        "distanceFactor": 0.1
+        "distanceFactor": 0.05
     },
     "groupBonus": "1 + 0.05 * (areaPlayerCount - 1)",
     "groupBonusRadius": 32,
     "idleMultiplier": 1,
     "afkMessage": false,
-    "timeBeforeAfk": 600,
+    "timeBeforeAfk": 60,
     "sleepWarningMessage": false,
     "multipliers": {
         "lunarMultipliers": [

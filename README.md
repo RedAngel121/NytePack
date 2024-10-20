@@ -88,7 +88,6 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
-- [ ] Raw Copper/Iron/Gold bricks can be smelted into blocks, set to 2 ingots instead
 - [ ] cut power level in half for mobs
 - [ ] set mining level of create drill to stone (make sure they dont break things that they shouldnt break, dont ruin resources)
 - [ ] fix the recipes for the construction wands
