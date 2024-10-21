@@ -3306,11 +3306,11 @@ hash = "5902bc7f78e5d02611def1252e4ba7ae85fc76d1df367e72af89a86b83f391f9"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_practice.json"
-hash = "e3d3685086d595eb3989362460c87803fa1b705c57012c7a1f28cb913fa3d79f"
+hash = "25d37149a6f11f8d4f49bb13335a247818c835e762d151d4353fcd769e534ce6"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_sparkles.json"
-hash = "3e15aa0d8f6a62f5ed2d18e01c0b2bd2d91f301db388e342d9d56b0a30c4f780"
+hash = "bf63676128bc00c3547de23b4db6fd4805060d6035bdc2f3c2fd694ddcf52b59"
 
 [[files]]
 file = "kubejs/data/glassential/recipes/glass_ghostly.json"

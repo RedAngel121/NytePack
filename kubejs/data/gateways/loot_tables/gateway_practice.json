@@ -5,18 +5,27 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "gateways:custom_practice",
-                    "weight": 1
+                    "name": "gateways:gate_pearl",
+                    "weight": 1,
+                    "nbt": {
+                        "gateway": "gateways:custom_practice"
+                    }
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "gateways:custom_sparkles",
-                    "weight": 7
+                    "name": "gateways:gate_pearl",
+                    "weight": 7,
+                    "nbt": {
+                        "gateway": "gateways:custom_sparkles"
+                    }
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "gateways:custom_power",
-                    "weight": 2
+                    "name": "gateways:gate_pearl",
+                    "weight": 2,
+                    "nbt": {
+                        "gateway": "gateways:custom_power"
+                    }
                 }
             ]
         },
