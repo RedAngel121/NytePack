@@ -3254,7 +3254,7 @@ hash = "2ee3a2a31bd75547bc2318d67c6a60e0abb548d50dedc6a678885f2057062099"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
-hash = "6e904a88c3955664110b09899b9ebda5fd46e2062e3a943b31df9d97b872857a"
+hash = "0cb644155fa0c1ba29831277a056efa312e586a88269a1665b7e2943b9208312"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/enderman.json"
