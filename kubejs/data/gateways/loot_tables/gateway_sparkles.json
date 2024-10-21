@@ -5,17 +5,17 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "gateways:basic/custom_practice",
+                    "name": "gateways:custom_practice",
                     "weight": 1
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "gateways:basic/custom_sparkles",
+                    "name": "gateways:custom_sparkles",
                     "weight": 7
                 },
                 {
                     "type": "minecraft:item",
-                    "name": "gateways:basic/custom_power",
+                    "name": "gateways:custom_power",
                     "weight": 2
                 }
             ]
@@ -25,7 +25,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "cracked_gems",
+                    "name": "gateways:cracked_gems",
                     "weight": 1,
                     "functions": [
                         {

@@ -1,4 +1,5 @@
 {
+    "type": "gateways:custom",
     "size": "medium",
     "color": "#00FF00",
     "waves": [
@@ -37,8 +38,8 @@
     "spawn_algorithm": "gateways:inward_spiral",
     "rewards": [
         {
-            "type": "gateways:loot_table",
-            "loot_table": "gateway_health",
+            "type": "loot_table",
+            "loot_table": "gateways:gateway_health",
             "rolls": 1,
             "desc": "Set of Wither Bones"
         }

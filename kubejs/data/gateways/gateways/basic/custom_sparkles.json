@@ -1,4 +1,5 @@
 {
+    "type": "gateways:custom",
     "size": "medium",
     "color": "#FFD700",
     "waves": [
@@ -21,8 +22,8 @@
     "spawn_algorithm": "gateways:inward_spiral",
     "rewards": [
         {
-            "type": "gateways:loot_table",
-            "loot_table": "gateway_sparkles",
+            "type": "loot_table",
+            "loot_table": "gateways:gateway_sparkles",
             "rolls": 1,
             "desc": "Set of Enchanted Gems"
         }

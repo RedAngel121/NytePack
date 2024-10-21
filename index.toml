@@ -3242,19 +3242,19 @@ hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_health.json"
-hash = "d711b69ddfbc60c0ecdca5027eca3a1b6471274141209273d7c5638a2e4b68ec"
+hash = "26bb103eb6a1e16470d0f23ca201e0ca7ab03855716af6d3da9dedb5cab47ca5"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_power.json"
-hash = "03868f545aa9939a2e2c381a31f75596b6e2e60863f2dfe376afe8b1e1fd424e"
+hash = "ee31a01981f5496d99c36b0dca2c495be8f466f38a01753604f56ef2505928cc"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_practice.json"
-hash = "207a2b04d17ca2896786a8b2eaba25ed7e9c2b347a80b1ffa93a22c409bfae76"
+hash = "24e97a82f11d029c61df8bc7147adcdb8330a37785e90f4575492075191ac109"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
-hash = "6fa5671821557d9fe2729a06993fdb50cb348ccec87a3720acf75df6606432b5"
+hash = "0cb644155fa0c1ba29831277a056efa312e586a88269a1665b7e2943b9208312"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/enderman.json"
@@ -3306,11 +3306,11 @@ hash = "5902bc7f78e5d02611def1252e4ba7ae85fc76d1df367e72af89a86b83f391f9"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_practice.json"
-hash = "4a9d66e7f2faf005e6c92a26e8468f532b8c8306d3bfab3e1b24e90419d5fde3"
+hash = "e3d3685086d595eb3989362460c87803fa1b705c57012c7a1f28cb913fa3d79f"
 
 [[files]]
 file = "kubejs/data/gateways/loot_tables/gateway_sparkles.json"
-hash = "50058c6a94764f12b806cb320c9644ad9c0c87ec1fe09d13d14b1fdf714e5f82"
+hash = "3e15aa0d8f6a62f5ed2d18e01c0b2bd2d91f301db388e342d9d56b0a30c4f780"
 
 [[files]]
 file = "kubejs/data/glassential/recipes/glass_ghostly.json"
