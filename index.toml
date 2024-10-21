@@ -3242,19 +3242,19 @@ hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_health.json"
-hash = "be4bc3e06dbfbc1c959c54463ce82cd074e52d2192f19fa83cee7e032a08a92d"
+hash = "d711b69ddfbc60c0ecdca5027eca3a1b6471274141209273d7c5638a2e4b68ec"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_power.json"
-hash = "60887ca116ee980563e93865617eb8200debadf833fe287e87bd1d3ddf157174"
+hash = "03868f545aa9939a2e2c381a31f75596b6e2e60863f2dfe376afe8b1e1fd424e"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_practice.json"
-hash = "d179a4edaf8a0df7c90ac1688dfb22aecd30056d8c81a10cb1afb1bdefd73dd3"
+hash = "207a2b04d17ca2896786a8b2eaba25ed7e9c2b347a80b1ffa93a22c409bfae76"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
-hash = "f6ca632ac5f4b6b4094e8ac106ca1898644565625471fa8ba49dc4b2cf9bb82a"
+hash = "6fa5671821557d9fe2729a06993fdb50cb348ccec87a3720acf75df6606432b5"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/enderman.json"
