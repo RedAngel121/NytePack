@@ -23,7 +23,7 @@
     "rewards": [
         {
             "type": "gateways:loot_table",
-            "loot_table": "gateways:gateway_sparkles",
+            "loot_table": "gateway_sparkles",
             "rolls": 1,
             "desc": "Set of Enchanted Gems"
         }

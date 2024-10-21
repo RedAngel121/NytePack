@@ -39,7 +39,7 @@
     "rewards": [
         {
             "type": "gateways:loot_table",
-            "loot_table": "gateways:gateway_practice",
+            "loot_table": "gateway_health",
             "rolls": 1,
             "desc": "Set of Wither Bones"
         }

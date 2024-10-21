@@ -19,7 +19,7 @@
     "rewards": [
         {
             "type": "gateways:loot_table",
-            "loot_table": "gateways:gateway_practice",
+            "loot_table": "gateway_practice",
             "rolls": 1,
             "desc": "Bunch of Experience"
         }

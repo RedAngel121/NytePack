@@ -25,7 +25,7 @@
             "entries": [
                 {
                     "type": "minecraft:loot_table",
-                    "name": "gateways:cracked_gems",
+                    "name": "cracked_gems",
                     "weight": 1,
                     "functions": [
                         {
