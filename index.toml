@@ -3242,15 +3242,15 @@ hash = "4273339e20853952c99212988b881aaf5c107edb67aa0db1be476ca9ff7a955b"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_health.json"
-hash = "3efb28353c45a064455a3f362db654866932a9fd32f8dd492eb9eaca5776cadc"
+hash = "26bb103eb6a1e16470d0f23ca201e0ca7ab03855716af6d3da9dedb5cab47ca5"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_power.json"
-hash = "cf1f15499e3e0e8bc3d4d186e4ede3864ed4a249b0224ab5aa087d7d0167668c"
+hash = "ee31a01981f5496d99c36b0dca2c495be8f466f38a01753604f56ef2505928cc"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_practice.json"
-hash = "2ee3a2a31bd75547bc2318d67c6a60e0abb548d50dedc6a678885f2057062099"
+hash = "24e97a82f11d029c61df8bc7147adcdb8330a37785e90f4575492075191ac109"
 
 [[files]]
 file = "kubejs/data/gateways/gateways/basic/custom_sparkles.json"
