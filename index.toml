@@ -5746,6 +5746,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
 metafile = true
@@ -5772,7 +5777,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "a9a5c85968036b975f04546a4834ba0c701f1ae896c952acb4e428211ed88b52"
+hash = "95521ed1b9e5d430cfd7920661b74dbfaf5035e7a5edd9ef44b9eb14db3a70b8"
 metafile = true
 
 [[files]]
@@ -5976,6 +5981,11 @@ hash = "9325ab172a9e6f56baf464193c7d372a0aa38b0d4fe6a9d6298c268f9960b165"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "0a34505ddd3042a72fdab146e12ca584a7f382b9bf8c4e6a8c2730183141667e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "254fa88a59939d745fb21115424bcf36b036557d0a481f63239b9d2577d620eb"
 metafile = true
@@ -5987,7 +5997,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
+hash = "24fec71f760af3f3f53118e6e08df0d0116c4923bdba8a24785ad78fb807a129"
 metafile = true
 
 [[files]]
@@ -6032,7 +6042,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-additions.pw.toml"
-hash = "b175e1a1408708cf78e211c8e768540d23e942f34a1efef1772e06abe820a5b0"
+hash = "fb805a0ceb336cb3bcd7a4f7dcd551c87658c0c65bbb447a76ca7ae750b178ce"
 metafile = true
 
 [[files]]
@@ -6056,8 +6066,13 @@ hash = "8d3170cf6962262f4a4aaff0ab5154e27d70a2b2ef38125a59109d6a4216c320"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "35c0251ad56fdf68faef3ea142fe0b76016937ab6fa52b65ce222ea7d1fb5b74"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "a45054bd7d6ce48170a926f85372168b5b194a7717a4e94db5f5d5924404f177"
+hash = "bb08f977b2d177b78d739bf2df5be2c487945f4a99f64c016a65c9a4f826aaad"
 metafile = true
 
 [[files]]
@@ -6072,7 +6087,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "0550d6c5d1401c512f9f0e7362581f6a7179c47b1ffc9c8658b9a871b281feb8"
+hash = "b27afcb877dd1c1d670d68a64c6c9e1ed927f4411dd04d024aad97bdfbcc93ec"
 metafile = true
 
 [[files]]
@@ -6147,7 +6162,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "47dc611691eed590e083b443f4a4111e5aaa7a42cffed90f944f65635adbe7e0"
+hash = "02a9dab980fdbf25cba0da4e851e190f4065aab33be4cea73c4af9c199d1e7ea"
 metafile = true
 
 [[files]]
@@ -6266,6 +6281,11 @@ hash = "fe0e6f4b66452fd5f289f6271d9760431765cbd32161faf7b1cd59e147394dfe"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "df91958db1f1c82ea5d4fe933a4893cdefe6861e3aa2f25d4c4a39a062bddd15"
 metafile = true
@@ -6372,7 +6392,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarview.pw.toml"
-hash = "3eb8da71e8fe01734760383b564355d3abb2a473aee14145e566fee69a7a279d"
+hash = "d49da15d3cbc9c27ce26a9e40a67c4e63d9fd71a621c03e0a07b6ae14c3496cd"
 metafile = true
 
 [[files]]

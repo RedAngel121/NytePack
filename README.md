@@ -88,11 +88,10 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
-- [ ] cut power level in half for mobs
+- [ ] Fix the Gateway Drops
 - [ ] set mining level of create drill to stone (make sure they dont break things that they shouldnt break, dont ruin resources)
-- [ ] fix the recipes for the construction wands
-- [ ] DynTrees dont work when using constructs from M&A or using "felled oak" spell
-- [ ] Fix interaction rules in flan: leashing a boat and using the magic runes
+- [ ] DynTrees dont work when using constructs from M&A or using "felled oak" spell - DT dev has no idea whats going on
+- [ ] Fix interaction rules in flan: leashing a boat and using the magic runes - who do i talk to about this?
 - [ ] Create new Quark recipes/tweaks/crafting/utility/slabs from logs using the chests as a guide
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
@@ -105,8 +104,7 @@
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] Recreate the entire modlist from scratch to change the progression and add new DIM mods to simulate grinding out of hell into heaven
   - Maybe something more like: Nether > Undergarden > Abydos > Twilight > Cavum Tenebrae > End > Aether
-  - More Dims?
-  - Different Order?
+  - Get More Dims and organize them 
 
 # Ongoing Changes:
 - Progression balances making things more even across the board
@@ -118,6 +116,7 @@
 - Stargate Power Requirements need adjustments
 
 # Interesting Ideas:
+- [Better Climbing](https://www.curseforge.com/minecraft/mc-mods/better-climbing)
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium armor/tools and adjust the ingot for netherite application but a different color?
