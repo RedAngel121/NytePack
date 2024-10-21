@@ -73,11 +73,11 @@
 - [x] Limit Vinteum drops to player killed mobs only
 - [x] Skylands Biomes added to the finite water whitelist
 - [x] Separated out villages more
-- [x] Gateways to Eternity - Thanks Dev!
+- [x] Gateways to Eternity
 - [x] Removed standard boats in favor of Nifty Ships
 - [x] Replaced recipes needing a boat with `alekiships:watercraft_frame_flat`
 - [x] Man of Many Planes - adjust the speed of the metal biplane to make it better than the fabric biplane
-- [x] Added MineColonies:
+- [x] Added MineColonies with:
   - Domum Ornamentum
   - Multi-Piston
   - Structurize
@@ -88,7 +88,7 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
-- [ ] Fix the Gateway Drops
+- [ ] find out how hard apples are to find (are they seasonal? or just drops from a single tree? pams apple trees?)
 - [ ] set mining level of create drill to stone (make sure they dont break things that they shouldnt break, dont ruin resources)
 - [ ] DynTrees dont work when using constructs from M&A or using "felled oak" spell - DT dev has no idea whats going on
 - [ ] Fix interaction rules in flan: leashing a boat and using the magic runes - who do i talk to about this?
