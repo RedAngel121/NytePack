@@ -22,7 +22,7 @@
     "spawn_algorithm": "gateways:inward_spiral",
     "rewards": [
         {
-            "type": "loot_table",
+            "type": "gateways:loot_table",
             "loot_table": "gateways:gateway_sparkles",
             "rolls": 1,
             "desc": "Set of Enchanted Gems"
