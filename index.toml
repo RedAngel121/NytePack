@@ -4201,6 +4201,10 @@ file = "kubejs/data/mekanism/worldgen/placed_feature/ore_uranium_small.json"
 hash = "90965f46983b3dc1314be67134d800fce7c91de53df7f33eba749e9bf43b8952"
 
 [[files]]
+file = "kubejs/data/minecolonies/recipes/supplychestdeployer.json"
+hash = "0c98844340e6908cb894b5c39e9e6deb1cc0883f06716bb3655e12e3f6b7b42b"
+
+[[files]]
 file = "kubejs/data/minecolonies/worldgen/structure_set/empty_colony.json"
 hash = "f86b507096c0817fde1c02e53f2ee91c4fa9c0c9135fe7faf1dc734e192054ca"
 

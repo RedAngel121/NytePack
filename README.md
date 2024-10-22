@@ -88,10 +88,12 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
-- [ ] find out how hard apples are to find (are they seasonal? or just drops from a single tree? pams apple trees?)
+- supply camp boat requires 5 vanilla boats
+- [ ] Re-eval Serene Seasons for playability within the pack
+- [ ] Find out how hard apples are to find (are they seasonal? or just drops from a single tree? pams apple trees?)
 - [ ] set mining level of create drill to stone (make sure they dont break things that they shouldnt break, dont ruin resources)
 - [ ] DynTrees dont work when using constructs from M&A or using "felled oak" spell - DT dev has no idea whats going on
-- [ ] Fix interaction rules in flan: leashing a boat and using the magic runes - who do i talk to about this?
+- [ ] Fix interaction rules in spawn, whitelists exist
 - [ ] Create new Quark recipes/tweaks/crafting/utility/slabs from logs using the chests as a guide
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
@@ -104,7 +106,7 @@
 - [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
 - [ ] Recreate the entire modlist from scratch to change the progression and add new DIM mods to simulate grinding out of hell into heaven
   - Maybe something more like: Nether > Undergarden > Abydos > Twilight > Cavum Tenebrae > End > Aether
-  - Get More Dims and organize them 
+  - Get More Dims and organize them in that list: custom dims?
 
 # Ongoing Changes:
 - Progression balances making things more even across the board

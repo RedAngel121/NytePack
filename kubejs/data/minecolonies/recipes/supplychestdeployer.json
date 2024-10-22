@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "alekiships:watercraft_frame_flat"
+    }
+  },
+  "pattern": [
+    "   ",
+    "B B",
+    "BBB"
+  ],
+  "result": {
+    "item": "minecolonies:supplychestdeployer"
+  },
+  "show_notification": true
+}
