@@ -88,25 +88,24 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
-- [ ] Stack Stack needs to be deconstructable
-- [ ] Shiping containers are breaking inventory and not keeping correct numbers
-- [ ] Re-eval Serene Seasons for playability within the pack
-- [ ] Find out how hard apples are to find (are they seasonal? or just drops from a single tree? pams apple trees?)
-- [ ] set mining level of create drill to stone (make sure they dont break things that they shouldnt break, dont ruin resources)
-- [ ] DynTrees dont work when using constructs from M&A or using "felled oak" spell - DT dev has no idea whats going on
-- [ ] Create new Quark recipes/tweaks/crafting/utility/slabs from logs using the chests as a guide
-- [ ] Find or make recipes that would require a freezing catalyst
-- [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
-- [ ] Advanced Ore Overhaul to include hot and cold liquids
+- Shiping containers are breaking inventory and not keeping correct numbers, is there a fix for this?
+- Re-eval Serene Seasons for playability within the pack
+- Find out how hard apples are to find (are they seasonal? or just drops from a single tree? pams apple trees?)
+- set mining level of create drill to stone (make sure they dont break things that they shouldnt break, dont ruin resources)
+- DynTrees dont work when using constructs from M&A or using "felled oak" spell - DT dev has no idea whats going on
+- Create new Quark recipes/tweaks/crafting/utility/slabs from logs using the chests as a guide
+- Find or make recipes that would require a freezing catalyst
+- Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
+- Advanced Ore Overhaul to include hot and cold liquids
 
-- [ ] Add Quest mod and Quest progression
-- [ ] Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
-- [ ] Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
-- [ ] Add the More Minecarts Chunk loader seperate mod they are making https://www.curseforge.com/minecraft/mc-mods/more-minecarts/files/all
-- [ ] Modify SGJ recipes to make building a stargate more difficult and resource intensive
-- [ ] Recreate the entire modlist from scratch to change the progression and add new DIM mods to simulate grinding out of hell into heaven
+- Add Quest mod and Quest progression
+- Add and Config [Create: Molten Vents](https://www.curseforge.com/minecraft/mc-mods/create-molten-vents)
+- Re-Add [Serene Seasons Pams Trees Compat](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-pams-harvestcraft-2-trees-compat) when its been updated... It's MIT so I could probably just update it myself
+- Add the More Minecarts Chunk loader seperate mod they are making https://www.curseforge.com/minecraft/mc-mods/more-minecarts/files/all
+- Modify SGJ recipes to make building a stargate more difficult and resource intensive
+- Recreate the entire modlist from scratch to change the progression and add new DIM mods to simulate grinding out of hell into heaven
   - Maybe something more like: Nether > Undergarden > Abydos > Twilight > Cavum Tenebrae > End > Aether
-  - Get More Dims and organize them in that list: custom dims?
+  - Get More Dims and organize them according to tier (should i make custom dims?)
 
 # V2 Changes:
 - XP Drop on death is too severe, lessen the penalty of that
@@ -121,7 +120,8 @@
 - Stargate Power Requirements need adjustments
 
 # Interesting Ideas:
-- [Better Climbing](https://www.curseforge.com/minecraft/mc-mods/better-climbing)
+- [Star Worm Equestrian (Upgrading Horses)](https://www.curseforge.com/minecraft/mc-mods/swem)
+- [Create: Love & War](https://www.curseforge.com/minecraft/mc-mods/create-love-war)
 - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) OR [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu): Both are lots of work...
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): some of the mobs are just horrible and need to be disabled
 - [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture): remove neptunium armor/tools and adjust the ingot for netherite application but a different color?
