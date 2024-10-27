@@ -88,12 +88,12 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
-- supply camp boat requires 5 vanilla boats
+- [ ] Stack Stack needs to be deconstructable
+- [ ] Shiping containers are breaking inventory and not keeping correct numbers
 - [ ] Re-eval Serene Seasons for playability within the pack
 - [ ] Find out how hard apples are to find (are they seasonal? or just drops from a single tree? pams apple trees?)
 - [ ] set mining level of create drill to stone (make sure they dont break things that they shouldnt break, dont ruin resources)
 - [ ] DynTrees dont work when using constructs from M&A or using "felled oak" spell - DT dev has no idea whats going on
-- [ ] Fix interaction rules in spawn, whitelists exist
 - [ ] Create new Quark recipes/tweaks/crafting/utility/slabs from logs using the chests as a guide
 - [ ] Find or make recipes that would require a freezing catalyst
 - [ ] Sparky's Loot Box: 1/1000 chance of a stick named "Fred's Other Cousin" / 1/10000 chance of spawning a blaze rod named "Fred's Cousin" / 1/100000 chance of spawning a pufferfish named "Fred"
@@ -108,11 +108,14 @@
   - Maybe something more like: Nether > Undergarden > Abydos > Twilight > Cavum Tenebrae > End > Aether
   - Get More Dims and organize them in that list: custom dims?
 
-# Ongoing Changes:
+# V2 Changes:
+- XP Drop on death is too severe, lessen the penalty of that
+- Set Serene Seasons to 8hrs instead of 24 (remove it, if its still a problem with tree seeds)
+- Mobs are way too hard in nether and randomly spawns 300hp stuff next to spawn
 - Progression balances making things more even across the board
 - Manage Recipes and Items to make sure nothing breaks progression
 - Sophisticated DefaultConfigs add new items to blacklist
-- Chicken Shed Configs can allow other mobs to drop items once every 20 min
+- Chicken Shed Configs can allow other mobs to drop items once every 20 min (can i increase the time?)
 - Add structure loot tables from other mods for lightmans to insert coins into
 - Naquadah and UnderGarden mats need balancing in silent gear configs
 - Stargate Power Requirements need adjustments

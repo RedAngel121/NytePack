@@ -1,13 +1,13 @@
 name = "Lithostitched"
-filename = "lithostitched-forge-1.20.1-1.3.1b.jar"
+filename = "lithostitched-forge-1.20.1-1.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c430826c415cef2fc3bc649af47976cd80c8fc02"
+hash = "55aa7e60b7a6b7464617a3e693a7bbaf98ca25bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5813021
+file-id = 5846466
 project-id = 936015

@@ -190,7 +190,7 @@ hash = "54a5c264d34d40cfe05a8c7a2e0c5a5840fac225f84b76c689fdb58251c98c93"
 
 [[files]]
 file = "config/staaaaaaaaaaaack-common.toml"
-hash = "156e0db24b478a39df0afd46ce3a689589011586ebf0347e9d6b1d2700e0bcf7"
+hash = "ae86c845616dc4575cd0264be1b58995b87ec46d5cf9e4f7b7d615f65e95abb5"
 
 [[files]]
 file = "config/tectonic.json"
@@ -4386,11 +4386,11 @@ hash = "51757897bcbbdf95982a8ae6ab75d2a72dbc367fd40412eb2cdda61bac9146ec"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
-hash = "bffff6b9cbd039ed3df152f4b06d0d853393fa9d6f836d8d180881810b74de70"
+hash = "24069c4fec38b88c94715b2e64b526846f849e423debd87310b92c24240dc259"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
-hash = "0ffce7ac457b2fdd0c21f3c6666572e19d8b4f6107bc1560284e5055de2a0471"
+hash = "e49c70e501ed2f864737a677ca72408aab44d04609b173b49ec5208e2eb07597"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper.json"
@@ -5614,11 +5614,11 @@ hash = "bdc9752aad1aba1e15f8b810aba304e724df3ded3fc9eeb7c94b14916ea382bd"
 
 [[files]]
 file = "kubejs/server_scripts/iris_smithing.js"
-hash = "78ff247b1ee76f9d83bc8a5efa9186c8ca2252e2efb808655d62f4bcef3edcc9"
+hash = "8f2c3351ef910d85a6a54ddc8f5a8316fcb124110f0aef03ab8a7ab87b03d828"
 
 [[files]]
 file = "kubejs/server_scripts/login_bonus.js"
-hash = "598eba78a36a54b8955e15570a4818507dd4d9731167a0f9a75de01d3b348ba2"
+hash = "f532a2ff85468a5e7d3269607dd4e81821a9af05ebe65328ab43df1563fca353"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_changes.js"
@@ -5700,6 +5700,11 @@ hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "0050f9590b0cefbf6ffe5e0fc57b362c70ddbce9cc5ac2a6690a3c49005697b9"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "5be62cf52a3584f39286d261f9325a1ddfb0efb6f1838b9f368df6a28cab3d15"
 metafile = true
@@ -5756,7 +5761,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
+hash = "56ca5adf65660e95f1acd0a30e3fed0565e490bc545e7b32c628051a5926632c"
 metafile = true
 
 [[files]]
@@ -5816,12 +5821,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "02a6fd7951c114f68c2def4c7155a5a6bd971a79904262ba64b376a0bc191449"
+hash = "cb7b31c785f6e7466951c7b2b221d9c89f065e7930a36ac1a575e40d54404bb3"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "0bd6cd5b2f5075f7dcbbcc6f7d2fb2ec0ef7f8b52c46d7a644f0abd84e03872e"
+hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
 
 [[files]]
@@ -5841,7 +5846,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
+hash = "750841548ae0990fca6a11691760b394623d3316bc1eaad47ad7ee0ec5a906c9"
 metafile = true
 
 [[files]]
@@ -5986,7 +5991,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "0a34505ddd3042a72fdab146e12ca584a7f382b9bf8c4e6a8c2730183141667e"
+hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
 
 [[files]]
@@ -6026,12 +6031,12 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "81c9157124e36f1861cf7d301e90c33edcb2886621472952036c75420828570b"
+hash = "da3424e058489023e23d2a3a0068bebac7276cfecfd103f102046fafd5525171"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0968cf761fc4608f1d756da1b693314f23148dd8d9a4b8d1c1d046ed7d8f6f39"
+hash = "60813bd83b6042f9c218e718a990e81757681f19d6a4b9b3860f529c8b651960"
 metafile = true
 
 [[files]]
@@ -6076,7 +6081,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "bb08f977b2d177b78d739bf2df5be2c487945f4a99f64c016a65c9a4f826aaad"
+hash = "5aff6cc62b6e35d7761a566595bb8d656e5c5ab1b61aea615c4a8f8a3fb5cb4b"
 metafile = true
 
 [[files]]
@@ -6091,7 +6096,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "b27afcb877dd1c1d670d68a64c6c9e1ed927f4411dd04d024aad97bdfbcc93ec"
+hash = "04bc946631fdd2072bc36c52639f369e152a4296c8c038b4f201e249f7ff8a4b"
 metafile = true
 
 [[files]]
@@ -6101,7 +6106,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "56363234b357f17d4adb5cae1d2cfd7876d22306f6fd638819f930c0d9a45b8d"
+hash = "eb1338b03ed391e28ab0869654f2bd5a773f318cc441dcc72d7a21fcc07dca8a"
 metafile = true
 
 [[files]]
@@ -6166,7 +6171,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "02a9dab980fdbf25cba0da4e851e190f4065aab33be4cea73c4af9c199d1e7ea"
+hash = "42ee5f465fe1e50e93c0bc67ff2151b6f095168b3682fda78be741748c5c81db"
 metafile = true
 
 [[files]]
@@ -6346,7 +6351,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "20b68336b168044c2f20da0d67827a6edafbc882c62a2498f9d081558313ce51"
+hash = "6bf33f4a24883a0aa00ebd00040733717296cd40264aeb6086dd002f2fab6c93"
 metafile = true
 
 [[files]]
@@ -6361,7 +6366,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "059be12558bea1c356d92444828aab63008347774a4121d9814eef5bf15d6054"
+hash = "7da499d1ccc3dd59e32a6e3840f0eab9edc5f03c4bd135d70733e4495ac47d39"
 metafile = true
 
 [[files]]
@@ -6451,7 +6456,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "cfd9a2802e5471ffd9e2555286ba95fddc4fa75184bf59084bd2e1cb88b14b3c"
+hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
 metafile = true
 
 [[files]]
@@ -6462,6 +6467,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1bfc00546eacc516fef33abcaabce4499f4e8508d56f0ed8e3d55736831acfdd"
 metafile = true
 
 [[files]]
