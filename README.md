@@ -88,6 +88,8 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
+- ["mna:components/divination".RANGE] adjustments
+- A loot pool entry of type minecraft:item does not have a nbt field, you have to use a set_nbt loot function for that
 - Shiping containers are breaking inventory and not keeping correct numbers, is there a fix for this?
 - Re-eval Serene Seasons for playability within the pack
 - Find out how hard apples are to find (are they seasonal? or just drops from a single tree? pams apple trees?)
