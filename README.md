@@ -88,6 +88,7 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
+- Azure silver and crimson iron are not recipe stable, fix them in kube
 - ["mna:components/divination".RANGE] adjustments
 - A loot pool entry of type minecraft:item does not have a nbt field, you have to use a set_nbt loot function for that
 - Shiping containers are breaking inventory and not keeping correct numbers, is there a fix for this?
