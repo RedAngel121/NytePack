@@ -6076,7 +6076,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "8d3170cf6962262f4a4aaff0ab5154e27d70a2b2ef38125a59109d6a4216c320"
+hash = "1d9bd6d4f7a7b428c0388e7663d84ef370dc2e4c60ccb5e418f4d2cdf6eef850"
 metafile = true
 
 [[files]]
@@ -6101,7 +6101,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "04bc946631fdd2072bc36c52639f369e152a4296c8c038b4f201e249f7ff8a4b"
+hash = "1c440f745a6a4c12bbd6fc5c4bef9789cdf4fbc33ae97f347565e535f4e79217"
 metafile = true
 
 [[files]]
@@ -6345,6 +6345,11 @@ hash = "e0f624511181996e5cdaa3af40daec17dcc2f4c208b89da845711ea75e23ed71"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-pams-harvestcraft-2-trees-compat.pw.toml"
+hash = "10afc7139997d78d4066c7503d9abec0c61f500508cec3f25f176b78c44b5921"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "8582e34cc518e4528a95352d852cf323901a9a8818e3a9fa05ac2ce825039fe7"
 metafile = true
@@ -6376,17 +6381,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8a91a2acc4b2b1b01bf11ab52118de458b81c8c07c02318323a6f4c3b7cd0e00"
+hash = "1abd27aa185c9b2719bf95c12b10413dd5076f4a8cb5640e414982f7bd739053"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "df9eff87b022ebcf805d82a934c0da6620aab87bcb731f07bcac067b6cb553ba"
+hash = "d3ecf1569265122c8fd5294ea3e3ed516816c53ff50474a8ca81ef74bc4afb4e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4ff635e95d1bededba4fcf75687714066dab467970b2444a102a3df28cfd32e7"
+hash = "a42af3c021ba0ba5a973e816e222aee93dd2be4ca00892e1522bb7c304ae24a2"
 metafile = true
 
 [[files]]
