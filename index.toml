@@ -5686,7 +5686,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1611542f5f481a64e11b4a32789bd71f43e16a07e5c548ccc668c4b5de05e2bd"
+hash = "c284810e562f4913414e1e6b294291929a4461b482b87fd4371ceba7870804d9"
 metafile = true
 
 [[files]]
@@ -5870,6 +5870,11 @@ hash = "8c04f9fd776591ebe8050f7504f23ef5b36f16507d95107b1c53ff408b01b3f8"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "78e86b01d4f72cda8d12660151c101b02f0ef1dbcfc5d73f6c8dba10fbd482ee"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "92d4db1c37b50135a998bd36f8aff6d87a2753616e03db3fdb9ff478c3e47e3b"
 metafile = true
@@ -5976,7 +5981,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "8bd098bd9535460709877edd2aad1a23cccac7d7a48e7bb34c2dc78f01c3ce78"
+hash = "0b24312ff5783cbb9c2707e16eb791ed12adb765259dd154cd09a00cc3fc38e2"
 metafile = true
 
 [[files]]
@@ -6001,7 +6006,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "49152ddab9b7ef9a807e9086ae80bc3479d6fc0ec208228b5dcb8c32c9c3ae04"
+hash = "9406e74a2166c58db37c0ba2a29da94723d0c158b05cc6bf22355f7855a27709"
 metafile = true
 
 [[files]]
@@ -6076,7 +6081,7 @@ metafile = true
 
 [[files]]
 file = "mods/lc-tech.pw.toml"
-hash = "8e0cf912ee2a0dc17130ad3a0c8e3f8ef93c4e197c6b794418d19de8c3f5dfd7"
+hash = "de094d569d164b94fa71e95d788dde186a99f49a8a59cc5ca92cc06c56c45933"
 metafile = true
 
 [[files]]
@@ -6086,7 +6091,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "42cd55bfbc58186907c44abe06cd1ae9cc52b2ab9e9cc8b2c26666e222f8e7dc"
+hash = "d2d57dc5270d1adbedc96b8f99fe839a0725abd4fbbbae100b27f1654c6ce2ad"
 metafile = true
 
 [[files]]
@@ -6101,7 +6106,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "b3a1d2b2996ccacb926eefaea28a0748209296e5708581c997cbd59e890eded6"
+hash = "c61510780269c93ae2fcf3d9de422fa5119f5beb706db1f2be3bc376930b46b2"
 metafile = true
 
 [[files]]
@@ -6176,7 +6181,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "852fc9f815bb8f0e42ec396f81bf884a6473a8119d4bf1697b9d111c0e84e9b3"
+hash = "5f27d010dfb6ed0f19832997df51e2a01b0777cab977101d021f439034223a31"
 metafile = true
 
 [[files]]
@@ -6306,7 +6311,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
+hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
 metafile = true
 
 [[files]]
@@ -6361,7 +6366,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "cf098acf4ba08be5d9bdd186804d3be8c93a328ac78d25c3d03f1b24a80d8e70"
+hash = "5c037c1304a9b5dad20f05446dedaff135f79a7e95c53f45365097b18197d321"
 metafile = true
 
 [[files]]
@@ -6386,7 +6391,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9670565e95122b3ef723d243712738ff42d5e4c130227b26416100dcfe27e385"
+hash = "9c11c06685a9b4ac9d7b8d923ad423a45aa9ac683d09a9161c6450c7b3f6279c"
 metafile = true
 
 [[files]]
@@ -6416,7 +6421,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "a342b76a9c9f6a0e4896ea4c1f16e856711a9d7cc20736f97a71acbc400b44f5"
+hash = "7ef732e35e49cd85a75675d7b05dc7d1a194b2448f267f70b0e67d36ec1e49e1"
 metafile = true
 
 [[files]]
@@ -6481,7 +6486,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "11c2aacd769fd1729652bafde4e04ce6f8a3e67524f9254e8ddee2eac392f40d"
+hash = "7d82589ef537c4a134ec1c5901019052c3fd3fd1a6051500ff3f732339e801e0"
 metafile = true
 
 [[files]]
@@ -6561,5 +6566,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
+hash = "586fcd360558e92a194059b46509420f57f1baa3ef1a1bee073a862a38b3bde7"
 metafile = true
