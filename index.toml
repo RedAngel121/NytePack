@@ -5681,12 +5681,12 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "367acdcfae2762da92ff881ff4e2e14dead14b4ce6b28af2b553863517fb24f3"
+hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1611542f5f481a64e11b4a32789bd71f43e16a07e5c548ccc668c4b5de05e2bd"
+hash = "90d208b257c34c5a6b8407802316e60e9a1d857e80e626cbd04c31811eca1cb9"
 metafile = true
 
 [[files]]
@@ -5831,7 +5831,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "cc636b9cfa6721cd05df2eae096d761432be6eee679902c74395f28d9e20e52b"
+hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
 metafile = true
 
 [[files]]
@@ -6416,7 +6416,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellarview.pw.toml"
-hash = "f68fbd23870d9425223c2e0fc4cec5f2f1eb2f5082e9c96349bbb8e329465340"
+hash = "5b08fc9d7d8f47b4b74d8878be37192971fa5770b6bb1abb59d60da0f8780d0b"
 metafile = true
 
 [[files]]

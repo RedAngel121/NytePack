@@ -1,13 +1,13 @@
 name = "Stellar View"
-filename = "Stellar View-1.20.1-0.4.4.jar"
+filename = "Stellar View-1.20.1-0.4.5.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "4489669957a02718cd3248d34789868f388b7826"
+hash = "087f855da21c92ce774499224a5078d338b9bfd1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6276556
+file-id = 6323344
 project-id = 865273
