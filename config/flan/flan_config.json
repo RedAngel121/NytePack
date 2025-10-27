@@ -1,203 +1,203 @@
 {
-    "__comment": "For help with the config refer to https://github.com/Flemmli97/Flan/wiki/Config",
-    "configVersion": 4,
-    "lang": "en_us",
-    "startingBlocks": 0,
-    "maxClaimBlocks": 0,
-    "ticksForNextBlock": 0,
-    "minClaimsize": 9,
-    "defaultClaimDepth": 16,
-    "maxClaims": -1,
-    "defaultClaimName": "",
-    "defaultEnterMessage": "",
-    "defaultLeaveMessage": "",
-    "noSpawnClaim": false,
-    "claimingCooldown": 0,
-    "blacklistedWorlds": [],
-    "worldWhitelist": false,
-    "claimingItem": "minecraft:golden_shovel",
-    "claimingNBT": {},
-    "inspectionItem": "minecraft:golden_hoe",
-    "inspectionNBT": {},
-    "claimDisplayTime": 600,
-    "particleDisplay": false,
-    "claimDisplayActionBar": false,
-    "permissionLevel": 2,
-    "autoClaimStructures": false,
-    "ftbChunksCheck": true,
-    "gomlReservedCheck": true,
-    "mineColoniesCheck": true,
-    "buySellHandler": {
-        "buyType": "ITEM",
-        "buyValue": 1.0,
-        "buyIngredients": [
-            {
-                "amount": 1.0,
-                "ingredient": {
-                    "item": "lightmanscurrency:coin_copper"
-                }
-            },
-            {
-                "amount": 100.0,
-                "ingredient": {
-                    "item": "lightmanscurrency:coin_iron"
-                }
-            },
-            {
-                "amount": 10000.0,
-                "ingredient": {
-                    "item": "lightmanscurrency:coin_gold"
-                }
-            },
-            {
-                "amount": 1000000.0,
-                "ingredient": {
-                    "item": "lightmanscurrency:coin_emerald"
-                }
-            }
-        ],
-        "sellType": "ITEM",
-        "sellValue": 1.0,
-        "sellIngredient": {
-            "item": "lightmanscurrency:coin_copper"
+  "__comment": "For help with the config refer to https://github.com/Flemmli97/Flan/wiki/Config",
+  "configVersion": 4,
+  "lang": "en_us",
+  "startingBlocks": 0,
+  "maxClaimBlocks": 0,
+  "ticksForNextBlock": 0,
+  "minClaimsize": 9,
+  "defaultClaimDepth": 16,
+  "maxClaims": -1,
+  "defaultClaimName": "",
+  "defaultEnterMessage": "",
+  "defaultLeaveMessage": "",
+  "noSpawnClaim": false,
+  "claimingCooldown": 0,
+  "blacklistedWorlds": [],
+  "worldWhitelist": false,
+  "claimingItem": "minecraft:golden_shovel",
+  "claimingNBT": {},
+  "inspectionItem": "minecraft:golden_hoe",
+  "inspectionNBT": {},
+  "claimDisplayTime": 600,
+  "particleDisplay": false,
+  "claimDisplayActionBar": false,
+  "permissionLevel": 2,
+  "autoClaimStructures": false,
+  "ftbChunksCheck": true,
+  "gomlReservedCheck": true,
+  "mineColoniesCheck": true,
+  "buySellHandler": {
+    "buyType": "ITEM",
+    "buyValue": 1.0,
+    "buyIngredients": [
+      {
+        "amount": 1.0,
+        "ingredient": {
+          "item": "lightmanscurrency:coin_copper"
         }
-    },
-    "maxBuyBlocks": -1,
-    "lenientBlockEntityCheck": false,
-    "breakBlockBlacklist": [
-        "universal_graves:grave",
-        "yigd:grave"
-    ],
-    "interactBlockBlacklist": [
-        "universal_graves:grave",
-        "yigd:grave",
-        "waystones",
-        "universal_shops:trade_block"
-    ],
-    "breakBlockEntityTagBlacklist": [],
-    "interactBlockEntityTagBlacklist": [
-        "IsDeathChest",
-        "gunpowder.owner",
-        "shop-activated"
-    ],
-    "ignoredEntities": [
-        "corpse:corpse"
-    ],
-    "entityTagIgnore": [
-        "graves.marker"
-    ],
-    "customItemPermission": [
-        "@c:wrenches-flan:interact_block",
-        "appliedenergistics2:nether_quartz_wrench-flan:interact_block",
-        "appliedenergistics2:certus_quartz_wrench-flan:interact_block"
-    ],
-    "customBlockPermission": [],
-    "customEntityPermission": [
-        "taterzens:npc-flan:trading"
-    ],
-    "leftClickBlockPermission": [
-        "@storagedrawers:drawers-flan:open_container",
-        "mekanism:basic_bin-flan:open_container",
-        "mekanism:advanced_bin-flan:open_container",
-        "mekanism:ultimate_bin-flan:open_container",
-        "mekanism:creative_bin-flan:open_container"
-    ],
-    "dropTicks": 100,
-    "inactivityTimeDays": 90,
-    "inactivityBlocksMax": 2000000000,
-    "deletePlayerFile": false,
-    "bannedDeletionTime": 30,
-    "offlineProtectActivation": -1,
-    "enableLogs": false,
-    "defaultGroups": {
-        "Visitor": {
-            "flan:door": true,
-            "flan:button_lever": true,
-            "flan:pressure_plate": true,
-            "flan:enchantment": true,
-            "flan:trapdoor": true,
-            "flan:fence_gate": true,
-            "flan:portal": true,
-            "flan:enderchest": true,
-            "flan:bed": true,
-            "flan:itemframe_rotate": true,
-            "flan:trading": true
-        },
-        "Co-Owner": {
-            "flan:armorstand": true,
-            "flan:enderman": true,
-            "flan:sculk": true,
-            "flan:snow_golem": true,
-            "flan:break": true,
-            "flan:hurt_player": true,
-            "flan:pickup": true,
-            "flan:lightning": true,
-            "flan:enderchest": true,
-            "flan:can_stay": true,
-            "flan:portal": true,
-            "flan:hurt_animal": true,
-            "flan:explosions": true,
-            "flan:fake_player": true,
-            "flan:endcrystal_place": true,
-            "flan:drop": true,
-            "flan:claim_message": true,
-            "flan:interact_sign": true,
-            "flan:fence_gate": true,
-            "flan:chorus_fruit": true,
-            "flan:xp": true,
-            "flan:animal_interact": true,
-            "flan:mob_spawn": true,
-            "flan:enchantment": true,
-            "flan:no_hunger": true,
-            "flan:interact_block": true,
-            "flan:wither": true,
-            "flan:bed": true,
-            "flan:trading": true,
-            "flan:create_contraption": true,
-            "flan:archeology": true,
-            "flan:edit_claim": true,
-            "flan:projectiles": true,
-            "flan:button_lever": true,
-            "flan:edit_perms": true,
-            "flan:open_container": true,
-            "flan:boat": true,
-            "flan:lectern_take": true,
-            "flan:water_border": true,
-            "flan:pressure_plate": true,
-            "flan:noteblock": true,
-            "flan:place": true,
-            "flan:trample": true,
-            "flan:animal_spawn": true,
-            "flan:ender_pearl": true,
-            "flan:flight": true,
-            "flan:edit_potions": true,
-            "flan:target_block": true,
-            "flan:break_non_living": true,
-            "flan:fire_spread": true,
-            "flan:anvil": true,
-            "flan:door": true,
-            "flan:frost_walker": true,
-            "flan:jukebox": true,
-            "flan:player_mob_spawn": true,
-            "flan:minecart": true,
-            "flan:raid": true,
-            "flan:piston_border": true,
-            "flan:beacon": true,
-            "flan:trapdoor": true,
-            "flan:lock_items": true,
-            "flan:redstone": true,
-            "flan:bucket": true,
-            "flan:itemframe_rotate": true
+      },
+      {
+        "amount": 100.0,
+        "ingredient": {
+          "item": "lightmanscurrency:coin_iron"
         }
-    },
-    "globalDefaultPerms": {
-        "*": {
-            "flan:mob_spawn": "ALLFALSE",
-            "flan:teleport": "ALLFALSE",
-            "flan:no_hunger": "ALLFALSE",
-            "flan:lock_items": "ALLFALSE",
-            "flan:flight": "ALLTRUE",
-            "flan:edit_potions": "ALLFALSE"
+      },
+      {
+        "amount": 10000.0,
+        "ingredient": {
+          "item": "lightmanscurrency:coin_gold"
         }
+      },
+      {
+        "amount": 1000000.0,
+        "ingredient": {
+          "item": "lightmanscurrency:coin_emerald"
+        }
+      }
+    ],
+    "sellType": "ITEM",
+    "sellValue": 1.0,
+    "sellIngredient": {
+      "item": "lightmanscurrency:coin_copper"
     }
+  },
+  "maxBuyBlocks": -1,
+  "lenientBlockEntityCheck": false,
+  "breakBlockBlacklist": [
+    "universal_graves:grave",
+    "yigd:grave"
+  ],
+  "interactBlockBlacklist": [
+    "universal_graves:grave",
+    "yigd:grave",
+    "waystones",
+    "universal_shops:trade_block"
+  ],
+  "breakBlockEntityTagBlacklist": [],
+  "interactBlockEntityTagBlacklist": [
+    "IsDeathChest",
+    "gunpowder.owner",
+    "shop-activated"
+  ],
+  "ignoredEntities": [
+    "corpse:corpse"
+  ],
+  "entityTagIgnore": [
+    "graves.marker"
+  ],
+  "customItemPermission": [
+    "@c:wrenches-flan:interact_block",
+    "appliedenergistics2:nether_quartz_wrench-flan:interact_block",
+    "appliedenergistics2:certus_quartz_wrench-flan:interact_block"
+  ],
+  "customBlockPermission": [],
+  "customEntityPermission": [
+    "taterzens:npc-flan:trading"
+  ],
+  "leftClickBlockPermission": [
+    "@storagedrawers:drawers-flan:open_container",
+    "mekanism:basic_bin-flan:open_container",
+    "mekanism:advanced_bin-flan:open_container",
+    "mekanism:ultimate_bin-flan:open_container",
+    "mekanism:creative_bin-flan:open_container"
+  ],
+  "dropTicks": 100,
+  "inactivityTimeDays": 90,
+  "inactivityBlocksMax": 2000000000,
+  "deletePlayerFile": false,
+  "bannedDeletionTime": 30,
+  "offlineProtectActivation": -1,
+  "enableLogs": false,
+  "defaultGroups": {
+    "Visitor": {
+      "flan:door": true,
+      "flan:button_lever": true,
+      "flan:pressure_plate": true,
+      "flan:enchantment": true,
+      "flan:trapdoor": true,
+      "flan:fence_gate": true,
+      "flan:portal": true,
+      "flan:enderchest": true,
+      "flan:bed": true,
+      "flan:itemframe_rotate": true,
+      "flan:trading": true
+    },
+    "Co-Owner": {
+      "flan:armorstand": true,
+      "flan:enderman": true,
+      "flan:sculk": true,
+      "flan:snow_golem": true,
+      "flan:break": true,
+      "flan:hurt_player": true,
+      "flan:pickup": true,
+      "flan:lightning": true,
+      "flan:enderchest": true,
+      "flan:can_stay": true,
+      "flan:portal": true,
+      "flan:hurt_animal": true,
+      "flan:explosions": true,
+      "flan:fake_player": true,
+      "flan:endcrystal_place": true,
+      "flan:drop": true,
+      "flan:claim_message": true,
+      "flan:interact_sign": true,
+      "flan:fence_gate": true,
+      "flan:chorus_fruit": true,
+      "flan:xp": true,
+      "flan:animal_interact": true,
+      "flan:mob_spawn": true,
+      "flan:enchantment": true,
+      "flan:no_hunger": true,
+      "flan:interact_block": true,
+      "flan:wither": true,
+      "flan:bed": true,
+      "flan:trading": true,
+      "flan:create_contraption": true,
+      "flan:archeology": true,
+      "flan:edit_claim": true,
+      "flan:projectiles": true,
+      "flan:button_lever": true,
+      "flan:edit_perms": true,
+      "flan:open_container": true,
+      "flan:boat": true,
+      "flan:lectern_take": true,
+      "flan:water_border": true,
+      "flan:pressure_plate": true,
+      "flan:noteblock": true,
+      "flan:place": true,
+      "flan:trample": true,
+      "flan:animal_spawn": true,
+      "flan:ender_pearl": true,
+      "flan:flight": true,
+      "flan:edit_potions": true,
+      "flan:target_block": true,
+      "flan:break_non_living": true,
+      "flan:fire_spread": true,
+      "flan:anvil": true,
+      "flan:door": true,
+      "flan:frost_walker": true,
+      "flan:jukebox": true,
+      "flan:player_mob_spawn": true,
+      "flan:minecart": true,
+      "flan:raid": true,
+      "flan:piston_border": true,
+      "flan:beacon": true,
+      "flan:trapdoor": true,
+      "flan:lock_items": true,
+      "flan:redstone": true,
+      "flan:bucket": true,
+      "flan:itemframe_rotate": true
+    }
+  },
+  "globalDefaultPerms": {
+    "*": {
+      "flan:mob_spawn": "ALLFALSE",
+      "flan:teleport": "ALLFALSE",
+      "flan:no_hunger": "ALLFALSE",
+      "flan:lock_items": "ALLFALSE",
+      "flan:flight": "ALLTRUE",
+      "flan:edit_potions": "ALLFALSE"
+    }
+  }
 }

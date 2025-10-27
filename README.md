@@ -88,6 +88,7 @@
 - [x] Added FTB Backups 2 Mod and config
 
 # Upcoming Changes:
+- REMOVE/REPLACE DAVES POTIONEERING
 - Azure silver and crimson iron are not recipe stable, fix them in kube
 - ["mna:components/divination".RANGE] adjustments
 - A loot pool entry of type minecraft:item does not have a nbt field, you have to use a set_nbt loot function for that

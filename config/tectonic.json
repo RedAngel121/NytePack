@@ -1,17 +1,17 @@
 {
-    "experimental": {
-        "horizontal_mountain_scale": 0.25,
-        "increased_height": true,
-        "terrain_scale": 1.2
-    },
-    "features": {
-        "deeper_oceans": true,
-        "desert_dunes": true,
-        "lava_rivers": true,
-        "underground_rivers": true
-    },
-    "legacy": {
-        "enabled": false
-    },
-    "mod_enabled": true
+  "experimental": {
+    "horizontal_mountain_scale": 0.25,
+    "increased_height": true,
+    "terrain_scale": 1.2
+  },
+  "features": {
+    "deeper_oceans": true,
+    "desert_dunes": true,
+    "lava_rivers": true,
+    "underground_rivers": true
+  },
+  "legacy": {
+    "enabled": false
+  },
+  "mod_enabled": true
 }

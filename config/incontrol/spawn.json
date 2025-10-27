@@ -1,31 +1,31 @@
 [
-    {
-        "mod": "endermanoverhaul",
-        "spawner": false,
-        "mincount": {
-            "amount": 5,
-            "mod": "endermanoverhaul",
-            "perplayer": true
-        },
-        "result": "deny"
+  {
+    "mod": "endermanoverhaul",
+    "spawner": false,
+    "mincount": {
+      "amount": 5,
+      "mod": "endermanoverhaul",
+      "perplayer": true
     },
-    {
-        "mod": "creeperoverhaul",
-        "spawner": false,
-        "mincount": {
-            "amount": 5,
-            "mod": "creeperoverhaul",
-            "perplayer": true
-        },
-        "result": "deny"
+    "result": "deny"
+  },
+  {
+    "mod": "creeperoverhaul",
+    "spawner": false,
+    "mincount": {
+      "amount": 5,
+      "mod": "creeperoverhaul",
+      "perplayer": true
     },
-    {
-        "mob": "minecraft:pillager",
-        "mincount": {
-            "amount": 10,
-            "hostile": true,
-            "perplayer": true
-        },
-        "result": "deny"
-    }
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:pillager",
+    "mincount": {
+      "amount": 10,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  }
 ]
