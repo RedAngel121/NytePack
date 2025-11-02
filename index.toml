@@ -5672,6 +5672,11 @@ hash = "d1122b1d43031a6528d6d99d4ea312fdc7757bc17f3dddfdeadf09c9ca23f3e4"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "c18c17c9ab83c9943c0b34598301d50c7fccfd8103ee56e256f77b1808a22477"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f8b6ef08945410e1341212a2723477487fb66a2c8fd67dd201433658791d298d"
 metafile = true
@@ -6389,6 +6394,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "edfafd11282b46cca84cce70807e85f8b11e918ead6a1ef7aa7d9e216d98ece3"
 metafile = true
 
 [[files]]
