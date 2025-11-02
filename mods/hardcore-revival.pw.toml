@@ -1,13 +1,13 @@
 name = "Hardcore Revival"
-filename = "hardcorerevival-forge-1.20.1-12.0.8.jar"
+filename = "hardcorerevival-forge-1.20.1-12.0.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a4128611f5caa707c6f9b0a4cefda637965c832b"
+hash = "66b41e1339c3e2e969db4de0d7f240fbc4e6dea6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6809596
+file-id = 7174968
 project-id = 274036

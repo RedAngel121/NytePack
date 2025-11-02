@@ -1,6 +1,4 @@
-LICENSE
-*.md
-Containerfile
-devcontainer.json
-dependabot.yml
-server-1.20.1.jar
+*.zip
+
+README.md
+Personal_Overhaul.txt
